@@ -3,13 +3,13 @@ Hebrew Drama Corpus
 
 ## 2022-11-09 meeting follow-up:
 
-* We looked at some slides with details on current DraCor 'onboarding' procedures 
+* We looked at some [slides](https://docs.google.com/presentation/d/1St-H1dawSyRf4UGV3kVwBw8JFqfmm7ctelpXbmqyjWE/edit?usp=sharing) with details on current DraCor 'onboarding' procedures 
 * We discussed sources for the plays:
   * Project Ben-Yehuda (Hebrew)
   * Corpus of Hanoch Levin (Hebrew) -- digitised, but copyright-protected
   * Dybbuk corpus (Yiddish) -- notebooks with plays digitised by Ruthie and Sinai 
-* We started a list of Hebrew and Yiddish plays (in separate tabs)
-* We started a private github repository to store our common memory for this working group; we can also use issues there for discussions, as Peer suggested
+* We started a [list](https://docs.google.com/spreadsheets/d/1GushGoKGnJQVe2HxEMlvjz-4Rwr4xbbaRWrbCbjAwXo/edit?usp=sharing) of Hebrew and Yiddish plays (in separate tabs)
+* We started a private github repository (this one:) to store our common memory for this working group; we can also use issues there for discussions, as Peer suggested
 
 ### Some actions we decided to take:
 
