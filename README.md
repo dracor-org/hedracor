@@ -1,6 +1,18 @@
 # hedracor
 Hebrew Drama Corpus
 
+
+## 2023-09-11/13 workshop plan
+
+* Imrpove the TSVwithHMTLs-to-TEI/XMLs conversion procedure (coding skills required)
+* Add metadata from the table into TEI/XML-s (coding skills required)
+* Check the correctness of the markup, i.e. if the stage tags actually mark (Hebrew knowledge required, I guess)
+* Check if all the critical metadata is there in the table (dates, authors, text sources) and that they made it to the TEI/XML-s intact (Hebrew knowledge required, I guess, but maybe also doable with machine translation)
+* Check authors' death dates to see if all the stuff is copyright-free
+* Figure out what date from the TSV metadata should be written as written/premiere/publication into TEI/XML
+* Showcase study on the stylometry of Hebrew writers 
+* Dockerize the stuff and show the locally deployed HeDraCor prototype 
+
 ## 2022-11-09 meeting follow-up:
 
 * We looked at some [slides](https://docs.google.com/presentation/d/1St-H1dawSyRf4UGV3kVwBw8JFqfmm7ctelpXbmqyjWE/edit?usp=sharing) with details on current DraCor 'onboarding' procedures 
