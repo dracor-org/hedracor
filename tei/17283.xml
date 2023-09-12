@@ -44,81 +44,101 @@
  <text>
   <body>
    <sp>
-    <speaker id="הירשלי">
+    <speaker id="hirshli">
      הירשלי
     </speaker>
-    מדוברובנה, סופר סת"ם, למעלה מארבעים [שנה].
+    <p>
+     מדוברובנה, סופר סת"ם, למעלה מארבעים [שנה].
+    </p>
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    , אשתו, כנ"ל.
+    <p>
+     , אשתו, כנ"ל.
+    </p>
    </sp>
    <sp>
-    <speaker id="ר' ליזר בדחן">
+    <speaker id="r' lizr bdkhn">
      ר' ליזר בדחן
     </speaker>
-    , אביו, כבן שבעים.
+    <p>
+     , אביו, כבן שבעים.
+    </p>
    </sp>
    <sp>
-    <speaker id="פרידניו,">
+    <speaker id="fridnyu">
      פרידניו,
     </speaker>
    </sp>
    <sp>
-    <speaker id="צפניו,">
+    <speaker id="tsfnyu">
      צפניו,
     </speaker>
-    בנות אחות אשתו, 16, 18 שנה.
+    <p>
+     בנות אחות אשתו, 16, 18 שנה.
+    </p>
    </sp>
    <sp>
-    <speaker id="יחזקאל דרכמה">
+    <speaker id="ikhzkl drkhmh">
      יחזקאל דרכמה
     </speaker>
-    , ידידו
-    אורג
-    למעלה מארבעים [שנה].
+    <p>
+     , ידידו
+     אורג
+     למעלה מארבעים [שנה].
+    </p>
    </sp>
    <sp>
-    <speaker id="דובה,">
+    <speaker id="dubh">
      דובה,
     </speaker>
-    אשתו של יחזקאל, קצרת רואי, כנ"ל.
+    <p>
+     אשתו של יחזקאל, קצרת רואי, כנ"ל.
+    </p>
    </sp>
    <sp>
-    <speaker id="מוטילי,">
+    <speaker id="mutili">
      מוטילי,
     </speaker>
-    בנם כבן עשרים.
+    <p>
+     בנם כבן עשרים.
+    </p>
    </sp>
    <sp>
-    <speaker id="אוריאל מזיק,">
+    <speaker id="uril mzik">
      אוריאל מזיק,
     </speaker>
-    כבן שלשים.
+    <p>
+     כבן שלשים.
+    </p>
    </sp>
    <sp>
-    <speaker id="פועל.">
+    <speaker id="fuel">
      פועל.
     </speaker>
    </sp>
    <sp>
-    <speaker id="משרת.">
+    <speaker id="mshrs">
      משרת.
     </speaker>
    </sp>
    <sp>
-    <speaker id="מקום">
+    <speaker id="mkum">
      מקום
     </speaker>
-    הדרמה בעיר דוברובנה,ברוסיה.
+    <p>
+     הדרמה בעיר דוברובנה,ברוסיה.
+    </p>
    </sp>
    <sp>
-    <speaker id="הזמן">
+    <speaker id="hzmn">
      הזמן
     </speaker>
-    – בהווה.
+    <p>
+     – בהווה.
+    </p>
    </sp>
    <sp>
     כסא הכבוד למעלה. מלמטה לו רקיע השמים, עננים, כוכבים. מלאכים 
@@ -126,10 +146,12 @@
 רחוק מהם, עומד מתבודד.
    </sp>
    <sp>
-    <speaker id="בני האלהים הצעירים">
+    <speaker id="bni hlhim htseirim">
      בני האלהים הצעירים
     </speaker>
-    (במקהלה):
+    <p>
+     (במקהלה):
+    </p>
    </sp>
    <sp>
     הכל הולך למיתה, כל נמצא, כל חי,
@@ -144,10 +166,12 @@
     והשאיפה תחיה לעולמים…
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    (במקהלה):
+    <p>
+     (במקהלה):
+    </p>
    </sp>
    <sp>
     האמת רק היא חותם אל אחד
@@ -156,10 +180,12 @@
     בת־אלמות הנָה לבד!
    </sp>
    <sp>
-    <speaker id="בני האלהים הצעירים">
+    <speaker id="bni hlhim htseirim">
      בני האלהים הצעירים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     משתנות הצורות, מתחלפות הצורות,
@@ -174,10 +200,12 @@
     ואחודן לעולם הנהו.
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     האמת רק היא חותם אל אחד
@@ -186,10 +214,12 @@
     בת־אלמות הנָה לבד!
    </sp>
    <sp>
-    <speaker id="בני האלהים הצעירים">
+    <speaker id="bni hlhim htseirim">
      בני האלהים הצעירים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     בלי נשמה היה חמרו של עולם
@@ -204,10 +234,12 @@
     וצורה – וחי הנהו.
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     האמת רק היא חותם אל אחד
@@ -216,10 +248,12 @@
     בת־אלמות הנָה לבד!
    </sp>
    <sp>
-    <speaker id="בני האלהים הצעירים">
+    <speaker id="bni hlhim htseirim">
      בני האלהים הצעירים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     כּל דבר פושט צורתו ולובש
@@ -231,10 +265,12 @@
     זה שואף, זה נסוג, זה הולך וכובש
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     האמת רק היא חותם אל אחד
@@ -246,7 +282,7 @@
     (נשמע קולו של שופר. תנועה).
    </sp>
    <sp>
-    <speaker id="מלאך זקן:">
+    <speaker id="mlkh zkn">
      מלאך זקן:
     </speaker>
    </sp>
@@ -257,10 +293,12 @@
     מלך הכבוד הוא בא.
    </sp>
    <sp>
-    <speaker id="כל המלאכים">
+    <speaker id="khl hmlkhim">
      כל המלאכים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     היה, הוה ויהיה!
@@ -269,7 +307,7 @@
     (כלם משתחוים, מלבד השטן).
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -283,7 +321,7 @@
     לי המה לנצח נצחים.
    </sp>
    <sp>
-    <speaker id="כל המלאכים:">
+    <speaker id="khl hmlkhim">
      כל המלאכים:
     </speaker>
    </sp>
@@ -291,7 +329,7 @@
     היה, הוה ויהיה!
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -302,10 +340,12 @@
     ולמה התיצב השטן בין בני האלהים?
    </sp>
    <sp>
-    <speaker id="השטן">
+    <speaker id="hshtn">
      השטן
     </speaker>
-    ( נגש ומשתחוה):
+    <p>
+     ( נגש ומשתחוה):
+    </p>
    </sp>
    <sp>
     גם אני התיצבתי לפניך, אלהים!
@@ -368,7 +408,7 @@
     חה! חה! חה!
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -376,7 +416,7 @@
     מאין תבא, השטן?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -384,7 +424,7 @@
     משוט בארץ ומתהלך בה.
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -395,7 +435,7 @@
     אשר עשינו אותו בצלמנו?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -403,7 +443,7 @@
     הם שוגים באולתם כמימים ימימה.
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -420,16 +460,18 @@
     לתקן ולהשלים עולם זו יצרתי?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
    <sp>
-    <speaker id="רוחם">
+    <speaker id="rukhm">
      רוחם
     </speaker>
-    תמריא למרום
-    שקועים בבוץ!
+    <p>
+     תמריא למרום
+     שקועים בבוץ!
+    </p>
    </sp>
    <sp>
     עולמות חדשים הם בונים ושוכנים
@@ -456,7 +498,7 @@
     ואין ביניהם מאומה…
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -482,7 +524,7 @@
     אז חטא האדם והמרה את פי
    </sp>
    <sp>
-    <speaker id="ואכל מעץ אשר אמרתי">
+    <speaker id="ukhl mets shr mrsi">
      ואכל מעץ אשר אמרתי
     </speaker>
     לא תאכל!
@@ -503,7 +545,7 @@
     נשאר האדם על מקומו ולא מש?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -592,7 +634,7 @@
     ומה הביא האדם בכל אלפי השנים?
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -615,7 +657,7 @@
     ירא אלהים וסר מרע!
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -641,7 +683,7 @@
     אשר הואלת לתת לעם זו בחרת. חַ חַ חַ!
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -649,7 +691,7 @@
     האין הוא צדיק תמים בדורותיו?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -657,7 +699,7 @@
     ההוא למד דעת וקנה לו בינה?
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -665,7 +707,7 @@
     האין הוא נדיב וטוב לב, מאין עוד כמהו?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -673,7 +715,7 @@
     האין הוא דל־חֵלֵכָה,שאין לו מה לאבד?
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -681,7 +723,7 @@
     האין הוא צנוע וטהור בחיי משפחתו?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -689,7 +731,7 @@
     האם ראה חיי העולם הגדול ונֻסָּה?
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -697,7 +739,7 @@
     דום, שטן! אל תדבר סרה בעבדי ר' הרשלי!
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -723,7 +765,7 @@
     אם לא על פניך יברכך!
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -731,7 +773,7 @@
     הנו בידך. אבל במה תנסהו?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -751,7 +793,7 @@
     אני אנסהו בכסף, בזהב אנסהו.
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -765,7 +807,7 @@
     ובתורתי יהגה יומם ולילה?
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -788,7 +830,7 @@
     אם לא על פניך יברכך!
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -796,7 +838,7 @@
     הנו בידך.
    </sp>
    <sp>
-    <speaker id="השטן:">
+    <speaker id="hshtn">
      השטן:
     </speaker>
    </sp>
@@ -804,7 +846,7 @@
     בין אלפי רבואות אנשים נשחתים
    </sp>
    <sp>
-    <speaker id="היה לך צדיק רק אחד">
+    <speaker id="hih lkh tsdik rk khd">
      היה לך צדיק רק אחד
     </speaker>
     ר' הרשלי,
@@ -843,7 +885,7 @@
     (נשמע קול שופר)
    </sp>
    <sp>
-    <speaker id="אלהים:">
+    <speaker id="lhim">
      אלהים:
     </speaker>
    </sp>
@@ -857,19 +899,23 @@
     לי המה לנצח נצחים.
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     היה, הוה ויהיה!
    </sp>
    <sp>
-    <speaker id="בני האלהים הצעירים">
+    <speaker id="bni hlhim htseirim">
      בני האלהים הצעירים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     הכל הולך למיתה, כל נמצא, כל חי,
@@ -884,10 +930,12 @@
     והשאיפה תחיה לעולמים…
    </sp>
    <sp>
-    <speaker id="בני האלהים הזקנים">
+    <speaker id="bni hlhim hzknim">
      בני האלהים הזקנים
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     האמת רק היא חותם אל אחד
@@ -896,7 +944,7 @@
     והיא יפה, רוממה לעד!
    </sp>
    <sp>
-    <speaker id="(המסך).">
+    <speaker id="(hmskh)">
      (המסך).
     </speaker>
    </sp>
@@ -909,36 +957,44 @@
 מטה, ולפניה תלוי מסך אדום. על אותו הקיר תלוי כנור, עטוף במכסה ישן ושחור.
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    , לחיה עטופה צמר גפן ומטפחת. קולפת בולבוסין על יד התנור הבוער.
+    <p>
+     , לחיה עטופה צמר גפן ומטפחת. קולפת בולבוסין על יד התנור הבוער.
 היא לבושה גלימה חמה־ישנה.
+    </p>
    </sp>
    <sp>
-    <speaker id="ליזר ופרידניו">
+    <speaker id="lizr ufridnyu">
      ליזר ופרידניו
     </speaker>
-    יושבים סמוך לנרות החנכה. הוא אוחז בידו כנף גדולה ומורט
+    <p>
+     יושבים סמוך לנרות החנכה. הוא אוחז בידו כנף גדולה ומורט
 ממנה נוצה אחר נוצה, והיא גוזזת אותן במספרים ומתקנת אותן לכתיבה.
+    </p>
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    מעמידה את רגלה על שרפרף קטן וקושרת את עקב הנעל בפס־בד.
+    <p>
+     מעמידה את רגלה על שרפרף קטן וקושרת את עקב הנעל בפס־בד.
+    </p>
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     נו, צפלי שלי, בריאה ושלמה תהיי, מה הן “הכנותיך”?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -948,28 +1004,30 @@
 “אם אלהים ירצה, ינגן גם מטאטא”. נו, דודתי, מה לי לומר להם?
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     לכי ואמרי להם, לכלם, כי גם ר' חזקאל, גם דובה, גם מוטלי – כולם יבואו הנה.
 שמחה במעוננו היום. אוי, שִנַּי, שני!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אני אלך אליהם. אני אומר אליהם">
+    <speaker id="ni lkh lihm. ni umr lihm">
      אני אלך אליהם. אני אומר אליהם
     </speaker>
     אצלנו נשף היום, חה חה חה!
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -977,10 +1035,12 @@
     היא והצחוק. טוב קבצן שמח אחד משני בעלי הון עצובים, חי חי חי!
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     לכי, קונדסית, פטפטנית. נשף – יהא כך. אבל את תתני להם פירוש לזה. תאמרי:
@@ -989,18 +1049,18 @@
 מליחים נקח ונעשה בהם קציצה, וגם… אוי, שני, שני!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="זו תהיה סעודה, זו תהיה חמודה. הרי כך אומר סבא בחרוזיו">
+    <speaker id="zu shih seudh, zu shih khmudh. hri khkh umr sb bkhruzyu">
      זו תהיה סעודה, זו תהיה חמודה. הרי כך אומר סבא בחרוזיו
     </speaker>
     “מליחים
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -1010,31 +1070,35 @@
 תפנוקים, תמרוקים ויין צמוקים!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
-    (רומזת לו וצוחקת)
+    <p>
+     (רומזת לו וצוחקת)
+    </p>
    </sp>
    <sp>
-    <speaker id="א–הה">
+    <speaker id="–hh">
      א–הה
     </speaker>
     אתה והמשקה, הא גברא והא טסקא.
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
-    <speaker id="אותה, והיום יהיה הסיום… תאמרי להם: כך אמר הדוד">
+    <speaker id="ush, uhyum ihih hsyum… smri lhm: khkh mr hdud">
      אותה, והיום יהיה הסיום… תאמרי להם: כך אמר הדוד
     </speaker>
     טלו ובואו. למעה"ש
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1042,7 +1106,7 @@
     הגלימה החמימה לצפה הנעימה. חה חה חה – עוף ( יוצאת).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1051,10 +1115,12 @@
 במלאכה למול אורם של נרות חנכה. חמא שלי, האין זאת עבירה גדולה?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
-    ( בנגון של אקדמות)
+    <p>
+     ( בנגון של אקדמות)
+    </p>
    </sp>
    <sp>
     אל יפול עליך פחד אימתה
@@ -1069,7 +1135,7 @@
     תכנס הכלה של מוטלי, פרידתא.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -1078,7 +1144,7 @@
 תורתו של אלהים ונרו שלו – היינו הך!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1090,18 +1156,18 @@
 תהיי לכלה בשעה טובה ומוצלחת.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אני יודע, מאין המעין נובע. בואי ואגיד לך בסוד (לוחש על אזנה)">
+    <speaker id="ni yude, min hmein nube. bui ugid lkh bsud (lukhsh el znh)">
      אני יודע, מאין המעין נובע. בואי ואגיד לך בסוד (לוחש על אזנה)
     </speaker>
     מוטלי הקטן
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -1112,7 +1178,7 @@
 שמלות יפות מגינות.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1120,7 +1186,7 @@
     הצדק אתך, בתי. שמלות יפות – מעשה שטן הן, ותו לא מידי.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -1129,7 +1195,7 @@
 בלי קץ, כי היה החיט ההוא גם שטן ולץ…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1138,27 +1204,29 @@
 תרופה לכאב שנים?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="המטאטא פה, ירקי אחת, שתים, שלש כדת, ואמרי">
+    <speaker id="hmtt fh, irki khs, shsim, shlsh khds, umri">
      המטאטא פה, ירקי אחת, שתים, שלש כדת, ואמרי
     </speaker>
     טפו, לי לא איכפת; טפו, לי לא
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
-    (דולגת על המפתן הנה והנה):
+    <p>
+     (דולגת על המפתן הנה והנה):
+    </p>
    </sp>
    <sp>
     טפו, לי לא אכפת; טפו, לי לא אכפת; טפו, לי לא…
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -1166,16 +1234,18 @@
     חה חה חה! אם לא אכפת לך,מה תצעקי כך?
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    (בכעס):
+    <p>
+     (בכעס):
+    </p>
    </sp>
    <sp>
     מה שיכול לעלות על דעתו של חמא, רבש"ע! (מבטת על המטאטא וצוחקת).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -1183,17 +1253,19 @@
     נראה, שמי שהיה בדחן, יהיה בדחן.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (משורר):
+    <p>
+     (משורר):
+    </p>
    </sp>
    <sp>
     נשמת בדחן תמיד משוררת נשמת גנב תמיד במחתרת, והשדכן – צרעת ממארת. (נשמע
 רעש. פרידה מניחה את המספרים פתוחות על השלחן).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1201,18 +1273,18 @@
     הס, מי זה שם? (צפניו נכנסת במרוצה, אחוזת קור).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="(פסיניו עוזרת לה לפשוט את גלימתה), אוי, מה שמעתי אצל ר' חזקאל">
+    <speaker id="(fsinyu euzrs lh lfshut s glimsh), oy, mh shmesi tsl r' khzkl">
      (פסיניו עוזרת לה לפשוט את גלימתה), אוי, מה שמעתי אצל ר' חזקאל
     </speaker>
     האמת
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -1220,7 +1292,7 @@
     הרפי נא ממני אחותי. וכי מה את שמחה כ"כ?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1228,12 +1300,12 @@
     הרי יהיה שמח ואנכי ארקדה, ואהיה “מחותנת”, “מחותנת”. חה חה חה!
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ואני ודאי אבדח וכלכם אשמח. אומר למשל">
+    <speaker id="uni udi bdkh ukhlkhm shmkh. umr lmshl">
      ואני ודאי אבדח וכלכם אשמח. אומר למשל
     </speaker>
     כלה לי, בכי,
@@ -1245,7 +1317,7 @@
     כבר הולכים האורחים(הוא יושב על מקומו כנפחד).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1254,7 +1326,7 @@
 חזקאל, דובה ומוטלי, לבושים בגדי חרף).
    </sp>
    <sp>
-    <speaker id="כלם:">
+    <speaker id="khlm">
      כלם:
     </speaker>
    </sp>
@@ -1262,10 +1334,12 @@
     ערב טוב! ערב טוב!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
-    (מתבוננת בסקרנות):
+    <p>
+     (מתבוננת בסקרנות):
+    </p>
    </sp>
    <sp>
     מה שלומך, פרידיניו? (נושק לה) בלי עין רעה, בלי עין רעה (יורקת שלש
@@ -1274,7 +1348,7 @@
 המספרים).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1282,7 +1356,7 @@
     ישב נא, ישב ר' חזקאל, וגם את, דובה, אל נא תסרבי (יושבים).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1290,18 +1364,18 @@
     שב, מוטלי (מגשת לו ספסל). הוא מתביש היום. א–הה! (מוטלי יושב).
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אם אומרים לי">
+    <speaker id="m umrim li">
      אם אומרים לי
     </speaker>
     בישן אתה, אני מתביש עוד יותר.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1309,16 +1383,18 @@
     נו ר' ליזר, מה עסקיך? שמא נטרפו ספינותיך בים? או שמא נשרפו ארמונותיך?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (בלחש):
+    <p>
+     (בלחש):
+    </p>
    </sp>
    <sp>
     לא נטרפו ספינותי ולא נשרפו ארמונותי.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1328,7 +1404,7 @@
 אינו מעשן, אינו מריח ואינו שותה – ובשר ודם בהאי עלמא! איהו?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -1336,7 +1412,7 @@
     כשהוא מגיע בספר תורה לשם ה' הוא הולך לטבילה, לא עליכם, ולא על בניכם.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1348,7 +1424,7 @@
     (הם מדברים בלחש. וכך עושות גם דובה ופסיניו).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1356,7 +1432,7 @@
     מוטלי, שתיקתך זו מהי? דבר דבר־מה.
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -1364,7 +1440,7 @@
     מה לי לדבר? אין אני דרשן.
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -1372,7 +1448,7 @@
     לפעמים גם השתיקה יפה. אם יש מה לדבר צריך לדבר, ואם לא יש – – השתיקה יפה.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1380,7 +1456,7 @@
     אתי היה לו מה לדבר, ומפניך הוא מפחד.
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -1388,28 +1464,32 @@
     מי זה אומר כך? אין אני פחדן כלל.
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    (לפסיניו):
+    <p>
+     (לפסיניו):
+    </p>
    </sp>
    <sp>
-    <speaker id='ולך יש שוב פעם כאב שנים, לא עלינו, רבש"ע! את שמעי לי'>
+    <speaker id='ulkh ish shub fem khb shnim, l elinu, rbsh"e! s shmei li'>
      ולך יש שוב פעם כאב שנים, לא עלינו, רבש"ע! את שמעי לי
     </speaker>
     קחי לך גליון ניר
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    (מביט על הקיר):
+    <p>
+     (מביט על הקיר):
+    </p>
    </sp>
    <sp>
     וזהו כנורו של הרשלי, העוד ינגן בו?
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -1417,7 +1497,7 @@
     לעתים רחוקות מאד. במוצאי שבת, במוצאי יום טוב.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1425,7 +1505,7 @@
     הנה הזכרתם לפרידיניו נגון. הרי נפשה יוצאת, כשהיא שומעת את נגונו.
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -1435,7 +1515,7 @@
 החשכה…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1444,7 +1524,7 @@
 ולא שינה, אלא נגון בלבד.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1453,29 +1533,29 @@
 הכנור. ממש!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
    <sp>
-    <speaker id="חברים ב“חדר” אחד, ורואים אתם">
+    <speaker id="khbrim b“khdr” khd, uruim sm">
      חברים ב“חדר” אחד, ורואים אתם
     </speaker>
     אני הייתי לבעל מלאכה, אורג פשוט, והוא בר
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אביו – מה שהיה">
+    <speaker id="byu – mh shhih">
      אביו – מה שהיה
     </speaker>
     ליזר בדחן. אני רציתי, שיהיה כלי זמר, והוא נעשה לסופר
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1483,17 +1563,19 @@
     חמאי!
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (נבהל)
+    <p>
+     (נבהל)
+    </p>
    </sp>
    <sp>
     כך ר' חזקאל. מה רציתי לומר? הס. (לוחש על אזנו) היא… היא משוררת את
 ה“מזמור לדוד” יפה, יפה.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1502,18 +1584,18 @@
 מוטיל?
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="דעתי שלי היא">
+    <speaker id="desi shli hi">
      דעתי שלי היא
     </speaker>
     אם יודעים לנגן נוטלים ומנגנים. (מתעטש).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -1521,16 +1603,18 @@
     שנות חיים טובים! לאסותא! מוטלי, משך באזנך!
    </sp>
    <sp>
-    <speaker id="פרידיניו">
+    <speaker id="fridinyu">
      פרידיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     לא, ר' חזקאל. דודי אומר, שאסור לאשה לזמר בשעה שיש אנשים בבית.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1538,7 +1622,7 @@
     כלום אשה את? נערה, נערה קטנה. אני פוסק לך את הדין להיתר.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1546,7 +1630,7 @@
     שירי, שטיא שלי. הרשלי לא ימהר לבוא.
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -1554,7 +1638,7 @@
     אלו בקשו ממני – לא הייתי סרבן.
    </sp>
    <sp>
-    <speaker id="כלם:">
+    <speaker id="khlm">
      כלם:
     </speaker>
    </sp>
@@ -1562,7 +1646,7 @@
     שירי! שירי!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1570,16 +1654,18 @@
     נו, שירי, מהרי. אין סבה להתביש. (הוא שר) פותחת ריבה ב“מזמור לדוד”…
    </sp>
    <sp>
-    <speaker id="פרידיניו">
+    <speaker id="fridinyu">
      פרידיניו
     </speaker>
-    (פותחת ומתבישת):
+    <p>
+     (פותחת ומתבישת):
+    </p>
    </sp>
    <sp>
     מזמור לדוד… אני איני יכולה.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1587,7 +1673,7 @@
     ראו נא, ראו נא את סרבנותה!
    </sp>
    <sp>
-    <speaker id="כלם:">
+    <speaker id="khlm">
      כלם:
     </speaker>
    </sp>
@@ -1595,10 +1681,12 @@
     שירי איפא, שירי!
    </sp>
    <sp>
-    <speaker id="פרידיניו">
+    <speaker id="fridinyu">
      פרידיניו
     </speaker>
-    (שרה):
+    <p>
+     (שרה):
+    </p>
    </sp>
    <sp>
     מזמור לדוד. ה' רועי לא אחסר.
@@ -1622,7 +1710,7 @@
     (כל היושבים שומעים בהקשבה רבה. בסוף השיר עוזרים לה הגברים).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1635,7 +1723,7 @@
 את החומש וכותב).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1646,25 +1734,29 @@
     (דומיה, הרשלי כותב).
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (על אזנו של חזקאל):
+    <p>
+     (על אזנו של חזקאל):
+    </p>
    </sp>
    <sp>
     הס, ס… הוא גומר את הפסוק האחרון.
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (מתרומם ממקומו בשמחה):
+    <p>
+     (מתרומם ממקומו בשמחה):
+    </p>
    </sp>
    <sp>
     נשלמו חמשה חמשי תורה. תהלה לאל גדול ונורא. חזק!
    </sp>
    <sp>
-    <speaker id="ליזר וחזקאל:">
+    <speaker id="lizr ukhzkl">
      ליזר וחזקאל:
     </speaker>
    </sp>
@@ -1672,7 +1764,7 @@
     חזק, חזק ונתחזק!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1685,7 +1777,7 @@
 בכיסו) אין לי יותר אף פרוטה אחת.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1693,7 +1785,7 @@
     והרי זה עכשו היה זהוב שלם בכיסך?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1702,7 +1794,7 @@
 לי… מוטלי לא יתרעם…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1711,7 +1803,7 @@
 היום. הוא אורג טליתות קטנות ומרויח עד שנים עשר רובל לחדש…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -1719,29 +1811,29 @@
     בלי עין רעה, בלי עינא בישא, בלי קלפה (יורקת שלש פעמים).
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ידעתי, שיש פה בבית ילדות קטנות והבאתי סביבון בכיסי. רואים אתם">
+    <speaker id="idesi, shish fh bbis ildus ktnus uhbsi sbibun bkhisi. ruim sm">
      ידעתי, שיש פה בבית ילדות קטנות והבאתי סביבון בכיסי. רואים אתם
     </speaker>
     מכונה
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="יודעת מה פירושו של זה">
+    <speaker id="yudes mh firushu shl zh">
      יודעת מה פירושו של זה
     </speaker>
     נ’ס ג’דול ב’יה ש’ם. נון – לא זוכה, ש' – לא זוכה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1750,18 +1842,18 @@
 מבורך!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אמרי אינשי">
+    <speaker id="mri inshi">
      אמרי אינשי
     </speaker>
     כשמדליקים נרות של חנכה בבתי היהודים, עוברות כל הקלפות אל בתי
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1769,7 +1861,7 @@
     מילתא זוטרא היא חנכה? אוי,שִנַּי!…
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -1779,7 +1871,7 @@
 של ירח?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1787,7 +1879,7 @@
     התקרבי קצת יותר אלינו, פרידיניו, מוטיל, יש לך פרוטות, הבה ונשחק…
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -1795,7 +1887,7 @@
     אצלי מעות גדולות, שתי מטבעות, אחת של חמש ואחת של עשר.
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -1803,7 +1895,7 @@
     אין רצוני לשחק. אני אשמע מה ידבר דודי.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1812,7 +1904,7 @@
 משנה שמחה.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1820,7 +1912,7 @@
     מוטיל עושה עצמו כלא שומע. חה חה חה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1829,7 +1921,7 @@
 לשאל פי מומחה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -1839,7 +1931,7 @@
 שקד…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1852,7 +1944,7 @@
 אב וזקן הוא. “והדרת”! (ליזר נגש אליהם).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -1861,7 +1953,7 @@
 במשחק –קופיקה…(הם משחקים).
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -1869,7 +1961,7 @@
     עוד מעט ואזכה בכל אשר לכן.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -1878,7 +1970,7 @@
 וכוסות).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1886,10 +1978,12 @@
     שמא ילכו הגברים לע"ע לברך קצת על היין?
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    (מסתכלת בכוסות):
+    <p>
+     (מסתכלת בכוסות):
+    </p>
    </sp>
    <sp>
     אלהים עמך, פסיניו? כיצד את מעמידה על השלחן כוס פגומה? האת אינך יודעת, כי
@@ -1897,7 +1991,7 @@
 בית ישראל!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -1906,7 +2000,7 @@
 חנכה?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1919,7 +2013,7 @@
     (הוא מוליך אותו עד השלחן).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -1930,29 +2024,33 @@
 שבנו – מהיכי תיתי.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מוזג לו כוס יין, ונעשה שמח):
+    <p>
+     (מוזג לו כוס יין, ונעשה שמח):
+    </p>
    </sp>
    <sp>
-    <speaker id="ונבהל) אה, אה – אני רוצה לאמר">
+    <speaker id="unbhl) h, h – ni rutsh lmr">
      ונבהל) אה, אה – אני רוצה לאמר
     </speaker>
     לחיים, מזל מן השמים! (מברך ושותה בצמאון).
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    (מוזג כוס):
+    <p>
+     (מוזג כוס):
+    </p>
    </sp>
    <sp>
     בנעורינו הרי היינו חברים וידידים, ועכשו אם יזכנו ה' והיינו גם “קרובים”.
 לחיים! (שותה). ואתה ר' הרשלי, אנו נשתה, ואתה תשב בטל?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -1961,10 +2059,12 @@
 כנורי (הולך לקחת את הכנור).
    </sp>
    <sp>
-    <speaker id="פרידיניו">
+    <speaker id="fridinyu">
      פרידיניו
     </speaker>
-    (רצה אל הכנור):
+    <p>
+     (רצה אל הכנור):
+    </p>
    </sp>
    <sp>
     האח! דודי ינגן, ינגן (נוטלת את הכנור מעל הקיר) דודי נדיב לב ורחום…
@@ -1975,7 +2075,7 @@
 והכנור נפל לתוך ידיו (מגישה להרשלי את הכנור).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2000,7 +2100,7 @@
     גם כי אלך בגיא צלמות…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2008,16 +2108,18 @@
     הס מלהזכיר מלים כאלה בלילה.
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (שקוע במחשבה):
+    <p>
+     (שקוע במחשבה):
+    </p>
    </sp>
    <sp>
     “לא אירע רע, כי אתה עמדי”.
    </sp>
    <sp>
-    <speaker id="כן, “לא אירע רע, כי אתה עמדי">
+    <speaker id="khn, “l ire re, khi sh emdi">
      כן, “לא אירע רע, כי אתה עמדי
     </speaker>
     ”.
@@ -2026,16 +2128,18 @@
     (הכל שומעים בהקשבה, ביחוד – פרידיניו. דופקים על החלון).
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     דומה, שנשמע קול דפיקה (הכל מקשיבים. נשמע איזה קול).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2043,10 +2147,12 @@
     נדמה לי, שכלב בוכה. מהראוי להפך קדרה אחת על פיה.
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (רצה לדלת):
+    <p>
+     (רצה לדלת):
+    </p>
    </sp>
    <sp>
     מי שם?
@@ -2055,7 +2161,7 @@
     (מזיק פותח את הדלת. הוא לבוש אדרת יפה בטעם אירופא).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2063,7 +2169,7 @@
     סליחה. כאן יהודים?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2071,16 +2177,18 @@
     הרי כבודו רואה, שאין כאן כושיים. יכנס ויסגר הדלת. מחילה מכבודו…
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (נתקל בסף):
+    <p>
+     (נתקל בסף):
+    </p>
    </sp>
    <sp>
     כמעט שנפלתי. לשדים!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2088,7 +2196,7 @@
     חלילה, לא הכא ולא התם, ולא בשום בית ישראל.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2096,7 +2204,7 @@
     בביתנו אין מזכירים את השמות האלה ואין קללה עולה על שפתנו.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2105,7 +2213,7 @@
 מטרת בואי. אני עצמי מק"ק ארשא הנני, ועוסק אני בשטרות.
    </sp>
    <sp>
-    <speaker id="כלם:">
+    <speaker id="khlm">
      כלם:
     </speaker>
    </sp>
@@ -2113,7 +2221,7 @@
     מה זה רוצה לומר?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2125,7 +2233,7 @@
 אפשר לך לזכות בחמשים אלף רו"כ בבת אחת. חמשים אלף!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2133,7 +2241,7 @@
     בכמה? אוי, שני!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2141,7 +2249,7 @@
     בחמשים אלף רו"כ!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2149,7 +2257,7 @@
     שומע אתה, הרשלי?
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2157,7 +2265,7 @@
     שומע אתה, חזקאל?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2167,16 +2275,18 @@
 (נותן לו יד). ישב, ישב כבודו, מה שמו?
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (יושב):
+    <p>
+     (יושב):
+    </p>
    </sp>
    <sp>
     שמי –אוריאל מזיק.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2184,7 +2294,7 @@
     מזיק – מזיקים, שומר ישראל!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2193,7 +2303,7 @@
 מזיק!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -2202,19 +2312,21 @@
 צריך הוא לקבל סחורה תיכף!
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (מראה על שטר גורל):
+    <p>
+     (מראה על שטר גורל):
+    </p>
    </sp>
    <sp>
-    <speaker id="הרי הסחורה לפניכם">
+    <speaker id="hri hskhurh lfnikhm">
      הרי הסחורה לפניכם
     </speaker>
     שטר גורל! וכי מה הם שטרות של כסף – פסות ניר, ואעפי“כ
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2224,35 +2336,35 @@
 פי צלוחית?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="מה שייך">
+    <speaker id="mh sheykh">
      מה שייך
     </speaker>
     יהיב – ואתם אין אתם עושים כלום? יושבים בבטלה וסומכים על
    </sp>
    <sp>
-    <speaker id="(ליזר שותה בסתר): האי עלמא לבי הלולא דמיא">
+    <speaker id="(lizr shush bssr): hi elm lbi hlul dmi">
      (ליזר שותה בסתר): האי עלמא לבי הלולא דמיא
     </speaker>
     חטוף ואכל, חטף ושתה! (ליזר
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אלהים עמו, וכי מה כבודו סח">
+    <speaker id="lhim emu, ukhi mh khbudu skh">
      אלהים עמו, וכי מה כבודו סח
     </speaker>
     לא להיות יהודי חלילה?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2261,7 +2373,7 @@
 בחמשים אלף. בלי שום טרחה, בלי שום יסורים – חמשים אלף.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2271,18 +2383,18 @@
 ושלום. מה הדבורים הללו? אני לא אעשה זאת! (שוקע במחשבות).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="לישב” וב“ודוק”">
+    <speaker id="lishb” ub“uduk”">
      לישב” וב“ודוק”
     </speaker>
     הממשלה מכיסה תשלם חמשים אלף הרו"כ. (נגש אל מזיק). אה,
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2290,7 +2402,7 @@
     חוץ מכל אלה הדברים איני מבין, למה לי כל כך הרבה כספים? מה אעשה בהם?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -2303,7 +2415,7 @@
 מי!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2311,7 +2423,7 @@
     אל תפתח פה ל… לא הכא ולא התם ולא בשום בית בישראל.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2320,7 +2432,7 @@
 יותר?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2329,7 +2441,7 @@
 הנעל בפס־בד, ושנית יתנו לפרידיניו נדוניא־ניו..
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -2337,7 +2449,7 @@
     אלו הציעו לי חמשים אלף הייתי נוטל מיד…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2345,7 +2457,7 @@
     ר' הרשלי, אפשר יש לאדם זה “קלות היד”. זכיה בגורל תלויה רק בקלות היד.
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -2354,18 +2466,18 @@
 “מלבושים”.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="וטוב. הרי אני שואל אתכם שאלה פשוטה">
+    <speaker id="utub. hri ni shul skhm shlh fshuth">
      וטוב. הרי אני שואל אתכם שאלה פשוטה
     </speaker>
     למה לכם לסבל רעב וקור ודחקות, למה
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2373,7 +2485,7 @@
     כלום אין הצדק אתו בכל דבריו?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2381,7 +2493,7 @@
     היש לכם עוד בנות?
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2389,10 +2501,12 @@
     הרי היא עקרה, לא עלינו ולא על כל בת ישראל.
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    (בתקרבות):
+    <p>
+     (בתקרבות):
+    </p>
    </sp>
    <sp>
     רבי “קרוב”. הבנות לא בנותי הן. שארות הנה. כשנולדה זו, צפניו, מתה עליה
@@ -2400,7 +2514,7 @@
 כקורקבן דנא. ואני לקחתי אותן אל בית וגדלתין.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2410,7 +2524,7 @@
 כרחו). חמשים אלף רו”כ אינם מתגלגלים בשוק.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2418,7 +2532,7 @@
     והיאך יהיה ידוע לנו אם זכינו בכך?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2426,7 +2540,7 @@
     לזה אדאג אנכי. הרי אני מקבל אחוזים מזה.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2434,7 +2548,7 @@
     אם כן, הרי לא יהיו לנו חמשים אלף במלואם?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2442,7 +2556,7 @@
     חלילה. לא מחלקכם אטול. לכן יהיה חמשים אלף. טבין ותקילין!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2451,7 +2565,7 @@
 (אוחז את השטר בידו ואינו יודע מה לעשות בו).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -2462,7 +2576,7 @@
 לאו. מה זה נוגע לרבש”ע?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2472,7 +2586,7 @@
 תורה בשביל מנינים עניים, בשביל בתי תפלה בצבא, בשביל בתי מדרשות וכנסיות.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2480,10 +2594,12 @@
     את זה נראה אחר כך…
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (מסתכל בשטר):
+    <p>
+     (מסתכל בשטר):
+    </p>
    </sp>
    <sp>
     מי יאמר, שיפה כחו של שטר זה לעשות אותי ל“בעל עושר”. הוי,
@@ -2498,7 +2614,7 @@
     נורא תהלות עושה פלא".
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2507,7 +2623,7 @@
 אחרי בלותי…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2518,26 +2634,30 @@
 ואחר כך שותין מהם טית פעמים.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מתבונן מסביב לו ושותה):
+    <p>
+     (מתבונן מסביב לו ושותה):
+    </p>
    </sp>
    <sp>
     לשתות טית פעמים – יפה לחכמים.
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (פותח את ארנקו, נופל ממנו מטבע של זהב, והוא הולך הצדה ורושם דבר
+    <p>
+     (פותח את ארנקו, נופל ממנו מטבע של זהב, והוא הולך הצדה ורושם דבר
 מה):
+    </p>
    </sp>
    <sp>
     ר' הרשלי, יש סגולה אחרת לבנים טובה מזו.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2545,23 +2665,27 @@
     הראה נא, דודי, את השטרטר היפה הזה (מראה למוטיל), אתה רואה, מוטלי?
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
-    מה לראות? (צפניו חוטפת את השטר מידי מוטיל והוא נקרע
+    <p>
+     מה לראות? (צפניו חוטפת את השטר מידי מוטיל והוא נקרע
 במקצת).
+    </p>
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (הוא נבהל מאד):
+    <p>
+     (הוא נבהל מאד):
+    </p>
    </sp>
    <sp>
     אוי, קרעתם את השטר –לעזאזל. אוי, רבש"ע, מה זה רציתי לומר?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2572,7 +2696,7 @@
 פרידיניו).
    </sp>
    <sp>
-    <speaker id="פרידיניו:">
+    <speaker id="fridinyu">
      פרידיניו:
     </speaker>
    </sp>
@@ -2580,7 +2704,7 @@
     אוי, מרא דעלמא כולא – איזה דבורים! (מכסה את פניה בידיה).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2589,7 +2713,7 @@
 כעס, מרגישה במטבע של זהב, דורכת עליו ברגלה ונשארת עומדת כמבולבלת).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2597,7 +2721,7 @@
     חה חה חה. רק לצון חמדתי. שלום! זו רק ליצנותא, ולא מידא! (לובש את אדרתו).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2607,7 +2731,7 @@
 השמאלית).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -2616,7 +2740,7 @@
 – בר מינך, דובה! הן את מתגרדת בעינך .
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -2624,10 +2748,12 @@
     זוהי עיני השמאלית? אם כן, הרי זה סמן לשמחה.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מבושם היטב):
+    <p>
+     (מבושם היטב):
+    </p>
    </sp>
    <sp>
     פלוני קוזק, הלך מזג, יין חזק, מכל מין, מלא ההין, על פי הדין… ר' הרשלי,
@@ -2635,7 +2761,7 @@
 הא גברא והא טסקה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2643,7 +2769,7 @@
     אבא, טרח נא, במטותא ממך, ולך אל מטתך.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -2651,7 +2777,7 @@
     לא. לא. (משורר) אני והמשקה – גברא וטסקה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2660,22 +2786,28 @@
 (לוקח אותו על ידיו ונושאו).
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (עושה ברגליו וצועק): לא! לא! הרפה! פלוני קוזק, הלך מזג, יין…
+    <p>
+     (עושה ברגליו וצועק): לא! לא! הרפה! פלוני קוזק, הלך מזג, יין…
+    </p>
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
-    עבודתי התחילה בהצלחה. חה חה חה! שלום! (יוצא).
+    <p>
+     עבודתי התחילה בהצלחה. חה חה חה! שלום! (יוצא).
+    </p>
    </sp>
    <sp>
-    <speaker id="המסך">
+    <speaker id="hmskh">
      המסך
     </speaker>
-    .
+    <p>
+     .
+    </p>
    </sp>
    <sp>
     אולם גדול ויפה. ליזר יושב על כסא ועושה לו עכבר בממחטתו האדומה. צפניו
@@ -2683,17 +2815,19 @@
 על שלחן קטן אחד.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מתגנב אל צפניו וזורק לה את העכבר):
+    <p>
+     (מתגנב אל צפניו וזורק לה את העכבר):
+    </p>
    </sp>
    <sp>
     חה חה חה! ילדה גדולה כבר, ומפחדת מפני עכבר. כשתהיי אשה למוטלי והיו לך
 צאצאים וצפיעות יקרים, ואעשה גם להם עכברים…
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2701,7 +2835,7 @@
     מה זה רצונך לומר, שאני אנשא לחתנה של פרידניו?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -2709,7 +2843,7 @@
     הס! (מביט כנבהל מסביב) לא מאום ולא כלום. (יושב באחת הפנות).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2720,41 +2854,43 @@
 את עקב נעלי בפס־בדי, היה נוח לי אז הרבה יותר.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אחרת. אני כבר ידעתי חיי תפארת. ולרוב, אני מרגיש עצמי בטוב">
+    <speaker id="khrs. ni khbr idesi khey sfrs. ulrub, ni mrgish etsmi btub">
      אחרת. אני כבר ידעתי חיי תפארת. ולרוב, אני מרגיש עצמי בטוב
     </speaker>
     אוכל אני
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (גומרת):
+    <p>
+     (גומרת):
+    </p>
    </sp>
    <sp>
-    <speaker id="ואומרים עלינו">
+    <speaker id="uumrim elinu">
      ואומרים עלינו
     </speaker>
     “הגבירים מיום אתמול”?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="צפניו (היא נגשת אליו) ואגלה לך גורלי המר">
+    <speaker id="tsfnyu (hi ngshs lyu) uglh lkh gurli hmr">
      צפניו (היא נגשת אליו) ואגלה לך גורלי המר
     </speaker>
     בכל בית בישראל יפה כחו של
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2762,10 +2898,12 @@
     מפני מה? וכי מפחד אתה מפני בנך ר' הרשלי?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
-    (ברצינות)
+    <p>
+     (ברצינות)
+    </p>
    </sp>
    <sp>
     מפני מה? הפחד טבוע בלבי. למראית עין אני גבור ובלבי שולט הפחד. בפי אני
@@ -2782,19 +2920,21 @@
     אתה אדם קטנטן ואתה אוהב כוס גדולדולה.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
-    (כנ"ל)
+    <p>
+     (כנ"ל)
+    </p>
    </sp>
    <sp>
-    <speaker id="מפורסם הייתי. כשאני הייתי נכנס אל חתונה היו מראים עלי באצבע">
+    <speaker id="mfursm heysi. khshni heysi nkhns l khsunh hyu mrim eli btsbe">
      מפורסם הייתי. כשאני הייתי נכנס אל חתונה היו מראים עלי באצבע
     </speaker>
     הנה הוא!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2805,30 +2945,34 @@
 המטפחת על ראשה). כך. זה יהיה משחק לא רע (צוחקת).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="נו, מהיכא תיתי. הבה! פותח הכנור">
+    <speaker id="nu, mhikh sisi. hbh! fuskh hkhnur">
      נו, מהיכא תיתי. הבה! פותח הכנור
     </speaker>
     טי, די, די, דם (שר את שיר
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (עושה עצמה כבוכה):
+    <p>
+     (עושה עצמה כבוכה):
+    </p>
    </sp>
    <sp>
     אי. אי. אי. (עושה עצמה כמוחה דמעות עיניה וגונחת).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
-    (כנ"ל)
+    <p>
+     (כנ"ל)
+    </p>
    </sp>
    <sp>
     היום פונה ההוד, אין חופש לך עוד. לא צפור דרור תהיי, כי אם צפור בשבי.
@@ -2838,7 +2982,7 @@
 בכי!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2846,29 +2990,29 @@
     אוי, אוי, אוי. הלב כ"כ בוכה (היא בוכה).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="הוי כלה שלי">
+    <speaker id="hoy khlh shli">
      הוי כלה שלי
     </speaker>
     אֵי דודה, אי דוד, רע לי מאד"…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="חמא כנראה אין לו עבודה אחרת מרוב טובה">
+    <speaker id="khm khnrh in lu ebudh khrs mrub tubh">
      חמא כנראה אין לו עבודה אחרת מרוב טובה
     </speaker>
     או לישון או לְבַכּוֹת. באמונתי,
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2876,7 +3020,7 @@
     שמא מתחרטת את, דודתי?
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2885,7 +3029,7 @@
 ללבש… אבל קודם היה נדמה לי שייטב יותר.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -2894,7 +3038,7 @@
 מזיק והוא נעשה אצלנו כל וכל – זה אינו “כפתור ופרח”.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -2902,7 +3046,7 @@
     שטיא שלי, הרי מזיק שותף בעסק הוא. מבלעדיו אין הרשלי יודע כלום.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -2913,7 +3057,7 @@
 את שיחתם).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2921,7 +3065,7 @@
     מנין ידועים לך דברים כאלה? (יושבים מצד ימין).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2929,7 +3073,7 @@
     אנכי קראתי את כל ספרי הפלוסופים אשר בעברית.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2939,18 +3083,18 @@
 מפורש “כי עַיִר פרא אדם יולד”.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id='ולפי דעתי, אפשר היה לומר לקב"ה'>
+    <speaker id='ulfi desi, fshr hih lumr lkb"h'>
      ולפי דעתי, אפשר היה לומר לקב"ה
     </speaker>
     לא מדובשך ולא מעוקצך! שקילי טיבותך
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -2960,17 +3104,19 @@
 כל האדם!
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (פתאם):
+    <p>
+     (פתאם):
+    </p>
    </sp>
    <sp>
     אין האדם־הגביר אלא חזי…( נתקל במבטו הזועף של הרשלי). ימחל נא ר'
 אוריאל (מזיק נגש אליו). הס. רצוני לשאל, כמה עכשו השעה?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2978,10 +3124,12 @@
     וכי כך נאה להשתטות לאביו של ר' הרשלי מדוברובנה?
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (ברוגז):
+    <p>
+     (ברוגז):
+    </p>
    </sp>
    <sp>
     אבא, תמחל נא לי – מדוע אינך אצל עצמך, בחדרך? (ליזר מתרומם, מסתכל, כאלו
@@ -2989,7 +3137,7 @@
 רק בכדי שיעשה האדם רק טוב, בכדי שתהא הבחירה בידו.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -2999,18 +3147,18 @@
 זוהי סיגרה טובה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ברא גם את הטוב גם את הרע, ואמר לאדם">
+    <speaker id="br gm s htub gm s hre, umr ldm">
      ברא גם את הטוב גם את הרע, ואמר לאדם
     </speaker>
     ראה נתתי לפניך היום את החיים ואת
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3019,7 +3167,7 @@
 גרשו אותו. (יוצאת).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3028,7 +3176,7 @@
 סיגרה מצוינה היא זו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3036,18 +3184,18 @@
     הידעתי מה? נו, יתן לי. אני אעשן (לוקח ומעשן).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ואומרים לך">
+    <speaker id="uumrim lkh">
      ואומרים לך
     </speaker>
     זה אסור עפ"י התורות והמצוות והחוקים והמשפטים והמנהגים
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3055,7 +3203,7 @@
     פסי, הטריחי נא את עצמך. יש לנו לדבר בדבר עסק. (מראה לה שתצא).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -3065,7 +3213,7 @@
 לעזב את החדר, אם יש ברצונך לדבר בעסק. אך, יהי כך. (יוצאת).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3074,7 +3222,7 @@
 לנדבה. מכין את עצמי זה כבר – ואין לי פנאי בנמצא.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3082,29 +3230,29 @@
     עוד יספיק לכתב ספרי תורה. עכשו הייתי רוצה לדבר אתו בעסק נכבד.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="העסקים האלה – מטילים עלי אימה. לא לחנם אמרו חכמים">
+    <speaker id="heskim hlh – mtilim eli imh. l lkhnm mru khkhmim">
      העסקים האלה – מטילים עלי אימה. לא לחנם אמרו חכמים
     </speaker>
     מרבה עסק מרבה גזל.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="לפנים נחשב המסחר לגזלה, אבל היום קוראים לזה">
+    <speaker id="lfnim nkhshb hmskhr lgzlh, bl hyum kurim lzh">
      לפנים נחשב המסחר לגזלה, אבל היום קוראים לזה
     </speaker>
     תחרות חפשית. יש לך
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3114,7 +3262,7 @@
 חה. חה. חה.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3124,7 +3272,7 @@
 לעשית מלאכה, אבל לא לקבל מהם רבית.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3136,7 +3284,7 @@
 אבל איזו תכלית יש בעושר?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3145,7 +3293,7 @@
 על מטרות מעשיות אשר בעולם הזה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3153,7 +3301,7 @@
     אבל אין אני יודע, למה לי כל אלה?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3162,18 +3310,18 @@
 והחשכה, להיות ערם ויחף ולאכל בולבוסין בקלפותיהם?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="שאלה אחרת">
+    <speaker id="shlh khrs">
      שאלה אחרת
     </speaker>
     אוכל אני לשובע, לבוש אני כהוגן – ומה לי עוד לנוע על עשירות?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3183,7 +3331,7 @@
 שנה. כן, יש לו עוד זמן להוליד בנים. עודנו צעיר ומלא עלומים.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3192,18 +3340,18 @@
 הרהורים רעים.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="חוטא כלפי שמיא. הרי זה מובן כל כך">
+    <speaker id="khut khlfi shmi. hri zh mubn khl khkh">
      חוטא כלפי שמיא. הרי זה מובן כל כך
     </speaker>
     אדם בעל רצון, אומר ועושה. ונמצא
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3212,18 +3360,18 @@
 חוטא באמת במחשבה. אלא שיש כאן חשש מפני דעת הבריות…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="יגע בעצמו, כמה גדולות נעשה בעסק זה">
+    <speaker id="ige betsmu, khmh gdulus neshh besk zh">
      יגע בעצמו, כמה גדולות נעשה בעסק זה
     </speaker>
     ראשית, יש לנו עסק עם סחורתו של
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3233,7 +3381,7 @@
 להזמין לי. כן, אבי שבשמים, תכנית שלמה וטובה! (נאנח).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3244,7 +3392,7 @@
 משתתקים. מזיק מסתכל בו).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3256,7 +3404,7 @@
 בזה.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3264,18 +3412,18 @@
     אני? אלהים עמו, כיצד?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="עוד מזמן… בערב הראשון, כשבא אל ביתי לפנים… אמר">
+    <speaker id="eud mzmn… berb hrshun, khshb l bisi lfnim… mr">
      עוד מזמן… בערב הראשון, כשבא אל ביתי לפנים… אמר
     </speaker>
     כי… כי
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3286,7 +3434,7 @@
 השני וכמגדל הן צוארה? או שמא אמרתי דבר אחר?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3299,18 +3447,18 @@
 לעשות?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ר' הרשניו">
+    <speaker id="r' hrshnyu">
      ר' הרשניו
     </speaker>
     רק פעם אחת. ימי אדם חוצצו. התביט בו – ואיננו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3320,18 +3468,18 @@
 באפיקורסותך, “תל עולם” מן הניצוץ היהודי אשר בי! אוי, הנח!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="לי">
+    <speaker id="li">
      לי
     </speaker>
     אל מחשבות, אל ספקות, אל פקפוק – אלא “אומר ועושה”.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3344,7 +3492,7 @@
 באה).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -3353,7 +3501,7 @@
 בידו הוא אינו נותן). מה לך? כועס אתה עלי?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3364,7 +3512,7 @@
 מדוברובנה, ולא אחר…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3378,7 +3526,7 @@
 פטורין.
    </sp>
    <sp>
-    <speaker id="פרידינו:">
+    <speaker id="fridinu">
      פרידינו:
     </speaker>
    </sp>
@@ -3386,7 +3534,7 @@
     דודה מסכנה ושוממה. לבי, לבי, עליה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3396,7 +3544,7 @@
 נשוה נא, שכבר נתתי לפסיניו פטורין… נו…ו…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -3408,7 +3556,7 @@
 דודי, הרי היא אמי השניה, כה יוסיף לי אלהים אם אעשה לה רעה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3419,7 +3567,7 @@
 קשה לי להגיד את אשר בלבבי… (הם שותקים זמן רב). את שותקת?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -3427,7 +3575,7 @@
     דודי, אתה מרגיש ויודע את תשובתי… אין מלים גם בפי.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3435,37 +3583,39 @@
     אבל, הרי אני כבן ארבעים ושתים, ואת כ"כ צעירה עדיין…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="דודי, לך. אז חושבת אני מחשבה אחת">
+    <speaker id="dudi, lkh. z khushbs ni mkhshbh khs">
      דודי, לך. אז חושבת אני מחשבה אחת
     </speaker>
     רק להשאר על ידך לעולמים, רק לשבת
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    (בקול נחנק):
+    <p>
+     (בקול נחנק):
+    </p>
    </sp>
    <sp>
     נראה לי, שאני אוהבת אותך, דודי!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אבל… אם…חלילה… הרי חוטאים אנו לאבינו שבשמים!">
+    <speaker id="bl… m…khlilh… hri khutim nu lbinu shbshmim">
      אבל… אם…חלילה… הרי חוטאים אנו לאבינו שבשמים!
     </speaker>
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -3473,7 +3623,7 @@
     אפשר. אין אני יודעת. אבל נראה לי, שאני אוהבת אותך מאד!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3482,18 +3632,18 @@
 אסון לנו…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אין אני יודעת כלום, דודי! רק את האמת אני יודעת">
+    <speaker id="in ni yudes khlum, dudi! rk s hms ni yudes">
      אין אני יודעת כלום, דודי! רק את האמת אני יודעת
     </speaker>
     אני אוהבת אותך…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3504,7 +3654,7 @@
 כביכול. הוי, אלי, אלי!…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3513,7 +3663,7 @@
 לאט).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3522,7 +3672,7 @@
 לאדם, אם הוא שוקע במחשבות של חטא. (צפניו פותחת במרוצה את הדלת).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3531,16 +3681,18 @@
 פנים. צד החתן! (פסיניו נכנסת).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
-    (בפתח)
+    <p>
+     (בפתח)
+    </p>
    </sp>
    <sp>
     בבקשה, במטותא, בואו! הרשלי כאן! (נכנסים חזקאל, מוטיל ודובה).
    </sp>
    <sp>
-    <speaker id="כולם:">
+    <speaker id="khulm">
      כולם:
     </speaker>
    </sp>
@@ -3548,7 +3700,7 @@
     שלום, יברככם אלהים! (מזיק נוטל ניר ויושב לכתב).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -3557,7 +3709,7 @@
 אחד. אני מביאה תיכף מרקחת, דובשניות ושאר פרפראות. (יוצאת).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3566,7 +3718,7 @@
 (היא שורקת).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3574,7 +3726,7 @@
     קונדסית, אסור לשרק בתוך בית. שריקה קוראה ללצים…
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -3582,7 +3734,7 @@
     היא עצמה לץ.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3590,16 +3742,18 @@
     כיצד שלומך, ר' הרשלי? דומה, שחסר לך דבר מה, מה זה?
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    ( יושב אל השלחן וכותב):
+    <p>
+     ( יושב אל השלחן וכותב):
+    </p>
    </sp>
    <sp>
     כל אדם מרגיש שחסר לו דבר מה. מי שאינו מרגיש חסרון, אינו אדם.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3609,7 +3763,7 @@
 עלית מעלה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3617,7 +3771,7 @@
     בלי עין רעה, בלי עינא בישא. יתפקעו כל הלצים, טפו! (יורקת).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3626,7 +3780,7 @@
 הרגשתי עד כה צורך לבקש ממך דבר. עכשו…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3635,29 +3789,29 @@
 לקחת ניר. ליזר נכנס בחשאי, נבהל ומתבונן מסביב).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
    <sp>
-    <speaker id="הרי אני, בידיוע לך, בשר ודם פשוט. ברם, שמע מה שאני אומר לך">
+    <speaker id="hri ni, bidyue lkh, bshr udm fshut. brm, shme mh shni umr lkh">
      הרי אני, בידיוע לך, בשר ודם פשוט. ברם, שמע מה שאני אומר לך
     </speaker>
     מה שמזיק
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="חזקאל, רק להרף עין. (חזקאל נגש אליו). הס, רציתי לשאלך">
+    <speaker id="khzkl, rk lhrf ein. (khzkl ngsh lyu). hs, rtsisi lshlkh">
      חזקאל, רק להרף עין. (חזקאל נגש אליו). הס, רציתי לשאלך
     </speaker>
     בשבת זו מברכין
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3666,7 +3820,7 @@
 (הרשלי נגש אל אביו ואומר לו דבר מה בכעס).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3675,7 +3829,7 @@
 (מזיק נגש אל מוטלי).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -3683,7 +3837,7 @@
     מאי האי? מוטלי, עגיל באזנך כמו באזנה של אשה?
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -3691,13 +3845,15 @@
     הן, עגיל באזני, אבל לא כמו אצל אשה, אלא כמו אצל בחור.
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (צוחקת).
+    <p>
+     (צוחקת).
+    </p>
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3709,37 +3865,43 @@
 אמותיו.
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (מסתכל לעגיל):
+    <p>
+     (מסתכל לעגיל):
+    </p>
    </sp>
    <sp>
     כך? הפלא ופלא. (שב אל מקומו).
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (צובטת במוטלי):
+    <p>
+     (צובטת במוטלי):
+    </p>
    </sp>
    <sp>
-    <speaker id="אמר נא, מוטלי">
+    <speaker id="mr n, mutli">
      אמר נא, מוטלי
     </speaker>
     אותך פנקו או חנקו? (דובה מאימת עליה ביד).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (יושב על מקומו):
+    <p>
+     (יושב על מקומו):
+    </p>
    </sp>
    <sp>
     נו, חזקאל. רוצה אני לשמע, מה היה בדעתך להגיד?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3748,7 +3910,7 @@
 אורגים חרוצים. כלומר, אם אנו עוסקים במלאכה – עוסקים אנו כדבעי.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3758,18 +3920,18 @@
 זה טוב מאד לקו הבריאות!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אורגים אחדים, ואני ומוטיל בתוכם">
+    <speaker id="urgim khdim, uni umutil bsukhm">
      אורגים אחדים, ואני ומוטיל בתוכם
     </speaker>
     הבה ונעשה לנו חברותא מיוחדת. גם ידו
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3779,7 +3941,7 @@
 בקרוב פבריקה גדולה של טליתות, ואתם תמצאו את פרנסתכם בריוח…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3787,7 +3949,7 @@
     אם כך, יודע אתה מה? נהיה כלנו שותפים. חברותא אחת!…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3796,7 +3958,7 @@
 בעבודה ובפרנסה.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3807,7 +3969,7 @@
 פרידניו – שניהם ראויים לברכה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3815,7 +3977,7 @@
     בלי עינא בישא!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3823,7 +3985,7 @@
     ראויים לחופה וקידושין.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -3831,28 +3993,32 @@
     ברוך אתה ה' מקדש עמו ישראל על ידי חופה וקידושין.
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (בכעס):
+    <p>
+     (בכעס):
+    </p>
    </sp>
    <sp>
     אבא! (ליזר נבהל ומתחבא בקרן זוית שלו).
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (נגש להרשלי):
+    <p>
+     (נגש להרשלי):
+    </p>
    </sp>
    <sp>
-    <speaker id="הדרך. יזכר את עצתי">
+    <speaker id="hdrkh. izkhr s etssi">
      הדרך. יזכר את עצתי
     </speaker>
     “אומר ועושה!” (שב אל מקומו).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3862,7 +4028,7 @@
 נכנסת ובידה טס ערוך מעדנים בצרוף מפיות).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -3871,7 +4037,7 @@
 מפיות אלו בשביל מה הן – ללפני האכילה או לאחריה?… ( מעמידה על השלחן).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3881,7 +4047,7 @@
 תשיר לי את השיר החפה שלך הה? (רצה לימין, הרשלי רועד).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -3890,7 +4056,7 @@
 דובה, טעמי נא מזה. תופין זה עשוי מחלבון זך ונקי, בלי מים, חס ושלום.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3899,7 +4065,7 @@
 (פרידניו וצפניו נכנסות).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -3908,7 +4074,7 @@
 בענין השדוך.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -3918,7 +4084,7 @@
 אינו אלא בנו של חזקאל דרכמה.
    </sp>
    <sp>
-    <speaker id="פרידינו:">
+    <speaker id="fridinu">
      פרידינו:
     </speaker>
    </sp>
@@ -3928,7 +4094,7 @@
 תרעומת… אינני יכולה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -3938,7 +4104,7 @@
 הנה לך!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -3946,25 +4112,29 @@
     האין את רוצה בשדוך, פרידניו? מפני מה?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מקרן זוית שלו):
+    <p>
+     (מקרן זוית שלו):
+    </p>
    </sp>
    <sp>
     היא רוצה להשאר בבית, בין הקרובים לה…
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (בכעס):
+    <p>
+     (בכעס):
+    </p>
    </sp>
    <sp>
     אבא, אם אתה רוצה לשבת כבן־אדם שב. ואם לא, אבקשך להטריח את עצמך…
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3973,7 +4143,7 @@
 מעורר רחמנות!
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -3982,7 +4152,7 @@
 מפניה…
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -3990,7 +4160,7 @@
     ודאי, ודאי, שצריך להתביש מפניה! יחסית שכמותה – מילתא זוטרא!
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -3998,7 +4168,7 @@
     במטותא מכם, אל תשפכו את דמי חנם.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4007,7 +4177,7 @@
 כלום.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4016,7 +4186,7 @@
 זה עון גדול.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4025,7 +4195,7 @@
 אתה מבין – היא איננה רוצה עוד בשדוך!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -4034,7 +4204,7 @@
 מה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4047,19 +4217,21 @@
 לכם, לא ברך אותנו אלהים בבנים. ומה הם חיי האדם, אם אין לו בנים?
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    ( בעצב):
+    <p>
+     ( בעצב):
+    </p>
    </sp>
    <sp>
-    <speaker id="כך הוא הענין. תמיד היו הנשים שואלות ותמהות">
+    <speaker id="khkh hu henin. smid hyu hnshim shulus usmhus">
      כך הוא הענין. תמיד היו הנשים שואלות ותמהות
     </speaker>
     מה רואה ר' הרשלי שצדיק
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4068,16 +4240,18 @@
 בבנים …
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    (בלחש):
+    <p>
+     (בלחש):
+    </p>
    </sp>
    <sp>
     הוא רוצה בבנים שלו. לפי השגתי, כונתו היא שהוא רוצה באשה אחרת.
    </sp>
    <sp>
-    <speaker id="כלם:">
+    <speaker id="khlm">
      כלם:
     </speaker>
    </sp>
@@ -4085,7 +4259,7 @@
     מה?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -4093,7 +4267,7 @@
     עינו של הבדחן חזתה את זה הענין, עוד לפני “קבלת הקנין”…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4102,7 +4276,7 @@
 שנתגרש.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4110,7 +4284,7 @@
     להת – ג – רש? מהיכן, הרשלי, לקחת מלים אלו?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4118,7 +4292,7 @@
     אמת, שלא דברתי אתך עד כה על הדבר הזה, אבל חושב אני על זה מאז, פסיניו.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4126,7 +4300,7 @@
     להתגרש! אוי ואבוי לי! אללי לי! (היא בוכה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4136,7 +4310,7 @@
 באהבה. ומה לעשות? הרי אי אפשר שיהיה האדם מאושר בכל!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4146,19 +4320,21 @@
 ונתגרש… אוי ואבוי לי! (בוכה).
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    (בלחש):
+    <p>
+     (בלחש):
+    </p>
    </sp>
    <sp>
-    <speaker id="לפי השגתי, הענין קצת מוקשה">
+    <speaker id="lfi hshgsi, henin ktss mukshh">
      לפי השגתי, הענין קצת מוקשה
     </speaker>
     מדוע לא באה הגזרה מן השמים, לפני היות ר'
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4167,7 +4343,7 @@
 אמנו בכל שבת־מברכים. הן המסכנה רחל, גם היא היתה עקרה…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4176,17 +4352,19 @@
 הרחמים שבשמים – למה כה פתאם השברתי? הרי אין כל ברירה לפני…
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    (נופלת על צוארה):
+    <p>
+     (נופלת על צוארה):
+    </p>
    </sp>
    <sp>
     לא, דודתי, לא. עוד יש ברירה! אם מוטלי חפץ בי נכונה אני תיכף לחתונה…
 אני… (אינה יכולה לדבר מתוך בכי).
    </sp>
    <sp>
-    <speaker id="מוטלי:">
+    <speaker id="mutli">
      מוטלי:
     </speaker>
    </sp>
@@ -4195,7 +4373,7 @@
 מדאי בשבילי… צפניו – לא כך…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4203,13 +4381,15 @@
     פסיניו, מה לך, כי תבכי כל כך?
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
-    אבכה לי, אבכה לי… אלהים יסלח לדמעותי…
+    <p>
+     אבכה לי, אבכה לי… אלהים יסלח לדמעותי…
+    </p>
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4217,7 +4397,7 @@
     דודתי, דודתי היקרה, אין אני אשמה חלילה…(בוכה).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4234,7 +4414,7 @@
 רעותה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4249,7 +4429,7 @@
 (מזיק מביט על הרשלי באירוניה).
    </sp>
    <sp>
-    <speaker id="המסך.">
+    <speaker id="hmskh">
      המסך.
     </speaker>
    </sp>
@@ -4259,27 +4439,29 @@
 צרורות, צרורות של כסף… ליזר מתהלך בבית הנה והנה בקוצר רוח.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="משונה הדבר – עד להתפקע! אין – וחסל! שוב פעם מראש">
+    <speaker id="mshunh hdbr – ed lhsfke! in – ukhsl! shub fem mrsh">
      משונה הדבר – עד להתפקע! אין – וחסל! שוב פעם מראש
     </speaker>
     אכמה, בכמה, גכמה,
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (נגש אל היין ומוזג אל הכוס):
+    <p>
+     (נגש אל היין ומוזג אל הכוס):
+    </p>
    </sp>
    <sp>
     התקח מעט? אוהב אני אותך כשהנך מבושם, ר' ליזר.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -4291,7 +4473,7 @@
 לחיים! (שותה שנית).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4301,16 +4483,18 @@
 בן כמה אתה, ר' ליזר?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (שותה):
+    <p>
+     (שותה):
+    </p>
    </sp>
    <sp>
     הרי אני לאחר שבעים. הט, הט. ר' אוריאל, רציתי לשאלך. מתי יבוא הרשלי?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4319,42 +4503,46 @@
 – על רעיתו הצעירה…
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="בטוב. לחיים! (שותה). איזה מין כשוף">
+    <speaker id="btub. lkheym! (shush). izh min khshuf">
      בטוב. לחיים! (שותה). איזה מין כשוף
     </speaker>
     כוזא במוכסז כוז. בשום אפן איני יכל
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (גומע וחושב):
+    <p>
+     (גומע וחושב):
+    </p>
    </sp>
    <sp>
-    <speaker id="היום על הבהמה? חה חה חה! הולך ושובר את מחו בשביל חרוזים">
+    <speaker id="hyum el hbhmh? khh khh khh! hulkh ushubr s mkhu bshbil khruzim">
      היום על הבהמה? חה חה חה! הולך ושובר את מחו בשביל חרוזים
     </speaker>
     אכמה, דרכמה,
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (שותה):
+    <p>
+     (שותה):
+    </p>
    </sp>
    <sp>
-    <speaker id="צוחק אתה על חרוזי. הטה אזנך ואגיד לך בלחישה">
+    <speaker id="tsukhk sh el khruzi. hth znkh ugid lkh blkhishh">
      צוחק אתה על חרוזי. הטה אזנך ואגיד לך בלחישה
     </speaker>
     הס, אני שותה בתו ואתה
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4362,21 +4550,23 @@
     מיחוש בבטן? חה חה חה, ציור לא רע.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="שואל אתה ר' אוריאל">
+    <speaker id="shul sh r' uril">
      שואל אתה ר' אוריאל
     </speaker>
     מה נשתנה ליזר בדחן מבהמה? וכי עינך טרוטה, אם אינך
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (שוקע במחשבה):
+    <p>
+     (שוקע במחשבה):
+    </p>
    </sp>
    <sp>
     הרי לך בן אדם! טפש כלפי חוץ וחכם מבפנים. בדחן וחושב מחשבות, עושה מעשה
@@ -4385,7 +4575,7 @@
 לבושה ועדויה הדר).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4393,7 +4583,7 @@
     האדון ר' אוריאל לבדו בבית? ומכתב אין? (נגשת אל המראה).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4402,10 +4592,12 @@
 לומר, שאין צורך לך להביט במראה. יפיך משתפך לא רק על הזכוכית הקרה הזו.
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    (בעצב):
+    <p>
+     (בעצב):
+    </p>
    </sp>
    <sp>
     אני מביטה במראה מפני שהיה לי הדבר הזה להרגל בימים האחרונים. אין לי שום
@@ -4413,7 +4605,7 @@
 ושממון?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4428,18 +4620,18 @@
 החיים…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אין אני מלומדת, ר' אוריאל, ואיני מבינה כלפי מה רמזת בדבריך">
+    <speaker id="in ni mlumds, r' uril, uini mbinh khlfi mh rmzs bdbrikh">
      אין אני מלומדת, ר' אוריאל, ואיני מבינה כלפי מה רמזת בדבריך
     </speaker>
     “עץ החיים
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4447,7 +4639,7 @@
     אז צריכה את לבקש תענוגות חדשים, תענוגות אשר לא ידעת עוד.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4455,7 +4647,7 @@
     לא. שקר התענוגות והבל כל שמחה. לא הם נותנים חיים לאדם.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4463,7 +4655,7 @@
     האם בית ר' הרשלי יכול לתת לך חיי אשר?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4473,7 +4665,7 @@
 ולילה, יומם ולילה.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4486,16 +4678,18 @@
 הטבע.
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    ( אינה שומעת את דבריו):
+    <p>
+     ( אינה שומעת את דבריו):
+    </p>
    </sp>
    <sp>
     אח, אלמלא זִכָּה אותי אלהים בבן אחד!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4508,7 +4702,7 @@
 בפתח).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4517,7 +4711,7 @@
 (בלחש) אמרי לו, שילך מכאן. עינא בישא יש לו. (פרידה מבטת אליו).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4525,7 +4719,7 @@
     אוי, הוי, אני מבין כבר. (בלכתו). הזהרי נא, שלא תכנס הקלפה לתוכך, דובה.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4534,7 +4728,7 @@
 עמדי… פסיניו, בואי נא, הכנסי. (נכנסת פסיניו, היא זקנה מאד).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4543,7 +4737,7 @@
 לך טינה עלי, דודתי?
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4552,7 +4746,7 @@
 הלא אשה אני… (מוחה דמעת עיניה). נו, פרידניו, מה שלומך?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4561,7 +4755,7 @@
 צוארה ובוכה).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4570,7 +4764,7 @@
 אתנו, אבל היא חזרה… חוץ מזה, פגשנו כומר בדרך…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4578,7 +4772,7 @@
     ומה שלומה של צפניו? בריאה היא?
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4587,7 +4781,7 @@
 הבכירה לחשתי אתמול, משום עינא בישא.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4596,7 +4790,7 @@
 לעניים מרודים. הלואי, שלא יחזרו על הפתחים.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4607,16 +4801,18 @@
 הזקנות הם שולחים לכל הרוחות, אך אשה צעירה – הרי הם כפרתה.
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    (נאנחת):
+    <p>
+     (נאנחת):
+    </p>
    </sp>
    <sp>
     אוי לי ואבוי לי! (צפניו פותחת את הדלת). הנה צפניו!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4625,7 +4821,7 @@
 מאד).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4636,7 +4832,7 @@
 אצלך, אחותי!
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4644,7 +4840,7 @@
     המקנאה את בי, צפניו? כל זה מה יתן ומה יוסיף לי?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4652,7 +4848,7 @@
     מי שמקנא בך תמקנה עיניו. מי מקנא?
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4660,7 +4856,7 @@
     הא, צפקא. מתחלת את ברוגז – שמא לבשת את הפוזמק וצדו הפנימי למעלה?
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4668,7 +4864,7 @@
     חלילה לנו מריב. אתאנו לחננך, פרידניו, שתתמלאי רחמים עלינו.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4676,7 +4872,7 @@
     אוי, אחותי, למה פניך רעים כל כך? דלות, רזית?
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4684,7 +4880,7 @@
     האמיני, שזה לא מרוב תענוגים.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4693,7 +4889,7 @@
 שנים יש לך במזל!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4704,7 +4900,7 @@
 רבש"ע! קולה מצלצל ככסף בכל פנות הבית…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4712,7 +4908,7 @@
     בלי עין רעה, בלי עינא בישא. טפו! (יורקת).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4722,18 +4918,18 @@
 בנים – מתנתו הכשרה של האלהים הם!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
    <sp>
-    <speaker id="גם אני, זה דברי">
+    <speaker id="gm ni, zh dbri">
      גם אני, זה דברי
     </speaker>
     פרי בטן – ברכת אלהים הוא. הרי אני, בלי עין רעה, כבת
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4742,7 +4938,7 @@
 דמית…
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4751,7 +4947,7 @@
 הרי זה רק בעטים של אנשים רעים, המחשיכים את חיינו ומצוים עלינו לבכות…
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4759,7 +4955,7 @@
     בשנאה ברעל, את מדברת אלי, אחותי. זרות נעשינו אחת לחברתה.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4768,7 +4964,7 @@
 מתענגים על רוב טוב וחיים בהרחבה, בשעה שאנו טובעים בים צרותינו.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4778,7 +4974,7 @@
 הפבריקה שלנו. הרי אתם בעצמכם אשמים בדבר.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4787,7 +4983,7 @@
 העסק יחד לטמיון.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -4795,7 +4991,7 @@
     מה שברצוננו לראות עליך יבוא עלינו ועל כל ישראל אמן.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4803,7 +4999,7 @@
     ומה  יודעת? הדוד אומר כך.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -4817,7 +5013,7 @@
 ועולמה חשך בעדה? (בוכה).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -4826,7 +5022,7 @@
 ואני… (בוכה).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -4841,7 +5037,7 @@
 סגור).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -4851,54 +5047,64 @@
 נשים, בכינה…
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    (מוחה דמעותיה):
+    <p>
+     (מוחה דמעותיה):
+    </p>
    </sp>
    <sp>
     סבא ר' ליזר צוחק עלינו ועל דמעותינו, והוא בא עם המשקה. הא גברא והא
 טסקה… מה שלומו של ידידי הזקן?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     עסקי – מן המובחר. הפבריקה נותנת לי מלבד בולבוסין ומליחים, גם טלית טובה
 לתכריכים. (בנגון) שבעים המה הגבורים… (נכנס מזיק).
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     ר' הרשלי בא מן הדרך! (כל הנשים נפחדות ואינן יודעות לאן לפנות מבהלה).
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     באנה ואראכן לצאת דרך חדרי. (הנשים יוצאות בלי סדר).
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (מגרש את הנשים בממחטתו):
+    <p>
+     (מגרש את הנשים בממחטתו):
+    </p>
    </sp>
    <sp>
     נשים, אוץ! נשים, רוץ! ר' ליזר, צפן את הבדחן שלך. (יושב בפנתו).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4907,7 +5113,7 @@
 אחריו נכנס ר' הרשל, לבוש בגדי הדרך).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4915,10 +5121,12 @@
     ערב טוב! שלום עליכם, ר' אוריאל. מה נשמע אצלנו?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (בנגון של קדוש לבנה):
+    <p>
+     (בנגון של קדוש לבנה):
+    </p>
    </sp>
    <sp>
     שלום עליכם, עליכם שלום. שלום עליכם, עליכם שלום. שלום עליכם, עליכם שלום.
@@ -4926,7 +5134,7 @@
 ההרים, מקפץ על הגבעות.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4937,7 +5145,7 @@
 אנשק לך.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -4946,7 +5154,7 @@
 את כל מתיקותה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4955,7 +5163,7 @@
 הרבה הם הנותנים והמאמינים לי.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4964,7 +5172,7 @@
 בעניננו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4973,7 +5181,7 @@
 רוצה הוא בסיגרה? (מוציא תיק סיגרות גדול ומעשן).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -4983,7 +5191,7 @@
 ושוכח את המחלץ על השלחן).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -4992,7 +5200,7 @@
 כנראה. אינו ריחני כלל. איני מבין, מה כונתך באמרך “למהר”? (מעשן סיגרה).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -5000,7 +5208,7 @@
     למה לכם לדבר, תנו לי הכוס וידעתם פירושה של מלה“למהר”…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5008,22 +5216,26 @@
     בכבודך, צא מזה. צא תיכף!
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (נבהל)
+    <p>
+     (נבהל)
+    </p>
    </sp>
    <sp>
-    <speaker id="תיכף, תיכף (הולך) ר' אוריאל, רק שאלה אחת לא מיותרת">
+    <speaker id="sikhf, sikhf (hulkh) r' uril, rk shlh khs l myusrs">
      תיכף, תיכף (הולך) ר' אוריאל, רק שאלה אחת לא מיותרת
     </speaker>
     הס, שנה זו תהיה
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     התכנית פשוטה היא עד מאד (שותים). אנחנו תפסנו סחורה בהקפה רבה מאד, ואני
@@ -5031,40 +5243,48 @@
 אלפים רובל בערך. הרי לך המפתח. (נותן לו).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     שבעים וחמשת אלפים? סכום גדול, בלי עין רעה. אבל הרי אין הכסף הזה שלנו –
 של זרים הוא, וצריך להשיבו.
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     להשיבו? ר' הרשלי מדוברובנה, במחילה מכבודך. עתה העת היותר מוכשרת לפשט את
 הרגל.
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     לפשט את הרגל – בשביל מה? הן העסק הולך בטוב, מזומן יש למכביר, בשביל מה
 לפשט את הרגל? (מוזג לו עוד יין). הישתה? (מוזג כוס למזיק) לפשט את הרגל?
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     כשהעסקים רעים, פשיטת הרגל לאחר זמן היא; דוקא עכשו, כשהעסק “מתנפח”, טוב
@@ -5072,17 +5292,19 @@
 שלש פעמים יותר!
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    ( קופץ ממקומו):
+    <p>
+     ( קופץ ממקומו):
+    </p>
    </sp>
    <sp>
     האמנם כן הוא? (חושב רגע). אולם תמחל לי, ר' אוריאל, אלהים עמך. מה שייך?
 הרי אני רוצה קודם כל להיות איש ישר ויהודי כשר.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5094,7 +5316,7 @@
 סכום הכסף.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5102,16 +5324,18 @@
     אם כך, נחשב רגע – כמה הוא כל הסכום? (יושבים אצל השלחן ומחשבים).
    </sp>
    <sp>
-    <speaker id="משרת">
+    <speaker id="mshrs">
      משרת
     </speaker>
-    (בפתח):
+    <p>
+     (בפתח):
+    </p>
    </sp>
    <sp>
     אדוני, ר' חזקאל דרכמה רוצה לראותו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5119,7 +5343,7 @@
     חזקאל – מה לו ולי?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5127,7 +5351,7 @@
     עניניו יגעים מאד.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5136,7 +5360,7 @@
 אטו מילתא זוטרא היא?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5144,7 +5368,7 @@
     יבטח נא רק בי. (נכנסים חזקאל ומוטלי, כמדוכאים).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5152,7 +5376,7 @@
     מה זה, כי באתם אלי בשעה מאוחרת זו? אני זה עתה באתי עיף מן הדרך.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5160,7 +5384,7 @@
     רק מעט יש לי לדבר אליו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5170,7 +5394,7 @@
 בית המרחץ, כלו על חשבוני, ואין אני, לפי דעתך, ראוי לכבוד מצד הקהל – הה?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5182,7 +5406,7 @@
 ולנו – אין מאמינים. לכם משלמים, ולנו – אין משלמים.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5192,7 +5416,7 @@
 רצית להתחרות עם קפיטל! מי חיב בדבר?
    </sp>
    <sp>
-    <speaker id="מוטיל:">
+    <speaker id="mutil">
      מוטיל:
     </speaker>
    </sp>
@@ -5201,7 +5425,7 @@
 הפבריקה והקפיטל יחד, בכל מכל כל!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5209,38 +5433,42 @@
     הרף, מוטיל!
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (בכעס):
+    <p>
+     (בכעס):
+    </p>
    </sp>
    <sp>
     השמעתם דברי שקץ שבשקצים? הוא ישרף את הפבריקה שלי, את הרכוש שלי, את האוצר
 שלי?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="רצונו לומר">
+    <speaker id="rtsunu lumr">
      רצונו לומר
     </speaker>
     את הפבריקה שלנו, את האוצר שלנו.
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (אינו שומע):
+    <p>
+     (אינו שומע):
+    </p>
    </sp>
    <sp>
     אל הכלא הייתי משליך אותך, לסיביריה הייתי שולח אותך. שלך – שלך ושלי –
 שלי. אין רשות לשום איש לגעת באשר לי. (ליזר מתגנב ונכנס).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5251,7 +5479,7 @@
 ידידים לפנים.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5259,7 +5487,7 @@
     עניני ידידות לחוד, ועניני עסק לחוד.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5267,10 +5495,12 @@
     היו ימים שעשית טוב וחסד לכל מבקש
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     את זה עשיתי מתוך תמימותי. עכשו רואה אנכי שצריך להבין מתי להיטיב – ומתי
@@ -5279,16 +5509,18 @@
 לשוטה כ"כ.
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (בכעס):
+    <p>
+     (בכעס):
+    </p>
    </sp>
    <sp>
     הרשל שוכח שיש לו שותף בעסק, ושגם לשותף יש דעה שלו.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -5296,7 +5528,7 @@
     הבט על שותפך כמו על הפאה השמאלית אשר תעטפך…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5306,7 +5538,7 @@
 ואוכל. חרפה להחזיק אותו בביתי.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5314,50 +5546,54 @@
     ובכן?
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
-    <speaker id="יכול אני לעמד לך בצרה רק בעזרתי זו">
+    <speaker id="ikhul ni lemd lkh btsrh rk bezrsi zu">
      יכול אני לעמד לך בצרה רק בעזרתי זו
     </speaker>
     אני אצוה שיתנו לפסיניו מדי חדש בחדשו
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="רצונו לומר">
+    <speaker id="rtsunu lumr">
      רצונו לומר
     </speaker>
     מן הקונטורה .
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     ואתה ובנך לכו לעבודה בפבריקה שלי.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="רצונו לומר">
+    <speaker id="rtsunu lumr">
      רצונו לומר
     </speaker>
     בפבריקה
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5368,7 +5604,7 @@
 בהאי עלמא ליכא.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5376,7 +5612,7 @@
     נס גדול היה
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5384,7 +5620,7 @@
     ומה טוב ונוח לך מזה? אתה עובד יום, יומים, ובא על שכרך בטוח!
    </sp>
    <sp>
-    <speaker id="מוטיל:">
+    <speaker id="mutil">
      מוטיל:
     </speaker>
    </sp>
@@ -5392,7 +5628,7 @@
     נוח ובטוח עוד יותר הוא המת בקבר.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5407,7 +5643,7 @@
 ותסלחו לנו על שהטרחנו אתכם. שלום! ודאי, אתם הצדיקים…
    </sp>
    <sp>
-    <speaker id="מוטיל:">
+    <speaker id="mutil">
      מוטיל:
     </speaker>
    </sp>
@@ -5415,7 +5651,7 @@
     אלהים ישלם לכם כגמול חסדכם (עומדים לצאת).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5424,19 +5660,21 @@
 לעבוד. (כלם יוצאים).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (נשאר יושב לבדו):
+    <p>
+     (נשאר יושב לבדו):
+    </p>
    </sp>
    <sp>
-    <speaker id="חזקאל אומר, שאני הייתי לאחר, לא! אני אותו האיש שהייתי. והא ראיה">
+    <speaker id="khzkl umr, shni heysi lkhr, l! ni usu hish shheysi. uh rih">
      חזקאל אומר, שאני הייתי לאחר, לא! אני אותו האיש שהייתי. והא ראיה
     </speaker>
     כספה של
    </sp>
    <sp>
-    <speaker id="פרידינו:">
+    <speaker id="fridinu">
      פרידינו:
     </speaker>
    </sp>
@@ -5445,7 +5683,7 @@
 תמיד…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5453,7 +5691,7 @@
     דמיון שוא, ילדתי, איזו הדרך תבוא הדודה לכאן?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5461,7 +5699,7 @@
     איני יודעת. נדמה לי כך,תמיד, תמיד.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5470,10 +5708,12 @@
 תיק העגילים).
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    (פותחת):
+    <p>
+     (פותחת):
+    </p>
    </sp>
    <sp>
     אך, מה יפה! (בהתרגשות) כשתי טפות מים טהורות מול נוגה השמש. אח, נו – הם
@@ -5482,7 +5722,7 @@
 לבבי כנחש, ויונק את דמי.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5490,7 +5730,7 @@
     יש לי בכאן קצת עבודה. לכי לך ואני אבוא תיכף אליך.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5498,7 +5738,7 @@
     מבינה אני. יותר טוב לך להשאר לבדך ולמנות את הכספים…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5507,7 +5747,7 @@
 אלי, אלי! הבה לי בן! אחד שאלתי ממך, יותר לא אבקש.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5515,7 +5755,7 @@
     לא, לא. חולנית אנכי. אסור לי להיות אם לילדים.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5524,7 +5764,7 @@
 נא, פרידניו למה תעצבי ולמה ירע לבבך? מה יחסר לך?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5533,7 +5773,7 @@
 אחותי. אני לקחתי את מקומה של אמי ולי אין שום מקום… (בוכה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5541,7 +5781,7 @@
     ומה רצונך, פרידניו? אין אני מבין אותך.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5549,7 +5789,7 @@
     אני רוצה להיות מאושרת. תן לי אשר! תן לי חיים, חיים!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5557,18 +5797,18 @@
     אין אני מבין אותך, ובעצמך אינך יודעת את רצונך.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אין לי חשק למאומה ואין אני רוצה במאומה. רק משאלה אחת יש לי">
+    <speaker id="in li khshk lmumh uin ni rutsh bmumh. rk mshlh khs ish li">
      אין לי חשק למאומה ואין אני רוצה במאומה. רק משאלה אחת יש לי
     </speaker>
     יתחיל נא לבי
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5577,7 +5817,7 @@
 להרגיש הרגשים ההם. אין אנו יכולים להרגישם ואל נרגישם עוד לעולם!
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5586,7 +5826,7 @@
 מאד. שאלתי ובקשתי ממך, הרשל, אל נא תהיה לי זר יותר.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5595,7 +5835,7 @@
 כמדומה…הה?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5604,7 +5844,7 @@
 אשב פה על יד רגליך… רק פעם אחת, הרשלי…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5613,7 +5853,7 @@
 בכנורי, ואני דומה, שלא אדע לנגן עוד עליו לעולם.
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5621,7 +5861,7 @@
     לעולם? מת הכל?… ומה שהיה – הלך ולא ישוב? לעולם?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5633,27 +5873,29 @@
     לכי לך, פרידניו ליל מנוחה לך! (נושקה נשיקה קרה).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
-    – (קמה, מביטה עליו בארוכה, ואומרת בלחש):
+    <p>
+     – (קמה, מביטה עליו בארוכה, ואומרת בלחש):
+    </p>
    </sp>
    <sp>
     ליל מנוחה לך! (היא מחנקת את דמעותיה, אך הוא אינו מרגיש בזה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="(הולך ושותה כוס יין שלמה ושב אל הקופה). את זה כבר מניתי">
+    <speaker id="(hulkh ushush khus eyn shlmh ushb l hkufh). s zh khbr mnisi">
      (הולך ושותה כוס יין שלמה ושב אל הקופה). את זה כבר מניתי
     </speaker>
     ג' אלפים (מניח
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5661,27 +5903,29 @@
     האי מאי? אינך מאמין לי, הרשל, אתה בודק אחרי חשבונותי?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
-    (נבהל):
+    <p>
+     (נבהל):
+    </p>
    </sp>
    <sp>
     ר' אוריאל – זה אתה? אני מביט סתם, כך, אפשר טעית בחשבון…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="עסקים. עכשו… כן. אני עוד קודם שמעתי אותו אומר">
+    <speaker id="eskim. ekhshu… khn. ni eud kudm shmesi usu umr">
      עסקים. עכשו… כן. אני עוד קודם שמעתי אותו אומר
     </speaker>
     הכסף , הפבריקה
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5689,7 +5933,7 @@
     יהא לבו סמוך ובטוח, שהוא אדון פה כמוני.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5699,7 +5943,7 @@
 נעשה לחכם יותר מדאי, ובקופה כ"כ הרבה “מזומן”…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5707,7 +5951,7 @@
     אם הוא אינו מאמין לי, יכולים אנו להתקשר בכתב. אפילו מחר!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5715,7 +5959,7 @@
     מחר? תודה רבה! מי יודע מה שיעשה ר' הרשלי בכסף  מחר!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5723,7 +5967,7 @@
     אלא מהו רצונו? יאמר!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5732,16 +5976,18 @@
 לגשת אל הקופה).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (זורק במהירות את כל שקי הכסף אל המזודה וסוגר את הקופה):
+    <p>
+     (זורק במהירות את כל שקי הכסף אל המזודה וסוגר את הקופה):
+    </p>
    </sp>
    <sp>
     היך? סכום רב כזה אתן על ידו? כלום חושב הוא שיצאתי מדעתי?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5749,7 +5995,7 @@
     וכי מדוע האמנתי לו אני תמיד עוד יותר? אח! אני רואה עתה מהו ר' הרשלי!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5757,7 +6003,7 @@
     אם הוא רואה, יראה לו, ולא יאמין לי עוד מחר.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5765,7 +6011,7 @@
     מחר? לא! מחר יהיה מאוחר. מעכשו אינני מאמין לו!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5773,7 +6019,7 @@
     כיצד? (ממהר וסוגר את הקופה) ליל מנוחה! אני הולך לישון.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5783,7 +6029,7 @@
 תיכף כותב, והוא יחתם!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5791,7 +6037,7 @@
     אל ידבר שטות, ר' אוריאל. איזה ניר? איזה שטר? איככה אחתם? כיצד אחתם?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5799,7 +6045,7 @@
     מה? הגם על שטר לא יחתם?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5807,7 +6053,7 @@
     לאו! הוא האמין לי עד עתה, ויאמין לי עוד לילה אחד!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5816,7 +6062,7 @@
 בגושפנקא שלו.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5824,7 +6070,7 @@
     ילך אל כל הרוחות שבעולם, אינו רוצה להאמין – אל יאמין. אני הולך…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -5834,7 +6080,7 @@
 רץ אחריו).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5843,18 +6089,18 @@
 תן! תן את הכסף! (הם מתאבקים, מזיק משתחרר ורץ אל השלחן ותופש את המחלץ).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="חוזר הרשלי על דבריו">
+    <speaker id="khuzr hrshli el dbryu">
      חוזר הרשלי על דבריו
     </speaker>
     הכסף, הכסף תן לי! והוא רועד בכל גופו).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -5866,7 +6112,7 @@
 ונבהלים).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -5874,16 +6120,18 @@
     אוי ואבוי לי – מה קרה פה?
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    ( אוסף את הכסף וזורק אל המזודה, כמשוגע):
+    <p>
+     ( אוסף את הכסף וזורק אל המזודה, כמשוגע):
+    </p>
    </sp>
    <sp>
     הכסף שלי, שלי, שלי!
    </sp>
    <sp>
-    <speaker id="המסך.">
+    <speaker id="hmskh">
      המסך.
     </speaker>
    </sp>
@@ -5893,7 +6141,7 @@
 ארון קטן.
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
    </sp>
@@ -5902,19 +6150,21 @@
 פוזמק ומונה את הלולאות).
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    (בלחש):
+    <p>
+     (בלחש):
+    </p>
    </sp>
    <sp>
-    <speaker id="כ“א, כ”ב, כ“ג, כ”ד… אח. נפלה לולאה אחת. (מניחה את הפוזמק). חזקאל">
+    <speaker id="kh“, kh”b, kh“g, kh”d… kh. nflh lulh khs. (mnikhh s hfuzmk). khzkl">
      כ“א, כ”ב, כ“ג, כ”ד… אח. נפלה לולאה אחת. (מניחה את הפוזמק). חזקאל
     </speaker>
     אל
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5922,7 +6172,7 @@
     אל תפחדי, דובה. המפתן לא חלי ולא מרגיש. (בוקע).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -5931,7 +6181,7 @@
 שפה שסועה חלילה.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5939,7 +6189,7 @@
     צפניו שוב פעם, אה אה אה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -5949,7 +6199,7 @@
 התחתונה של הנולד? אינך יודע מאומה, חזקאל. כאלו לא גודלת בין אנשים.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -5959,7 +6209,7 @@
 בענינים כאלה.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -5974,7 +6224,7 @@
 נטרפת עליו. (ליזר בא מן הרחוב, מקל בידו).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -5982,16 +6232,18 @@
     יברככם ה‘! הביטו – הוא ישן. הוי, ר’ חזקאל עדיין מנמנם בחיקה של דובה…
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    (מבוישת):
+    <p>
+     (מבוישת):
+    </p>
    </sp>
    <sp>
     לך לך! הוא רק עתה השח את ראשו…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6000,7 +6252,7 @@
 אותך כראית מראה פלא!
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6010,7 +6262,7 @@
 בקשתי ומצאתי – תאמין. אתה יודע מה זה הא לחמא עניא?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6019,7 +6271,7 @@
 אלא מן החיים, מן החיים עצמם.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6027,7 +6279,7 @@
     וזהו מה שבקשתי ומצאתי. אתה מביט בי כתרנגול “בבני אדם”, הה? זהו! זהו!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6035,18 +6287,18 @@
     מה פירוש “זהו”?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="הא לחמא עניא – מסורס">
+    <speaker id="h lkhm eni – msurs">
      הא לחמא עניא – מסורס
     </speaker>
     “הא לחמא עניא”– הרי לך חרוז ל“חזקאל דרכמה”. הא
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6054,41 +6306,43 @@
     האח, חרזן זקן. חה חה חה חה! שב אורח אצלנו.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (יושב):
+    <p>
+     (יושב):
+    </p>
    </sp>
    <sp>
-    <speaker id="אלא חוזר">
+    <speaker id="l khuzr">
      אלא חוזר
     </speaker>
     הא לחמא עניא, חזקאל דרכמה…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אמרתי לה שתלך, אפשר שתמצא בזול">
+    <speaker id="mrsi lh shslkh, fshr shsmts bzul">
      אמרתי לה שתלך, אפשר שתמצא בזול
     </speaker>
     ריאה, כבד או כרעיים. נו, והמחותנת שלנו
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="ר' חזקאל">
+    <speaker id="r' khzkl">
      ר' חזקאל
     </speaker>
     מה היום מיומים? מה לידידי בביתו, יושב כאחד הנשיאים וצונף
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6104,7 +6358,7 @@
 להתחנן על נפשי. ( בוקע גזר עץ בכעס) לא. לא תחזינה עיני שונאי דבר זה!
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -6116,7 +6370,7 @@
     הוא יתברך לוקחו אליו, אבל צרה שכמותו השאיר לנו.
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6126,7 +6380,7 @@
 קבצן. בטוח אני לפחות, ששום מזיק לא יוציא את הגרגרת שלי.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -6135,7 +6389,7 @@
 ליזר, כמה זה מלי מליונים?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6143,7 +6397,7 @@
     זה הרבה מאד…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6152,18 +6406,18 @@
 שהם עכשו ידידים זה לזה יותר משהיו.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id="הוי, כשאני נזכר באותו הלילה! איזה קולות">
+    <speaker id="hoy, khshni nzkhr busu hlilh! izh kulus">
      הוי, כשאני נזכר באותו הלילה! איזה קולות
     </speaker>
     גנב, גזלן, רוצח! התכשיט שלי
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6171,7 +6425,7 @@
     טורח אתה לשוא. בדליכא! אף לא לקיקה כל שהיא! בשבת זו קדשנו על חלה…
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6180,7 +6434,7 @@
 טוב).
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -6192,7 +6446,7 @@
     אה… ירד שלג אשתקד? ( הכל צוחקים ).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6200,7 +6454,7 @@
     חה חה חה, טוב, כפתור ופרח! אשתקד היה גם קרח…
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -6208,18 +6462,18 @@
     איזה גרוי באזני השמאלית. סמן לבשורה רעה הלילה.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
    <sp>
-    <speaker id="כן, כן, חמותי, בשורה רעה לך הבאתי">
+    <speaker id="khn, khn, khmusi, bshurh reh lkh hbsi">
      כן, כן, חמותי, בשורה רעה לך הבאתי
     </speaker>
     שום “מציאה” לא קניתי. על כל ריאה,
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -6227,7 +6481,7 @@
     מוטיל המסכן ישוב רעב מן העבודה.
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -6236,7 +6490,7 @@
 עינא בישא.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -6245,7 +6499,7 @@
 מאכל בולבוסין? סבא, יש לך חרוז לבולבוסין?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6254,20 +6508,24 @@
 קוזק, הלך מזג…
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    ( שוסעת את דבריו):
+    <p>
+     ( שוסעת את דבריו):
+    </p>
    </sp>
    <sp>
     ומן הבקבוק משקה, הא גברא והא טסקה. חה, חה, חה! חמותי, נשמתי, לאן הלכה
 הדודה?
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     קראו אותה לפרידה. הרי היא שוב פעם חולה, לא הכא ולא התם ולא בכל בית
@@ -6275,96 +6533,116 @@
 שהיא ככל בני האדם, ובכל זאת אינה כך! (צפה יושבת עצובה).
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     זוהי מחלת מרה שחורה. אומרים, שכל העשירים חולים מחלה זו.
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אתה יודע, חזקאל, כל זה בא לה מחסרון בנים… אך מה אתה אומר לזה – שוב פעם
 גרוי באזני השמאלית?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אילו ידעתי, שמורנו ורבנו ר' הרשל אינו בבית, הייתי נכנס לשם, לראותה. אמת
 שגבירה היא, אעפי"כ ראויה היא לרחמים.
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
-    <speaker id="אלו ראיתם אותה בשעת מעשה">
+    <speaker id="lu rism ush bshes meshh">
      אלו ראיתם אותה בשעת מעשה
     </speaker>
     היא נעשית שקטה כיונה, מדובבת אל עצמה, שרה
    </sp>
    <sp>
-    <speaker id="הפועל">
+    <speaker id="hfuel">
      הפועל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אלהים עמכם… בבקשה מכם… לא כלום, אל תפחדו.
    </sp>
    <sp>
-    <speaker id="כלם">
+    <speaker id="khlm">
      כלם
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אוי ואבוי לנו. מה, מה?
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     שוד ושבר!
    </sp>
    <sp>
-    <speaker id="הפועל">
+    <speaker id="hfuel">
      הפועל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אין הסכנה גדולה חלילה. הגלגל קטע את ידו.
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     הפבריקה, הפבריקה! אוי הפבריקה.
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     איהו? איהו – מוטלי… מוטלי! ( היא רצה לדלת. באים פועלים יהודים הנושאים
@@ -6372,47 +6650,57 @@
 לבנה מגואלת גם היא בדם. צפה צועקת בקול מוזר) אוי לי! הוא מת! הוא מת!
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     בני, בני, בני יחידי! מוטלי שלי!…
    </sp>
    <sp>
-    <speaker id="הפועל">
+    <speaker id="hfuel">
      הפועל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אלהים עמכם! הוא רק התעלף. ( משכיבים אותו על המטה).
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אלהים, טליתותיך נעשות עכשו בכח גלגלים, הקורעים את אברינו אחד אחד! הביטו,
 בני, בני! מוטלי, בני, בני! (כלם אצל המטה).
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     מוטלי שלי! אוי, לבי מתפקע, לבי! כחי עוזבני! (היא ודובה צועקות ובוכות).
    </sp>
    <sp>
-    <speaker id="מוטלי">
+    <speaker id="mutli">
      מוטלי
     </speaker>
-    (שב אליו רוחו, בקול חלש מאד):
+    <p>
+     (שב אליו רוחו, בקול חלש מאד):
+    </p>
    </sp>
    <sp>
     אוי! (מתאמץ). אל תפחדו. לא כלום. רק יד אחת נקרעה. אחת. מה ערך לידו של
@@ -6421,28 +6709,34 @@
 במהירות).
    </sp>
    <sp>
-    <speaker id="חזקאל">
+    <speaker id="khzkl">
      חזקאל
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     מוטלי בני, התחזק! הנה בא הרופא.
    </sp>
    <sp>
-    <speaker id="צפניו">
+    <speaker id="tsfnyu">
      צפניו
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     אוי לי! מה היה? מה יהיה? (בוכה מרה).
    </sp>
    <sp>
-    <speaker id="דובה">
+    <speaker id="dubh">
      דובה
     </speaker>
-    :
+    <p>
+     :
+    </p>
    </sp>
    <sp>
     בני, בני! שוד ושבר באו! אללי, אללי! (הכל בוכים. הפועלים מוחים דמעותיהם.
@@ -6453,7 +6747,7 @@
 החור.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6462,7 +6756,7 @@
 לשבת (פועל מביא ספסל). מה חורו פניו!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6470,7 +6764,7 @@
     ראיתי סומקא ואתי בי חיורא… ( מתיר את צוארון כתנתו).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6481,7 +6775,7 @@
 אדם ארצה… מהו מוטלי אחד בפבריקה הגדולה, כלומר בעולם הגדול?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6490,18 +6784,18 @@
 מזיק! גם הרשלי משול כחרס הנשבר, כצל עובר, כאבק פורח וכחלום יעוף…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="פחד ויאוש. עוד איוב קונן אותה קינה. הוא היה אומר">
+    <speaker id="fkhd oyush. eud yub kunn ush kinh. hu hih umr">
      פחד ויאוש. עוד איוב קונן אותה קינה. הוא היה אומר
     </speaker>
     “אדם ילוד אשה… כציץ
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6513,18 +6807,18 @@
 להיות שואף, אם הוא מרוצה בחיים…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="אבל מעט לו לאדם להיות יהודי, הוא חיב להיות גם אדם! הרשלי">
+    <speaker id="bl met lu ldm lhyus ihudi, hu khib lhyus gm dm! hrshli">
      אבל מעט לו לאדם להיות יהודי, הוא חיב להיות גם אדם! הרשלי
     </speaker>
     כן. גם אדם!…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6537,7 +6831,7 @@
 רחצוהו…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6548,7 +6842,7 @@
 מרגיש!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6559,22 +6853,24 @@
 חי, – ואחר הוריד אותו למטה, עמק, עמק, וטחן אותו עד דק. ( מוליך אותו).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    ( מתוך מחשבה):
+    <p>
+     ( מתוך מחשבה):
+    </p>
    </sp>
    <sp>
     וכן הוא כל הענין, כנראה. גלגל החיים מעלה את האדם למעלה למעלה, ואחר הוא
 זורקו למטה, למטה, וטוחן אותו עד דק, עד אפר ואפר.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
    <sp>
-    <speaker id="קוניק. ראו נא עודנו חור. זהו מה שאומרים">
+    <speaker id="kunik. ru n eudnu khur. zhu mh shumrim">
      קוניק. ראו נא עודנו חור. זהו מה שאומרים
     </speaker>
     אי־מנוסה בחיים. בפבריקאות
@@ -6586,7 +6882,7 @@
 נעשה כהה.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -6594,7 +6890,7 @@
     פרידניו, מה לך, בתי? החולה את? את חולה?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -6605,7 +6901,7 @@
 את הכנור ומסתכלת בו).
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6613,7 +6909,7 @@
     אבל משום הדבר כך? משום מה יש לך הרגשה כזו?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -6621,7 +6917,7 @@
     אין אני יודעת. פתע בא עצב זה ללבבי. פתע בא אלי הכאב ואוכלני.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -6630,7 +6926,7 @@
 אפשר לעזבה לבדה?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6640,17 +6936,19 @@
 ליזר קם).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (עצוב מאד):
+    <p>
+     (עצוב מאד):
+    </p>
    </sp>
    <sp>
     ראו נא, איזה אורחים אצלי בקונטורה. נו, פרידניו, מה שלומך? באת לראות
 אותי?
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -6661,26 +6959,30 @@
 הכנור?
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    ( מניח את הכנור במקומו):
+    <p>
+     ( מניח את הכנור במקומו):
+    </p>
    </sp>
    <sp>
     הרגעי נא, פרידניו. במטותא ממך, רחמי עליך וגם עלי.
    </sp>
    <sp>
-    <speaker id="פרידניו">
+    <speaker id="fridnyu">
      פרידניו
     </speaker>
-    (מתוך מחשבה):
+    <p>
+     (מתוך מחשבה):
+    </p>
    </sp>
    <sp>
     ימים ארוכים הולכים ונמשכים, בלי אור ובלי חשך, בלי חם ובלי קור, בלי צער
 ובלי שמחה.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6688,7 +6990,7 @@
     אין שמחה לא התא ולא הכא. (נאנח קשה).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -6699,7 +7001,7 @@
 הפסדנו הכל, הכל…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -6707,7 +7009,7 @@
     הכל מפסידים. אין אינו זוכה.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6716,25 +7018,29 @@
 מחשבת האדם… (שתי הנשים יוצאות).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (יושב):
+    <p>
+     (יושב):
+    </p>
    </sp>
    <sp>
     לא! את הכסף כבר מניתי. החשבונות – כן, דומה שכבר הגיע הזמן לבוא חשבונות.
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (שעמד כל הזמן כנבהל, עושה תנועה בידו ורץ כמתגנב אל הדלת):
+    <p>
+     (שעמד כל הזמן כנבהל, עושה תנועה בידו ורץ כמתגנב אל הדלת):
+    </p>
    </sp>
    <sp>
     שלום! (רוצה לברח).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6744,16 +7050,18 @@
 זרים.
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (לעצמו):
+    <p>
+     (לעצמו):
+    </p>
    </sp>
    <sp>
     הוא מחפש אדם אצל בדחן.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -6768,7 +7076,7 @@
 ועם הארץ…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6776,18 +7084,18 @@
     לא, אבא. לא לזאת כונתי. אתה לא הבנת לי.
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
    <sp>
-    <speaker id='קבצנים אין הדבר חשוב כ"כ'>
+    <speaker id='kbtsnim in hdbr khshub kh"kh'>
      קבצנים אין הדבר חשוב כ"כ
     </speaker>
     עוד אדם אל השלחן. אבל פה – מה לי פה ומי לי פה?
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6795,7 +7103,7 @@
     נו, ר' הרשל, רואה הוא, שבתוך כל אדם שוכן מין בדחן…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6809,7 +7117,7 @@
 האדם בעצמו! ( האור בחדר הולך וכהה יותר).
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6818,7 +7126,7 @@
 אין אני יודע פחד מפני האדם מהו? כלום האדם כל יכל הוא?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6829,7 +7137,7 @@
 (פועלים מכניסים את דובה ואת צפה הבוכות).
    </sp>
    <sp>
-    <speaker id="פועל:">
+    <speaker id="fuel">
      פועל:
     </speaker>
    </sp>
@@ -6838,7 +7146,7 @@
 הנתוח. הוי, בכמה כח לקחנו אותן מעל החולה. (יוצא).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6846,7 +7154,7 @@
     הכנסנה לשם… שם יושבות שלנו. (מוליך אותן).
    </sp>
    <sp>
-    <speaker id="דובה:">
+    <speaker id="dubh">
      דובה:
     </speaker>
    </sp>
@@ -6855,7 +7163,7 @@
 עיני נלקחה ממני! בני היחיד נעשה בעל מום לכל ימי חייו!
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -6864,7 +7172,7 @@
 למוטלי יד – יהי פועל אחר במקומו. (בוכה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6872,7 +7180,7 @@
     לא אדונך אני, כי אם גם דודך וגיסך אני.
    </sp>
    <sp>
-    <speaker id="צפניו:">
+    <speaker id="tsfnyu">
      צפניו:
     </speaker>
    </sp>
@@ -6881,7 +7189,7 @@
 איו אתה גם גיסי. (יוצאות דרך הדלת הפנימית).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6893,7 +7201,7 @@
 לבדי.
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6902,7 +7210,7 @@
 מפני שהוא חושב עתה כ"כ הרבה על האדם…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6913,7 +7221,7 @@
 ממך, עזבני עכשו…
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6921,18 +7229,18 @@
     האדם רוצה להיות לבדו, כלומר בלעדי?
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
    <sp>
-    <speaker id="כן, כן, לך לך! אני אהיה לבדי. שומע אתה? (בכעס) אומר אני לך">
+    <speaker id="khn, khn, lkh lkh! ni hih lbdi. shume sh? (bkhes) umr ni lkh">
      כן, כן, לך לך! אני אהיה לבדי. שומע אתה? (בכעס) אומר אני לך
     </speaker>
     לך מכאן!
    </sp>
    <sp>
-    <speaker id="מזיק:">
+    <speaker id="mzik">
      מזיק:
     </speaker>
    </sp>
@@ -6943,7 +7251,7 @@
 בלבבו. עסק ביש עם ברואים כאלה! (יוצא).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6958,7 +7266,7 @@
 חשבונות… (פסיניו נכנסת) אוי!
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -6967,7 +7275,7 @@
 (הולכת לדלת החיצונה).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6975,7 +7283,7 @@
     טוב כי באת, פסיניו. ברצוני לדבר אתך…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -6983,7 +7291,7 @@
     לדבר?… לא, לא עכשו… הוא פה לבדו… איש זר…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -6991,7 +7299,7 @@
     אל תחשבי… פסיניו, שיש בזה חטא…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -7000,7 +7308,7 @@
 יושב בחשך? האבקש להביא עששית? (בדלת). הביאו עששית!
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7008,7 +7316,7 @@
     לא. אני רוצה לשבת בחשך. (משרת מביא עששית ויוצא).
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -7017,7 +7325,7 @@
 (נגשת לדלת, ליזר נכנס ברעש).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7025,16 +7333,18 @@
     מה? מה היה?
    </sp>
    <sp>
-    <speaker id="ליזר">
+    <speaker id="lizr">
      ליזר
     </speaker>
-    (נבהל):
+    <p>
+     (נבהל):
+    </p>
    </sp>
    <sp>
     פסי, הטריחי נא, צריך אני לומר לך דבר מה… הס…
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -7042,7 +7352,7 @@
     סודותיו ידועים. מה הוא רוצה?
    </sp>
    <sp>
-    <speaker id="ליזר:">
+    <speaker id="lizr">
      ליזר:
     </speaker>
    </sp>
@@ -7051,7 +7361,7 @@
 שמוטלי לא עצר כח בשעת בנתוח…  שם, אסור להגיד להן את הדבר.
    </sp>
    <sp>
-    <speaker id="פסיניו:">
+    <speaker id="fsinyu">
      פסיניו:
     </speaker>
    </sp>
@@ -7060,7 +7370,7 @@
 (יוצאים).
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7073,7 +7383,7 @@
 חזקאל מדוכא עיניו דומעות. שתיקה).
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -7082,7 +7392,7 @@
 האומללה ואת כלתי העזובה…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7090,7 +7400,7 @@
     כך? אפשר להן ללכת – הנתוח נגמר כבר?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -7099,7 +7409,7 @@
 שיודע להן… (בלחש). ר' הרשלי, בני מת תחת האיזמל…
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7107,7 +7417,7 @@
     אוי לי! מת? ברוך דין האמת!
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -7117,7 +7427,7 @@
 בעדי לבדי.
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7126,18 +7436,18 @@
 מעשיו. אך איזה חשבון יש לך עלי? לך?
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
    <sp>
-    <speaker id="הנכנע לך; ידידים היינו, ועתה הנני עבדך">
+    <speaker id="hnkhne lkh; ididim heynu, uesh hnni ebdkh">
      הנכנע לך; ידידים היינו, ועתה הנני עבדך
     </speaker>
     לפנים הלכת לטבילה במי מקוה
    </sp>
    <sp>
-    <speaker id="הרשלי:">
+    <speaker id="hrshli">
      הרשלי:
     </speaker>
    </sp>
@@ -7145,7 +7455,7 @@
     חזקאל, רחם עלי, חזקאל. אני מבקש ממך…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -7163,10 +7473,12 @@
 קלקל את סחורתך, לך וזקף זה על חשבוני! (רץ אל החדרים הפנימיים).
    </sp>
    <sp>
-    <speaker id="הרשלי">
+    <speaker id="hrshli">
      הרשלי
     </speaker>
-    (נשאר זמן רב בלי נוע. אח"כ לוקח את הטלית ומסתכל בה):
+    <p>
+     (נשאר זמן רב בלי נוע. אח"כ לוקח את הטלית ומסתכל בה):
+    </p>
    </sp>
    <sp>
     רטובה טלית זו בדם ובדמעות של היתומים – וזה לכתב עוד על חשבונו…אוי,
@@ -7196,7 +7508,7 @@
 קשה. הקופה מסתירה את גופו. דומיה. נכנסת פרידניו).
    </sp>
    <sp>
-    <speaker id="פרידניו:">
+    <speaker id="fridnyu">
      פרידניו:
     </speaker>
    </sp>
@@ -7209,25 +7521,29 @@
 מפחדת, מפחדת להביט אליו! אוי!
    </sp>
    <sp>
-    <speaker id="כלם">
+    <speaker id="khlm">
      כלם
     </speaker>
-    (נבהלים):
+    <p>
+     (נבהלים):
+    </p>
    </sp>
    <sp>
     מה? מה ארע? (חזקאל רואה אותו).
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    (נגשת להורידו):
+    <p>
+     (נגשת להורידו):
+    </p>
    </sp>
    <sp>
     אל תפחדו ממנו, אוי, לבי שותת דם…
    </sp>
    <sp>
-    <speaker id="חזקאל:">
+    <speaker id="khzkl">
      חזקאל:
     </speaker>
    </sp>
@@ -7236,7 +7552,7 @@
 אותו על הארץ ומכסים אותו בטלית).
    </sp>
    <sp>
-    <speaker id="ליזר!">
+    <speaker id="lizr">
      ליזר!
     </speaker>
    </sp>
@@ -7245,10 +7561,12 @@
 תמרורים).
    </sp>
    <sp>
-    <speaker id="מזיק">
+    <speaker id="mzik">
      מזיק
     </speaker>
-    (לעצמו):
+    <p>
+     (לעצמו):
+    </p>
    </sp>
    <sp>
     כל כך הרבה “מזומנים” בקופה, ולא אבה לחיות! אם כן גם כחו של השטן אינו יפה
@@ -7256,16 +7574,20 @@
 כלל האדם? אם כן,
    </sp>
    <sp>
-    <speaker id="אני">
+    <speaker id="ni">
      אני
     </speaker>
-    הפסדתי?
+    <p>
+     הפסדתי?
+    </p>
    </sp>
    <sp>
-    <speaker id="פסיניו">
+    <speaker id="fsinyu">
      פסיניו
     </speaker>
-    (נופלת אצל גוף המת):
+    <p>
+     (נופלת אצל גוף המת):
+    </p>
    </sp>
    <sp>
     עתה, כשר' הרשלי מוטל מת, תנוני לשבת על ידו, לספד לו ולבכותו… (בוכה,
@@ -7287,7 +7609,7 @@
     והשאיפה תחיה לעולמים…
    </sp>
    <sp>
-    <speaker id="המסך.">
+    <speaker id="hmskh">
      המסך.
     </speaker>
    </sp>

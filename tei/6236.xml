@@ -128,7 +128,7 @@
     המחזה בשׁוֹטלנד ואַנְגְּלִיָה
    </sp>
    <sp>
-    <speaker id="ערבה">
+    <speaker id="erbh">
      ערבה
     </speaker>
    </sp>
@@ -136,7 +136,7 @@
     [רעם וברקים. נכנסות שלוש מכשפות]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -147,7 +147,7 @@
     בְּמָטָר אוֹ בַחֲזִיז וָרָעַם?
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -158,7 +158,7 @@
     עִם גְּמַר-תְּבוּסָה וְנִצְחוֹן-קְרָב.
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -166,7 +166,7 @@
     עַד יֵט שֶׁמֶשׁ לַעֲרֹב.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -174,7 +174,7 @@
     אֵיפֹה?
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -182,7 +182,7 @@
     עַל הַתֵּל הָרָם
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -190,7 +190,7 @@
     עִם מֶקְבֶּת נִפָּגֵשׁ שָׁם.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -198,7 +198,7 @@
     חֲתוּלִי, הִנֵּנִי!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -206,7 +206,7 @@
     צְפַרְדְּעִי קוֹרֵא לִי.
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -214,7 +214,7 @@
     מִיָּד!
    </sp>
    <sp>
-    <speaker id="כולן יחדיו">
+    <speaker id="khuln ikhdyu">
      כולן יחדיו
     </speaker>
    </sp>
@@ -228,20 +228,22 @@
     [המכשפות נעלמות]
    </sp>
    <sp>
-    <speaker id="מחנה בקרבת פורס">
+    <speaker id="mkhnh bkrbs furs">
      מחנה בקרבת פורס
     </speaker>
-    <a class="footnote" href="#fn:1" id="fnref:1" title="see footnote">
-     <sup>
-      1
-     </sup>
-    </a>
+    <p>
+     <a class="footnote" href="#fn:1" id="fnref:1" title="see footnote">
+      <sup>
+       1
+      </sup>
+     </a>
+    </p>
    </sp>
    <sp>
     [קול שאון קרב. נכנסים דונקן המלך, מלקולם, דונלבין, לינוקס ושלישיו ונפגשים עם חיל פצוע]
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -255,7 +257,7 @@
     בִּדְבַר הַמֶּרֶד.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -272,7 +274,7 @@
     הַגֵּד לַמֶּלֶךְ מִשְׁפַּט הַמַּעֲרָכָה.
    </sp>
    <sp>
-    <speaker id="השר">
+    <speaker id="hshr">
      השר
     </speaker>
    </sp>
@@ -307,10 +309,12 @@
     בַּקְרָב הָאָרוּר כְּזוֹנָה; אַךְ לַשָׁוְא.
    </sp>
    <sp>
-    <speaker id="מֶקְבֶּת">
+    <speaker id="mֶkְbֶs">
      מֶקְבֶּת
     </speaker>
-    הַגִּבּוֹר (כִּי לֹא שָׁוְא לוֹ שְׁמוֹ זֶה)
+    <p>
+     הַגִּבּוֹר (כִּי לֹא שָׁוְא לוֹ שְׁמוֹ זֶה)
+    </p>
    </sp>
    <sp>
     בָּז לַהַצְלָחָה, עוֹפֵף חֶרֶב-פֶּלֶד
@@ -328,7 +332,7 @@
     לֹא פָשַׁט יָדוֹ אַף לֹא אָמַר שָׁלוֹם
    </sp>
    <sp>
-    <speaker id="עַד בְּקָעוֹ">
+    <speaker id="eַd bְkָeuֹ">
      עַד בְּקָעוֹ
     </speaker>
     מִסַנְטֵרוֹ עַד מַפְרַקְתּוֹ,
@@ -337,7 +341,7 @@
     וַיִתְקַע רֹאשׁוֹ עַל שִׂיא חוֹמוֹתֵינוּ.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -345,7 +349,7 @@
     הוֹי, אָח לִי גִבּוֹר! אָצִיל יְקַר-רוּחַ!
    </sp>
    <sp>
-    <speaker id="השר">
+    <speaker id="hshr">
      השר
     </speaker>
    </sp>
@@ -377,7 +381,7 @@
     וַיֶאֱסֹר שׁוּב הַקְּרָב.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -385,7 +389,7 @@
     וְלֹא נָמֵס לֶב-מַצְבִּיאֵי-חֵילִי? לֶב-מֶקְבֶּת, לֶב בֶּנְקוֹ?
    </sp>
    <sp>
-    <speaker id="השר">
+    <speaker id="hshr">
      השר
     </speaker>
    </sp>
@@ -414,7 +418,7 @@
     אַךְ עָיַפְתִּי, פְּצָעַי קוֹרְאִים לְעֶזְרָה.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -437,7 +441,7 @@
     מִי הַבָּא?
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -445,7 +449,7 @@
     הוּא אַלּוּף רוֹס.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -456,7 +460,7 @@
     אַךְ מַרְאֵה מַגִּיד פְּלָאִים.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -464,7 +468,7 @@
     אֵל, מֶלֶך נְצֹר!
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -472,7 +476,7 @@
     מֵאַיִן תָּבֹא, הוֹי, אַלּוּף נִכְבָּד?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -516,7 +520,7 @@
     נִצַּחְנוּ, מַלְכִּי!
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -524,7 +528,7 @@
     מַה מְּאֹד אֻשַּׁרְתִּי!
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -544,7 +548,7 @@
     בְּסֵיְנט-קוֹלְם הֵם יָרְדוּ לַטִּמְיוֹן.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -558,7 +562,7 @@
     וְיִירַשׁ שְׁמוֹ מֶקְבֶּת, גְּדֻלָּתוֹ יִנְחָל.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -566,7 +570,7 @@
     הִנְנִי לַעֲשׂוֹת רְצוֹנֶךָ.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -577,7 +581,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="צִיָּה בקרבת פורֶס">
+    <speaker id="tsִiָּh bkrbs furֶs">
      צִיָּה בקרבת פורֶס
     </speaker>
    </sp>
@@ -585,7 +589,7 @@
     [רעם. שלוש מכשפות נכנסות]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -593,7 +597,7 @@
     אֲחוֹתִי, אֵי הָיִית?
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -601,7 +605,7 @@
     חָנַקְתִּי חֲזִירִים.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -627,7 +631,7 @@
     כֵּן אָעַשׂ, כֵּן אָעַשׂ, כֵּן אָעַשׂ.
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -635,7 +639,7 @@
     אֲצַו לָךְ רוּחַ.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -643,7 +647,7 @@
     בָּךְ לִבִּי בָּטוּחַ.
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -651,7 +655,7 @@
     וּשְׁנִיָּה מִיָּדִי.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -698,7 +702,7 @@
     רְאִי מַה בְּכַפִּי.
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -706,7 +710,7 @@
     מַה לָּךְ? מַה לָּךְ?
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -723,7 +727,7 @@
     [קול תופים]
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -734,7 +738,7 @@
     מֶקְבֶּת בָּא.
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -763,7 +767,7 @@
     [נכנסים מקבת ובנקו]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -771,7 +775,7 @@
     יוֹם יָפֶה וְאָיֹם כָּזֶה עוֹד לֹא רָאִיתִי.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -803,7 +807,7 @@
     הֵם יִמְנְעוּנִי מֵחֲשֹׁב זֹאת.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -814,7 +818,7 @@
     אֱמֹרְנָה אִם תּוּכַלְנָה, מִי אַתֶּן.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -822,7 +826,7 @@
     יְחִי מֶקְבֶּת! יְחִי אַלּוּף גְּלֶמִיס!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -830,7 +834,7 @@
     יְחִי מֶקְבֶּת! יְחִי אַלּוּף קוֹדוֹר!
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -838,7 +842,7 @@
     יְחִי מֶקְבֶּת! יְחִי הַמֶּלֶךְ לֶעָתִיד!
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -876,7 +880,7 @@
     גַּם אֶת חִבַּתְכֶן גַּם שִׂנְאַתְכֶן.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -884,7 +888,7 @@
     תְּהִלָּה!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -892,7 +896,7 @@
     תְּהִלָּה!
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -900,7 +904,7 @@
     תְּהִלָּה!
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -908,7 +912,7 @@
     קָטָן מִמֶּקְבֶּת וְגָדוֹל מִמֶּנוּ!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -916,7 +920,7 @@
     לֹא מְאֻשָּׁר כְּמוֹתוֹ וּמְאֻשָּׁר מִמֶּנּוּ!
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -924,24 +928,24 @@
     מִמְּךָ מְלָכִים יֵצְאוּ, וְאַתָּה לֹא תִמְלֹךְ!
    </sp>
    <sp>
-    <speaker id="יִחְיוּ גַם שְׁנֵיהֶם">
+    <speaker id="ikhְyu gַm shְׁnֵihֶm">
      יִחְיוּ גַם שְׁנֵיהֶם
     </speaker>
     בֶּנְקוֹ וּמֶקְבֶּת!
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
    <sp>
-    <speaker id="יִחְיוּ גַם שְׁנֵיהֶם">
+    <speaker id="ikhְyu gַm shְׁnֵihֶm">
      יִחְיוּ גַם שְׁנֵיהֶם
     </speaker>
     בֶּנְקוֹ וּמֶקְבֶּת!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -949,7 +953,7 @@
     חַכֶּינָה, מְנַבְּאוֹת לְקוּיוֹת וְהַגֵּדְנָה עוֹד:
    </sp>
    <sp>
-    <speaker id="יָדָעְתִּי">
+    <speaker id="iָdָeְtִi">
      יָדָעְתִּי
     </speaker>
     מִשֶּׁמֵּת סֶנֶיל, אֲנִי
@@ -976,7 +980,7 @@
     [המכשפות נעלמות]
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -987,7 +991,7 @@
     מֵהֶן גַּם אֵל, אַךְ בּוּעוֹת. אָנָא בָאוּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1001,7 +1005,7 @@
     שֶׁנֶּעְלָמוּ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1015,7 +1019,7 @@
     הַלּוֹקְחִים מֶנּוּ בִּינָתֵנוּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1026,7 +1030,7 @@
     בָּנֶיךָ מְלָכִים.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1034,7 +1038,7 @@
     אַתָּה תִהְיֶה מֶלֶךְ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1042,7 +1046,7 @@
     וְגַם אַלּוּף-קוֹדוֹר; לֹא כֵן הַדָּבָר?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1053,7 +1057,7 @@
     [נכנסים רוס ואנגוּס]
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -1097,7 +1101,7 @@
     לְשָׁפְכָן כֻּלָּן לְפָנָיו.
    </sp>
    <sp>
-    <speaker id="אנגוס">
+    <speaker id="ngus">
      אנגוס
     </speaker>
    </sp>
@@ -1111,7 +1115,7 @@
     אַף לְלַוּוֹתְךָ אֵלָיו, לֹא לָתֵת פְּרָס.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -1128,7 +1132,7 @@
     וּלְךָ הוּא!
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1136,7 +1140,7 @@
     כֵּיצַד? נֶאֶמְנוּ דִבְרֵי שָׂטָן?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1147,7 +1151,7 @@
     בִּבְגָדִים שְׁאוּלִים?
    </sp>
    <sp>
-    <speaker id="אנגוס">
+    <speaker id="ngus">
      אנגוס
     </speaker>
    </sp>
@@ -1176,7 +1180,7 @@
     וּבְפִשְׁעוֹ נָפָל.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1202,7 +1206,7 @@
     הִבְטִיחוּ זֹאת, לֹא פָחוֹת?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1231,7 +1235,7 @@
     אַחַי, אַךְ מִלָּה אַחַת בְּבַקָּשָׁתִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1287,7 +1291,7 @@
     לִי כְלוּם מִלְּבַד מַה שֶׁהוּא לֹא-כְלוּם.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1295,7 +1299,7 @@
     רְאוּ חֲבֵרֵנוּ אֵיךְ הוּא נִדְהָם מְאֹד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1306,7 +1310,7 @@
     הוּא יַעַטְרֵנִי בְּלִי שֶׁאָזוּז.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1320,7 +1324,7 @@
     הוֹלְמֶנּוּ אֶלָּא מִתּוֹךְ שִׁמּוּשׁ רַב.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1331,7 +1335,7 @@
     עַל שְׁעוֹתֵיהֶם, וְאִם קָשֶׁה הַיּוֹם מְאֹד.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1342,7 +1346,7 @@
     אַךְ לְךָ נוֹחִילָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1371,7 +1375,7 @@
     בְּלֹא לֵב וָלֵב אִישׁ אֶת רֵעֵהוּ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1379,7 +1383,7 @@
     בְּחֵפֶץ-לֵב.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1390,7 +1394,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="פורֶס. חדר הארמון">
+    <speaker id="furֶs. khdr hrmun">
      פורֶס. חדר הארמון
     </speaker>
    </sp>
@@ -1398,7 +1402,7 @@
     [קול חצוצרות. נכנסים דונקן, מלקולם, דונלבין, לינוקס ורואי פני המלך]
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1409,7 +1413,7 @@
     לַפֹּעַל וְהַמַּלְאָכִים שָׁבוּ?
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -1444,7 +1448,7 @@
     כְּהַשְׁלִיךְ אִישׁ כְּלִי אֵין בּוֹ חֵפֶץ.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1491,7 +1495,7 @@
     חוֹבִי לְךָ עוֹלֶה עַל כָּל שִׁלּוּמִים בָּעוֹלָם!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1514,7 +1518,7 @@
     לֹא עָשׂוּ אֶלָּא מַה שֶּׁהֵם חַיָּבִים.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1537,7 +1541,7 @@
     אֶל לִבִּי אֲאַמְצֶךָ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -1548,7 +1552,7 @@
     הַיְבוּל, אַךְ לְךָ, מַלְכִּי.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1583,7 +1587,7 @@
     מִכָּאן לְאִינְוֶרְנֶס. [אל מקבת] הוֹסֵף וְחַיְּבֵנוּ עוֹד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1603,7 +1607,7 @@
     מִמְּךָ אֶפָּרֵד.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1611,7 +1615,7 @@
     קוֹדוֹר הַנַּעֲלֶה שֶׁלִּי!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1637,7 +1641,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -1660,7 +1664,7 @@
     [קול חצוצרות, יוצאים]
    </sp>
    <sp>
-    <speaker id="אִיְנְוֶרְנְס . ארמון מקבת">
+    <speaker id="ִiְnְuֶrְnְs . rmun mkbs">
      אִיְנְוֶרְנְס . ארמון מקבת
     </speaker>
    </sp>
@@ -1668,7 +1672,7 @@
     [נכנסת לידי מקבת, בידה מכתב]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1694,7 +1698,7 @@
     הָאֲחָיוֹת הַקוֹסְמוֹת. וְגַם גִּלּוּ לִי שֶׁמֶץ מֵעֲתִידוֹת
    </sp>
    <sp>
-    <speaker id="תָּבֹאנָה, בְּאָמְרָן">
+    <speaker id="tָbֹnָh, bְomְrָn">
      תָּבֹאנָה, בְּאָמְרָן
     </speaker>
     יְחִי הַמֶּלֶךְ לֶעָתִיד. מָצָאתִי
@@ -1739,7 +1743,7 @@
     וּבְרֶוַח שֶׁל רַמַּאי. נִצְרָךְ גְּלֶמִיס
    </sp>
    <sp>
-    <speaker id="לְקוֹרֵא">
+    <speaker id="lְkuֹrֵ">
      לְקוֹרֵא
     </speaker>
     “כֹּה עֲשֵׂה, אִם אַךְ תִּרְצֶה בָזֶה”,
@@ -1772,7 +1776,7 @@
     אַתָּה, מַה תְּבַשֵּׂר?
    </sp>
    <sp>
-    <speaker id="המלאך">
+    <speaker id="hmlkh">
      המלאך
     </speaker>
    </sp>
@@ -1780,7 +1784,7 @@
     הַמֶּלֶךְ בָּא הַלַּיְלָה הֵנָּה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1797,7 +1801,7 @@
     מוֹדִיעַ לִי לְהִכּוֹן.
    </sp>
    <sp>
-    <speaker id="המלאך">
+    <speaker id="hmlkh">
      המלאך
     </speaker>
    </sp>
@@ -1814,7 +1818,7 @@
     הִגִּיעַ פֹּה לְבַשֵׂר.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1879,7 +1883,7 @@
     וְלֹא יַחְדְּרוּ שְׁחָקִים צְעִיף-הַמַּאְפֵּלְיָה
    </sp>
    <sp>
-    <speaker id="וְקָרְאוּ">
+    <speaker id="uְkָrְu">
      וְקָרְאוּ
     </speaker>
     “הֶרֶף, הֶרֶף!”
@@ -1903,7 +1907,7 @@
     עֲתִידוֹת אָחוּשׁ עוֹד נָכוֹנוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1914,7 +1918,7 @@
     הַלַּיְלָה דּוּנְקֶן הֵנָּה בָא!
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1922,7 +1926,7 @@
     וּמָתַי יֵלֵךְ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1930,7 +1934,7 @@
     עוֹד מָחָר. כֵּן יְשַׁעֵר.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1974,7 +1978,7 @@
     בִּגְאוֹן-מְלָכִים וְשִׁלְטוֹן בְּלִי מְצָרִים.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -1982,7 +1986,7 @@
     עוֹד נָשׁוּב לְדַבֵּר בְּעִנְיָן זֶה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -1996,7 +2000,7 @@
     לַשְּׁאָר אֶדְאַג אָנִי.
    </sp>
    <sp>
-    <speaker id="לפני ארמון מקבת">
+    <speaker id="lfni rmun mkbs">
      לפני ארמון מקבת
     </speaker>
    </sp>
@@ -2007,7 +2011,7 @@
     בנקו, לינוקס, מקדוף, רוס, אנגוס ובני-לוויה]
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -2021,7 +2025,7 @@
     חוּשֵׁינוּ הַמִּתְרַכְּכִים.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2047,7 +2051,7 @@
     וְעָשְׂתָה עֶרֶשׂ-אֶפְרוֹחֶיהָ. זֹאת
    </sp>
    <sp>
-    <speaker id="רָאִיתִי">
+    <speaker id="rִָisִi">
      רָאִיתִי
     </speaker>
     מָקוֹם אֲשֶׁר תִּבְחַר לְקַנֵּן
@@ -2059,7 +2063,7 @@
     [נכנסת לידי מקבת]
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -2085,7 +2089,7 @@
     אֲסִירֵי תוֹדָה עַל שֶׁהֶלְאֵיתִיכֶן.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2114,7 +2118,7 @@
     מִלְּפָנִים וְעָתָּה; וְנוֹדֶה לוֹ בִּתְפִלָּה.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -2140,7 +2144,7 @@
     אוֹרְחֵיכֶם נִהְיֶה לַיְלָה זֶה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2157,7 +2161,7 @@
     וּלְהַחֲזִיר אֶת שֶׁלְּךָ לְךָ.
    </sp>
    <sp>
-    <speaker id="דונקן">
+    <speaker id="dunkn">
      דונקן
     </speaker>
    </sp>
@@ -2177,7 +2181,7 @@
     [הכול יוצאים]
    </sp>
    <sp>
-    <speaker id="ארמונו של מקבת">
+    <speaker id="rmunu shl mkbs">
      ארמונו של מקבת
     </speaker>
    </sp>
@@ -2188,7 +2192,7 @@
     עם קערות ועוברים על פני הבימה. אחרי כן נכנס מקבת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2229,7 +2233,7 @@
     בָּהּ שַׂמְנוּ רָעַל. זְבוּל-מִבְטַחִים מִשְׁנֶה
    </sp>
    <sp>
-    <speaker id="לוֹ פֹה">
+    <speaker id="luֹ fֹh">
      לוֹ פֹה
     </speaker>
     אֲנִי שְׁאֵר-בְּשָׂרוֹ גַּם נְתִינוֹ,
@@ -2286,7 +2290,7 @@
     מַה יֵּשׁ?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2294,7 +2298,7 @@
     כִּמְעַט וְגָמַר לִסְעֹד. לָמָה נְטַשְׁתּוֹ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2302,7 +2306,7 @@
     הֲדָרַשׁ לִי?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2310,7 +2314,7 @@
     אֲבָל כְּלוּם לֹא יָדָעְתָּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2330,7 +2334,7 @@
     וְלֹא לְמַהֵר וּלְהִתְפָּרְקָן.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2365,7 +2369,7 @@
     כְּאוֹתָהּ שׁוּנְרָא שֶׁבַּמָּשָׁל.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2379,7 +2383,7 @@
     הַמַּרְבֶּה – אֵינוֹ אִישׁ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2423,7 +2427,7 @@
     כְּשֵׁם שֶׁנִּשְׁבַּעְתָּ אַתָּה לַעֲשׂוֹת.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2431,7 +2435,7 @@
     אַךְ אִם לֹא נַצְלִיחַ?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2481,7 +2485,7 @@
     עֲווֹן רָצְחֵנוּ זֶה הַגָּדוֹל?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2504,7 +2508,7 @@
     נַכֶּנּוּ בְּחַרְבוֹתֵיהֶם?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2518,7 +2522,7 @@
     נֵילִילָה מַר לְמוֹתוֹ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2538,7 +2542,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="חצר בארמון מקבת">
+    <speaker id="khtsr brmun mkbs">
      חצר בארמון מקבת
     </speaker>
    </sp>
@@ -2546,7 +2550,7 @@
     [נכנסים בנקו ופליַנס. משרת נושא אבוקה לפניהם]
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2554,7 +2558,7 @@
     הַנַּעַר, אֵיזוֹ שָׁעָה כְּבָר?
    </sp>
    <sp>
-    <speaker id="פלינס">
+    <speaker id="flins">
      פלינס
     </speaker>
    </sp>
@@ -2562,7 +2566,7 @@
     הַלְּבָנָה בָאָה; קוֹל-הַפַּעֲמוֹן לֹא שָׁמָעְתִּי.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2570,7 +2574,7 @@
     וְהִיא בַחֲצִי הַלַּיְלָה בָאָה.
    </sp>
    <sp>
-    <speaker id="פלינס">
+    <speaker id="flins">
      פלינס
     </speaker>
    </sp>
@@ -2581,7 +2585,7 @@
     דוֹמַנִי, שָׁעָה יוֹתֵר מְאֻחֶרֶת עָתָּה.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2613,7 +2617,7 @@
     לִי חַרְבִּי. מִי שָׁם?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2621,7 +2625,7 @@
     אִישׁ שְׁלוֹמֵנוּ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2644,7 +2648,7 @@
     וּפָרַשׂ לִישֹׁן בְּלֵב-טוֹב.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2658,7 +2662,7 @@
     וְלוּלֵא זֹאת הִתְגַּלָּה יָפֶה.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2672,7 +2676,7 @@
     הֲלֹא לְגַבֶּיךָ מִקְצָת אֱמֶת נִבְּאוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2686,7 +2690,7 @@
     אִם תּוֹעִיד אֶת הַשָּׁעָה.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2694,7 +2698,7 @@
     כַּטּוֹב בְּעֵינֶיךָ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2705,7 +2709,7 @@
     אַצְלִיחַ, יָרוּם כְּבוֹדְךָ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2722,7 +2726,7 @@
     לְמַלְכִּי, אֵלֵךְ בַּעֲצָתְךָ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2730,7 +2734,7 @@
     יְשַׁן בַּטּוֹב!
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -2741,12 +2745,12 @@
     [בנקו ופלינס יוצאים]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
    <sp>
-    <speaker id="לֵךְ וֶאֱמֹר לַגְּבִירָה">
+    <speaker id="lֵkhְ uֱֶmֹr lַgְּbִirָh">
      לֵךְ וֶאֱמֹר לַגְּבִירָה
     </speaker>
     לִכְשֶׁיִּהְיֶה
@@ -2860,7 +2864,7 @@
     [נכנסת לידי מקבת]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2886,13 +2890,13 @@
     רָקַחְתִּי יֵינָם וַעֲלֵיהֶם נִצִּים
    </sp>
    <sp>
-    <speaker id="הַחַיִּים וְהַמָּוֶת">
+    <speaker id="hַkhַiִּim uְhַmָּuֶs">
      הַחַיִּים וְהַמָּוֶת
     </speaker>
     לְמִי הֵם.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2900,7 +2904,7 @@
     [בפנים] מִי פֹּה? מָה, הוֹי!
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2923,7 +2927,7 @@
     כִּי אָז עָשִׂיתִי זֹאת בְּעַצְמִי. [נכנס מקבת] אִישִׁי!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2931,7 +2935,7 @@
     הַמַּעֲשֶׂה נָעַשׂ! לֹא שָׁמַעַתְּ כָּל שָׁאוֹן?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2942,7 +2946,7 @@
     כְּלוּם לֹא דִבַּרְתָּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2950,7 +2954,7 @@
     מָתַי?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2958,7 +2962,7 @@
     עָתָּה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2966,7 +2970,7 @@
     בְּרִדְתִּי?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2974,7 +2978,7 @@
     הֵן!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -2985,7 +2989,7 @@
     מִי יָשֵׁן בְּחֶדֶר שֵׁנִי?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -2993,7 +2997,7 @@
     דּוֹנַלְבֵּין.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3001,18 +3005,18 @@
     [מתבונן בכפיו] אַךְ מַרְאֶה נוּגֶה זֶה!
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
    <sp>
-    <speaker id="אַךְ טִפְּשׁוּת הִיא לְהַגִּיד">
+    <speaker id="akhְ tִpְshׁus hִi lְhַgִּid">
      אַךְ טִפְּשׁוּת הִיא לְהַגִּיד
     </speaker>
     מַרְאֶה נוּגֶה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3029,7 +3033,7 @@
     וְשָׁבוּ לְהַמְתִּיק שְׁנָתָם.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3037,12 +3041,12 @@
     שְׁנַיִם שָׁכְבוּ יַחַד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
    <sp>
-    <speaker id="זֶה קָרָא: “אֵל בָּרְכֵנוּ!” וְזֶה">
+    <speaker id="zֶh kָrָ: “ֵl bָrְkhֵnu!” uְzֶh">
      זֶה קָרָא: “אֵל בָּרְכֵנוּ!” וְזֶה
     </speaker>
     “אָמֵן”.
@@ -3054,13 +3058,13 @@
     בִּרְאוֹתִי פַּחְדָּם, לֹא יָכֹלְתִּי לַעֲנוֹת
    </sp>
    <sp>
-    <speaker id="“אָמֵן”, כְּשֶׁאָמְרוּ הֵמָּה">
+    <speaker id="“omֵn”, kְshֶׁomְru hֵmָּh">
      “אָמֵן”, כְּשֶׁאָמְרוּ הֵמָּה
     </speaker>
     “אֵל בָּרְכֵנוּ!”
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3068,7 +3072,7 @@
     אַל תַּעֲמִיק לַחְשֹׁב בָּזֶה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3076,7 +3080,7 @@
     אֲבָל
    </sp>
    <sp>
-    <speaker id="מַדּוּעַ לֹא יָכֹלְתִּי לוֹמַר">
+    <speaker id="mַdּueַ lֹ iָkhֹlְtִi luֹmַr">
      מַדּוּעַ לֹא יָכֹלְתִּי לוֹמַר
     </speaker>
     “אָמֵן”?
@@ -3088,7 +3092,7 @@
     וְ“אָמֵן” נִתְקַע לִי בִגְרוֹנִי.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3102,7 +3106,7 @@
     וְאִם אַיִן נֻכֶּה בַשִּׁגָּעוֹן.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3110,7 +3114,7 @@
     נִדְמָה
    </sp>
    <sp>
-    <speaker id="לִי קוֹל קוֹרֵא">
+    <speaker id="lִi kuֹl kuֹrֵ">
      לִי קוֹל קוֹרֵא
     </speaker>
     "אַל תּוֹסִיפוּ לִישֹׁן!
@@ -3134,7 +3138,7 @@
     לֶחֶם-הַחַיִּים.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3142,7 +3146,7 @@
     מָה אַתָּה סוֹבֵר?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3150,7 +3154,7 @@
     שׁוּב הַקּוֹל
    </sp>
    <sp>
-    <speaker id="בְּכָל הַבַּיִת">
+    <speaker id="bְkhָl hַbַis">
      בְּכָל הַבַּיִת
     </speaker>
     "אַל תּוֹסִיפוּ לִישֹׁן!
@@ -3165,7 +3169,7 @@
     לֹא יֵדַע שְׁנָת לְעוֹלָם!"
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3194,7 +3198,7 @@
     בַּדָּם אֶת פְּנֵי הַנְּעָרִים, אֶת הַיְשֵׁנִים.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3208,7 +3212,7 @@
     וְלִרְאוֹת שׁוּב לֹא אַרְהִיב בְּלִבִּי.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3234,7 +3238,7 @@
     [יוצאת. קול דופק מבחוץ]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3263,7 +3267,7 @@
     [לידי מקבת נכנסת]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3289,7 +3293,7 @@
     עֲזָבְךָ אֹמֶץ-לִבֶּךָ. [קול דופק]
    </sp>
    <sp>
-    <speaker id="שְׁמַע">
+    <speaker id="shְׁmַe">
      שְׁמַע
     </speaker>
     שׁוּב דּוֹפְקִים.
@@ -3304,7 +3308,7 @@
     בִּשְׂעִפֶּיךָ כְּאוֹבֵד-עֵצוֹת.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3327,7 +3331,7 @@
     [קול דופק. נכנס שוער]
    </sp>
    <sp>
-    <speaker id="השוער">
+    <speaker id="hshuer">
      השוער
     </speaker>
    </sp>
@@ -3398,7 +3402,7 @@
     [נכנסים מקדוף ולינוקס]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3409,7 +3413,7 @@
     לִשְׁכַּב?
    </sp>
    <sp>
-    <speaker id="השוער">
+    <speaker id="hshuer">
      השוער
     </speaker>
    </sp>
@@ -3423,7 +3427,7 @@
     דְבָרִים.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3434,12 +3438,12 @@
     טוֹבָה בְיוֹתֵר?
    </sp>
    <sp>
-    <speaker id="השוער">
+    <speaker id="hshuer">
      השוער
     </speaker>
    </sp>
    <sp>
-    <speaker id="חֵי נַפְשִׁי, אֲדוֹנִי">
+    <speaker id="khֵi nַfְshִׁi, ֲduֹnִi">
      חֵי נַפְשִׁי, אֲדוֹנִי
     </speaker>
     חֹטֶם סָמוּק, שֵׁנָה וּמֵי-רַגְלַיִם.
@@ -3451,13 +3455,13 @@
     הִיא מוֹלִידָה אֶת הַתַּאֲוָה וְנוֹטֶלֶת אֶת הַכֹּחַ
    </sp>
    <sp>
-    <speaker id="לְקַיְּמָהּ. מִשּׁוּם זֶה, אֲדוֹנִי, יֵשׁ לוֹמַר">
+    <speaker id="lְkַiְּmָhּ. mִshּׁum zֶh, ֲduֹnִi, iֵshׁ luֹmַr">
      לְקַיְּמָהּ. מִשּׁוּם זֶה, אֲדוֹנִי, יֵשׁ לוֹמַר
     </speaker>
     רֹב שְׁתִיָּה
    </sp>
    <sp>
-    <speaker id="הֲפַכְפַּךְ לְגַבֵּי הָאֲבִיּוֹנָה">
+    <speaker id="hֲfַkhְpַkhְ lְgַbֵi hֲָbִiּuֹnָh">
      הֲפַכְפַּךְ לְגַבֵּי הָאֲבִיּוֹנָה
     </speaker>
     הִיא תוֹבַעַת
@@ -3466,7 +3470,7 @@
     וְהִיא מוֹנַעַת; הִיא יוֹצְרָה וְהִיא עוֹצְרָה; מְקִימָה וְאֵינָהּ
    </sp>
    <sp>
-    <speaker id="מְקַיְּמָה. סוֹף דָּבָר">
+    <speaker id="mְkַiְּmָh. suֹf dָּbָr">
      מְקַיְּמָה. סוֹף דָּבָר
     </speaker>
     לְשׁוֹן תַּהְפּוּכוֹת לָהּ עַד לִידֵי
@@ -3475,7 +3479,7 @@
     שֵׁנָה תְּכַחֵשׁ לָהּ וְתַעַזְבֶנָּה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3483,7 +3487,7 @@
     דּוֹמַנִי, הַלַּיְלָה הַזֶּה כִחֲשָׁה גַם לְךָ הַשְּׁתִיָּה.
    </sp>
    <sp>
-    <speaker id="השוער">
+    <speaker id="hshuer">
      השוער
     </speaker>
    </sp>
@@ -3500,7 +3504,7 @@
     מָטָּה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3514,7 +3518,7 @@
     קוֹל דְּפִיקָתֵנוּ הֶעִירָהוּ. הִנֵּה הוּא בָא.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3522,7 +3526,7 @@
     בֹּקֶר טוֹב, אֲדוֹנִי!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3530,7 +3534,7 @@
     בֹּקֶר טוֹב לִשְׁנֵיכֶם!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3538,7 +3542,7 @@
     אַלּוּף יָקָר, הַכְּבָר קָם הַמֶּלֶךְ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3546,7 +3550,7 @@
     לֹא עוֹד.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3557,7 +3561,7 @@
     כִּמְעַט אֵחַרְתִּי אֶת הַשָּׁעָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3568,7 +3572,7 @@
     אֶנְהָגְךָ אֵלָיו.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3582,7 +3586,7 @@
     אַךְ טִרְדָּה הִיא.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3593,7 +3597,7 @@
     יְגִיעָתָהּ בְּמַנְעַמֶּיהָ. פֹּה הַדֶּלֶת.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3604,7 +3608,7 @@
     צֻוֵּיתִי. [יוצא]
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3612,7 +3616,7 @@
     הַאוֹמֵר מַלְכִּי לָצֵאת עוֹד הַיּוֹם?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3623,7 +3627,7 @@
     כֵּן צִוָּה.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3634,7 +3638,7 @@
     הַלָּיְלָה; הֵילִיל רוּחַ בַּמַּעֲשֵׁנָה.
    </sp>
    <sp>
-    <speaker id="שָׁמַעְתִּי אוֹמְרִים">
+    <speaker id="shָׁmַeְtִi uֹmְrִim">
      שָׁמַעְתִּי אוֹמְרִים
     </speaker>
     נִשְׁמְעוּ אֲנָחוֹת
@@ -3649,7 +3653,7 @@
     שְׁגַר עֵת כִּי תָחִיל לָלַת. עוֹרֵב צָרַח
    </sp>
    <sp>
-    <speaker id="מְלֹא כָל הַלַּיְלָה. וְיֵשׁ אוֹמְרִים">
+    <speaker id="mְlֹ khָl hַlַּiְlָh. uְiֵshׁ uֹmְrִim">
      מְלֹא כָל הַלַּיְלָה. וְיֵשׁ אוֹמְרִים
     </speaker>
     אֶרֶץ
@@ -3658,7 +3662,7 @@
     אֲחָזָהּ חִיל וַתִּרְעָד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3666,7 +3670,7 @@
     הֵן, לֵיל זְוָעוֹת.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3680,7 +3684,7 @@
     [נכנס מקדוף]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3691,7 +3695,7 @@
     לֹא יָבִין זֹאת, לֹא יִקְרָא שֵׁם לוֹ!
    </sp>
    <sp>
-    <speaker id="מקבת ולינוקס">
+    <speaker id="mkbs ulinuks">
      מקבת ולינוקס
     </speaker>
    </sp>
@@ -3699,7 +3703,7 @@
     מַה יֵּשׁ?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3713,7 +3717,7 @@
     בָּא אֶל הַדְּבִיר וַיִּקַּח מֶנּוּ חַיָּיו.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3721,7 +3725,7 @@
     מָה אַתָּה סָח? אֶת חַיָּיו?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3732,7 +3736,7 @@
     תִּתְכַּוֵּן?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3791,7 +3795,7 @@
     יְשֵׁנֵי בַיִת זֶה? הַגֵּד, הַגֵּד!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3817,7 +3821,7 @@
     הַמֶּלֶךְ אֲדוֹנֵנוּ נִרְצַח!
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -3828,7 +3832,7 @@
     פֹּה בְּבֵיתֵנוּ?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -3848,7 +3852,7 @@
     [נכנסים מקבת ולינוקס]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3874,7 +3878,7 @@
     [נכנסים מלקולם ודונלבין]
    </sp>
    <sp>
-    <speaker id="דונלבין">
+    <speaker id="dunlbin">
      דונלבין
     </speaker>
    </sp>
@@ -3882,7 +3886,7 @@
     מַהּ קָּרָה?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3899,7 +3903,7 @@
     זֶה מַעְיַן-חַיֶּיךָ פָּסָק!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3907,7 +3911,7 @@
     אֲבִיכֶם הוּא, הַמֶּלֶךְ – הוּמָת!
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -3915,7 +3919,7 @@
     הָהּ, בְּיַד מִי?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -3938,7 +3942,7 @@
     לְהַפְקִיד בְּיָדָם חַיֵּי אִישׁ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3946,7 +3950,7 @@
     אֲבָל נִחַמְתִּי כִּי הֲרַגְתִּים בְּאַפִּי.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -3954,7 +3958,7 @@
     שַׁלָּמָה זֶה עָשִׂיתָ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -3995,7 +3999,7 @@
     וּבְלִבּוֹ אֹמֶץ לְגַלּוֹת אַהֲבָתוֹ?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -4003,7 +4007,7 @@
     נָא עִזְרוּנִי! אוֹי!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4011,7 +4015,7 @@
     שִׂימוּ לֵב לַגְּבֶרֶת.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -4022,7 +4026,7 @@
     עוֹד דָּבָר זֶה נוֹגֵע אִם לֹא לָנוּ?
    </sp>
    <sp>
-    <speaker id="דונלבין">
+    <speaker id="dunlbin">
      דונלבין
     </speaker>
    </sp>
@@ -4039,7 +4043,7 @@
     עֲדֶן לֹא גָמְלוּ דִמְעוֹתֵינוּ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -4050,7 +4054,7 @@
     הַגָּדוֹל טֶרֶם דְּרוֹר לוֹ לָזוּז.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4085,7 +4089,7 @@
     שֶׁל רֶשַׁע-בּוֹגְדִים.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4093,7 +4097,7 @@
     גַּם אָנִי!
    </sp>
    <sp>
-    <speaker id="כולם">
+    <speaker id="khulm">
      כולם
     </speaker>
    </sp>
@@ -4101,7 +4105,7 @@
     כֻּלָּנוּ!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4112,7 +4116,7 @@
     בָּאוּלָם שׁוּב נִפָּגֵשׁ.
    </sp>
    <sp>
-    <speaker id="כולם">
+    <speaker id="khulm">
      כולם
     </speaker>
    </sp>
@@ -4123,7 +4127,7 @@
     [כולם יוצאים, חוץ ממלקולם ודונלבין]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -4137,7 +4141,7 @@
     לֹא יָחוּשׁ, וְהִיא חָכְמָתוֹ. אֵלֵךְ לְאַנְגְּלִיָּה.
    </sp>
    <sp>
-    <speaker id="דונלבין">
+    <speaker id="dunlbin">
      דונלבין
     </speaker>
    </sp>
@@ -4157,7 +4161,7 @@
     כֵּן יִצְמָא לְדָמֵינוּ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -4183,7 +4187,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="מחוץ לארמון מקבת">
+    <speaker id="mkhuts lrmun mkbs">
      מחוץ לארמון מקבת
     </speaker>
    </sp>
@@ -4191,7 +4195,7 @@
     [נכנסים רוס וישיש]
    </sp>
    <sp>
-    <speaker id="הזקן">
+    <speaker id="hzkn">
      הזקן
     </speaker>
    </sp>
@@ -4211,7 +4215,7 @@
     יָדַעְתִּי קֹדֶם.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4240,7 +4244,7 @@
     עֵת אוֹר מְחַיֶּה צָרִיךְ הָיָה לְנַשְׁקָהּ.
    </sp>
    <sp>
-    <speaker id="הזקן">
+    <speaker id="hzkn">
      הזקן
     </speaker>
    </sp>
@@ -4257,7 +4261,7 @@
     הִשְׂתָּעֵר עָלָיו כּוֹס וּטְרָפוֹ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4277,12 +4281,12 @@
     נִלְחֲמוּ בֶּאֱנוֹשׁ.
    </sp>
    <sp>
-    <speaker id="הזקן">
+    <speaker id="hzkn">
      הזקן
     </speaker>
    </sp>
    <sp>
-    <speaker id="וְאוֹמְרִים">
+    <speaker id="uְuֹmְrִim">
      וְאוֹמְרִים
     </speaker>
     טָרוֹף
@@ -4291,7 +4295,7 @@
     טָרְפוּ זֶה אֶת זֶה.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4311,7 +4315,7 @@
     מֶה חָדָשׁ יֵשׁ בְּעוֹלָם זֶה, אֲדוֹנִי?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4319,7 +4323,7 @@
     כְּלוּם אֵינְךָ רוֹאֶה?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4330,7 +4334,7 @@
     בְּמַעַל דָּמִים שֶׁבַּדָּמִים זֶה?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4338,7 +4342,7 @@
     אַךְ אֵלֶּה אֲשֶׁר הִכָּה מֶקְבֶּת.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4349,7 +4353,7 @@
     לָהֶם מַה בֶּצַע?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4366,7 +4370,7 @@
     עֲלֵיהֶם נָפַל הַחֲשָׁד.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4383,7 +4387,7 @@
     וְהַמַּלְכוּת תִּפֹּל וַדַּאי בִּידֵי מֶקְבֶּת?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4394,7 +4398,7 @@
     לָשִׂים עָלָיו הַכֶּתֶר.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4402,7 +4406,7 @@
     אֵי גְּוִיַּת דּוּנְקֶן?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4416,7 +4420,7 @@
     לְפָנָיו.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4424,7 +4428,7 @@
     תֵּלֵךְ סְקוֹנָה?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4435,7 +4439,7 @@
     כִּי אָשׁוּב לְפַיְף.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4443,7 +4447,7 @@
     וַאֲנִי אֵלֵךְ שָׁמָּה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -4454,7 +4458,7 @@
     הַלְוַאי לֹא יֵיטִיב בֶּגֶד יָשָׁן לִהְיוֹת הוֹלֵם.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -4462,7 +4466,7 @@
     שָׁלוֹם לְךָ, אָבִי!
    </sp>
    <sp>
-    <speaker id="הזקן">
+    <speaker id="hzkn">
      הזקן
     </speaker>
    </sp>
@@ -4476,7 +4480,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="פורֶס, חדר בארמון">
+    <speaker id="furֶs, khdr brmun">
      פורֶס, חדר בארמון
     </speaker>
    </sp>
@@ -4484,7 +4488,7 @@
     [נכנס בנקו]
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4498,7 +4502,7 @@
     יָרֵאתִי, שֶׁמָּא הָיְתָה יָדְךָ בָּאֶמְצַע,
    </sp>
    <sp>
-    <speaker id="אַךְ נֶאֱמַר">
+    <speaker id="akhְ nֱֶmַr">
      אַךְ נֶאֱמַר
     </speaker>
     לֹא תָקוּם לְבָנֶיךָ,
@@ -4526,7 +4530,7 @@
 מלכה, לינוקס, רוס, לורדים, לידיות ורואי פניהם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4534,7 +4538,7 @@
     הִנֵּה רֹאשׁ אוֹרְחֵינוּ!
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -4548,7 +4552,7 @@
     וְהַכֹּל לֹא כִדְבָעֵי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4559,7 +4563,7 @@
     רְצוֹנִי אֲשֶׁר תִּהְיֶה בֵּין הַבָּאִים.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4573,7 +4577,7 @@
     לְעוֹלְמֵי עַד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4581,7 +4585,7 @@
     הֲתִרְכַּב אַחֲרֵי הַצָּהֳרָיִם?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4589,7 +4593,7 @@
     הֵן, אֲדוֹנִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4606,7 +4610,7 @@
     הֲתַרְחִיק לִרְכֹּב?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4623,7 +4627,7 @@
     עוֹד שָׁעָה, שָׁעוֹתָיִם.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4634,7 +4638,7 @@
     שֶׁלֹּא יִפָּקֵד מְקוֹמְךָ עַל מִשְׁתֵּנוּ.
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4642,7 +4646,7 @@
     חַס וְחָלִילָה, מַלְכִּי!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4674,7 +4678,7 @@
     הֲגַם פְלֵיַנְס בִּנְךָ הוֹלֵךְ?
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -4682,7 +4686,7 @@
     הֵן! הִגִּיעַ זְמַן רָכְבֵנוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4711,7 +4715,7 @@
     הֲיָא! דָּבָר לִי. בָּאוּ הָאֲנָשִׁים?
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -4719,7 +4723,7 @@
     אֶל הַשַּׁעַר הֵם מְחַכִּים.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4802,7 +4806,7 @@
     [הנער שב עם שני רוצחים]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4816,7 +4820,7 @@
     הֲלֹא אַךְ תְּמֹל דִּבַּרְתִּי אִתְּכֶם?
    </sp>
    <sp>
-    <speaker id="הרוצחים">
+    <speaker id="hrutskhim">
      הרוצחים
     </speaker>
    </sp>
@@ -4824,7 +4828,7 @@
     הֵן, רוּם מַלְכוּתוֹ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4856,13 +4860,13 @@
     גַּם בַּעַל-נֶפֶשׁ לְמֶחֱצָה חֲסַר-תְּבוּנָה
    </sp>
    <sp>
-    <speaker id="הֵן יֹאמַר">
+    <speaker id="hֵn iֹmַr">
      הֵן יֹאמַר
     </speaker>
     בֶּנְקוֹ עוֹלֵל זֶה.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -4870,7 +4874,7 @@
     זֹאת הֶרְאֵיתָ לָנוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4893,7 +4897,7 @@
     לִהְיוֹתְכֶם דַּלִּים לְעוֹלְמֵי-עַד?
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -4901,7 +4905,7 @@
     אֲבָל, אֲדוֹנִי, הֵן אֲנָשִׁים אָנוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -4909,7 +4913,7 @@
     אָכֵן, בָּרְשִׁימָה אִישׁ לָכֶם יֵאָמֵר.
    </sp>
    <sp>
-    <speaker id="כַּכְּלָבִים אֵלֶּה">
+    <speaker id="kַkְlָbִim ֵlֶּh">
      כַּכְּלָבִים אֵלֶּה
     </speaker>
     פּוּדֶל, זַרְזִיר, מַמְזֵר,
@@ -4960,7 +4964,7 @@
     וּבְמוֹתוֹ שָׁלוֹם לִי.
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -4977,7 +4981,7 @@
     מָה אַעַשׂ לוֹ לְהַכְעִיס.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -4994,7 +4998,7 @@
     לְשַׁפְּרָם אוֹ לְהִפָּטֵר.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5005,7 +5009,7 @@
     כִּי בֶּנְקוֹ אוֹיִבְכֶם הוּא?
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5013,7 +5017,7 @@
     כֵּן, אֲדוֹנִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5054,7 +5058,7 @@
     מִכַּמָּה וְכַמָּה טְעָמִים.
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5065,7 +5069,7 @@
     כָּל אֲשֶׁר תְּצַוֶּה.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5073,7 +5077,7 @@
     וְאִם גַּם חַיֵּינוּ…
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5114,7 +5118,7 @@
     הַדָּבָר. תֵּכֶף אֲנִי שָׁב.
    </sp>
    <sp>
-    <speaker id="הרוצחים">
+    <speaker id="hrutskhim">
      הרוצחים
     </speaker>
    </sp>
@@ -5125,7 +5129,7 @@
     אָנוּ, אֲדוֹנֵנוּ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5148,7 +5152,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="בארמון">
+    <speaker id="brmun">
      בארמון
     </speaker>
    </sp>
@@ -5156,7 +5160,7 @@
     [נכנסים לידי מקבת ומשרת]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5164,7 +5168,7 @@
     הֲיָצָא בֶּנְקוֹ אֶת הֶחָצֵר?
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -5172,7 +5176,7 @@
     הֵן, גְּבִרְתִּי, אוּלָם עוֹד הַלַּיְלָה יָשׁוּב.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5183,7 +5187,7 @@
     וְאַגִּיד בְּאָזְנָיו מִלִּים מִסְפָּר.
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -5194,7 +5198,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5229,7 +5233,7 @@
     בְּמֻפְלָא לְהֵרָפֵא. מַה שֶּׁנַּעֲשָׂה נַעֲשָׂה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5276,7 +5280,7 @@
     גַּם מֶרֶד מִחוּץ – לֹא יִירָא דָבָר לְעוֹלָם.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5293,7 +5297,7 @@
     בִּקְהַל אוֹרְחֶיךָ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5319,7 +5323,7 @@
     לַלֵּב לְכַסּוֹת מַה שֶּׁנָחְנוּ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5327,7 +5331,7 @@
     הֶרֶף!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5335,13 +5339,13 @@
     מְלֹא נַפְשִׁי קִנְּנוּ עַקְרַבִּים, אִשְׁתִּי.
    </sp>
    <sp>
-    <speaker id="יוֹדַעַת אַתְּ">
+    <speaker id="yuֹdַeַs atְ">
      יוֹדַעַת אַתְּ
     </speaker>
     עוֹד בֶּנְקוֹ וּפְלֵיַנְס חַיִּים.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5349,7 +5353,7 @@
     אַךְ לֹא בְרִית עוֹלָם כָּרְתוּ עִם הַטֶּבַע!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5372,7 +5376,7 @@
     עַל לַיְלָה, מַעֲשֶׂה אָיֹם יֵעָשׂ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5380,7 +5384,7 @@
     אֵיזֶה?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5424,7 +5428,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="גן בקרבת הארמון">
+    <speaker id="gn bkrbs hrmun">
      גן בקרבת הארמון
     </speaker>
    </sp>
@@ -5432,7 +5436,7 @@
     [נכנסים ג' רוצחים]
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5440,7 +5444,7 @@
     מִי צִוָּה לְךָ לְהִלָּוֵה אֵלֵינוּ?
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5448,7 +5452,7 @@
     מֶקְבֶּת!
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5462,7 +5466,7 @@
     אֵין לַחְשֹׁד בּוֹ.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5482,7 +5486,7 @@
     הָאִישׁ נְחַכֶּה לוֹ.
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5490,7 +5494,7 @@
     הָס! שַׁעֲטַת סוּסִים!
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -5498,7 +5502,7 @@
     [מעבר לבימה] הַדְלִיקוּ אוֹר, הֲיָא!
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5512,7 +5516,7 @@
     בֶּחָצֵר כְּבָר.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5520,7 +5524,7 @@
     הֵן סוּסָיו הוֹלְכִים סוֹבְבִים.
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5528,7 +5532,7 @@
     לְעֶרֶךְ פַּרְסָה. הוּא נוֹהֵג מִנְהָג
    </sp>
    <sp>
-    <speaker id="שֶׁל כֻּלֵּי עָלְמָא">
+    <speaker id="shֶׁl kֻlֵּi eָlְmָ">
      שֶׁל כֻּלֵּי עָלְמָא
     </speaker>
     רַגְלִי יַעֲשֶׂה דַּרְכּוֹ
@@ -5537,7 +5541,7 @@
     מִכָּאן עַד שַׁעַר הָאַרְמוֹן.
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5548,7 +5552,7 @@
     [נכנסים בנקו ופלינס, משרת ובידו לפיד הולך לפניהם]
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5556,7 +5560,7 @@
     הוּא! הוּא!
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5564,7 +5568,7 @@
     פְּגַע בּוֹ!
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -5572,7 +5576,7 @@
     הַלַּיְלָה יֵרֵד גֶּשֶׁם.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5583,7 +5587,7 @@
     [מתנפל על בנקו]
    </sp>
    <sp>
-    <speaker id="בנקו">
+    <speaker id="bnku">
      בנקו
     </speaker>
    </sp>
@@ -5597,7 +5601,7 @@
     [הוא מת. פלינס ומשרתו נמלטים]
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5605,7 +5609,7 @@
     מִי כִּבָּה אֶת הָאוֹר?
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5613,7 +5617,7 @@
     שֶׁמָּא לֹא טוֹב?
    </sp>
    <sp>
-    <speaker id="רוצח ג">
+    <speaker id="rutskh g">
      רוצח ג
     </speaker>
    </sp>
@@ -5621,7 +5625,7 @@
     אַךְ אֶחָד פֹּה – הַבֵּן הוּא נִמְלַט.
    </sp>
    <sp>
-    <speaker id="רוצח ב">
+    <speaker id="rutskh b">
      רוצח ב
     </speaker>
    </sp>
@@ -5632,7 +5636,7 @@
     הִפְסַדְנוּ רֻבּוֹ שֶׁל פָּעֳלֵנוּ.
    </sp>
    <sp>
-    <speaker id="רוצח א">
+    <speaker id="rutskh ">
      רוצח א
     </speaker>
    </sp>
@@ -5643,7 +5647,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="אולם בארמון">
+    <speaker id="ulm brmun">
      אולם בארמון
     </speaker>
    </sp>
@@ -5651,7 +5655,7 @@
     [ערוך משתה. נכנסים מקבת, לידי מקבת, רוס, לינוקס, לורדים ורואי פניהם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5659,13 +5663,13 @@
     אִישׁ אִישׁ יוֹדֵעַ מַדְרֵגָתוֹ, שְׁבוּ!
    </sp>
    <sp>
-    <speaker id="אַךְ פַּעַם אֹמַר וְלֹא אוֹסִיף">
+    <speaker id="akhְ pַeַm ֹmַr uְlֹ uֹsִif">
      אַךְ פַּעַם אֹמַר וְלֹא אוֹסִיף
     </speaker>
     שָׁלוֹם!
    </sp>
    <sp>
-    <speaker id="לורדים">
+    <speaker id="lurdim">
      לורדים
     </speaker>
    </sp>
@@ -5673,7 +5677,7 @@
     רוּם מַעֲלָתוֹ – תּוֹדָה!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5693,7 +5697,7 @@
     וּבְשָׁעָה נְכוֹנָה תִדְרְשֵׁנוּ שָׁלוֹם.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5701,7 +5705,7 @@
     שָׂא שָׁלוֹם רַב בִּשְׁמִי לְכָל יְדִידֵינוּ.
    </sp>
    <sp>
-    <speaker id="מִלִּבִּי הוּא נוֹבֵעַ">
+    <speaker id="mִlִּbִi hu nuֹbֵeַ">
      מִלִּבִּי הוּא נוֹבֵעַ
     </speaker>
     לְכֻלָּם שָׁלוֹם.
@@ -5710,7 +5714,7 @@
     [נכנס רוצח א בדלת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5730,7 +5734,7 @@
     דָּמִים עַל פָּנֶיךָ.
    </sp>
    <sp>
-    <speaker id="רוצח">
+    <speaker id="rutskh">
      רוצח
     </speaker>
    </sp>
@@ -5738,7 +5742,7 @@
     אֲבָל דַּם-בֶּנְקוֹ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5749,7 +5753,7 @@
     מִשֶּׁהוּא בּוֹ בִּפְנִים. הֲנִשְׁלַח?
    </sp>
    <sp>
-    <speaker id="רוצח">
+    <speaker id="rutskh">
      רוצח
     </speaker>
    </sp>
@@ -5760,7 +5764,7 @@
     גַּרְגַּרְתּוֹ בֻּקְּעָה לוֹ. אֲנִי שִׁמַּשְׁתִּיו.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5774,7 +5778,7 @@
     אִם זֶה פָּעָלְךָ – אֵין דּוֹמֶה לָךְ.
    </sp>
    <sp>
-    <speaker id="רוצח">
+    <speaker id="rutskh">
      רוצח
     </speaker>
    </sp>
@@ -5782,7 +5786,7 @@
     אֲדוֹנִי מַלְכִּי, פְלֵיַנְס נָס וְנִמְלַט.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5802,7 +5806,7 @@
     בְּיַד סְפֵקוֹתַי. אוּלָם בֶּנְקוֹ בֶּטַח?
    </sp>
    <sp>
-    <speaker id="רוצח">
+    <speaker id="rutskh">
      רוצח
     </speaker>
    </sp>
@@ -5816,7 +5820,7 @@
     הַקָּטָן שֶׁבָּהֶם – סַכָּנַת מָוֶת.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5836,7 +5840,7 @@
     [הרוצח יוצא]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -5862,7 +5866,7 @@
     עֲלוּבָה כָּל אֲסֵפָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5876,7 +5880,7 @@
     הַבְּרִיאוּת!
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -5887,7 +5891,7 @@
     [רוחו של בנקו מופיע ותופס מקומו של מקבת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5904,7 +5908,7 @@
     מִלָּנוּד לוֹ בַאֲסוֹנוֹ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -5918,7 +5922,7 @@
     לְכַבְּדֵנוּ וְיִלָּוֶה לָנוּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5929,7 +5933,7 @@
     הַשֻּׁלְחָן.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -5937,7 +5941,7 @@
     פֹּה יֵשׁ מָקוֹם, מַלְכִּי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5945,7 +5949,7 @@
     אֵיפֹה?
    </sp>
    <sp>
-    <speaker id="לינוקס.">
+    <speaker id="linuks">
      לינוקס.
     </speaker>
    </sp>
@@ -5953,7 +5957,7 @@
     פֹּה , מַלְכִּי. מַה נִּבְהַלְתָּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5961,7 +5965,7 @@
     מִי מִכֶּם עוֹשֶׂה זֹאת?
    </sp>
    <sp>
-    <speaker id="לורדים">
+    <speaker id="lurdim">
      לורדים
     </speaker>
    </sp>
@@ -5969,7 +5973,7 @@
     כְּלוּם מָה, אֲדוֹנִי?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -5983,7 +5987,7 @@
     הַמְגֹאֲלָה בַדָּם.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -5991,7 +5995,7 @@
     אֲדוֹנַי, קוּמוּ! הוֹד מַלְכוּתוֹ חוֹלֶה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6014,7 +6018,7 @@
     אִכְלוּ וְאַל תִּתְבּוֹנֵנוּ. הַאִישׁ אָתָּה?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6025,7 +6029,7 @@
     לְהַבִּיט בְּמַה שֶּׁיַחֲוִיר פְּנֵי הַשָּׂטָן.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6057,7 +6061,7 @@
     הֵן אֵינְךָ רוֹאֶה אֶלָּא כִּסֵּא.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6083,7 +6087,7 @@
     [הרוח נעלמה]
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6091,7 +6095,7 @@
     אֵיךְ תַּשׁ כֹּחֲךָ מִתּוֹךְ טִפְּשׁוּת זוֹ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6099,7 +6103,7 @@
     נָכוֹן, כְּשֵׁם שֶׁעָמַדְתִּי פֹה – רְאִיתִיו.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6107,7 +6111,7 @@
     טוּף! אוֹתָהּ בּוּשָׁה!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6136,7 +6140,7 @@
     עוֹד אָיֹם מֵרֶצַח שֶׁכְּמוֹתוֹ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6147,7 +6151,7 @@
     הַנַּעֲלִים מִתְגַּעְגְּעִים עָלֶיךָ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6176,7 +6180,7 @@
     אֶצְמָא! כָּל-טוּב לְכָל-אִישׁ!
    </sp>
    <sp>
-    <speaker id="הלורדים">
+    <speaker id="hlurdim">
      הלורדים
     </speaker>
    </sp>
@@ -6187,7 +6191,7 @@
     [רוחו של בנקו מופיעה שנית]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6204,7 +6208,7 @@
     הֵן אֵינָן רוֹאוֹת.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6218,7 +6222,7 @@
     אֵין זֶה וְלֹא כְלוּם; אַךְ קִלְקֵל אֶת הַמִּשְׁתֶּה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6259,7 +6263,7 @@
     וְשַׁבְתִּי לִהְיוֹת אִישׁ. בְּבַקָּשָׁה, שְׁבוּ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6270,7 +6274,7 @@
     בִּמְבוּכַת-פְּלָאִים.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6296,7 +6300,7 @@
     מִפַּחַד תֶּחֱוָר.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -6304,7 +6308,7 @@
     אֵיזֶה מַרְאוֹת?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6324,7 +6328,7 @@
     כֻּלְכֶם לֵכוּ.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -6338,7 +6342,7 @@
     [כולם יוצאים]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6361,7 +6365,7 @@
     אַנְשֵׁי דָם נִסְתָּרִים. מָה הַלָּיְלָה?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6369,12 +6373,12 @@
     כְּבָר יָרִיב עִם הַבֹּקֶר, יַד מִי תִגְבָּר.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
    <sp>
-    <speaker id="מַה תֹּאמְרִי אַתְּ">
+    <speaker id="mַh tֹmְrִi atְ">
      מַה תֹּאמְרִי אַתְּ
     </speaker>
     הֵן מֵאֵן מֶקְדּוּף לָבוֹא
@@ -6383,7 +6387,7 @@
     אֶל מִשְׁתֶּה זֶה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6391,7 +6395,7 @@
     שָׁלַחְתָּ לִקְרֹא לוֹ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6432,7 +6436,7 @@
     יֵעָשׂוּ טֶרֶם נֶחְקְרוּ כִּדְבָעֵי.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -6440,7 +6444,7 @@
     חָסַרְתָּ בֹּשֶׂם כָּל הֶחָי – הַשֵּׁנָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -6457,13 +6461,15 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="צִיָּה">
+    <speaker id="tsִiָּh">
      צִיָּה
     </speaker>
-    <br/>
+    <p>
+     <br/>
+    </p>
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -6471,7 +6477,7 @@
     מַה לָּךְ, הֵיקַטָה, כִּי תַרְעִימִי פָּנִים?
    </sp>
    <sp>
-    <speaker id="היקטה">
+    <speaker id="hikth">
      היקטה
     </speaker>
    </sp>
@@ -6506,7 +6512,7 @@
     לָקַחַת חֶלְקִי [ – – – – ]
    </sp>
    <sp>
-    <speaker id="וְעוֹד רַע מִּזֶּה">
+    <speaker id="uְeuֹd rַe mִּzֶּh">
      וְעוֹד רַע מִּזֶּה
     </speaker>
     הַכֹּל בִּשְׁבִיל
@@ -6578,7 +6584,7 @@
     וְחָכְמָה וָחֶסֶד. וְאֶל נָכוֹן
    </sp>
    <sp>
-    <speaker id="יְדַעְתֶּן">
+    <speaker id="iְdַeְtֶn">
      יְדַעְתֶּן
     </speaker>
     גְּדָל אוֹיְבֵי-אָדָם – הַבִּטָּחוֹן.
@@ -6596,7 +6602,7 @@
     [יוצאת]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -6607,7 +6613,7 @@
     [יוצאות]
    </sp>
    <sp>
-    <speaker id="פורֶס. חדר בארמון">
+    <speaker id="furֶs. khdr brmun">
      פורֶס. חדר בארמון
     </speaker>
    </sp>
@@ -6615,7 +6621,7 @@
     [נכנסים לינוקס ולורד אחר]
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -6635,7 +6641,7 @@
     וּבֶּנְקוֹ עַז-הַלֵּב מְאֹד אֵחַר לִרְכֹּב.
    </sp>
    <sp>
-    <speaker id="וְאִם תִּרְצֶה, אֶפְשָׁר לוֹמַר">
+    <speaker id="uְִm tִrְtsֶh, ֶfְshָׁr luֹmַr">
      וְאִם תִּרְצֶה, אֶפְשָׁר לוֹמַר
     </speaker>
     פְלֵיַנְס הִכָּהוּ,
@@ -6695,7 +6701,7 @@
     וּכְלוּם יוֹדֵעַ אַתָּה אֵיפֹה הוּא?
    </sp>
    <sp>
-    <speaker id="הלורד">
+    <speaker id="hlurd">
      הלורד
     </speaker>
    </sp>
@@ -6745,7 +6751,7 @@
     לִקְרַאת מִלְחָמָה.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -6753,12 +6759,12 @@
     הֲשָׁלַח אֶל מֶקְדּוּף?
    </sp>
    <sp>
-    <speaker id="הלורד">
+    <speaker id="hlurd">
      הלורד
     </speaker>
    </sp>
    <sp>
-    <speaker id="כֵּן! וְזֶה חָרַץ">
+    <speaker id="kֵn! uְzֶh khָrַts">
      כֵּן! וְזֶה חָרַץ
     </speaker>
     “לֹא אֲנִי, הַשָּׂר!”
@@ -6767,7 +6773,7 @@
     אָז יִפֶן עָרְפּוֹ זֶה הַצִּיר הַזוֹעֵם
    </sp>
    <sp>
-    <speaker id="וַיִּנְהֹם, כְּאוֹמֵר">
+    <speaker id="uַiִּnְhֹm, kְuֹmֵr">
      וַיִּנְהֹם, כְּאוֹמֵר
     </speaker>
     "יָבוֹא יוֹם וְנִחַמְתָּ
@@ -6776,7 +6782,7 @@
     עַל הַעֲמִיסְךָ תְשׁוּבָה זוֹ עָלָי".
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -6793,7 +6799,7 @@
     לְאַנְגְּלִיָּה עַד בָּא הַבָּא וּבְפִיו
    </sp>
    <sp>
-    <speaker id="הַבְּשׂוֹרָה">
+    <speaker id="hַbְsuֹrָh">
      הַבְּשׂוֹרָה
     </speaker>
     מְהֵרָה תָשׁוּב בְּרָכָה
@@ -6805,7 +6811,7 @@
     אֲרוּרָה.
    </sp>
    <sp>
-    <speaker id="הלורד">
+    <speaker id="hlurd">
      הלורד
     </speaker>
    </sp>
@@ -6816,7 +6822,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="מערה ובתוכה קלחת רותחת">
+    <speaker id="merh ubsukhh klkhs ruskhs">
      מערה ובתוכה קלחת רותחת
     </speaker>
    </sp>
@@ -6824,7 +6830,7 @@
     [קול רעם. נכנסות שלוש המכשפות]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -6832,7 +6838,7 @@
     הֵילִיל וְשִׁלֵּשׁ הֶחָתוּל הַבָּרֹד.
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -6840,7 +6846,7 @@
     צָרַח וְשִׁלֵּשׁ וְשׁוּב צָרַח הַקִּפּוֹד.
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -6848,7 +6854,7 @@
     הַרְפִּיָה קוֹרֵאת! בָּאָה הָעֵת!
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -6871,7 +6877,7 @@
     אַרְסוֹ שְׁלשִׁים וְאֶחָד יוֹם.
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -6882,7 +6888,7 @@
     יִרְתַּח סִירִי בְּשֶׁצֶף קֶצֶף!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -6911,7 +6917,7 @@
     הָרוֹתֵחַ בַּקַּלָּחַת.
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -6922,7 +6928,7 @@
     יִרְתַּח סִירִי בְשֶׁצֶף קֶצֶף.
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -6975,7 +6981,7 @@
     בַּשְּׁלוּ אֶת הַבְּלִיל עַד גָּמוֹר.
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -6986,7 +6992,7 @@
     יִרְתַּח סִירִי בְשֶׁצֶף קֶצֶף.
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -7000,7 +7006,7 @@
     [נכנסת היקטה]
    </sp>
    <sp>
-    <speaker id="היקטה">
+    <speaker id="hikth">
      היקטה
     </speaker>
    </sp>
@@ -7020,13 +7026,13 @@
     וְקָסְמוּ הַקְּסָמִים הַשָּׂדֶה וְהַנִּיר.
    </sp>
    <sp>
-    <speaker id="[מנגינה ושיר">
+    <speaker id="[mnginh ushir">
      [מנגינה ושיר
     </speaker>
     “רוחות לבנות ואפורות” וכו']
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -7046,7 +7052,7 @@
     [נכנס מקבת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7057,7 +7063,7 @@
     מָה אַתֶּן עוֹשׂוֹת?
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -7065,7 +7071,7 @@
     דָּבָר שֶׁשֵּׁם לוֹ אָיִן.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7106,7 +7112,7 @@
     עֲנֶינָה לִי!
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7114,7 +7120,7 @@
     דַּבֵּר!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -7122,7 +7128,7 @@
     שְׁאָל!
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -7130,7 +7136,7 @@
     כִּי נָעַן.
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7141,7 +7147,7 @@
     אוֹ אַךְ מִפִּי הַגְּדוֹלִים מֶנּוּ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7149,7 +7155,7 @@
     קִרְאוּ לָהֶם וְאֶרְאֵם!
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7166,7 +7172,7 @@
     שִׂים בַּסִּיר!
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -7180,7 +7186,7 @@
     [קול רעם. נגלה ראש ועליו כובע]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7188,7 +7194,7 @@
     הַגֵּד לִי, כֹּחַ וְאִם פֶּלִאי –
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7199,7 +7205,7 @@
     אֶת הֲגִיגֶיךָ הוּא יוֹדֵעַ עַד תֹּם.
    </sp>
    <sp>
-    <speaker id="מראה א">
+    <speaker id="mrh ">
      מראה א
     </speaker>
    </sp>
@@ -7213,7 +7219,7 @@
     [נעלם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7227,7 +7233,7 @@
     עוֹד דַּבֵּר –
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7238,13 +7244,13 @@
     וְגָדוֹל מִן הָרִאשׁוֹן.
    </sp>
    <sp>
-    <speaker id="[רעם. מראה שני">
+    <speaker id="[rem. mrh shni">
      [רעם. מראה שני
     </speaker>
     ילד מתבוסס בדמיו]
    </sp>
    <sp>
-    <speaker id="מראה ב">
+    <speaker id="mrh b">
      מראה ב
     </speaker>
    </sp>
@@ -7252,7 +7258,7 @@
     מֶקְבֶּת! מֶקְבֶּת! מֶקְבֶּת!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7260,7 +7266,7 @@
     וְלוּ אָזְנַי שָׁלוֹש וְקָלְטוּ אֶת מִלֶּיךָ.
    </sp>
    <sp>
-    <speaker id="מראה ב">
+    <speaker id="mrh b">
      מראה ב
     </speaker>
    </sp>
@@ -7277,7 +7283,7 @@
     [נעלם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7291,7 +7297,7 @@
     הַגּוֹרָל יַעֲרֹב לִי. לֹא יִחְיֶה – יָמוּת!
    </sp>
    <sp>
-    <speaker id="אָז אֹמַר לְפַחַד חִוֵּר-לֵב">
+    <speaker id="oz ֹmַr lְfַkhַd khִuֵr-lֵb">
      אָז אֹמַר לְפַחַד חִוֵּר-לֵב
     </speaker>
     הוֹי כּוֹזֵב.
@@ -7300,7 +7306,7 @@
     אַרְגִּיעָה אָנוּם לַמְרוֹת רַעַם יִרְעָם.
    </sp>
    <sp>
-    <speaker id="[קול רעם. מראה שלישי">
+    <speaker id="[kul rem. mrh shlishi">
      [קול רעם. מראה שלישי
     </speaker>
     ילד בנזר מלכות וזמורה בכפו]
@@ -7315,7 +7321,7 @@
     לְמִמְשַׁל מְלָכִים.
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -7323,7 +7329,7 @@
     אַךְ הַסְכֵּת וָדֹם!
    </sp>
    <sp>
-    <speaker id="מראה ג">
+    <speaker id="mrh g">
      מראה ג
     </speaker>
    </sp>
@@ -7346,7 +7352,7 @@
     [נעלם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7381,7 +7387,7 @@
     עוֹד נִכְסְפָה נַפְשִׁי וְלִבִּי יַךְ
    </sp>
    <sp>
-    <speaker id="(אִם אַךְ בִּיכָלְתְּכֶן לְגַלּוֹת גַּם זֹאת">
+    <speaker id="(ִm akhְ bִikhָlְtְkhֶn lְgַlּuֹs gַּm zֹs">
      (אִם אַךְ בִּיכָלְתְּכֶן לְגַלּוֹת גַּם זֹאת
     </speaker>
     )
@@ -7393,7 +7399,7 @@
     בִּידֵי יוֹצְאֵי בֶּנְקוֹ?
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -7401,7 +7407,7 @@
     אַל תַּעְמִיק שְׁאָלָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7418,7 +7424,7 @@
     [קול חלילים]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7426,7 +7432,7 @@
     הוֹפַע!
    </sp>
    <sp>
-    <speaker id="מכשפה ב">
+    <speaker id="mkhshfh b">
      מכשפה ב
     </speaker>
    </sp>
@@ -7434,7 +7440,7 @@
     הוֹפַע!
    </sp>
    <sp>
-    <speaker id="מכשפה ג">
+    <speaker id="mkhshfh g">
      מכשפה ג
     </speaker>
    </sp>
@@ -7442,7 +7448,7 @@
     הוֹפַע!
    </sp>
    <sp>
-    <speaker id="כולן">
+    <speaker id="khuln">
      כולן
     </speaker>
    </sp>
@@ -7456,7 +7462,7 @@
     [נגלים שמונה מלכים ועוברים זה אחר זה. בידי האחרון מראה; בנקו בא אחריהם]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7500,7 +7506,7 @@
     מְגֹאָל בְּדָמִים שְׂחוֹק עַל שְׂפָתָיו בֶּנְקוֹ
    </sp>
    <sp>
-    <speaker id="עֲלֵיהֶם מוֹרֶה, לֵאמֹר">
+    <speaker id="eֲlֵihֶm muֹrֶh, lֵmֹr">
      עֲלֵיהֶם מוֹרֶה, לֵאמֹר
     </speaker>
     בָּנַי הֵם.
@@ -7512,7 +7518,7 @@
     [המראה נעלם]
    </sp>
    <sp>
-    <speaker id="מכשפה א">
+    <speaker id="mkhshfh ">
      מכשפה א
     </speaker>
    </sp>
@@ -7544,7 +7550,7 @@
     [קול נגינה. המכשפות מכרכרות ונעלמות]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7561,7 +7567,7 @@
     [לינוקס נכנס]
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -7569,7 +7575,7 @@
     מָה רְצוֹן אֲדוֹנִי?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7580,7 +7586,7 @@
     הַקּוֹסְמוֹת הֵן רָאִיתָ?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -7588,7 +7594,7 @@
     לֹא רְאִיתִין.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7596,7 +7602,7 @@
     הַאָמְנָם לֹא עָבְרוּ עַל פָּנֵינוּ?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -7607,7 +7613,7 @@
     לֹא, אֲדוֹנִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7621,7 +7627,7 @@
     קוֹל דַּהֲרוֹת סוּס שָׁמַעְתִּי. מִי הַבָּא?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -7629,7 +7635,7 @@
     אֲדוֹנִי, שְׁנַים, שְׁלֹשָה הַמַּגִּידִים
    </sp>
    <sp>
-    <speaker id="וּבְפִיהֶם בְּשׂוֹרָה">
+    <speaker id="ubְfִihֶm bְsuֹrָh">
      וּבְפִיהֶם בְּשׂוֹרָה
     </speaker>
     מֶקְדּוּף נָס וְנִמְלַט
@@ -7638,7 +7644,7 @@
     לְאַנְגְּלִיָּה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7646,7 +7652,7 @@
     נָס וְנִמְלַט לְאַנְגְּלִיָּה?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -7654,7 +7660,7 @@
     הֵן מֶלֶךְ חֶסֶד.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -7701,7 +7707,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="פיף. חדר בארמון מקדוף">
+    <speaker id="fif. khdr brmun mkduf">
      פיף. חדר בארמון מקדוף
     </speaker>
    </sp>
@@ -7709,7 +7715,7 @@
     [לידי מקדוף ובנה רוס]
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7717,7 +7723,7 @@
     מֶה עָשָׂה אֲשֶׁר בָּרַח מִן הָאָרֶץ?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -7725,7 +7731,7 @@
     אַךְ סַבְלָנוּת, גְּבִרְתִּי.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7739,7 +7745,7 @@
     הֵן פַּחְדֵּנוּ יַעֲשֵׂנוּ בּוֹגֵד.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -7750,7 +7756,7 @@
     אִם מִשּׁוּם יִרְאָה אוֹ מִשּׁוּם חָכְמָה.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7782,7 +7788,7 @@
     לַמְרוֹת עֲצַת בִּינָתוֹ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -7826,7 +7832,7 @@
     הֱיֵה לִי בָּרוּךְ, אָחִי.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7834,7 +7840,7 @@
     עוֹד אָבִיו חַי, וּכְבָר אֵין אָב לוֹ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -7851,7 +7857,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7862,7 +7868,7 @@
     אֵיךְ תִּחְיֶה?
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7870,7 +7876,7 @@
     כְּאוֹתָהּ צִפּוֹר, אִמָּא.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7878,7 +7884,7 @@
     הֲמִן הַתּוֹלַעַת אוֹ מִן הַזְּבוּב?
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7886,9 +7892,11 @@
     מִכָּל הַבָּא בְּיָדִי. וְכֵן גַּם הֵן.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
+    <p>
+    </p>
    </sp>
    <sp>
     צִפּוֹרִי הָעֲלוּבָה, וְאֵינְךָ יָרֵא
@@ -7897,7 +7905,7 @@
     מִמְּצוּדוֹת וַחֲרָמִים, מִפַּח יָקוֹשׁ?
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7911,7 +7919,7 @@
     וְגַם אָבִי חַי, אִם גַּם אָמַרְתְּ כִּי מֵת הוּא.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7919,7 +7927,7 @@
     לֹא, כִּי מֵת! מַה תַּעֲשֶׂה וְתִמְצָא אָב?
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7927,7 +7935,7 @@
     וְאַתְּ, אֵיךְ תִּמְצְאִי אִישׁ אַחֵר?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7935,7 +7943,7 @@
     גַּם עֶשְׂרִים יֵשׁ בְּשׁוּק וְשׁוּק לִקְנוֹתָם.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7943,7 +7951,7 @@
     אָז תִּקְנִי בִּכְדֵי לִמְכֹּר שׁוּב.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7957,7 +7965,7 @@
     בְּדֵי חָכְמָה לְפִי שְׁנוֹתֶיךָ.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7965,7 +7973,7 @@
     הַאָמְנָם הָיָה אָבִי בּוֹגֵד, אִמָּא?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7973,7 +7981,7 @@
     הֵן, בּוֹגֵד הָיָה.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7981,7 +7989,7 @@
     וּמַה זֶּה בּוֹגֵד?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -7989,7 +7997,7 @@
     כָּל הַנִּשְׁבָּע וְשִׁקֵּר.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -7997,7 +8005,7 @@
     וְהָעוֹשִׂים כָּךְ הֵם כֻּלָּם בּוֹגְדִים?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8008,7 +8016,7 @@
     אוֹתוֹ.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8019,7 +8027,7 @@
     וּמְשַׁקְּרִים?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8027,7 +8035,7 @@
     אֶת כֻּלָּם.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8035,7 +8043,7 @@
     מִי צָרִיךְ לִתְלוֹת אוֹתָם?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8043,7 +8051,7 @@
     הַיְשָׁרִים וְהַכֵּנִים.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8060,7 +8068,7 @@
     אוֹתָם.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8071,7 +8079,7 @@
     לְךָ אָב?
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8082,7 +8090,7 @@
     אֶלָּא סִימָן טוֹב, שֶׁבִּמְהֵרָה יִהְיֶה לִי אָב חָדָשׁ.
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8093,7 +8101,7 @@
     [נכנס ציר]
    </sp>
    <sp>
-    <speaker id="הציר">
+    <speaker id="htsir">
      הציר
     </speaker>
    </sp>
@@ -8131,7 +8139,7 @@
     [הציר יוצא]
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8139,7 +8147,7 @@
     לְאָן אָנוּסָה?
    </sp>
    <sp>
-    <speaker id="כִּי לֹא פָּעַלְתִּי אָוֶן. אַךְ נִזְכַּרְתִּי">
+    <speaker id="kִi lֹ pָeַlְtִi ouֶn. akhְ nִzְkַrְtִi">
      כִּי לֹא פָּעַלְתִּי אָוֶן. אַךְ נִזְכַּרְתִּי
     </speaker>
     הֵן
@@ -8157,7 +8165,7 @@
     וְלָמָּה – הָהּ – בָּטַחְתִּי בִכְלֵי זַיִן
    </sp>
    <sp>
-    <speaker id="שֶׁל נָשִׁים">
+    <speaker id="shֶׁl nָshִׁim">
      שֶׁל נָשִׁים
     </speaker>
     לֵאמֹר לֹא פָּעַלְתִּי אָוֶן.
@@ -8169,7 +8177,7 @@
     מִי פָּנִים אֵלֶּה?
    </sp>
    <sp>
-    <speaker id="הרוצח">
+    <speaker id="hrutskh">
      הרוצח
     </speaker>
    </sp>
@@ -8177,7 +8185,7 @@
     אֵי אִישֵׁךְ?
    </sp>
    <sp>
-    <speaker id="לידי מקדוף">
+    <speaker id="lidi mkduf">
      לידי מקדוף
     </speaker>
    </sp>
@@ -8188,7 +8196,7 @@
     שָׁם יִמְצָאֶנּוּ אִישׁ אֲשֶׁר כְּמוֹתְךָ.
    </sp>
    <sp>
-    <speaker id="הרוצח">
+    <speaker id="hrutskh">
      הרוצח
     </speaker>
    </sp>
@@ -8196,7 +8204,7 @@
     הוּא בּוֹגֵד.
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8207,7 +8215,7 @@
     נָבָל פְּרוּעַ רֹאשׁ!
    </sp>
    <sp>
-    <speaker id="הרוצח">
+    <speaker id="hrutskh">
      הרוצח
     </speaker>
    </sp>
@@ -8218,7 +8226,7 @@
     שְׁגַר בּוֹגֵד בָּגֶד!
    </sp>
    <sp>
-    <speaker id="הבן">
+    <speaker id="hbn">
      הבן
     </speaker>
    </sp>
@@ -8229,13 +8237,13 @@
     הִמָּלְטִי, אָנָּא [מת]
    </sp>
    <sp>
-    <speaker id="[לידי מקדוף נסה בקריאה">
+    <speaker id="[lidi mkduf nsh bkrih">
      [לידי מקדוף נסה בקריאה
     </speaker>
     רצח, והרוצחים רודפים אחריה]
    </sp>
    <sp>
-    <speaker id="אנגליה . גן לפני ארמון המלך.">
+    <speaker id="nglih . gn lfni rmun hmlkh">
      אנגליה . גן לפני ארמון המלך.
     </speaker>
    </sp>
@@ -8243,7 +8251,7 @@
     [נכנסים מַלקולם ומקדוף]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8254,7 +8262,7 @@
     לִבֵּנוּ נוּגֶה יִבְכֶּה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8283,7 +8291,7 @@
     יֵאָנַח מִן הַצָּעַר.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8318,7 +8326,7 @@
     שֶׂה מִסְכֵּן, חַלָּשׁ, תָּמִים לְאֵל כִּי יֶאֱנָף.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8326,7 +8334,7 @@
     אֵינֶנִּי בּוֹגֵד!
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8355,7 +8363,7 @@
     לַחֶסֶד מַרְאֵהוּ זֶה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8363,7 +8371,7 @@
     אֲנִי תִקְווֹתַי אָבְדוּ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8395,7 +8403,7 @@
     וְאִם אֶחְשֹׁב מַה שֶּׁאֶחְשֹׁב.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8427,7 +8435,7 @@
     בְּלִיַּעַל זֶה, כַּאֲשֶׁר תַּחְשְׁבֵנִי.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8471,7 +8479,7 @@
     בְּיַד מְמַלֵּא מְקוֹמוֹ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8479,7 +8487,7 @@
     מִי הַלָּז?
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8502,7 +8510,7 @@
     לַהֲמוֹן כָּל מוּמַי לִבְלִי גְּבוּל.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8516,7 +8524,7 @@
     שֶׁיַּעֲלֶה עַל מֶקְבֶּת.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8554,7 +8562,7 @@
     מַה טּוֹב מֶקְבֶּת מִמְּשֹׁל אִישׁ כְּמוֹת זֶה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8592,7 +8600,7 @@
     לִכְשֶׁיִּגָּלֶה טִיבוֹ זֶה.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8627,7 +8635,7 @@
     אוֹתָמוֹ בִּגְלַל עָשְׁרָם.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8653,7 +8661,7 @@
     אִם יֶשְׁנָן מִדּוֹת כְּנֶגֶד שְׁאָר הַמִּדּוֹת.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8661,7 +8669,7 @@
     אַךְ לִי אֵין כְּלוּם.
    </sp>
    <sp>
-    <speaker id="גַּם אַחַת מִכָּל מִדּוֹת-מֶלֶךְ">
+    <speaker id="gַּm akhַs mִkָl mִdּuֹs-mֶlֶkhְ">
      גַּם אַחַת מִכָּל מִדּוֹת-מֶלֶךְ
     </speaker>
     צֶדֶק,
@@ -8697,7 +8705,7 @@
     אֲסַכְסֵךְ כָּל-הָאַחְדוּת בִּמְלֹא-אֶרֶץ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8705,7 +8713,7 @@
     הוֹי, שׁוֹטְלַנְד, שׁוֹטְלַנְד!
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8716,7 +8724,7 @@
     הַגֵּד! מַה שֶּׁאֲנִי אֲנִי הִגַּדְתִּי.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8760,7 +8768,7 @@
     פֹּה קֶבֶר תִּקְווֹתֶיךָ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8846,7 +8854,7 @@
     מַה נֶּאֱלַמְתָּ?
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8863,7 +8871,7 @@
     [נכנס רופא אנגלי]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8871,7 +8879,7 @@
     טוֹב! לַשְּׁאָר עוֹד זְמָן.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -8894,7 +8902,7 @@
     מִיָּד.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8905,7 +8913,7 @@
     [הרופא יוצא]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8913,7 +8921,7 @@
     לְאֵיזֶה מַחֲלָה כִּוֵּן?
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8963,7 +8971,7 @@
     [נכנס רוס]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8971,7 +8979,7 @@
     שׁוּר, מִי הַבָּא.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -8979,7 +8987,7 @@
     בֶּן-אַרְצִי הוּא, אַךְ לֹא יָדַעְתִּי מִי הוּא.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -8987,7 +8995,7 @@
     בֶּן-דּוֹדִי זֶה אָהַבְתִּי, שָׁלוֹם.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9004,7 +9012,7 @@
     וְנִהְיֶה נָכְרִים.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9012,7 +9020,7 @@
     אָמֵן , אֲדוֹנִי!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9020,7 +9028,7 @@
     הַעוֹד שׁוֹטְלַנְד כִּהְיוֹתָהּ?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9046,7 +9054,7 @@
     לְרַגְשָׁנוּת יוֹם-יוֹם נֶחְשָׁב, וּבְהֵילִיל
    </sp>
    <sp>
-    <speaker id="לַמֵּת אֵין שׁוֹאֵל">
+    <speaker id="lַmֵּs ֵin shׁuֵֹl">
      לַמֵּת אֵין שׁוֹאֵל
     </speaker>
     לְמִי? וְחַיֵּי יִשְׁרֵי לֵב
@@ -9061,7 +9069,7 @@
     וָמֵתוּ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9072,7 +9080,7 @@
     וְאַף-עַל-פִּי-כֵן יוֹתֵר מִדַּי נָכוֹן.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9080,7 +9088,7 @@
     וְאֵי זֶה הוּא הַצַּעַר הֲכִי חָדָשׁ?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9091,7 +9099,7 @@
     לְאוֹמְרוֹ. רֶגַע רֶגַע וְקִלְלָתוֹ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9099,7 +9107,7 @@
     וּמַה שְּׁלוֹם אִשְׁתִּי?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9107,7 +9115,7 @@
     אֲבָל לָהּ שָׁלוֹם.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9115,7 +9123,7 @@
     וְכָל יְלָדַי?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9123,7 +9131,7 @@
     גַּם הֵמָּה שָׁלוֹם.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9131,7 +9139,7 @@
     וְלֹא הִפְרִיעַ הֶעָרִיץ שְׁלוֹמָם?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9139,7 +9147,7 @@
     לֹא. שָׁלוֹם לָהֶם בְּנֹטְשִׁי אוֹתָם.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9150,7 +9158,7 @@
     הַגֵּד מַה יֵּשׁ?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9182,7 +9190,7 @@
     כָּל קְשִׁי-אֲסוֹנָן.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9205,7 +9213,7 @@
     בִּמְלֹא עוֹלָם הַנַּצְרוּת.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9222,7 +9230,7 @@
     בִּישִׁימוֹן לְלֹא אֹזֶן תִּקְלֹט אוֹתָם.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9233,7 +9241,7 @@
     הַנּוֹעָד אַךְ לַלֵּב הָאֶחָד?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9247,7 +9255,7 @@
     וְאִם הוּא אַךְ לְךָ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9258,7 +9266,7 @@
     גַּם הַשְׁמִיעֶנּוּ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9275,7 +9283,7 @@
     לֹא שָׁמְעָה עוֹד מֵעוֹלָם…
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9283,7 +9291,7 @@
     הְמ… כְּבָר אַרְגִּישׁ.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9303,7 +9311,7 @@
     גַּם אוֹתְךָ חָלָל.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9323,7 +9331,7 @@
     וִיפוֹצְצֶנּוּ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9331,7 +9339,7 @@
     גַּם אֶת הַטָּף?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9342,7 +9350,7 @@
     כָּל אֲשֶׁר מָצָא.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9353,7 +9361,7 @@
     גַּם אִשְׁתִּי הָרְגוּ?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -9361,7 +9369,7 @@
     הֲלֹא אָמָרְתִּי.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9372,7 +9380,7 @@
     רְפוּאָה לְמַכַּת-מָוֶת זוֹ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9386,7 +9394,7 @@
     אֶת כָּל אֶפְרוֹחַי, אֵם עַל בָּנִים פָּעַם!
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9394,7 +9402,7 @@
     שָׂא זֹאת כַּיָּאוּת לְאִישׁ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9429,7 +9437,7 @@
     מְנוּחָתָם כָּבוֹד.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9443,7 +9451,7 @@
     יִקֹּד כִּיקוֹד.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -9469,7 +9477,7 @@
     גַּם לוֹ, שָׁמָיִם.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -9498,7 +9506,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="דונזינֶן. טרקלין הארמון.">
+    <speaker id="dunzinֶn. trklin hrmun">
      דונזינֶן. טרקלין הארמון.
     </speaker>
    </sp>
@@ -9506,7 +9514,7 @@
     [נכנס הרופא ואשה מרואות-פני-המלכה]
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9517,7 +9525,7 @@
     אֻשַּׁר. מָתַי הִתְהַלְּכָה בַפַּעַם הָאַחֲרוֹנָה?
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9540,12 +9548,12 @@
     לְמִטָּתָהּ. וְכָל זֶה מִתּוֹךְ תַּרְדֵּמָה עֲמֻקָּה.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
    <sp>
-    <speaker id="זוֹ הִיא מַהְפֵּכָה גְדוֹלָה בַּטֶּבַע">
+    <speaker id="zuֹ hִi mַhְpֵkhָh gְduֹlָh bַtֶּbַe">
      זוֹ הִיא מַהְפֵּכָה גְדוֹלָה בַּטֶּבַע
     </speaker>
     לְקַבֵּל בְּבַת-אַחַת
@@ -9563,7 +9571,7 @@
     שֵׁנָה?
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9571,7 +9579,7 @@
     הֵן! דְּבִָרִים, שֶׁאֵין אֲנִי רוֹצָה לַחֲזֹר וּלְסַפֵּר.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9579,7 +9587,7 @@
     לִי מֻתָּר, וְלֹא עוֹד – גַּם צָרִיךְ.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9593,7 +9601,7 @@
     [נכנסת לידי מקבת ונר בכפה]
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9604,7 +9612,7 @@
     מִתּוֹךְ שֵׁנָה עֲמֻקָּה. הִתְבּוֹנֵן אֵלֶיהָ, אַךְ הִסָּתֵר.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9612,7 +9620,7 @@
     אֵיזֶה הַדֶּרֶךְ בָּא לְיָדָהּ הַנֵּר?
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9623,7 +9631,7 @@
     לִהְיוֹת אוֹר אֶצְלָהּ תָּמִיד. מִצְוָתָהּ הִיא.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9631,7 +9639,7 @@
     רוֹאָה אַתְּ, עֵינֶיהָ פְּקוּחוֹת.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9639,7 +9647,7 @@
     הֵן, אַךְ רֶגֶשׁ אֵין בָּהֶן.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9650,7 +9658,7 @@
     אֶת כַּפֶּיהָ.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9661,7 +9669,7 @@
     פַּעַם רְאִיתִיהָ עֲסוּקָה בָּזֶה בְּמֶשֶׁךְ רֶבַע שָׁעָה.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9669,7 +9677,7 @@
     הִנֵּה עוֹד כֶּתֶם פֹּה.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9680,7 +9688,7 @@
     בִּכְדֵי לְהֵיטִיב וּלְהַעֲלוֹתָם עַל זִכְרוֹנִי שׁוּב.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9703,7 +9711,7 @@
     סוֹבֵר שֶׁאִישׁ זָקֵן כָּמוֹהוּ כָּל כָּךְ הַרְבֵּה דָּמִים בּוֹ?
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9711,7 +9719,7 @@
     הֲשׁוֹמַעַת אַתְּ?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9728,7 +9736,7 @@
     בְּפָחְדְּךָ זֶה.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9739,7 +9747,7 @@
     לָדַעַת.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9750,7 +9758,7 @@
     מֻבְטְחַנִי, הָאֱלֹהִים יוֹדֵעַ מַה שֶּׁעָבַר עָלֶיהָ.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9761,7 +9769,7 @@
     יַסְפִּיקוּ לְבַשֵּׂם כַּף קְטַנָּה זוֹ. אוֹי! אוֹי! אוֹי!
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9769,7 +9777,7 @@
     אֲנָחָה שֶׁכָּזוֹ! לִבָּהּ כָּבֵד מְאֹד.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9780,7 +9788,7 @@
     לִי כָּל כְּבוֹדָהּ שֶׁלָּהּ.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9788,7 +9796,7 @@
     טוֹב, טוֹב, טוֹב!
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9796,7 +9804,7 @@
     הַלְוַאי, אֱלֹהִים, וְגַם זוֹ לְטוֹבָה!
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9810,7 +9818,7 @@
     מִטָּתָם כְּצַדִּיקִים גְּמוּרִים.
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9818,7 +9826,7 @@
     רְחַץ יָדֶיךָ, שִׂים עָלֶיךָ בִגְדֵי-לַיְלָה וְאַל תִּהְיֶה
    </sp>
    <sp>
-    <speaker id="חִוֵּר כָּל כָּךְ! שׁוּב אֲנִי חוֹזֶרֶת עַל דְּבָרַי">
+    <speaker id="khִuֵr kָl kָkhְ! shׁub ֲnִi khuֹzֶrֶs eַl dְּbָrַi">
      חִוֵּר כָּל כָּךְ! שׁוּב אֲנִי חוֹזֶרֶת עַל דְּבָרַי
     </speaker>
     בֶּנְקוֹ
@@ -9827,7 +9835,7 @@
     הוּבַל לִקְבוּרוֹת וְלֹא יוּכַל קוּם מִקָּבֶר.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9835,7 +9843,7 @@
     הֲבֶאֱמֶת?
    </sp>
    <sp>
-    <speaker id="לידי מקבת">
+    <speaker id="lidi mkbs">
      לידי מקבת
     </speaker>
    </sp>
@@ -9852,7 +9860,7 @@
     [יוצאת]
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9860,7 +9868,7 @@
     הֲתִשְׁכַּב כָּעֵת בַּמִּטָּה?
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9868,7 +9876,7 @@
     תֵּכֶף וּמִיָּד.
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -9906,7 +9914,7 @@
     מִלּוֹמַר דָּבָר.
    </sp>
    <sp>
-    <speaker id="האשה">
+    <speaker id="hshh">
      האשה
     </speaker>
    </sp>
@@ -9917,7 +9925,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="בקרבת דונזינֶן">
+    <speaker id="bkrbs dunzinֶn">
      בקרבת דונזינֶן
     </speaker>
    </sp>
@@ -9925,7 +9933,7 @@
     [בקול תוף ועם דגלים נכנסים מֶנטית, קיתנס, אנגוס, לינוקס ואנשי-חיל]
    </sp>
    <sp>
-    <speaker id="מנטית">
+    <speaker id="mntis">
      מנטית
     </speaker>
    </sp>
@@ -9945,7 +9953,7 @@
     גַּם אֶת הַנָּזִיר מִן הָעוֹלָם.
    </sp>
    <sp>
-    <speaker id="אנגוס">
+    <speaker id="ngus">
      אנגוס
     </speaker>
    </sp>
@@ -9959,7 +9967,7 @@
     כִּי דֶּרֶך שָׁם יָבוֹאוּ.
    </sp>
    <sp>
-    <speaker id="קיתנס">
+    <speaker id="kisns">
      קיתנס
     </speaker>
    </sp>
@@ -9970,7 +9978,7 @@
     הֲגַם דּוֹנַלְבֵּין עִם אָחִיהוּ יָחַד?
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -9987,7 +9995,7 @@
     הַבָּאִים עַתָּה לְהַרְאוֹת כִּי גַּם הֵם בַּגְּבָרִים.
    </sp>
    <sp>
-    <speaker id="מנטית">
+    <speaker id="mntis">
      מנטית
     </speaker>
    </sp>
@@ -9995,7 +10003,7 @@
     הֶעָרִיץ, הוּא מָה עוֹשֶׂה?
    </sp>
    <sp>
-    <speaker id="קיתנס">
+    <speaker id="kisns">
      קיתנס
     </speaker>
    </sp>
@@ -10018,7 +10026,7 @@
     לְהַחֲזִיק בְּמַחֲגֹרֶת חֹק אֶת רִיב-עַוְלָתוֹ.
    </sp>
    <sp>
-    <speaker id="אנגוס">
+    <speaker id="ngus">
      אנגוס
     </speaker>
    </sp>
@@ -10044,7 +10052,7 @@
     אֶת גַּנָּב נַנָּס.
    </sp>
    <sp>
-    <speaker id="מנטית">
+    <speaker id="mntis">
      מנטית
     </speaker>
    </sp>
@@ -10061,7 +10069,7 @@
     עַל הִשָּׁאֲרוֹ בוֹ?
    </sp>
    <sp>
-    <speaker id="קיתנס">
+    <speaker id="kisns">
      קיתנס
     </speaker>
    </sp>
@@ -10081,7 +10089,7 @@
     לְטַהֵר אוֹתָהּ בָּם.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -10098,7 +10106,7 @@
     [יוצאים בסך]
    </sp>
    <sp>
-    <speaker id="דונזינן. אולם בארמון">
+    <speaker id="dunzinn. ulm brmun">
      דונזינן. אולם בארמון
     </speaker>
    </sp>
@@ -10106,7 +10114,7 @@
     [נכנסים מקבת, הרופא ומרואי-פני-המלך]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10153,7 +10161,7 @@
     מַרְאֵה קָאקֵי-חִוְרֵי?
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -10161,7 +10169,7 @@
     שָׁם הֵם עֶשְׂרִים אֶלֶף!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10169,7 +10177,7 @@
     קָאקֵי, נָבָל?
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -10177,7 +10185,7 @@
     אַנְשֵׁי חַיִל, מַלְכִּי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10197,7 +10205,7 @@
     אֵיזֶה אַנְשֵׁי חַיִל, לֹעַ זִבְדָּה?
    </sp>
    <sp>
-    <speaker id="המשרת">
+    <speaker id="hmshrs">
      המשרת
     </speaker>
    </sp>
@@ -10205,7 +10213,7 @@
     חֵיל הָאַנְגְּלִים, בִּרְשׁוּת רוּם מַעֲלָתוֹ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10255,7 +10263,7 @@
     [סיטון נכנס]
    </sp>
    <sp>
-    <speaker id="סיטון">
+    <speaker id="situn">
      סיטון
     </speaker>
    </sp>
@@ -10263,7 +10271,7 @@
     מַה יְּצַוֶּה רוּם מַעֲלָתוֹ?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10271,7 +10279,7 @@
     מָה הַחֲדָשׁוֹת?
    </sp>
    <sp>
-    <speaker id="סיטון">
+    <speaker id="situn">
      סיטון
     </speaker>
    </sp>
@@ -10279,7 +10287,7 @@
     אֱמֶת בְּפִי הַמְבַשְּׂרִים.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10290,7 +10298,7 @@
     מֵעַל עַצְמוֹתַי. אֶת כְּלֵי-זֵינִי תְּנָה לִי.
    </sp>
    <sp>
-    <speaker id="סיטון">
+    <speaker id="situn">
      סיטון
     </speaker>
    </sp>
@@ -10298,7 +10306,7 @@
     עוֹד אֵין בּוֹ צֹרֶךְ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10315,7 +10323,7 @@
     כְּלֵי זֵינִי לִי! מַה שְּׁלוֹם הַחוֹלָה, דּוֹקְטוֹר?
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -10329,7 +10337,7 @@
     אַף יַדְרִיכוּהָ מְנוּחָה.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10355,7 +10363,7 @@
     הַמֵּעִיק עַל הַלֵּב?
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -10366,7 +10374,7 @@
     הַחוֹלֶה בְּעַצְמוֹ צָרִיך לִמְצֹא מָזוֹר.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10407,7 +10415,7 @@
     כְּלוּם שִׁמְעָם כְּבָר שָׁמָעְתָּ?
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -10421,7 +10429,7 @@
     דָּבָר.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10438,7 +10446,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="הרופא">
+    <speaker id="hruf">
      הרופא
     </speaker>
    </sp>
@@ -10452,7 +10460,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="שדה בקרבת יער בירנם">
+    <speaker id="shdh bkrbs yer birnm">
      שדה בקרבת יער בירנם
     </speaker>
    </sp>
@@ -10460,7 +10468,7 @@
     [קול תופים. אנגלים בידיהם דגלים. נכנסים מלקולם, סיוורד הזקן ובנו, מקדוף, מנטית, קיתנס, אנגוס, לינוקס, רוס וחיילים עוברים בסך]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -10471,7 +10479,7 @@
     חֹק אוֹתוֹ יוֹם, בּוֹ יִשְׁלוּ אֹהָלֵינוּ.
    </sp>
    <sp>
-    <speaker id="מנטית">
+    <speaker id="mntis">
      מנטית
     </speaker>
    </sp>
@@ -10479,7 +10487,7 @@
     אַף רֶגַע לֹא פִקְפַּקְנוּ.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -10490,7 +10498,7 @@
     הַיַּעַר לְפָנֵינוּ?
    </sp>
    <sp>
-    <speaker id="מנטית">
+    <speaker id="mntis">
      מנטית
     </speaker>
    </sp>
@@ -10498,7 +10506,7 @@
     יַעַר בִּירְנַם.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -10515,7 +10523,7 @@
     אֶת עֵין הַמְרַגְּלִים.
    </sp>
    <sp>
-    <speaker id="חיילים">
+    <speaker id="kheylim">
      חיילים
     </speaker>
    </sp>
@@ -10523,7 +10531,7 @@
     כִּדְבָרֶיךָ נָעַשׂ!
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -10537,7 +10545,7 @@
     לָשֶׁבֶת בּוֹ עַד נָצוּר עָלָיו.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -10560,7 +10568,7 @@
     אֵין לִבּוֹ שָׁלֵם אִתּוֹ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -10574,7 +10582,7 @@
     בְּטַכְסִיסֵי קְרָב חָרוּצִים.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -10585,7 +10593,7 @@
     הַשָּׁעָה, בְּיָדָהּ אוֹת וּמוֹפֵת חוֹתֵך לְלַמְּדֵנוּ
    </sp>
    <sp>
-    <speaker id="אֵיךְ נֹאמַר">
+    <speaker id="ֵikhְ nֹmַr">
      אֵיךְ נֹאמַר
     </speaker>
     לָנוּ זֶה וְזֶה חוֹבֵנוּ.
@@ -10603,7 +10611,7 @@
     [יוצאים כולם]
    </sp>
    <sp>
-    <speaker id="דונזינן, בפנים הארמון">
+    <speaker id="dunzinn, bfnim hrmun">
      דונזינן, בפנים הארמון
     </speaker>
    </sp>
@@ -10611,7 +10619,7 @@
     [נכנסים מקבת, סיטון וחיילים עם תופים ועם דגלים]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10619,7 +10627,7 @@
     הָנִיפוּ אֶת הַדְּגָלִים עַל הַסּוֹלְלוֹת!
    </sp>
    <sp>
-    <speaker id="כְּקֹדֶם קוֹל הַמְבַשְּׂרִים">
+    <speaker id="kְkֹdֶm kuֹl hַmְbַshְּׂrִim">
      כְּקֹדֶם קוֹל הַמְבַשְּׂרִים
     </speaker>
     “הֵמָּה בָאִים”.
@@ -10646,7 +10654,7 @@
     מַה קּוֹל הַשָּׁאוֹן?
    </sp>
    <sp>
-    <speaker id="סיטון">
+    <speaker id="situn">
      סיטון
     </speaker>
    </sp>
@@ -10657,7 +10665,7 @@
     [יוצא]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10689,7 +10697,7 @@
     בְּשֶׁל מָה הַקּוֹל?
    </sp>
    <sp>
-    <speaker id="סיטון">
+    <speaker id="situn">
      סיטון
     </speaker>
    </sp>
@@ -10697,7 +10705,7 @@
     הַמַּלְכָּה אָסְפָה רוּחָהּ, הוֹי, אֲדוֹנִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10750,7 +10758,7 @@
     בְּשׂר בְּשׂוֹרָתְךָ!
    </sp>
    <sp>
-    <speaker id="המלאך">
+    <speaker id="hmlkh">
      המלאך
     </speaker>
    </sp>
@@ -10764,7 +10772,7 @@
     אַךְ כֵּיצַד, נִפְלָאת זֹאת מִמֶּנִּי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10772,7 +10780,7 @@
     סַפֵּרָה!
    </sp>
    <sp>
-    <speaker id="המלאך">
+    <speaker id="hmlkh">
      המלאך
     </speaker>
    </sp>
@@ -10786,7 +10794,7 @@
     הַיַּעַר הִתְחִיל זָע.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10794,7 +10802,7 @@
     הוֹי שַׁקְרָן וְנָבָל!
    </sp>
    <sp>
-    <speaker id="המלאך">
+    <speaker id="hmlkh">
      המלאך
     </speaker>
    </sp>
@@ -10808,7 +10816,7 @@
     זוֹ חֹרְשָׁה קְרֵבָה, בְּהֵן צִדְקִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10831,7 +10839,7 @@
     לְפַקְפֵּק בְּמַאֲמַר הַשָּׂטָן תַּרְתֵּי מַשְׁמַע;
    </sp>
    <sp>
-    <speaker id="גַּם שֶׁקֶר בּוֹ גַּם אֱמֶת">
+    <speaker id="gַּm shֶׁkֶr buֹ gַּm ֱmֶs">
      גַּם שֶׁקֶר בּוֹ גַּם אֱמֶת
     </speaker>
     "עַד שֶׁעָלָה
@@ -10867,7 +10875,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="דונזינן. לפני הארמון">
+    <speaker id="dunzinn. lfni hrmun">
      דונזינן. לפני הארמון
     </speaker>
    </sp>
@@ -10875,7 +10883,7 @@
     [בתופים ודגלים נכנסים מלקולם, סיוורד הזקן, מקדוף וחייליהם נושאים זמורות]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -10901,7 +10909,7 @@
     אֶת מַעֲשֵׂיכֶם כְּתָכְנִית מִלְחַמְתֵּנוּ.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -10912,7 +10920,7 @@
     יַכֵּנוּ זֶה, אִם כֹּחַ אֵין בְּיָדֵינוּ.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -10926,7 +10934,7 @@
     [יוצאים]
    </sp>
    <sp>
-    <speaker id="מקום אחר בשדה הקרב">
+    <speaker id="mkum khr bshdh hkrb">
      מקום אחר בשדה הקרב
     </speaker>
    </sp>
@@ -10934,7 +10942,7 @@
     [נכנס מקבת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10954,7 +10962,7 @@
     [נכנס סיוורד הצעיר]
    </sp>
    <sp>
-    <speaker id="סיוורד הצעיר">
+    <speaker id="sivrd htseir">
      סיוורד הצעיר
     </speaker>
    </sp>
@@ -10962,7 +10970,7 @@
     מַה שִּׁמְךָ, אָתָּה?
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10970,7 +10978,7 @@
     תִּרְעַד תִּשְׁמָעֶנּוּ.
    </sp>
    <sp>
-    <speaker id="סיוורד הצעיר">
+    <speaker id="sivrd htseir">
      סיוורד הצעיר
     </speaker>
    </sp>
@@ -10981,7 +10989,7 @@
     מִשְּׁמוֹ שֶׁל שׁוֹכְנִי-תֹפֶת.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -10989,7 +10997,7 @@
     שְׁמִי מֶקְבֶּת!
    </sp>
    <sp>
-    <speaker id="סיוורד הצעיר">
+    <speaker id="sivrd htseir">
      סיוורד הצעיר
     </speaker>
    </sp>
@@ -11000,7 +11008,7 @@
     עוֹד יוֹתֵר שָׂנוּא לְאָזְנִי.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11008,7 +11016,7 @@
     וְיוֹתֵר נוֹרָא.
    </sp>
    <sp>
-    <speaker id="סיוורד הצעיר">
+    <speaker id="sivrd htseir">
      סיוורד הצעיר
     </speaker>
    </sp>
@@ -11016,7 +11024,7 @@
     כִּי שֶׁקֶר אַתָּה אוֹמֵר, עָרִיץ אָיֹם!
    </sp>
    <sp>
-    <speaker id="זוֹ חַרְבִּי תָעִיד">
+    <speaker id="zuֹ khַrְbִi sָeִid">
      זוֹ חַרְבִּי תָעִיד
     </speaker>
     שֶׁקֶר אַתָּה דוֹבֵר!
@@ -11025,7 +11033,7 @@
     [המה נלחמים. סיוורד נופל]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11042,7 +11050,7 @@
     [רעש מלחמה. נכנס מקדוף]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11086,7 +11094,7 @@
     [נכנסים מלקולם וסיוורד הזקן]
    </sp>
    <sp>
-    <speaker id="סיוורד הזקן">
+    <speaker id="sivrd hzkn">
      סיוורד הזקן
     </speaker>
    </sp>
@@ -11106,7 +11114,7 @@
     אַךְ מְעַט עַד גְּמַר-הַקְּרָב.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -11117,7 +11125,7 @@
     וְעָלֵינוּ עָבָרוּ.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -11128,7 +11136,7 @@
     [יוצאים. קול ענות מלחמה]
    </sp>
    <sp>
-    <speaker id="מקום אחר בשדה המלחמה">
+    <speaker id="mkum khr bshdh hmlkhmh">
      מקום אחר בשדה המלחמה
     </speaker>
    </sp>
@@ -11136,7 +11144,7 @@
     [נכנס מקבת]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11153,7 +11161,7 @@
     [נכנס מקדוף]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11161,7 +11169,7 @@
     אֵלַי פְּנֵה, כֶּלֶב-תֹּפֶת, פְּנֵה אֵלָי!
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11175,7 +11183,7 @@
     בִּדְמֵי בְנֵי-בֵיתֶךָ!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11192,7 +11200,7 @@
     [הם נלחמים]
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11218,7 +11226,7 @@
     יַד יְלִיד אִשָּׁה.
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11235,7 +11243,7 @@
     כִּי בְלֹא עִתּוֹ חֻתַּךְ.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11261,7 +11269,7 @@
     לֹא אֶלְחָם!
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11281,7 +11289,7 @@
     “כָּאן יֵשׁ לִרְאוֹת עָרִיץ”.
    </sp>
    <sp>
-    <speaker id="מקבת">
+    <speaker id="mkbs">
      מקבת
     </speaker>
    </sp>
@@ -11307,7 +11315,7 @@
     פְּגַע, פְּגַע, מֶקְדּוּף! אָרוּר הָאִישׁ בֶּחָי
    </sp>
    <sp>
-    <speaker id="הָאוֹמֵר רִאשׁוֹן">
+    <speaker id="hָuֹmֵr rִshׁuֹn">
      הָאוֹמֵר רִאשׁוֹן
     </speaker>
     “רַק חֲדַל, כִּי דָּי!”
@@ -11316,7 +11324,7 @@
     [הם יוצאים מתוך מלחמה]
    </sp>
    <sp>
-    <speaker id="קולות לנסיגה">
+    <speaker id="kulus lnsigh">
      קולות לנסיגה
     </speaker>
    </sp>
@@ -11324,7 +11332,7 @@
     [נכנסים בקול תופים ודגלים מלקולם, סיוורד הזקן, רוס ושאר אלופים וחיילים]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -11335,7 +11343,7 @@
     פֹּה אֵינָם עָתָּה.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -11349,7 +11357,7 @@
     כַּיּוֹם הַזֶּה, נָתַנּוּ מְעַט בִּמְחִירוֹ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -11357,7 +11365,7 @@
     מֶקְדּוּף אֵינֶנוּ. בִּנְךָ חָסֵר גַּם כֵּן.
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -11377,7 +11385,7 @@
     וּמֵת מוֹת אַנְשֵׁי-חָיִל.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -11385,7 +11393,7 @@
     וּבְכֵן מֵת?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -11399,7 +11407,7 @@
     כִּי אָז לֹא יִכְלֶה לָעַד.
    </sp>
    <sp>
-    <speaker id="לינוקס">
+    <speaker id="linuks">
      לינוקס
     </speaker>
    </sp>
@@ -11407,7 +11415,7 @@
     הֲנִפְצַע בְּפָנָיו?
    </sp>
    <sp>
-    <speaker id="רוס">
+    <speaker id="rus">
      רוס
     </speaker>
    </sp>
@@ -11415,7 +11423,7 @@
     הֵן, בְּמִצְחוֹ.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -11432,7 +11440,7 @@
     וְזֶה הֶסְפֵּדוֹ.
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -11446,7 +11454,7 @@
     אֲשַׁלֵּם לוֹ.
    </sp>
    <sp>
-    <speaker id="סיוורד">
+    <speaker id="sivrd">
      סיוורד
     </speaker>
    </sp>
@@ -11454,7 +11462,7 @@
     אֵינֶנּוּ רָאוּי לְיוֹתֵר!
    </sp>
    <sp>
-    <speaker id="אוֹמְרִים">
+    <speaker id="uֹmְrִim">
      אוֹמְרִים
     </speaker>
     הָלַךְ בַּטּוֹב וְשִׁלֵּם נִשְׁיוֹ.
@@ -11466,7 +11474,7 @@
     [נכנס מקדוף וראשו של מקבת בידיו]
    </sp>
    <sp>
-    <speaker id="מקדוף">
+    <speaker id="mkduf">
      מקדוף
     </speaker>
    </sp>
@@ -11492,7 +11500,7 @@
     יְחִי מֶלֶךְ שׁוֹטְלַנְד!
    </sp>
    <sp>
-    <speaker id="כולם">
+    <speaker id="khulm">
      כולם
     </speaker>
    </sp>
@@ -11503,7 +11511,7 @@
     [קול חצוצרות]
    </sp>
    <sp>
-    <speaker id="מלקולם">
+    <speaker id="mlkulm">
      מלקולם
     </speaker>
    </sp>
@@ -11616,7 +11624,7 @@
     It will be rain to night – let it come down! שחוק של מלים מרגיז.
    </sp>
    <sp>
-    <speaker id="בשביל ההשבעה מתאימים המספרים שאינם זוגיים, ומשום זה תחת לאמר ארבע הן אומרות שלוש ואחת">
+    <speaker id="bshbil hhshbeh msimim hmsfrim shinm zugeym, umshum zh skhs lmr rbe hn umrus shlush ukhs">
      בשביל ההשבעה מתאימים המספרים שאינם זוגיים, ומשום זה תחת לאמר ארבע הן אומרות שלוש ואחת
     </speaker>
     שִלש ושוב צרח.
