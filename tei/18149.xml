@@ -1,4 +1,46 @@
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <author>
+     tus
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      ENTER SOURCE NAME HERE
+     </name>
+     <idno type="URL">
+      ENTER SOURCE URL HERE
+     </idno>
+     <availability status="free">
+      <p>
+       In the public domain.
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
  <text>
   <body>
    <sp>
