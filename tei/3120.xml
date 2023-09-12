@@ -5,6 +5,9 @@
     <author>
      Eliezer Lipa Joffe
     </author>
+    <title type="main">
+     בפעמי הכיליון: חזיון עלילות מימי חזקיהו מלך יהודה ואחז אביו
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">
@@ -41,6 +44,19 @@
    </sourceDesc>
   </fileDesc>
  </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="1928.0">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
  <text>
   <body>
    <sp>

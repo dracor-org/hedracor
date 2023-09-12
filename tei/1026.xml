@@ -5,6 +5,9 @@
     <author>
      Itzhak Peretz
     </author>
+    <title type="main">
+     חתן וכלה
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">
@@ -41,6 +44,19 @@
    </sourceDesc>
   </fileDesc>
  </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="nan">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
  <text>
   <body>
    <sp>

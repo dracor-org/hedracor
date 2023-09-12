@@ -5,6 +5,9 @@
     <author>
      Nahum Sokolow
     </author>
+    <title type="main">
+     החשבון האחרון
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">
@@ -41,6 +44,19 @@
    </sourceDesc>
   </fileDesc>
  </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="1901.0">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
  <text>
   <body>
    <sp>
