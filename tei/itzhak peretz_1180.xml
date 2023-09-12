@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <author>
+     יצחק ליבוש פרץ
+    </author>
+    <author lang="eng">
+     itzhak peretz
+    </author>
+    <title type="main">
+     אמנון ותמר
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      ENTER SOURCE NAME HERE
+     </name>
+     <idno type="URL">
+      ENTER SOURCE URL HERE
+     </idno>
+     <availability status="free">
+      <p>
+       In the public domain.
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="nan">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <body>
+   <sp>
+    <p>
+     שלכת ביער.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אמנון, תמר ויענה.
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    מדוע כה נפלו פניך, יפתי?
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    אין דבר!
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    אין דבר? ופניך הלבינו כספיר, ועל לובן הספיר מתנודד צל… האם חלום רע חלמת?
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    לא, אמנון… אתה כל חלומותי… אך בערב נשב חרש רוח… רוח קר… מעל לעטרות העצים התעופף ואל בין העפאים התגנב בלאט, ואל אזני בשורה רעה השמיע: הקיץ הקץ, אמר, בוא יבוא הסתיו…
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    כן… כן… ימים ינקופו…
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    והיום בבוקר השכם, מצאתי עלה מושלך ארצה… לאט, לאט התגלגל העלה… בקול דממה דקה התאונן… ( מראה על עטרות העצים ) וגם הם יפלו בנופלים?
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    כן… חוק ולא יעבור!
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    יש ושפת עלים תוזהב בירקרק חרוץ…
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    מיתה יפה, תמר! מיתת נשיקה…
+   </sp>
+   <sp>
+    <p>
+     תמר ( בפחד ): “מיתה” אמרת?!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אמנון ( בעצב ): כּן, “מיתה” אמרתי… ואַתּ יראה את המות?
+    </p>
+   </sp>
+   <sp>
+    <p>
+     תמר ( רועדת ): מאד, מאד…
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אמנון ( בדאגה ): צר לך על החיים?..
+    </p>
+   </sp>
+   <sp>
+    <p>
+     תמר ( מתעודדת ): לא, אמנון! לבי ­­– על אהבתנו!…
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אמנון (חפץ להגיד דבר).
+    </p>
+   </sp>
+   <sp>
+    <p>
+     תמר (לא ראתה את תנועת שׂפתיו וקוראת): אמנון!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    מה את מבקשת, תמר?
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    אהובי, נשמתי, נחיה נא, נאהב!…
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    ואיככה אַתּ אומרת להשיג זאת, תמר?
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    בנה לנו בית חורף! מקדש-עד לאהבתנו! וגדול יהיה נא המקדש! ובסקירה אחת שני כתלים עינינו לא תחזינה! ואת הטוב, ואת היפה ביער אל מקדשנו נקח! מן העצים הרעננים, מן העצים הרעננים, מן הפרחים היפים, גם צפרים שרות נאסוף… את הכול… הכול, אמנון!
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    איך תבנה בית לחיים, לאהבה!…. והם חפשים! חיה לא יחיה העץ בבית, הפרח בעציץ, הצפור בכלוב, כי חיי הכלא אינם חיים… גם אהבתנו חיה לא תחיה בבית חורף… אוהבת אמת היא! אוהבת חיים! אם נשקר, נשׂא את שמה לשוא, אם נשבע – נשבע לשקר! איש אל אחיו נביט בעינים מתות… כי נשמות נובלות תבטנה מתוכן! ונשיקותינו… חא חא! נשיקות פגרים, נשיקות פגר לפגר…
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    הוי, אמנון!
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    ומה, תמר?
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    האומנם מות נמות?!
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    כן, מות נמות, תמר! אך גם נקום לתחיה!
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    ואתה מאמין, אמנון!
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    כן… גם קבר כריתי לנו…
+   </sp>
+   <sp>
+    <speaker id="smr">
+     תמר
+    </speaker>
+    ולי לא הגדת מאום…
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    אך עתה בא מועד. האמיני, תמר! המאמינים יקומו לתחיה… האם את מאמינה?!
+   </sp>
+   <sp>
+    <p>
+     תמר (מתאבקת בנפשה, אחרי רגע, באומץ): אני מאמינה.
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mnun">
+     אמנון
+    </speaker>
+    אם כן נלך… אל קברנו… ( הולכים ).
+   </sp>
+   <sp>
+    <speaker id="hyenh">
+     היענה
+    </speaker>
+    שקר, שקר, שקר! ראו נא צפרים!… מה היא עושה, מה עושה בת-חוָה, היא איננה מאמינה, היא לא תקום לתחיה… ועודה מושיטה היא את ידה מול חזה אמנון. וכי יתעורר הכל לחיים, וכי תגע קרן אור התחיה בעין המאמין, יפקח מעט את עינו ויסגרנה… כי יד מתה תעיק עליו, ולא ידפוק לבבו… ולא יתעורר, ולא יקום לתחיה!
+   </sp>
+  </body>
+ </text>
+</TEI>

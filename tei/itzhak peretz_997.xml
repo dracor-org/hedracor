@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <author>
+     יצחק ליבוש פרץ
+    </author>
+    <author lang="eng">
+     itzhak peretz
+    </author>
+    <title type="main">
+     בחוץ
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      ENTER SOURCE NAME HERE
+     </name>
+     <idno type="URL">
+      ENTER SOURCE URL HERE
+     </idno>
+     <availability status="free">
+      <p>
+       In the public domain.
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="nan">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <body>
+   <sp>
+    <p>
+     אברהם ( הולך )
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( קוראת ): אברהם, אברהם!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אברהם ( הופך פניו בנחת ): אַתּ, אַתּ קוראת, מלכה?
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    כן, אני!…
+   </sp>
+   <sp>
+    <p>
+     אברהם ( קרב אליה ואוחז בידה ): היש לך דבר טוב?
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    כן, תפוח מטוגן! ( נותנת לו והוא אוכל ).
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    בעליך חיים חיי עונג! תפוחים מטוגנים!
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ובכל זאת אוכל הוא  בכל פה!
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בצחוק ): והיא?
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( ברחמים ): היא בוכיה…
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    אך מה לנו ולהם?!… במשך הימים האחרונים אספתי שלוש פעמים שלושה – כמה?
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    תשעה!
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    טוב מאד! ( תופס בלחיה ).
+   </sp>
+   <sp>
+    <p>
+     מלכה ( משתמטת ): ואני אך חצי רובל אספתי.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בדאגה ): מדוע?
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    קמצן הוא ומקלל אותה על כל אגורה, וצר לי עליה!… כבר אספתי רובל שלם, ובבוקר, אחרי ליל בכי וקללות שם, החזרתי לה בחשאי את החצי, שׂמתי בכלֵיה – ומה גדלה שׂמחתה במצאה את המטבעות! אומללה!
+   </sp>
+   <sp>
+    <p>
+     אברהם ( באנחה ): כן, אומללה! אבל, באופן כזה, מלכה, ימָשכו עוד הימים עד החופה!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    וכמה חסרים אנחנו עוד?
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    עוד חמשה-עשׂר – – –
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בחשד קל ): ולפני ימים אמרת אך שנים-עשׂר –
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    רוצה יותר…
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ואתה נותן?
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    ומה אעשׂה? מלבד זה יש שם ספקות בהכתבים….
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ואם תוסיף לו – – –
+   </sp>
+   <sp>
+    <p>
+     אברהם ( מצחק ): יוכשר הכול…
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ובכן – עוד שלושה-עשׂר!
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    חמשה-עשׂר אמרתי…
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    גם זה נקבץ בנקל – – –
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    אבל אם תתמלאי רחמים על הגבירה!
+   </sp>
+   <sp>
+    <p>
+     מלכה ( באומץ ): לא אחוס ולא ארחם עוד, ויהי מה! גם אני ראויה למעט אושר! האינני ראויה? ימח שמם!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    יפה אַת, מלכה, בכעסך…
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בצחוק ): אני יודעת, שאני יפה…
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בחשד ): בעל הבית שלך אומר?
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בצחוק ): גם אתמול אמר!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    ואַת?
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    אני הראיתי לו את שינַי…
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    מתוקה אַת, מלכה!
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בצחוק ): אני יודעת, שאני מתוקה…
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    וזאת מי הגיד לך?
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    הבן הגיד לי – – –
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    ואַת?
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ואני ציויתי להביא שני רובּל כסף…
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    ומאין יקח?
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ולי למה לדעת מאין? יגנוב!
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בחשד ): ואם יביא?
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    אַראנו את נחת זרועי!…
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בחשד ורוגז ): הזהרי, מלכה!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    הזהר אתה ואל תוציא כסף לבטלה!
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בכעס ): מלכה!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( מתחרה ): אברהם!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    יהי כן – אחר החופה נתראה פנים – – –
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    אם כה, לך לדרכך – – –
+   </sp>
+   <sp>
+    <p>
+     אברהם ( מתנצל ): ומה אעשׂה, והמחשבות הרעות זוחלות אל מוחי מאליהן… כל הלילות הן מנקרות שם כיתושים… הוי מלכה, לפעמים אני מדמה, שאשתגע…
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בדמעות שׂמחה ): אברהם שלי!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="brhm">
+     אברהם
+    </speaker>
+    מלכה… תני לי אות נאמן, אות נאמן, שאַתּ, שאינך… שאַתּ…
+   </sp>
+   <sp>
+    <p>
+     מלכה ( בצחוק ): לך לך, משוגע, אין לי פנאי! כבר חצי שעה אני עומדת, ושם – – –
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בתקוה ): מלכה, חופתנו תהיה מהר, מהר מאד… לא אשתה עוד, ולא אעשן עוד… מהר תהיה, מהר!
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    מי יתן!…
+   </sp>
+   <sp>
+    <p>
+     אברהם ( בתחנונים ): מלכה, אך נשיקה אחת מראש!… על החשבון הבא! אך נשיקה אחת!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מלכה ( מתחמקת ): אף לא חצי נשיקה, אף לא רביעית נשיקה – לך, לך!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אברהם ( תופס בבגדה ).
+    </p>
+   </sp>
+   <sp>
+    <speaker id="mlkhh">
+     מלכה
+    </speaker>
+    ההשתגעת? בחוץ?!
+   </sp>
+   <sp>
+    <p>
+     אברהם (עוזב את בגדה. מלכה הולכת. הוא מביט אחריה זמן רב).
+    </p>
+   </sp>
+  </body>
+ </text>
+</TEI>
