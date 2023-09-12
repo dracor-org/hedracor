@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <author>
+     שלום עליכם
+    </author>
+    <author lang="eng">
+     Sholem Aleichem
+    </author>
+    <title type="main">
+     זֶמֶר לְעַמְּךָ
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      ENTER SOURCE NAME HERE
+     </name>
+     <idno type="URL">
+      ENTER SOURCE URL HERE
+     </idno>
+     <availability status="free">
+      <p>
+       In the public domain.
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="nan">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <body>
+   <sp>
+    <p>
+     (מוּשר בּפי שימלי סוֹרוֹקר בּשעת מלאכתּוֹ).
+    </p>
+   </sp>
+   <sp>
+    <p>
+     חַיָּט פּוֹעֵל צֶדֶק, בֶּן יִשְׂרָאֵל עַמְּךָ,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אַנְעִים לְךָ זְמִירוֹת, אֲכַנְּךָ וַאֲדַמְּךָ!
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אִישׁ הַמִּסְפָּרַיִם, תּוֹפֵשׂ חוּט וָמַחַט,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     בְּךָ כָּל-סְגֻלּוֹת עַמְּךָ נִכְלְלוּ גַם יָחַד:
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מַלְבִּישׁ כָּל-עֲרֻמִּים –
+    </p>
+   </sp>
+   <sp>
+    <p>
+     וּבְגָדֶיךָ פְרוּמִים,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מַטְלִיא כָּל-הַטְּלָאִים –
+    </p>
+   </sp>
+   <sp>
+    <p>
+     וְאַתָּה לָבוּש קְרָעִים.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     לְמַרְאֵה בַּקְבּוּק מַשְׁקֶה תַּצְהִיל אֶת-פָּנֶיךָ.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     וּלְחֶמְדַּת דָּג מָלוּחַ יֶהֱמוּ מֵעֶיךָ.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     וְעֵת בְּבֵית-הַכְּנֶסֶת תִּנְהֹם מַר נַהַמְךָ
+    </p>
+   </sp>
+   <sp>
+    <p>
+     עַל תַּקִּיפֵי אָרֶץ, אוֹכְלֵי עֲנִיֵּי עַמְּךָ,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     זוֹלְלֵי עֲלִיּוֹת שְׁמֵנוֹת, וְהֵן גַּם לְפִי טַעַמְךָ, –
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מִי לֹא יֶחֱרַד לִבּוֹ מִפְּנֵי קוֹל רַעַמְךָ,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     וּמִי אַמִּיץ בַּגִּבּוֹרִים יַעֲמֹד לִפְנֵי זַעַמְךָ,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     הוֹי חַיָּט פּוֹעֵל צֶדֶק, בֶּן יִשְׂרָאֵל עַמְּךָ?!…
+    </p>
+   </sp>
+  </body>
+ </text>
+</TEI>

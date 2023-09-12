@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <author>
+     אפרים לוצטו
+    </author>
+    <author lang="eng">
+     Efraïm Luzzatto
+    </author>
+    <title type="main">
+     השיר יהיה לכם כליל התקדש חג האסיף תקופת השנה
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      ENTER SOURCE NAME HERE
+     </name>
+     <idno type="URL">
+      ENTER SOURCE URL HERE
+     </idno>
+     <availability status="free">
+      <p>
+       In the public domain.
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="None">
+    <desc/>
+   </event>
+   <event type="premiere" when="None">
+    <desc/>
+   </event>
+   <event type="written" when="nan">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <body>
+   <sp>
+    <p>
+     חַג הָאָסִיף הֵן הִתְקַדַּשׁ הַלַּיִל,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אוּלָם לִבִּי כִמְעַט חָלָל מִבַּיִת,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     כִּי בִיהוּדָה, מֵעֵת גָּלָה הַחַיִל
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אֵין אֹסֶף, אֵין בָּצִיר, אוֹ נֹקֶף זַיִת.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     הֵן כֶּרֶם יִשְׂרָאֵל הָעוֹשֶׂה חַיִל,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     כָּסּוּ פָּנָיו חָרוּל וַיַּעַל שַׁיִת;
+    </p>
+   </sp>
+   <sp>
+    <p>
+     הוֹד הַהֵיכָל מֻדָּח, לֹא פַר, לֹא אַיִל,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     יוּבָא כִימֵי עוֹלָם אֶל הַר הַבַּיִת.
+    </p>
+   </sp>
+   <sp>
+    <p>
+     נָאוֹר אַתָּה אַדִּיר, כִּי צִבְאוֹתֶיךָ,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     עֵת בַּמִּדְבָּר תָּעוּ בִישִׁימוֹן דֶּרֶך,
+    </p>
+   </sp>
+   <sp>
+    <p>
+     סַכּוֹתָה בֶעָנָן וּבְאֵשׁ אוֹכֶלֶת;
+    </p>
+   </sp>
+   <sp>
+    <p>
+     אֵיךְ תִּתְאַפַּק אֶל מוּל חָרְבוֹת בֵּיתֶךָ?
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מֶה לֹא תָקִים אֶת הַסֻּכָּה נוֹפֶלֶת?
+    </p>
+   </sp>
+   <sp>
+    <p>
+     מֶה לֹא תָקוּם, וּלְךָ תִּכְרַע כָּל-בֶּרֶךְ?
+    </p>
+   </sp>
+  </body>
+ </text>
+</TEI>
