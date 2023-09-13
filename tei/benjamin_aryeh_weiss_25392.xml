@@ -49,7 +49,7 @@
  </teiHeader>
  <standOff>
   <listEvent>
-   <event type="print" when="None">
+   <event type="print" when="1880">
     <desc/>
    </event>
    <event type="premiere" when="None">

@@ -49,7 +49,8 @@
  </teiHeader>
  <standOff>
   <listEvent>
-   <event type="print" when="None">
+   <event type="print" when="תרפ">
+    א"&gt;
     <desc/>
    </event>
    <event type="premiere" when="None">
