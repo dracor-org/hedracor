@@ -1,0 +1,990 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">גוטנמוט אנד קומפני</title>
+        <title type="main" xml:lang="eng">Gutenmut and Co.</title>
+        <author>
+        <persName>
+          <forename>סמי</forename>
+          <surname>גרונמן</surname>
+        </persName>
+        <persName xml:lang="eng">
+          <forename>Sammy</forename>
+          <surname>Gronemann</surname>
+        </persName>
+        <idno type="wikidata">Q106217</idno>
+        </author>
+        <author>
+          <persName>
+            <forename>נתן
+            </forename>
+            <surname>אלתרמ</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Nathan</forename>
+            <surname>Alterman</surname>
+          </persName>
+          <idno type="wikidata">Q1340536</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>The Israeli Center for the Documentation of the Performing Arts
+            </name>
+          <idno type="URL">https://en-arts.tau.ac.il/Researches/archive/isr-cen</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Israeli Center for the Documentation of Performing Arts, Sig: 26.1.9.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+      <notesStmt>
+        <note>Sammy Gronemann’s one-act play „Gutenmut and Co.“ premiered on November 7, 1939, in the Tel Aviv satirical Matate Theater, in its 51st program, titled "When you go to war...". Translated into Hebrew by Nathan Alterman, the German version is also recognized as "The Journey to Egypt" ("Die Reise nach Ägypten"). Critics lauded Gronemann's play as the highlight of the program, praising its sharp wit, dialogue, and humor, which clearly showcased the author's mastery of literary comedy. One reviewer even remarked that Gronemann “is the only one of us who knows how to write one-act plays without them reeking of dilettantism." (Source: ICDPA, Sign. 26.1.9.)</note>
+      </notesStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Chezkel">
+            <persName>חצקל:</persName>
+          </person>
+          <person xml:id="Dieb">
+            <persName>גנב:</persName>
+          </person>
+          <person xml:id="Benjamin">
+            <persName>בנימין:</persName>
+          </person>
+          <person xml:id="Jaakov">
+            <persName>יעקב:</persName>
+          </person>
+          <person xml:id="Bracha">
+            <persName>ברכה:</persName>
+          </person>
+          <person xml:id="Leib">
+            <persName>לייב:</persName>
+          </person>
+          <person xml:id="Chanah">
+            <persName>חנה:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-09-13">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1939">
+        <desc/>
+      </event>
+      <event type="premiere" when="1939-09-07">
+        <desc/>
+      </event>
+      <event type="written" when="1939">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <head>דמויות </head>
+        <castItem>גוטמוט </castItem>
+        <castItem>אשתו</castItem>
+        <castItem>חנה</castItem>
+        <castItem>אריה-לייב</castItem>
+        <castItem>בנימין</castItem>
+        <castItem>הגנב</castItem>
+        <castItem></castItem>
+        <castItem></castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head>הופעה ראשונה</head>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>14 שקים, סוכר, 26 שקים אורז, שוקולדה 3 תיבות, גפרורים 112 ארגז.</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>הנילוס מלא מים מלמטה עד למעלה. הוא עובר על יד קהיר מבלי להתעכב. על החוף מורידים תנינים יפים דמעות.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>צנימים 500 חבילה, אבקה נגד רשמים 15 תיבות. ועכשיו עוד הקונסרבים...</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>שרק העכברים לא יגעו בזה. אולי לקנות מלכודת...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>לקנות? האם שכחת לגמרי שאסור לנו.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>נכון. תמיד אני שוכחת שאנחנו כלואים כאן ואסור לנו לצאת.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>נו, רק עוד שבועות אחדים ואז נוכל לחזור מנסיעתנו המדומה למצרים.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>הלואי והגיע כבר הרגע, אי אפשר עוד לסבול. הכל מלא עד אפס מקום.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>כן, המחסנים מלאים, אבל כדאי הדבר, כי עוד מעט ונגיע למרום הפסגה. נו, ומה מצב היומן שלך?</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>זאת היא עבודה איומה, כשאין נסיון בדבר.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אם רוצים אני להוכיח לאזרחי תל-אביב ההגונים שהיינו במצרים, הרי מן ההכרח הוא שיהיה לנו מה לספר להם. יומנך יהיה ההוכחה הטובה ביותר שהיינו במצרים.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>העיקר שלא, יודע דבר לאיש.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>איך יוכל להודיע, הבית סגור ומסוגר, התריסים מוגפים היטב, שום קרן-אור לא תוכל לחדור החוצה. ברור הדבר – כולם חושבים שנסענו. המשיכי לכתוב ביומנך בואי הנה, נעשה בדיקה של הסחורות בחדר הסמוך.</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>היום אכלנו במסעדה צמחונית והבינו מדוע התגעגענו בני ישראל לסיר בשר שאכלו במצרים.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>הופעה שניה</head>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>משום אופן איני מוצא אותם, בשום אופן.</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>מה אינך מוצא?</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>את המכנסים, יקחם אופל, מי לקח את המכנסים שלי? הרי אנחנו סגורים ומסוגרים, שום גנב לא יכול היה לחדור הנה, ובכל זאת אני מתעורר – המכנסים שלי אינם. <stage>(נשאר בתחתונים.)</stage></p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אל תתרגז – הרי זו היא התרופה היחידה נגד פזיזותך וקלות הראש שלך בכדי שלא תרוץ החוצה כמו שרצת אתמול... אילו לא תפסתיך אתמול ברגע האחרון.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>כן, רציתי להתנועע כאן... <stage>(עושה תנועות התעמלות)</stage> עלי להתאמן. אני שוכח את כל תורת הבוקס שלי <stage>(עושה תרגילים)</stage> החזר לי את המכנסים שלי.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>לא, לא, לא, כך אני בטוח, שלא תצא עוד הפעם אל הרחוב.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אולי תרצה לקחת גם מהנשים את השמלות שלהן.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>לא, מהן לקחתי דבר אחר לגמרי בכדי שלא תכולו לבוא בין אנשים.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>וכי מה לקחת?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>את קופסות-הפודרה שלהן.</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>מעשר המכות מצאנו במצרים רק את מכת הכנים.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>שמע נא, לייב, עליך להבין, עלינו להחזיק מעמד במשך השבועות האלה. אנחנו אגרנו עד כה מכל טוב. לו ידענו שאנו נמצאים כאן, היו מכריחים אותנו למכור את הסחורה. כי אז היה עלינו לפתוח את הכל מחסנים וכך יודעים כלם שאנו נסענו. אנו אוגרים לשעת חירום כמו יוסף במצרים.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>ממנו לקחה אשת פוטיפרע רק את מעילו ולא את המכנסים...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>כשנפתח את המחסנים שלנו נהיה אנחנו נדיבי העם.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>כן האידיאליסטים הטהורים, והאידיאליסם גם ישתלם כהוגן.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>והמחירים עולים מיום ליום.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>ובלבד שלא יפרוץ שלום, חלילה.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אה, מזה אין מה לפחד. כאן אני סומך על סטאלין. <stage>(לחנה)</stage> מה את עושה? הראי נא מה זה? גלויה אל בנימין ליפשיץ זה. היצאת מדעתך? הרי אסרתי עליך להיפגש עם האיש הזה...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>וכי מה יש לך נגדו? הרי אינך מכיר אותו כלל...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>וגם איננו רוצים להכיר אותו. אדם שרוצה ללכת לקיבוץ. סוציאליסט קיבוץ את יכולה לעשות שידוך הרבה יותר הגון, אם נצליח בענין...</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>אמש הלכנו לראות את שעשוי-הלילה המפורסמים בקהיר. בקרנו בבית-שעשועים ערבי עם רקדניות ערביות. המומויות המצריות הן מפורסמות בעולם ובצדק – 2000 שנה מביטות ומסתכלות בנו — אמר בפוליאון או אולי היה זה רעמסס?</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>שטויות. הלא רעמסס היה השותף של הפירמה פיתום ורעמסס.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>מהשושלת הרביעית.</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>זה לא נקרא שושלת-קוראים לזה הקטרקט הרביעי — הפירמידות חמודות מאד — גם הספינקס נחמד — הייתי רוצה להביא לד"ר שורנשטיין ספינקס קטן בשביל גן-החיות שלו.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>בא, נשתה תה. יודע אתה, לייב, מה שאני חושב. צריך היה לשכור בחור צעיר, שאיש אינו מכיר אותו ואינו יודע שיש לו שייכות אלינו – הוא יכול היה להמשיך בקנית הסחורות ולעשות בשבילנו את הספקולציה ולהביא לנו בלילות דין וחשב.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>היכן נמצא אדם שאפשר לסמוך עליו?</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>רואים אתם, כאן יכול היה בנימין...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>הקיבוצניק הזה. רק הוא חסר לנו עם האידיאות שלו... אני מכיר את הבחורים שלנו... ודאי היה מתיחס אלינו כאל פושטי-עור וספסרים.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>נחוץ לנו צעיר הגון וישר שמבין דבר מה ברמאות...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>באיזה ביטויים אתה משתמש... רק עוד שבועות אחדים נחגוג את חג בואנו ממצרים, אנו פותחים את המחסנים ואז מי ידמה לנו. ומי ישווה...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אבל חושש אני שאז תהיה נוכחותנו לא נצרכה ביותר…</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אזי נסע באמת למצרים... סוף, סוף לא הייתי שם זה יותר מ-3000 שנה.</p>
+        </sp>
+        <stage>(רעש בחדר הסמוך).</stage>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>מה זה?</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>מי שהוא עומד על יד הדלת... <stage>(הרעש חוזר)</stage></p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>גנבים! גנבים.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>שקט, לכבות את האור...</p>
+        </sp>
+        <stage>(הדלת נפתחה לאט, מופיע הגנב כשפנס בידו. אור הפנס נופל על שתי הנשים. לייב קופץ עליו ומפילו ארצה).</stage>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אור! <stage>(שוכב על הגנב)</stage> תפשתי אותך, נבל. רואה את התריסים המוגפים וחושב לו כי אפשר לסדר כאן משהו... אבל לאף כעת תלך לבית-הסוהר. מה אתה מחפש פה, מנובל בקור-ידידותי! ענה בן-בליעל!</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>איך הוא יכול לדבר הרי אתה אוחז את ידיו.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>תנו לי חבל. כך, כך. עכשיו תשכב יפה. הראה נא — גם אקדוח יש לך. הייתי רוצה לנסות אותו על גופך, חביבי. מה רצית כאן? דבר סוף סוף.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>המותר לי לשאול עם מי יש לי העונג?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>עם מי יש לך העונג? העונג הוא כולו על צדנו. אני אראה לך, שאני הנני כאן בעל-הבית, מנובל שכמותך.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>גבירותי הנכבדות. אני מצטער עד מאד, שלמרות רצוני הנני הגורם למבטאים בלתי הגונים כגון אלו. האדון הזה בהלבשתו החלקית סומך כנראה יותר מדי על כוח הזרוע שלו, שמתפתח לרוב על חשבון הכשרונות האינטלקטואליים; ואם בנוכחותך, גברתי הנכבדה, מסמן האדון השני שקורא את עצמו כבעל הבית, הרי זה ענין משפחתי שיש לו אופי פנימי גרידא, ורגשותי העדינים אינם מרשים לי להתערב בו. אבל אני נאלץ להטיל ספק בזה, שהנהו באמת בעל הבית ולו אפילו רק באופן נומינלי – הרי קראתי ב"הארץ" שמשפחת גוטנמוט —</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אנד קומפני נסעה למצרים... כן...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>די לפטפט, איזה נאומים מנופחים נואם כאן הברנש. מה רצית כאן! פתח פיך! </p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>שאלה טפשית כגון זו לא שמעתי מעודני. מה רציתי כאן? הרי לא תאמין לי, אדוני, אם אומר, שחכיתי כאן לאוטובוס 8.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אתה קורא את "הארץ", אדוני הגנב?</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>כמובן, מטעמים מקצועיים. אבל אולי יואיל אדוני ברב חסדו להתיר את החבל ולהטריח את עצמו ולרדת מעל גופי?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>כן, רק כשהמשטרה תבוא, חצוף שכמותך. חנה, הורידי את המסכה מעל פרצופו.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p></p>
+        </sp>
+        <stage>(מורידה את... ומשמיעה צעקה)</stage>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>למען השם, מה קרה?</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>הוא, הוא רצה לנשוך אותי.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>לא, לא, לא נכון. רק את היד רציתי לנשק, את היד.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>חנה, טלפני למשטרה, שיבואו מיד.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>בלי שטויות, רבותי, בלי חפזון. גברתי הנכבדה, הסתלקי מהטיליפון, שחרר אותי מיד.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>מה? נבל, בן-בליעל!</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>ראשית כל הייתי מבקש לחדול מהביטויים הפמיליאריים האלה.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>חוצפה כזאת <stage>(מכה אותו).</stage> חכה, אנחנו שותפים.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>אבל עכשיו סבלנותי באמת הגיעה לקצה! בבקשה טלפנו למשטרה – לא חשוב לי אם תדע כל העיר כיצד משפחת גוטנמוט אנד קומפני נסעה למצרים והאדן לייב...</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p></p>
+        </sp>
+        <stage>(ליעקב) רגע אחד, הנה חכי נא, האם אינך תופס... (מתלחשים)</stage>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>מה, עלי.... ל... כיצד? זה אסון... יפה... יצאת מדעתך?</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>הניחה לי לסדר... אדוני הגנב, אנו מרחמים על גילך הרך ולא היינו רוצים להמיט עליך אסון...</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>בבקשה, אל נא תטריחי את עצמך, המצב ברור לי למדי. רוצים אתם שבעתון הבוקר תופיע הידיעה על הגניבה ואגב יסופר בה איך ישבה לה משפחת  גוטנמוט בביתה בשלוה ונחת מאחורי תריסים מוגפים וכתבה מכתבים וגלויות, בו בזמן שכל העולם סבור היה שהם במצרים... ובכן קראו נא למשטרה...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>בן-אדם, אתה...</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>בבקשה, אדוני... </p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>יעקב, לייב...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אדוני הגנב, אמור לי, מה אתה רוצה בעצם?</p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>לייב!</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p></p>
+        </sp>
+        <stage>(קם) ובכן, הנה, התירי אותו — אני מחזיק את האקדוח.</stage>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p></p>
+        </sp>
+        <stage>(קם) ובכן, יחזיר לי, בבקשה, את האקדוח. הרי אינו טעון וגם אין לי כל צורך בו. תודה רבה, גבירותי! האם עלי? … מהי השעה בעצם? (לוקח את שעונו של יעקב).</stage>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>שעוני!</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>כן אין לי הרבה זמן, ואיני רוצה לנצל את המצב. הנה את השעון תוכל לקבל בחזרה. ובכן מה אתם מציעים לי?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>להציע? אני? אם נרשה לך להסתלק מכאן...</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>אתה אינך מעריך את המצב כראוי. אם אקרא למשטרה הרי החרפה החול על ראשכם. </p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>יסלח לי, אדוני הגנב! הרי גם אתה... אוי!</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>לי זה לא איכפת. ישבתי כבר עתים תכופות ובודאי יותר מכם... מה יוכלו לעשות לי ולא עשו עוד... ואולי לא רציתי לגנוב כלל... ראיתי את הבית העזוב וחשבתי לעצמי כל עוד בעלי הבית אינם הרי יכול אני לישון כאן... אין כל רע בדבר... אבל, אבל, אם תודע המעשיה בדבר נסיעתכם המדומה...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן מה בכך? המעט אנשים יושבים בארץ ישראל, הסוגרים את עצמם באופן מלאכותי, אינם רוצים לדעת שום דבר, ועושים את עצמם כאילו הם יושבים באירופה. </p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>הדבר אינו פשוט כל כך. אם אתם משחקים קומדיה כזאת, הרי ודאי יש לכם סיבה לכך.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>סיבה?</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>אבל אין הדבר נוגע לי. בכל אופן עשיתם את עצמכם לצחוק. כל תל-אביב תצחק עד מות כשתשמע על נסיעתכם היפה מצרימה בתוך כתלי הבית שלכם... ובכן מה? רוצים לקרוא למשטרה?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>על נא תחשוב, שתוכל להפחיד אותנו. אבל איני רוצה להמיט עליך אסון... הנה, הא לך 10 לירות.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>זה מעט!</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>נו, 20 לירות.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>זה מעט. מוזר הדבר, כמה דברים נערמו כאן? הביטו נא וראו: סוכר, אורז. במקום 20 הלירות יכולת להציע לי 2 שקים סוכר.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>הרי זוהי ספסרות בצרכי מזון.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p> הנה, אפילו תרשום אותי בספר הזהב, גם אז לא יספיק הדבר.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>למען השם, ובכן מה אתה רוצה?</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>נמלכתי בדעתי, בואו, נתיישב נא כאן... רואה הוא, זה מזמן רציתי לשנות את דרכי כל האנשים מחליפים את מקצועם... וגם אני רוצה לעזוב את מקצועי שבאירופה, אפשר לומר, פרנס אותי בשפע, בכבוד רב, אבל כאן, עובדים ועובדים ומוצאים לבסוף קפה ריקה.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>למי אתה אומר זאת?</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>המקצוע שלי אינו מתאים לארץ זו. שם היה די טוב. והנה באתי הנה...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>כמובן באופן בלתי ליגאלי!</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>מה זה עלה על דעתו. אנשים כמונו יודעים את הדרכים הישרות. עם סרטיפיקט עמיתי. אבל נמאס עלי. הסכסוכים התמידיים עם המשטרה וכו' וכו'. אני מתגעגע לפנה שקטה ולמקצוע הגון כיאה לאזרח ישר. יש לי הצעה, אדון  גוטנמוט, אדון לייב הכניסו אותי למשפחתכם ולעסק שלכם! הנני בעל כשרונות – וגם אדם ישר.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>מה אתה?</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>האם אינני ישר, אני בא אל לקוחותי, ובלי רמאות – ובלי אחיזת עינים לוקח מהם את כל הדרוש, לי, ולא כמו אחרים, שעושים הכנות גדולות עם קורספונדנציה וטריוקים וקונקורדנציה והורדה המחירים ומשפטים וכל הרמאות הזאת. אני הולך בדרך הישרה... אני אומר לכם זהו המקצוע היחידי ההגון והישר ויש לי אפילו ספקות אם עלי להיות לסוהר. אך בכל זאת קבלוני לעסקכם... אני נשאר אצלכם עד שתשובו מהנסיעה. תכניסוני בתור שותף או בתור קרוב, הכל ברצונכם.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>הנשמע כזאת? <stage>(הולך לטיליפון).</stage></p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>יחכה נא רגע...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>הוא לא לגמרי... השומע אתה יעקב הבחור הזה, בעצם, מוצא חן בעיני. ואולי הוא באמת אותו האדם, הדרוש לנו. לכל הפחות יש לחשוב בדבר...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אולי צדקת! יודע אתה מה, בחור, אנו נתעץ. תשאר אתה כאן. אנו נכנס פנימה, אבל תברח בינתים. </p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>ומה בכך? לא יהיה בזה אסון.</p>
+        </sp>
+        <sp who="#Dieb">
+          <speaker>גנב:</speaker>
+          <p>אל תדאגו. אני מרגיש את עצמי כאן מצוין.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אני אשגיח עליו. <stage>(יעקב לייב וברכה יוצאים).</stage></p>
+        </sp>
+        <stage>(הגנב וחנה מתחבקים).</stage>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>בנימין!</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>חנה!</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>מה עשית?</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>נו, האם לא סידרתי את הכל בהצלחה? מיד לאחר שספרת לי על תכניתו המטורפת של דודך, נצנץ במוחי רעיון זה... הרי לא רצו לקבלני. כעת עלה הדבר בידי. כעת אין להם כל מוצא... הם מוכרחים להחזיק אותי כאן. ואם יכירו אותי יהיו שבעי-רצון.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>ההפתעה הזאת כשהסירותי את המסכה – פתאום לפתע אתה מתחת למסכה...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>לו אמרתי לך מראש היית בוודאי מגלה את הכל, וכך יצא הדבר באופן טבעי, אבל אמרי נא, מה הם כל הסחורות הללו? רק צרכי מזון. אהה, אני יכול לתאר לעצמי...</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>הדוד הכין לעצמו מלאי הגון... וכשיעלו המחירים הוא רוצה לחלק.</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>לחלק? כזאת היא הפירמה גוטנמוט אנד קומפני? אלה הם העסקים שלהם... ואני חשבתי כי זהו מין שגעון כזה להסגר ולהעמיד פנים כאילו אינך בבית... לא, לתוך עסק כזה איני רוצה להכנס.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אבל, בנימין, אנו שנינו...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>כעת איני יכול לחזור מדברי, אבל...</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אחרי שהענין המטורף הזה יגמר נלך לקבוץ אם ירצה דודי או לא... </p>
+        </sp>
+        <stage>(יעקב ולייב באים)</stage>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן, בחור, הבא ידיך. אני מקוה שלא תאכזב אותי, אנו רוצים לעשות ממך אדם הגון. אני סבור, שדוקא אדם כמוך דרוש לנו...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>ולו יהיה שותף לבוקס.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן שמע, מה עליך לעשות...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>בבקשה.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן שמע נא: דרוש לנו אדם, אשר יטפל בעיר...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>רגע, זה אחר כך. קודם כל עליך לעשות לנו טובה, הרי אתה גנב מלומד?</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>אבל כמובן. אני יכול להראות לכם בייעות המשטרה את הבקורת המצוינות ביותר על פעולותי בתור גנב...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>יפה מאד.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>קודם כל, תעשה לנו טובה ותשבור את דלת הקֻפה הזאת... </p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>מה פירוש הדבר? האם אבדו המפתחות?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>לא, המפתח אצלי. אבל חשוב לי שהקפה תהיה שבורה...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>אה, אני מבין, לרמות את חברת הבטוח...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אל תדבר שטויות. אין אנחנו עוסקים בדברים כאלה...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אך לאף אתה מבין הייתה לי מונה ידועה כשסדרתי את כל הענין. שוב יהיה, אם אחזור מנסיעתי וכאוכל לומר כי גנבים התפרצו אלי ושדדו את הקפה... אז ידחו לי את מועד פרעון השטרות.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>הלא תבין, אין לנו כעת כסף מזומן. את הכל הכנסנו בצרכי-מזון.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן קח בבקשה את המכשירים, שבר את הקפה. היא מחוסנת נגד שריפה וגנבים. </p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אבל אתה הרי הנך בעל מקצוע.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>עבוד לך במנוחה, אשתי תביא לך דבר מה לסעוד את הלב. להתראות. בהצלחה! </p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>עסק יפה!</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>מה תעשה עכשיו?</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>אין לי מושג. איך אוכל לשבור קפה, מחוסנת נגד אש וגנבים.</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אבל אם לאו יודע להם הכל...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>כן, ובכן מה לעשות?</p>
+        </sp>
+        <stage>(יעקב פותח את הדלת)</stage>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>חנה, אל תפריעי לאדון הזה, בואי!</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p>אל אלהים! מה יהיה? <stage>(יוצאת)</stage></p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>רק נס יכול להציל אותי! <stage>(דרך החלון פורצת קרן-אור).</stage> מה זה? הנס! הגנב האמיתי! <stage>(מסתתר)</stage></p>
+        </sp>
+        <stage>(חצקל בא, מתחיל לעבוד ע"י הקפה).</stage>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p></p>
+        </sp>
+        <stage>(מביאה טס עם אוכל, - חצקל נבהל. מוציא אקדוח.) יאכל בבקשה, זה יוסיף לו כח, ליל-מנוחה (נעלמת).</stage>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>דבר זה עוד לא קרה לי, בחיי.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p></p>
+        </sp>
+        <stage>(בא) הנה, בחור, הא לך סיגאריות (נעלם).</stage>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>אבל מה זה כאן? אולי מלכודת?</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p></p>
+        </sp>
+        <stage>(באה) אהובי, אומץ לב! אתה בודאי תצליח (מחבקת ומנשקת).</stage>
+        <stage>(נעלמת).</stage>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>בית משוגעים! חביבי, ברח דודי!</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p></p>
+        </sp>
+        <stage>(מתיצב מולו) עמוד! זה לא חצי עבודה! קודם תפתח את הקפה.</stage>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p></p>
+        </sp>
+        <stage>(נסוג אחורנית, כשידיו למעלה). אינני מבין, יסלח נא, טעיתי בדלת.</stage>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>לשבור את הקפה!</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>עלי ל...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>כן, עליך לשבור את הקפה...</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>כזאת עוד לא קרה לי...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>אולי יזדרז, אדוני!</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p></p>
+        </sp>
+        <stage>(עובד בקדחתנות, הקפה נפתחת).</stage>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>סוף סוף, ועכשנו הסתלק מכאן...</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>אהה, כעת אני מבין, חבר למקצוע, קוליגה! עכשיו לאחר שעשיתי במקומך את העבודה כלה רוצה אתה לרקת את הכל...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>שטויות. הרי לך חצי לירה.</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>אני אפנה לאגודה המקצועית שלי...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>הסתלק מכאן תיכף ומיד...</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>גם לא עלה על דעתי, אני מכריז על שביתת שבת.</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>הבלים! <stage>(רבים ביניהם-נאבקים).</stage></p>
+        </sp>
+        <stage>(כל המשפחה מופיעה).</stage>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>מה קרה כאן, למען השם!</p>
+        </sp>
+        <sp who="#Chanah">
+          <speaker>חנה:</speaker>
+          <p></p>
+        </sp>
+        <stage>(נופלת על צואר בנימין). בנימין?</stage>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>האם יצאת מדעתך? הקפה פתוחה. הנה המכנסים שלי!</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>הנה, הרפי מהגנב שלנו; מה את רוצה ממנו, הרי הוא ידידנו. </p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>כן, אין שום סיבה. אני הנני בנימים, ידידה של חנה, שלא רציתם לקבלו בביתכם, ובכן חדרתי באופן כזה למשפחתכם. בדרך הישרה לא הצלחתי. </p>
+        </sp>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>תודה לאל! מוטב ככה. </p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן הרי הנך פשוט רמאי. לי אתה מספר, שהנך גנב ופתאום הנך אדם ישר.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>הרי זוהי פשוט רמאות.</p>
+        </sp>
+        <stage>(לובש את המכנסיים) יעקב ואתה כמעט שספרתם לו את הכל...</stage>
+        <sp who="#Bracha">
+          <speaker>ברכה:</speaker>
+          <p>אבל הוא הרי פתח את הקפה...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>ובכן הרי אתה בעל מקצוע בהלכות שוד...</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>לא, האדון הזה עשה זאת <stage>(מוציא את חצקל).</stage></p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>מי הוא זה, לעזאזל.</p>
+        </sp>
+        <sp who="#Benjamin">
+          <speaker>בנימין:</speaker>
+          <p>זהו הגנב האמיתי. אני רק התחליף, האערזאץ.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>ובכן כל המעשיה מתחילה מחדש.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>הוא נראה לי אדם הגון. הודות לו יש לי מכנסים...</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אולי נוכל להשתמש בו. בוא-נא הנה, בחור. <stage>(יושבים).</stage> הגד נא לנו, בבקשה, אולי גם אתה רמאי כזה שלבסוף מתגלה כי הוא איש ישר? תעודות-הזהות שלך בבקשה...</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>הנה התעודה. כך אתמול יצאתי מבית הסוהר. 3 שנים עבור גניבה ושוד...</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>כן, נכון. גנב מועד. שוד, רמאות, זיוף תועדות. לא, לא האדם הוא הגון בהחלט. בדיוק אותו האיש, הדרוש לנו.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>שמע נא, בחורי. אתה כנראה מבין בעסקי מסחר. </p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>כן אני עצמי כבר פתחתי כמה בתי מסחר.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>באמת?</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>כן במפתח מזויף.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>אדוני, יתכבד נא בסיגריה. יקשיב נא. ראשית נשים את המכשירים לקפה.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>במקום המכנסים שלי.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>יסיר נא, בבקשה המטפחת. ילבש נא את המעיל, בכדי שתהיה לו צורה הוגנת. ובכן ישים לב... הרי אתה מבין כי אוכל להסגיר אותך למשטרה, אבל אינני רוצה בזה, אם תשים יד לפה ותעשה כל מה שאומר לך.</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>מה אתה רוצה ממני?</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אנו רוצים באשרך. תוכל להרויח יפה אצלנו.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>וברן, הקשב נא. הסתכל נא סביבך. כאן מונחים שקים על כל מיני צרכים מזון. אני מנצל את המצב. עלי להיות כאן בתל-אביב ובכל זאת לא להיות כאן. אסור שיודע כי הנני כאן.</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אתה מבין: הוא כאן ובכל זאת אינניו כאן...</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>זאת אינני מבין.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>כבר תבין. אתה תמשיך לקנות בשבילנו כל מיני צרכי-מזון שתוכל להשיג, אלא שאסור לאיש לדעת שזה בשבילי ושיש לי שייכות לזה. אני הנני במצרים.</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>איפה אתה?</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>במצרים. ובלילה כשאין רואים תבוא ותמסור לי דין וחשבון ותקבל אחוזים הגונים. אתה תספר לי מה מצב המחירים.</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>אתה מבין יפה מאד. וכי למה לא תבין. <stage>(קם פושט את המעיל, לוקח את מכשיריו)</stage></p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>אתה מבין? עליך לעזור לנו בספקולציה וגם תרוויח בזה.</p>
+        </sp>
+        <sp who="#Jaakov">
+          <speaker>יעקב:</speaker>
+          <p>מה אתה אומר לעשות?</p>
+        </sp>
+        <sp who="#Leib">
+          <speaker>לייב:</speaker>
+          <p>מה קרה?</p>
+        </sp>
+        <sp who="#Chezkel">
+          <speaker>חצקל:</speaker>
+          <p>לא, לא, זה לא עסק בשבילי! במקום להתעסק באלה מוטב כי אשאר גנב ישר!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

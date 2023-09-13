@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">חובב נשים</title> 
+        <title type="main" xml:lang="eng">Der Herzensbrecher</title>
+        <author>
+          <persName>
+            <forename>סמי</forename>
+            <surname>גרונמן</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Sammy</forename>
+            <surname>Gronemann</surname>
+          </persName>
+          <idno type="wikidata">Q106217</idno>
+        </author>
+        <author>
+          <persName>
+            <forename>נתן</forename>
+            <surname>אלתרמ</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Nathan</forename>
+            <surname>Alterman</surname>
+          </persName>
+          <idno type="wikidata">Q1340536</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>The Israeli Center for the Documentation of the Performing Arts</name>
+          <idno type="URL">https://en-arts.tau.ac.il/Researches/archive/isr-cen</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Israeli Center for the Documentation of Performing Arts, Sig: 16.4.8 .</title>
+        </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Frau_Katz"> 
+            <persName>ג׳ כץ:</persName>
+          </person>
+          <person xml:id="Chezkel">
+            <persName>חצקל:</persName>
+          </person>
+          <person xml:id="Shoshana">
+            <persName>שוש:</persName>
+          </person>
+          <person xml:id="Alle_Frauen">
+            <persName>נשים:</persName>
+          </person>
+          <person xml:id="Varda">
+            <persName>ורדה:</persName>
+          </person>
+          <person xml:id="Elishva">
+            <persName>אלישבע:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-09-13">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <head>שינדל קץ</head>
+        <castItem>ד״ר אלישבע לופטקה</castItem>
+        <castItem>ורדה</castItem>
+        <castItem>שושנה</castItem>
+        <castItem>חצקל</castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>הקדים בעשרה רגעים. אינו יכול עוד לחכות. <stage>(מתקנת שערותיה, מביטה דרך חור המנעול ונסוגה מבוהלת. תלתול חזק. היא פותחת את הדלת במקצת)</stage> וכי מה קרה?</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>אשה:</speaker>
+        <p>לפתוח תיכף ומיד! פקודה של עזרה סוציאלית שע"י העיריה.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p></p>
+      </sp>
+      <stage>(פותחת) מה יש? בבקשה להכנס!</stage>
+      <stage>(שלוש הגברות נכנסות החדרה)</stage>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>ד"ר אלישבע לופטקה.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>איך, בבקשה?</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>אני הנני ד"ר אלישבע לופטקה.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>הגברת-דוקטור? אח, פלאי-פלאים! אבל אני בריאה ושלמה.</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>אני הנני פקידה בעיריה. מחלקתי עוסקת במלחמה נגד רמאי-הנשואים. ונגד מסחר בנערות צעירות.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>מסחר בנערות? כרגע אין לי צורך בזה.</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>הנה התעודות שלי. את מחכה לפרצסן אחד שלמה בריניצר.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>כן, נכון! אבל מנין ידוע לך...</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>אנו יודעים הכל. הלא זהו, לא כן? <stage>(מראה תמונה)</stage></p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>כן, באמת, אבל...</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>האדון הזה, אדון בריניצר כביכול, הוא רמאי, רמאי-נשואים. שמו האמיתי הוא חצקל והוא היה פעם חזן בגליל פוזן.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>אלי שבשמים! זה לא ייתכן!</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>הנה לפניך עוד קרבנות של הרמאי הזה. יש לשים קץ לדבר. הראינה את תמונותיכן.</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>בבית הוא קרא לעצמו אינג׳ניער לואיס קובאש.</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>ולי הוא אמר שהנהו הפילמרז׳יסור צ׳רלי זדולסון מהוליווד. <stage>(מראות את התמונות).</stage></p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>או, אלי. הנה זהו באמת! בן אדם כל כך, שקט, הגון...</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>מה שקט? מה! הוא ממש כספית, מלא תנועה...</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>אה, ומה מיטיב הוא לדבר יפה!</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>במבטאו האונגארי המצחיק.</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>מה? הלא הוא מדבר במבטא אמריקאי.</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>כן, הוא שחקן מושלם היודע לשחק כל תפקיד. אבל אסור לאבד אף רגע אם ברצוננו לתפוס אותו. היכן אפשר להסתתר כאן?</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>להסתתר? כאן מאחורי המסך. זה מוביל לחצר השניה.</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>הבה נראה. הגברות יודעות כבר מה עליהן לעשות. בואי!</p>
+      </sp>
+      <stage>(יוצאת עם הגב׳ כץ)</stage>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>כך להכשיל בחורות מסכנות! במשך הזמן הוא הצליח להוציא ממני 16 לירות.</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>וממני עשרים ואחד כמעט הכל שהפקדתי בבנק, כל מה שחסכתי.</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>אני אקרע לו את עיניו. <stage>(גב' כץ ואלישבע חוזרות)</stage></p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>ובכן עכשיו אתן יודעות מה יש לעשות. <stage>(צלצול)</stage> הנה הוא בא! </p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>אלי! אלי!</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>אל תילילי, אלא שחקי את תפקידך: בואנה, הגבירות!</p>
+      </sp>
+      <stage>(אלישבע, ורדה, שושנה יוצאות)</stage>
+      <stage>(גב׳ כץ פותחת את הדלת אחרי שהציצה בחור המנעול)</stage>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(עציץ בידיו) גברתי הנכבדת, גברת כץ, יש לי הכבוד הגדול והנעלה – אנא, הרשיני בבקשה...! (מוסר את העציץ)</stage>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>או אדוני-אדון בריניצר...</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>למסור לך מתנה ריחנית זו!</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>נעים מאד! יפה מאד!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>לא רק יפה, זה גם סמלי! את הפרח משקים-הרבה מים ומעט שמש — זהו סמל של יחסינו! יפרח הוא וישגשג כחביתנו הלבבית ורגשנו הטהור...</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>או מר בריניצר —</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>כן – מה מאושר אני כי יכול אני לבסוף לבקר אצלך בבית. מה נעים כאן! הרשיני-נא גברתי לתפוס מקום בכורסתך ובלבבך. לשבת כה לנצח ועל יד אשה: חמודה כל כך —</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>או, מר בריניצר!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>אכן לא רחוק הוא הזמן, מקוה אני, כשיגמר בנין ביתי בפרדסי הגדול אשר על שפת ים כנרת... לצדי אשת חיל... או, יש לי תכניות גרנדיוזיות! זהו סוד גדול! מחוץ להלוואה הרגילה לפרדסנים אני אקבל תמיכה מיוחדת לנסיונותי! שבע מאות וחמישים לירה. אני אעשה ניסיונות השבחה חדשים. אני ארכיב לתפוחי הזהב שלי הרכבות של צמחים אוכלי-בשר. היא מבינה גב׳ כץ? אך לא לגלות דבר! אני אאכיל את הצמחים ההם בשניצל, בגולשז, בצלי-ברוז, כדי שיהיה לי לתפוזים כל ריח רפוי. כמובן יהיו אצלי תפוזים גם מחלב – מבשר ומחלב ובים כנרת יהיו לנו דגים. אני אגדל שם בעיקר דגים ממולאים. אכן נפלא, לא כן? אח, לא יכולת לעזור לי ולבשל בשביל הצמחים שלי! <stage>(תופש ידה)</stage></p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>אח, מר בריניצר!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>אח, מה הפורמאליות הזאת! קראי לי שלמה! והרשי לי לקרוא לך שיינדיל. שיינדיל ושלמה – שלמה ושיינדיל – מה יפה הדבר! ש...ש. שקדים! אח, כן! כמובן יש לו לאדם גם צרותיו הקטנות. היום עלי לשים דמי-קדימה. עבור האוטו החדש שלי – האוטו החדש שלנו, שש עשרה לירות, ודווקא היום חסר לי הכסף המעט הזה. אני קויתי שבעל חוב אחד – אח, לא חשבו – האם לא יכולתי במקרה את הפרוטות האלה – אח, שיינדל, הגישי, לי את העציץ, אעמיד אותו בחלון <stage>(הולך אל החלון, מוסיף לדבר)</stage> חבל מאד. רציתי לסדר היום נסיעת-נסיון, זוהי מכונת קריסלר. — אם יסודר הדבר – אבוא לקחת אותך. <stage>(בזמן שהוא עומד על יד החלון נעלמת ג׳ כץ. באה ורדה ויושבת במקומה)</stage></p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(על יד החלון) מכונה נפלאה. גם לייסינס יש לי. עכשיו עומד העציץ במקומו.</stage>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>נדמה לי שיותר מדי שמש יכול להזיק לצמחים, לא כן? לואיס חביבי? באמת, בחרת לפי טעמי. אני אוהבת מאד את הפרחים האלה! יודע אתה לואיס, בת דודי, הרטה — אמרה לי, הזוכר אתה? מה נדהמת כל כך? הלא הצגתי אותה לפניך בקפה – המוצאת היא חן בעיניך?למה אינך עונה? התרצה שאביא בכם? כיצד מוצאת חן בעינך הרטה?</p>
+      </sp>
+      <stage>(חצקל מסתובב ומביט בה בתמהון)</stage>
+      <stage>(חצקל מביט עליה במבוכה)</stage>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(כמבלבל) הרטה, הרטה, כן, כן, נחמדה, חביבה מאד.</stage>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>מה זה היום אתה כל כך שקט, פלעגמאטי... לא כתמול-שלשום.</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>פלעגמאטי? <stage>(מתעודד)</stage> אני? מה את מדברת? איני יודע, אני היום מפוזר כל כך, חשבתי —</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>מה? אולי על אודות הרטה? דרך אגב – כמה מיטיב אתה היום לדבר עברי עשית חיל התקדמת באופן נפלא!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(מתחיל לדבר במבטא אונגארי) כן, התקדמתי... מה בדבר הרטה? (מנדנד בראשו כמגרש חלום בלהות) מה קל הדבר לטעות! מה אמרת בנאה? אכן שמעי, זאת אומר לך, אם תעיזי עם אחרים – אני הנני ממש אוטילו. אבל בגללי אינך צריכה לקנא. יש לי מזכירות רבות. את תקחי לידך את ההנהלה. או, מה רב יהיה העונג לעבוד אתך יחד. יש לי תכניות גרנדיוזיות, והממשלה מתיחסת אלי בכבוד.</stage>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>אח, ספר, ספר דברים חשובים מאד.</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>ראשית כל: הפרדס על אדן החלון. ואחר כך ההתישבות לפי המקומות – תכנית ישנה של אריק כהן – בין הקומות רצפת-זכוכית כדי שיחדרו קרני השמש, באופן כזה אפשר לסדר 6-7 מושבות. ולבסוף ההתישבות על הגגות.</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>מענין מאד!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>אח, זה לא כלום! יש לי עוד תכניות אחרות! יש לי היום ראיון עם בא-כח של פירמה חשובה בפילדלפיה... זאת תהיה פצצה! אי, אלי, היכן השארתי את הארנק שלי... הלא זקוק אני לשלש לירות...</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>שמע נא, אולי תשקה את הפרח? הנה שם המשפך – בבקשה!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>ברצון! <stage>(משקה)</stage> כאן נחוצה נדיבות-לב. יש להביא בקבוק יין שמפניה <stage>(מפנה פניו ורואה את שושנה במקום ורדה)</stage></p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>התהיינה גם גברות נוכחות?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>גברות?</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>הלא אתה שופך את המים על הרצפה! מה אתה מביט בי? תסרקתי החדש! מוצאת חן בעיניך? הדומה אני לגריטה גארבו? אני השתניתי, לא כן? </p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>השתנית? רגע אחד, הרשינה לי... מה זה קרה לי? היצאת מדעתי?</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>הנה את המשפך! איך הפילם החדש, ברלי, "יוסף ופוטיפר". חושבת אני שאני מתאימה מאד לפוטיפרה. צ'רלי, המוצאות חן בעיניך שערותי? תוכל לנגוע בהן, בבקשה.</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>כן, ורדה, אבל —</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>כיצד ורדה? מנין לך ורדה? השכחת ששמי שושנה? נדמה לי שאתה השתכרת!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>זהו – אני שתיתי! לעזאזל. הקומקומים האחרים האלה!</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>אתה מדבר היום עברית נפלאה! אין זכר למבטא האמריקאי!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>או, אינדיד! פליז, אקסקיוז – איני יודע מה קרה לי – אני חולם, חולם. אני מוכרח לצבט את זרועי.</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>אח, זהו זרועי.</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>נכון, זהו זרועך, ודי וול! ובכן, שושנה? כן, כן, אין ספק, זוהי שושנה <stage>(מסתכל בה)</stage></p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>מה אתה מביט עלי?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>את – כל כך השתנית? באמת, גארבו —</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>הבה ונחזור! יודע אתה, אני התאמנתי הרבה! האם אינני הערפד האמיתי? </p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(מתעורר) כן, נכון, ובכן איך זה? יוסף ברח, לא כן, כאן עמדנו ופוטיפרה מורטת את שערותיה וקוראת: הה חצוף שכמותו! ידע נא הכל אדוני ומושלי.</stage>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p></p>
+      </sp>
+      <stage>(באי זריזות) הה, חצוף שכמותו! ידע נא הכל אדוני ומושלי!</stage>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(עודנו נבוך) כן, נפלא, עוד פעם!</stage>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>הה, חצוף שכמותו!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>לפרוט את השערות!</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>ידע נא הכל אדוני ומושלי!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>הה ראשי, ראשי. אולי אפשר כוס מים...</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>הנה שם המים!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(שופך על ראשו מים) הה, טוב, כמה טוב!</stage>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>אולי לתת לך סודה-ויסקי?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>נו-נו-נו! שום אלכוהול! <stage>(מתרוצץ בחדר)</stage> הה, רעיון! בוודאי על יד הדלת... <stage>(פותח את הדלת, מסתכל בפתקא)</stage> שיינדל כץ, כאן כתוב שיינדל. מה קרה כאן... <stage>(חוזר לחדר, נשאר נדהם בראותו את הג' כץ יושבת בכורסא — שושנה נעלמה בינתיים).</stage></p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג׳ כץ:</speaker>
+        <p>ובכן, ידידי היקר, האם לתת לך את שש-עשרה הלירות שבקשת?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(מתרוצץ בחדר) אני השתעגתי, אני השתעגתי! אני רואה שדים ורוחות! (מתנפל על הספה ורוקע ברגליו).</stage>
+      <stage>(ורדה ושושנה נכנסות)</stage>
+      <sp who="#Alle_Frauen">
+        <speaker>נשים:</speaker>
+        <p></p>
+      </sp>
+      <stage>(במקהלה) בוקר טוב! מר חצקל!</stage>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(פונה אחורית ומביט התמהון בקבוצת הנשים.)</stage>
+      <stage>(הפסקה. אחת הנערות מתחילה לצחוק, ומדביקה בצחוקה את הנוכחים עד שהצחוק עולה מעלה-מעל)</stage>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(מתחיל להבין וצוחק אף הוא. הצחוק מגיע עד לסערה ממש. אך ירגעו כמה ומיד פורץ הצחוק מחדש. פתאום מופיעה אלישבע. הצחוק נפסק.</stage>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>שלום, מר חצקל!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>המשטרה! נפלתי בפח!</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>אין משטרה עדיין. אך אולי תהיה עוד מעט. אני המפקחת מטעם העיריה. התבייש!</p>
+      </sp>
+      <sp who="#Alle_Frauen">
+        <speaker>נשים:</speaker>
+        <p></p>
+      </sp>
+      <stage>(בסירוגין) נבל! רמאי! בן-בליעל! כל חסכוני! כל כספי!</stage>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>שקט! האם אינך מתבייש בראותך את קרבנותיך האומללים. השתעשעת ברגשותיהן הקדושים ביותר. גזלת מהן את כספן שהרויחו ביגוע-כפים, ועשית אותן לאומללות. אין עונש שיהיה קשה למדי בשבילך.</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>ברשותך – רגע אחד! אני עשיתי אותן לאומללות! האם אמרת זאת ברצינות? להיפך! עשיתי אותן למאושרות! נתתי להן לרגע קטן אילוזיה של אושר. הלא האושר הוא רק אילוזיה והאילוזיה – זהו האושר האמיתי. הסתכלו נא לג' כץ: מה יש לה עוד לצפות מהחיים? כמה מאושרת היתה כשנמצא אדם הגון שהביע לה את הוקרתו ונטע אמון בלבה לסכויי עתיד מזהירים? והנה כאן – ורדה – סטנוטיפיסטית קטנה זו – אל תוך חייה האמורים הכנסתי זהר שמש ותקוה. היא ראתה עצמה בדמיונה כאשת בעל בית חרושת חשוב. אז למשל שושנה זאת — כל חלומותיה שחלמה – אני הפכתי אותם למציאות. אני סללתי לפניה דרך לקרירה פילמאית מזהירה. עכשיו יש להן לנשים על מה לחלום. אני הבאתי להן אושר. גומל חסדים אני לאנושיות כולה! ומה את עשית? את הרסת להם את האילוזיות, גזלת מהן את אשרו הקצר. הרואה את איך הן בוכות. את עשית אותן לאומללות, לא אני!</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>כך. והאכזבה אחרי חלום-האושר הקצר?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>אח, הכל היה מסתדר אחרת, לולא את התערבת. ביום בהיר אחד היתה גב' כץ מקבלת משוויץ בו מודיעים על אסון-אוירונים נורא בו קפחתי חיי. רגע קט אחרי הנפילה היתה בי עוד רוח חיים ואנחתי האחרונה היתה: שיינדל שלי! וגם וורדה – לה היו מודיעים כי בשעת נסיון קרה לי אסון התפוצצות נורא וביחד עם המעבדה שלי עפתי למרומים. וגם שושנה היתה מקבלת ידיעה שחברה קנאית מהוליווד במצאה את תמונתה על שלחני – המיתה אותי ביקית אקדח. את לא תוכלי לתאר לעמך איזה מכתבים יפים נכתבים תמיד אחרי מותי – או אחרי התאבדותי.   </p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>ירשה-נא, תמיד אחרי מותו? כנראה הוא עשה זאת לעמעם תכופות. </p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>אני מקוה שלא תרצי לגרום לי עלבון בחשבך שהנני טירון – בכל מקום גרמתי לנשים אושר, בגרמניה, בהולאנד, באנגליה ובצרפת. והנה אמרתי לעצמי: למה לא אביא מעט אושר גם לנשים מסכנות בארץ-ישראל? לולא באת את, מה היה מתרחש? בחדריהן של הגבירות הללו היתה תלויה תמונתי במסגרת שחורה. ובאבלן הכבד היו מוצאות את אשרן עד קץ ימיהן. את הרסת את הכל ועשית את הנשים לאומללות, לא אני.</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>כך. והכסף שלקחת מהן?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>האינך מבינה, מה היה, לו באמת התחתנתי עם אחת מהן, אני החזן חצקל המחוסר-עבודה? את כספן הייתי מבזבז, לשתיה וחמשחק קלפים, הייתי בוגד באשתי בגלל נשים אחרות. אז הייתי עושה אותן לאומללות. הגבירת צריכות להיות מאושרות שרק רמיתי אותן.</p>
+      </sp>
+      <stage>(בכי כללי)</stage>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>כך אתה רוצה להצדיק עצלנותך?</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>זה כבר יותר מדי. עצלנות!? אני הכסף שלקחתי מהן עלה לי בעמל רב. הסתכלי נא במרת כץ, למשל: הלזה יקרא רוח קל? וכלום תחשבי שקל הדבר לצאת מעור אחת ולהכנס לעור אחר? בכל פעם כשאני משוחח עם ורדה או עם שושנה עולה לי הדבר בדמים. אני משחק כגביר על הבמה. לרחם עלי את צריכה! אבל עשי כחובתך-קראי למשטרה והניחי לנשים המסכנות הללו, שהרסת את האילוזיה שלהן, כי ילעגו להן במשפט ויחללו את כבודן בעתונים.</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>בבקשה, דעתי היא כי עלינו להועץ. אם כדאי להודיע למשטרה...</p>
+      </sp>
+      <sp who="#Elishva">
+        <speaker>אלישבע:</speaker>
+        <p>שוב איפוא, חצקלי. יבוא בבקשה לפרוזדור, נשאיר אותן לבדן – ואל ינסה לברוח. <stage>(הם יוצאים)</stage></p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p>תאמיני לי הנני אדם אומלל! איש אינו נותן אילוזיות! כמה מתגעגע אני למנוחה, למצוא אושר. אבל — <stage>(הדלת נסגרה מאחוריהם)</stage></p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>מה יוצא לנו מזה? תל-אביב תעשה אותנו ללעג ולקלס. </p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג'כץ:</speaker>
+        <p>את כספנו בין כה וכה לא נקבל בחזרה.</p>
+      </sp>
+      <sp who="#Shoshana">
+        <speaker>שוש:</speaker>
+        <p>ולשם מה למדתי את תפקיד פוטיפרה?</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>אני בעד זה כי נבקש מאת הגברת דוקטור שתתן לו ללכת.</p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג'כץ:</speaker>
+        <p>היא עשתה אותנו לאומללות.</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>ובכן כולנו בדעה אחת? לא להודיע למשטרה! </p>
+      </sp>
+      <sp who="#Frau_Katz">
+        <speaker>ג'כץ:</speaker>
+        <p>רק לא משטרה!</p>
+      </sp>
+      <sp who="#Varda">
+        <speaker>ורדה:</speaker>
+        <p>ובכן! </p>
+      </sp>
+      <stage>(פותחת את הדלת – חצקל ואלישבע מתחבקים)</stage>
+      <sp who="#Alle_Frauen">
+        <speaker>נשים:</speaker>
+        <p>גם זו!</p>
+      </sp>
+      <sp who="#Chezkel">
+        <speaker>חצקל:</speaker>
+        <p></p>
+      </sp>
+      <stage>(מנפנף בידו) אילוזיות! אילוזיות!</stage>
+    </body>
+  </text>
+</TEI>
