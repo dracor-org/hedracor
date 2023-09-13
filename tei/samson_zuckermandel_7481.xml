@@ -46,6 +46,107 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="khdr smne">
+      <persName>
+       חדר תמנע
+      </persName>
+     </person>
+     <person xml:id="bis dlilh">
+      <persName>
+       בית דלילה
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
+      </persName>
+     </person>
+     <person xml:id="eir ezsh">
+      <persName>
+       עיר עזתה
+      </persName>
+     </person>
+     <person xml:id="nkrs sle eitm">
+      <persName>
+       נקרת סלע עיטם
+      </persName>
+     </person>
+     <person xml:id="shִׁmְshׁuֹn">
+      <persName>
+       שִׁמְשׁוֹן
+      </persName>
+     </person>
+     <person xml:id="khֶdֶr ֲbִishׁueַ">
+      <persName>
+       חֶדֶר אֲבִישׁוּעַ
+      </persName>
+     </person>
+     <person xml:id="ֶlְkָnָh">
+      <persName>
+       אֶלְקָנָה
+      </persName>
+     </person>
+     <person xml:id="dְּlִilָh">
+      <persName>
+       דְּלִילָה
+      </persName>
+     </person>
+     <person xml:id="rsh hhr">
+      <persName>
+       ראש ההר
+      </persName>
+     </person>
+     <person xml:id="khdr smnh">
+      <persName>
+       חדר תמנה
+      </persName>
+     </person>
+     <person xml:id="ezh">
+      <persName>
+       עזה
+      </persName>
+     </person>
+     <person xml:id="eִir tִmְnָsָh">
+      <persName>
+       עִיר תִּמְנָתָה
+      </persName>
+     </person>
+     <person xml:id="mkhnh dn">
+      <persName>
+       מחנה דן
+      </persName>
+     </person>
+     <person xml:id="nkhl shurk">
+      <persName>
+       נחל שורק
+      </persName>
+     </person>
+     <person xml:id="khdr shmshun">
+      <persName>
+       חדר שמשון
+      </persName>
+     </person>
+     <person xml:id="shmus hmdbrim">
+      <persName>
+       שמות המדברים
+      </persName>
+     </person>
+     <person xml:id="tִmְnָe">
+      <persName>
+       תִּמְנָע
+      </persName>
+     </person>
+     <person xml:id="ֲbִishueַ">
+      <persName>
+       אֲבִישוּעַ
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -482,25 +583,25 @@
      עַל מִשְׁעֲלֵי הַמְּלִיצָה אֵטִיב צָעַד:
     </p>
    </sp>
-   <sp>
-    <speaker id="shmus hmdbrim">
+   <sp who="shmus hmdbrim">
+    <speaker>
      שמות המדברים
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shִׁmְshׁuֹn">
+   <sp who="shִׁmְshׁuֹn">
+    <speaker>
      שִׁמְשׁוֹן
     </speaker>
     הַגִּבּוֹר
    </sp>
-   <sp>
-    <speaker id="ֲbִishueַ">
+   <sp who="ֲbִishueַ">
+    <speaker>
      אֲבִישוּעַ
     </speaker>
     חוֹתֵן שִׁמְשׁוֹן.
    </sp>
-   <sp>
-    <speaker id="tִmְnָe">
+   <sp who="tִmְnָe">
+    <speaker>
      תִּמְנָע
     </speaker>
     אִשָׁה זוֹנָה מֵעַזָּתָה.
@@ -510,8 +611,8 @@
      סַרְנֵי פְּלִשְׁתִּים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dְּlִilָh">
+   <sp who="dְּlִilָh">
+    <speaker>
      דְּלִילָה
     </speaker>
     אֲהוּבַת שִׁמְשׁוֹן.
@@ -521,8 +622,8 @@
      אַנְשֵׁי יְהוּדָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ֶlְkָnָh">
+   <sp who="ֶlְkָnָh">
+    <speaker>
      אֶלְקָנָה
     </speaker>
     אֲחִי שִׁמְשׁוֹן.
@@ -532,13 +633,13 @@
      זִקְנֵי יִשְׂרָאֵל:
     </p>
    </sp>
-   <sp>
-    <speaker id="eִir tִmְnָsָh">
+   <sp who="eִir tִmְnָsָh">
+    <speaker>
      עִיר תִּמְנָתָה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khֶdֶr ֲbִishׁueַ">
+   <sp who="khֶdֶr ֲbִishׁueַ">
+    <speaker>
      חֶדֶר אֲבִישׁוּעַ
     </speaker>
    </sp>
@@ -1437,8 +1538,8 @@
      שמשון (לבדו זולת אבישוע):
     </p>
    </sp>
-   <sp>
-    <speaker id="omַrְtִi">
+   <sp who="omַrְtִi">
+    <speaker>
      אָמַרְתִּי
     </speaker>
     אַךְ עַם לְבָדָד יִשְׁכֹּנוּ
@@ -1618,8 +1719,8 @@
      עַד יָקוֹצוּ בְחַיֵימוֹ יֵרְדוּ קָבֶר:
     </p>
    </sp>
-   <sp>
-    <speaker id="nkrs sle eitm">
+   <sp who="nkrs sle eitm">
+    <speaker>
      נקרת סלע עיטם.
     </speaker>
    </sp>
@@ -2908,13 +3009,13 @@
      יַכֶּה פְלִשְׁתִּים בְּיָדִי יִשְׂרָאֵל יוֹשִׁיעַ:
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhnh dn">
+   <sp who="mkhnh dn">
+    <speaker>
      מחנה דן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khdr shmshun">
+   <sp who="khdr shmshun">
+    <speaker>
      חדר שמשון
     </speaker>
    </sp>
@@ -3368,13 +3469,13 @@
      אָמְנָה אַבְלִיגָה כִמְעַט עַתָּה אֶשְׁקָטָה: (הולכים)
     </p>
    </sp>
-   <sp>
-    <speaker id="ezh">
+   <sp who="ezh">
+    <speaker>
      עזה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khdr smnh">
+   <sp who="khdr smnh">
+    <speaker>
      חדר תמנה
     </speaker>
     <p>
@@ -3676,13 +3777,13 @@
      (שמשון הולך ואוחז בשתי ידיו דלתות העיר ובשתי המזוזות ולוקחם על כתפיו ויעלם על ראש ההר חברון).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hhr">
+   <sp who="rsh hhr">
+    <speaker>
      ראש ההר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khdr smne">
+   <sp who="khdr smne">
+    <speaker>
      חדר תמנע
     </speaker>
     <p>
@@ -3979,8 +4080,8 @@
      המסך נופל.
     </p>
    </sp>
-   <sp>
-    <speaker id="nkhl shurk">
+   <sp who="nkhl shurk">
+    <speaker>
      נחל שורק
     </speaker>
    </sp>
@@ -4324,8 +4425,8 @@
      (הם הולכים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bis dlilh">
+   <sp who="bis dlilh">
+    <speaker>
      בית דלילה
     </speaker>
    </sp>
@@ -6044,8 +6145,8 @@
      נשלמה המערכה השלישית.
     </p>
    </sp>
-   <sp>
-    <speaker id="eir ezsh">
+   <sp who="eir ezsh">
+    <speaker>
      עיר עזתה
     </speaker>
    </sp>

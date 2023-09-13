@@ -46,6 +46,62 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="afְrַkְsִinuֹiָh">
+      <persName>
+       אַפְרַכְּסִינוֹיָה
+      </persName>
+     </person>
+     <person xml:id="frkhsinoyh">
+      <persName>
+       אפרכסינויה
+      </persName>
+     </person>
+     <person xml:id="gurgu">
+      <persName>
+       גורגו
+      </persName>
+     </person>
+     <person xml:id="iַlְdַּs-mַkhְmַdִּim">
+      <persName>
+       יַלְדַּת־מַחְמַדִּים
+      </persName>
+     </person>
+     <person xml:id="frksinoyh">
+      <persName>
+       אפרכּסינויה
+      </persName>
+     </person>
+     <person xml:id="hִimְnuֹn hmshurrs">
+      <persName>
+       הִימְנוֹן המשוררת
+      </persName>
+     </person>
+     <person xml:id="nkhri shni">
+      <persName>
+       נכרי שני
+      </persName>
+     </person>
+     <person xml:id="hzknh">
+      <persName>
+       הזקנה
+      </persName>
+     </person>
+     <person xml:id="gּuֹrְguֹ">
+      <persName>
+       גּוֹרְגוֹ
+      </persName>
+     </person>
+     <person xml:id="hnkhri">
+      <persName>
+       הנכרי
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -68,8 +124,8 @@
      במעונה של אַפְרַכְּסִינוֹיָה
     </p>
    </sp>
-   <sp>
-    <speaker id="gּuֹrְguֹ">
+   <sp who="gּuֹrְguֹ">
+    <speaker>
      גּוֹרְגוֹ
     </speaker>
    </sp>
@@ -78,8 +134,8 @@
      עוֹד אַפְרַכְּסִינוֹיָה בַּבָּיִת?
     </p>
    </sp>
-   <sp>
-    <speaker id="afְrַkְsִinuֹiָh">
+   <sp who="afְrַkְsִinuֹiָh">
+    <speaker>
      אַפְרַכְּסִינוֹיָה
     </speaker>
    </sp>
@@ -98,8 +154,8 @@
      שִׂימִי עָלָיו הַכְּבִיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -108,8 +164,8 @@
      אֲבָל מַה־יָּפֶה!
     </p>
    </sp>
-   <sp>
-    <speaker id="frksinoyh">
+   <sp who="frksinoyh">
+    <speaker>
      אפרכּסינויה
     </speaker>
    </sp>
@@ -118,8 +174,8 @@
      אַךְ שְׁבִי לָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -143,8 +199,8 @@
      גַּם הַדֶּרֶךְ לְלֹא־סוֹף, כִּי אָכֵן לָשֶׁבֶת תִּרְחָקִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -163,8 +219,8 @@
      יַחַד בִּשְׁכֵנוּת: זֹה דַרְכּוֹ לְהַרְעִימֵנִי לְעוֹלָם.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -183,8 +239,8 @@
      אָנָּא הֵרָגַע, זוֹפִירוֹן מַחְמַדִּי, לֹא בְאַבָּא יְדֻבָּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -193,8 +249,8 @@
      אָכֵן הִרְגִּישׁ בַּדָּבָר, חַי אֱלֹהִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -203,8 +259,8 @@
      יָפֶה אַבָּא.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -223,8 +279,8 @@
      הָלַך וְהֵבִיא לִי מֶלַח הַגֶּבֶר בֶּן שְׁלשׁ־עֶשְׂרֵה אַמָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -268,8 +324,8 @@
      מִשְׁתֶּה מְפֹאַָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -283,8 +339,8 @@
      סַפְּרִי כֹל אֲשֶׁר רָאִית, אֲנִי לֹא רָאִיתִי מְאוּמָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -293,8 +349,8 @@
      חוּשִׁי, הִגִּיעַ זְמַן לָלֶכֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -338,8 +394,8 @@
      אֵיפֹה מַפְתֵּחַ הָאָרוֹן הַגָּדוֹל? חוּשִׁי הָבִיאִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -353,8 +409,8 @@
      בְּכַמָּה לָךְ עָלָה, הַגִּידִי, הָאֶרֶג מִנּוּל־הָאֲרִיגָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -368,8 +424,8 @@
      שְׁנַיִם כִּכָּרִים וְעוֹד… וְעָמָל – אָמַרְתִּי: נִגְזָרְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -378,8 +434,8 @@
      אַךְ כְּאַוַּת־נַפְשֵׁךְ לָךְ עָלָתָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -413,8 +469,8 @@
      ברחוב
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -478,8 +534,8 @@
      תּוֹדָה לַיּוֹשְׁבִי שָׁמַיִם, כִּי נִשְׁאַר הַקָּטָן בַּבַָּיִת.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -493,8 +549,8 @@
      פָּנוּ אֶל עֵבֶר הַשָּׂדֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -513,8 +569,8 @@
      גַּם אֶת הַנְּחָשִׁים. נָחוּשָׁה, הֶהָמוֹן הוֹלֵךְ וְעָצֵם.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
     <p>
@@ -526,8 +582,8 @@
      אִמָּא, הֲמִן הַהֵיכָל?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
    </sp>
@@ -536,8 +592,8 @@
      בְּנוֹתַי, מִשָּׁם.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -546,8 +602,8 @@
      וְכִי אֶפְשָּׁר לָבוֹא בְנָקֵל?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
    </sp>
@@ -556,14 +612,14 @@
      הֵן נִסּוֹ לָבוֹא לִטְרוֹיָה אֲכָיִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="iַlְdַּs-mַkhְmַdִּim">
+   <sp who="iַlְdַּs-mַkhְmַdִּim">
+    <speaker>
      יַלְדַּת־מַחְמַדִּים
     </speaker>
     לְעוֹלָם צָרִיךְ אָדָם לְנַסּוֹת.
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -572,8 +628,8 @@
      דִּבְרֵי־נְבוּאָה בְּפִי הַסַּבְתָא רַבַּת־הַשָּׁנִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -582,8 +638,8 @@
      נָשִׁים יוֹדְעוֹת הַכֹּל, גַם אֵיךְ נָשָׂא זֶאוּס אִשְׁתּוֹ הֶרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -592,8 +648,8 @@
      אַפְרַכְּסִינוֹיָה, רְאִי, מָה רַב שָׁם הֶהָמוֹן בַּפָּתַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -627,8 +683,8 @@
      לְךָ כִּלְבָבֶךָ, יַקִּירִי! עֲזָר־לִי לְהַצִּיל אַדַּרְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnkhri">
+   <sp who="hnkhri">
+    <speaker>
      הנכרי
     </speaker>
    </sp>
@@ -637,8 +693,8 @@
      אִם יֵשׁ לְאֵל־יָדִי וְאֶעֱשֶׂה.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -652,8 +708,8 @@
      כְּמוֹ הַחֲזִירִים מִתְפָּרְצִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnkhri">
+   <sp who="hnkhri">
+    <speaker>
      הנכרי
     </speaker>
    </sp>
@@ -662,8 +718,8 @@
      אִשָּׁה אֲנַחְנוּ בְּמִבְטָחִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -687,8 +743,8 @@
      בהיכל המלך
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -697,8 +753,8 @@
      יָפֶה! “כֻּלָּנוּ בַתָּוֶךְ,” כָּאוֹמֵר לַכַּלָּּה זֶה סוֹגְרָהּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -712,8 +768,8 @@
      שׁוּרִי, מַה נֶּחְמָד וָרָךְ! אַךְ מִפְעַל אֵלִים, יֵשׁ לֵאמֹר.
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -752,8 +808,8 @@
      הוֹי, הָאָהוּב פִּי שְׁלשָׁה גַּם עַל גְּדוֹת־הָאֲכֶרוֹן!2
     </p>
    </sp>
-   <sp>
-    <speaker id="nkhri shni">
+   <sp who="nkhri shni">
+    <speaker>
      נכרי שני
     </speaker>
    </sp>
@@ -767,8 +823,8 @@
      קָאקַי, אֵיךְ שֶׁהֵן דּוֹבְרוֹת, אֵיךְ מַאֲרִיכוֹת כָּל מִלָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -797,8 +853,8 @@
      אֶפֶס, דּוֹמַנִי, עוֹד מֻתָּר לְדַבֵּר דּוֹרִית לְדוֹרִים?
     </p>
    </sp>
-   <sp>
-    <speaker id="frkhsinoyh">
+   <sp who="frkhsinoyh">
+    <speaker>
      אפרכסינויה
     </speaker>
    </sp>
@@ -812,8 +868,8 @@
      נוֹסָף עַל הָאֶחָד, וְנוֹסַף גַּם־הוּא עַל בְּעָלֵינוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>
@@ -828,8 +884,8 @@
  הַנְּבוֹנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hִimְnuֹn hmshurrs">
+   <sp who="hִimְnuֹn hmshurrs">
+    <speaker>
      הִימְנוֹן המשוררת
     </speaker>
    </sp>
@@ -1053,8 +1109,8 @@
      בּוֹא אֵלֵינוּ בִשְׂמָחוֹת, כֹּה לֶחָי, שׁוּבָה, אָדוֹנִיס!"
     </p>
    </sp>
-   <sp>
-    <speaker id="gurgu">
+   <sp who="gurgu">
+    <speaker>
      גורגו
     </speaker>
    </sp>

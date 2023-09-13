@@ -46,6 +46,112 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="mַkְhֵlָh">
+      <persName>
+       מַקְהֵלָה
+      </persName>
+     </person>
+     <person xml:id="hַgֵּd">
+      <persName>
+       הַגֵּד
+      </persName>
+     </person>
+     <person xml:id="kְrֵyuֹn">
+      <persName>
+       קְרֵיאוֹן
+      </persName>
+     </person>
+     <person xml:id="[ֵfuֹrְbuֹs]">
+      <persName>
+       [אֵפוֹרְבּוֹס]
+      </persName>
+     </person>
+     <person xml:id="iֹmְru">
+      <persName>
+       יֹאמְרוּ
+      </persName>
+     </person>
+     <person xml:id="anְtִiguֹnָh">
+      <persName>
+       אַנְטִיגוֹנָה
+      </persName>
+     </person>
+     <person xml:id="ִisְmֵnָh">
+      <persName>
+       אִיסְמֵנָה
+      </persName>
+     </person>
+     <person xml:id="ִyuֹkַsְtָh">
+      <persName>
+       אִיוֹקַסְטָה
+      </persName>
+     </person>
+     <person xml:id="dָּbֵr">
+      <persName>
+       דָּבֵּר
+      </persName>
+     </person>
+     <person xml:id="mִzְbְּkhuֹsֶikhָ">
+      <persName>
+       מִזְבְּחוֹתֶיךָ
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="ruֹeֵh">
+      <persName>
+       רוֹעֵה
+      </persName>
+     </person>
+     <person xml:id="hַgִּidu">
+      <persName>
+       הַגִּידוּ
+      </persName>
+     </person>
+     <person xml:id="hִgִּid">
+      <persName>
+       הִגִּיד
+      </persName>
+     </person>
+     <person xml:id="dַּe">
+      <persName>
+       דַּע
+      </persName>
+     </person>
+     <person xml:id="mְshָׁrֵs">
+      <persName>
+       מְשָׁרֵת
+      </persName>
+     </person>
+     <person xml:id="kֹhֵn">
+      <persName>
+       כֹּהֵן
+      </persName>
+     </person>
+     <person xml:id="tֵirֶsִyas">
+      <persName>
+       טֵירֶסִיאַס
+      </persName>
+     </person>
+     <person xml:id="ֵidִipus">
+      <persName>
+       אֵידִיפּוּס
+      </persName>
+     </person>
+     <person xml:id="hַgִּidָh">
+      <persName>
+       הַגִּידָה
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -257,88 +363,88 @@
      Fichtengrund, עשרת ימי תשובה תר"ץ
     </p>
    </sp>
-   <sp>
-    <speaker id="ֵidִipus">
+   <sp who="ֵidִipus">
+    <speaker>
      אֵידִיפּוּס
     </speaker>
     <p>
      מלך תֶּבֵּי
     </p>
    </sp>
-   <sp>
-    <speaker id="ִyuֹkַsְtָh">
+   <sp who="ִyuֹkַsְtָh">
+    <speaker>
      אִיוֹקַסְטָה
     </speaker>
     <p>
      אשתו
     </p>
    </sp>
-   <sp>
-    <speaker id="anְtִiguֹnָh">
+   <sp who="anְtִiguֹnָh">
+    <speaker>
      אַנְטִיגוֹנָה
     </speaker>
     <p>
      בנותיהם הקטנות
     </p>
    </sp>
-   <sp>
-    <speaker id="ִisְmֵnָh">
+   <sp who="ִisְmֵnָh">
+    <speaker>
      אִיסְמֵנָה
     </speaker>
     <p>
      בנותיהם הקטנות
     </p>
    </sp>
-   <sp>
-    <speaker id="kְrֵyuֹn">
+   <sp who="kְrֵyuֹn">
+    <speaker>
      קְרֵיאוֹן
     </speaker>
     <p>
      רוזן, אחי איוקסטה
     </p>
    </sp>
-   <sp>
-    <speaker id="tֵirֶsִyas">
+   <sp who="tֵirֶsִyas">
+    <speaker>
      טֵירֶסִיאַס
     </speaker>
     <p>
      הרואה, עיוור ישיש
     </p>
    </sp>
-   <sp>
-    <speaker id="kֹhֵn">
+   <sp who="kֹhֵn">
+    <speaker>
      כֹּהֵן
     </speaker>
     <p>
      לְזֶבְס
     </p>
    </sp>
-   <sp>
-    <speaker id="[ֵfuֹrְbuֹs]">
+   <sp who="[ֵfuֹrְbuֹs]">
+    <speaker>
      [אֵפוֹרְבּוֹס]
     </speaker>
     <p>
      מלאך מִקּוֹרִינת
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹeֵh">
+   <sp who="ruֹeֵh">
+    <speaker>
      רוֹעֵה
     </speaker>
     <p>
      צאנו של לַיוֹס
     </p>
    </sp>
-   <sp>
-    <speaker id="mְshָׁrֵs">
+   <sp who="mְshָׁrֵs">
+    <speaker>
      מְשָׁרֵת
     </speaker>
     <p>
      בביתו של אידיפוס
     </p>
    </sp>
-   <sp>
-    <speaker id="mַkְhֵlָh">
+   <sp who="mַkְhֵlָh">
+    <speaker>
      מַקְהֵלָה
     </speaker>
     <p>
@@ -410,8 +516,8 @@
      אֲבָל הַגֵּד, זָקֵן, כִּי מְאֹד לְךָ יָאֶה
     </p>
    </sp>
-   <sp>
-    <speaker id="dָּbֵr">
+   <sp who="dָּbֵr">
+    <speaker>
      דָּבֵּר
     </speaker>
     הֲמִיִּרְאָה וְאִם בְּבַקָּשָׁה
@@ -441,8 +547,8 @@
      עֵינֶיךָ הָרוֹאוֹת פֹּה, מִי וָמִי בָאֵי
     </p>
    </sp>
-   <sp>
-    <speaker id="mִzְbְּkhuֹsֶikhָ">
+   <sp who="mִzְbְּkhuֹsֶikhָ">
+    <speaker>
      מִזְבְּחוֹתֶיךָ
     </speaker>
     אֵל רְפֵי-כְנָפַיִם עוֹד
@@ -1017,8 +1123,8 @@
      קריאון
     </p>
    </sp>
-   <sp>
-    <speaker id="hִgִּid">
+   <sp who="hִgִּid">
+    <speaker>
      הִגִּיד
     </speaker>
     הוּא פֹה! כָּל הַמְבַקֵּשׁ יַגִּיעַ,
@@ -3668,8 +3774,8 @@
      לָבוֹא לִגְזֹל מִמֶּנִּי מֶמְשַׁלְתִּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="hַgִּidָh">
+   <sp who="hַgִּidָh">
+    <speaker>
      הַגִּידָה
     </speaker>
     מֶה הָיִיתִי בְעֵינֵיךָ –
@@ -4849,8 +4955,8 @@
      הוֹי מַלְכִּי,  כַּמָּה הָיוּ דְּבָרַי אֵלֶיךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="dַּe">
+   <sp who="dַּe">
+    <speaker>
      דַּע
     </speaker>
     טִפֵּשֵׁ וָרֵיק זֶה לִבִּי מִדַּעַת
@@ -4985,8 +5091,8 @@
      כִּי בָא מִפִּיו שֶׁל פֶבּוֹס, אַךְ מִפִּי עוֹבְדָיו,
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     גְּזֵרָה הִיא, וְעָתִיד הַמֶּלֶךְ
@@ -7326,8 +7432,8 @@
      אִם בַּשָּׂדֶה וְאִם בָּעִיר פֹּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hַgִּidu">
+   <sp who="hַgִּidu">
+    <speaker>
      הַגִּידוּ
     </speaker>
     בָּאָה עֵת לִמְצוֹא פִתְרוֹן דָּבָר.
@@ -9467,8 +9573,8 @@
      אַל לְהַגִּיד תּוֹסִיף וְאַל תָּעוּץ עֵצָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַgֵּd">
+   <sp who="hַgֵּd">
+    <speaker>
      הַגֵּד
     </speaker>
     אֵיכָה אֶשָּׂא עֵינַיִם אֶל אָבִי,
@@ -9943,8 +10049,8 @@
      נָא תְנֵנִי וְאֶחְיֶה עַל הֶהָרִים, בְּמָקוֹם
     </p>
    </sp>
-   <sp>
-    <speaker id="iֹmְru">
+   <sp who="iֹmְru">
+    <speaker>
      יֹאמְרוּ
     </speaker>
     לִי – קִיתֵירוֹן, אֲשֶׁר שָׁם לִי, לַחַי,

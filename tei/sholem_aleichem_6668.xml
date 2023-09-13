@@ -46,6 +46,102 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="klmn">
+      <persName>
+       קלמן
+      </persName>
+     </person>
+     <person xml:id="mnshh">
+      <persName>
+       מנשה
+      </persName>
+     </person>
+     <person xml:id="hbkhurim">
+      <persName>
+       הבחורים
+      </persName>
+     </person>
+     <person xml:id="khulm">
+      <persName>
+       כולם
+      </persName>
+     </person>
+     <person xml:id="shmkhh">
+      <persName>
+       שמחה
+      </persName>
+     </person>
+     <person xml:id="hshmsh">
+      <persName>
+       השמש
+      </persName>
+     </person>
+     <person xml:id="brhm">
+      <persName>
+       אברהם
+      </persName>
+     </person>
+     <person xml:id="ikusil">
+      <persName>
+       יקותיאל
+      </persName>
+     </person>
+     <person xml:id="bunm">
+      <persName>
+       בונם
+      </persName>
+     </person>
+     <person xml:id="irkhmil">
+      <persName>
+       ירחמיאל
+      </persName>
+     </person>
+     <person xml:id="rabinershe">
+      <persName>
+       ראַבינערשע
+      </persName>
+     </person>
+     <person xml:id="ikhil">
+      <persName>
+       יחיאל
+      </persName>
+     </person>
+     <person xml:id="brukh-tsbi">
+      <persName>
+       ברוך-צבי
+      </persName>
+     </person>
+     <person xml:id="zlmn">
+      <persName>
+       זלמן
+      </persName>
+     </person>
+     <person xml:id="rabiner">
+      <persName>
+       ראַבינער
+      </persName>
+     </person>
+     <person xml:id="grunm">
+      <persName>
+       גרונם
+      </persName>
+     </person>
+     <person xml:id="mshh">
+      <persName>
+       משה
+      </persName>
+     </person>
+     <person xml:id="hrb">
+      <persName>
+       הרב
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -147,44 +243,44 @@
      בנוסח העברי מופיעה הרבנית ללא כל טקסט משלה. בנוסח ביידיש מתערבת הרבנית בדברי הנוכחים בתחילתו של המערכון, ובמקום הדברים שבאים בנוסח העברי אחרי הוראת הבימוי האחרונה נשארים ה’ראַבינער' וה’הראַבינערשע' לבדם ומסיימים את המערכון בדו-שיח הבא:
     </p>
    </sp>
-   <sp>
-    <speaker id="rabinershe">
+   <sp who="rabinershe">
+    <speaker>
      ראַבינערשע
     </speaker>
     נו? מיט וואָס איז מען זיך צעגאַנגען?
    </sp>
-   <sp>
-    <speaker id="rabiner">
+   <sp who="rabiner">
+    <speaker>
      ראַבינער
     </speaker>
     מיט וואָס? מיט גאָרניט.
    </sp>
-   <sp>
-    <speaker id="rabinershe">
+   <sp who="rabinershe">
+    <speaker>
      ראַבינערשע
     </speaker>
     וואָס הייסט מיט גאָרניט? נאָך אַלע געשרייען?
    </sp>
-   <sp>
-    <speaker id="rabiner">
+   <sp who="rabiner">
+    <speaker>
      ראַבינער
     </speaker>
     לעת-עתּה האָט מען אויסגעקלויבן גבאים, נאמנים און טשלענעס.
    </sp>
-   <sp>
-    <speaker id="rabinershe">
+   <sp who="rabinershe">
+    <speaker>
      ראַבינערשע
     </speaker>
     נו, און וואָס וויטער?
    </sp>
-   <sp>
-    <speaker id="rabiner">
+   <sp who="rabiner">
+    <speaker>
      ראַבינער
     </speaker>
     און וויטער גאָ… (טוט אויס די ברילן און רייבט זיך די אויגן) או ווייטער… לעת-עתּה גאָרניט.
    </sp>
-   <sp>
-    <speaker id="rabinershe">
+   <sp who="rabinershe">
+    <speaker>
      ראַבינערשע
     </speaker>
     לעת-עתה גאָרניט? (כאַפט זיך מיט ביידע הענט ביי די זייטן און ווערט שיער נישט צעגאַנגען פאַר געלעכטער) כאַ-כאַ-כאַ! ס’איז נאָר אַ באַשרייבונג מיט אייערע אַסיפות און גענוג! כאַ-כאַ-כאַ! אַ קאָמעדיע, אַ ריינע קאָמעדיע!!!
@@ -284,20 +380,20 @@
      הרב (מניף ידו להשקיט השאון): הודיתי לכם, אורחי הנעימים, כי באתם בצל קורתי, ועתה התכבדו במכובדים ושבו-נא איש תחתיו סביב לשולחן ואקרא באוזניכם את פרשת הדברים אשר ערכתי בספר, אז נשכיל ונבין מה מטרת אסיפתנו וניוועצה לב יחד. שבו-נא, אדוני הנכבדים! (מוציא מצלחת בגדו גיליון גדול ומתחיל לקרוא בכוונה עצומה): 'קול…
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     אדוננו הרב! ‘וסעדו לבכם אחר תעבודו’ כתוב הדר בתורתנו הקדושה!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     כן הדבר, יצו נא רבנו על השמש לבל יחסר המזג…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     גם פת ופרפרת, כחוק לישראל!
@@ -307,20 +403,20 @@
      הרב (אל השמש): דמה לך, ר' אריה, לצבי ורוץ-נא מהר על רגל אחת… אבל חכה-נא! (אל רעייתו הרבנית): אילוּתי! הן יש אתך דג ממולח, צווי-נא ויעשו את הדג ויערכוהו לפני אורחינו…
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     דג מלוח במוצאי שבת אחרי ההבדלה? לא תהיה כזאת בישראל! הרבה ראיתי בימי חלדי ודג מלוח בכל אלה לא מצאתי!…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אבל החרישו-נא רבותי! אל תרבו שאון. הן הרב חפץ לקרוא דברי הספר…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     תכין-נא הרבנית מרק-חמוץ, גם קורקבן נחמד אף נעים כדאמרי אינשי…
@@ -330,8 +426,8 @@
      הרב (קורא מעל הספר): 'קול…
     </p>
    </sp>
-   <sp>
-    <speaker id="hshmsh">
+   <sp who="hshmsh">
+    <speaker>
      השמש
     </speaker>
     ומי יתן הכסף? הן יין בכסף יקנו!
@@ -341,14 +437,14 @@
      ברוך –צבי (אל המסובים): ומה תחרישו? השמיעו על השקלים!
     </p>
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     עדת בחורים, הריקו-נא אמתחותיכם!
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     בחורים, אמתחותיכם הריקו!
@@ -393,32 +489,32 @@
      הרב (משמיע שנית קול שיעול וקורא): ‘קול ברמה… האומללה, מכל עבר קול צעקת שבר, ונהה נהי נהיה, בוגדים בגדו, בוזזים בזזו, נסתמו מעינות הפרנסה, היו לשמה ולבתה, כל ראש לחולי וכל לבב דווי, פחד ופחת ופח, אוכל נכרת מפינו, על זאת אספדה ואילילה, אסלדה בחילה, בני ציון היקרים עלפו שכבו בראש כל חוצות כתוא מכמר, כי אין לחם ואין שמלה והיה אך זוועה הבין שמועה… והנה מודעת זאת בכל הארץ, כי בכל תפוצות ישראל, עיר ועיר מדינה ומדינה התעוררו אנשי לב אשר רוח ה’ קיבצם, אנשי מדע והשׂכּל, אנשים של צורה, נדיבי עם אלוהי אברהם, אנשים אשר לבם פתוח כפתחו של אולם, אנשים הדואגים לטובת אחיהם המקדישים הונם ואונם לצאת לישע עמם, לישע בני אמונתם, והמה יעדרו, יחפשו עצות, יקדישו מועד מועדים ויקראו עצרה – כללו של דבר: המה עושים ומעשים, סובבים ומסוּבבים, לא ייעפו ולא ייגעו עד עשותם ועד הקימם, בכל מקום נראה תנועה רבה, מכל עיר יעלה באוזנינו: ועד, קולוניזציה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     אנא, רבנו, הבינני-נא פירוש המלות האלה. רבים אומרים לנפשי: קולוניזאציה! קולוניזאציה – מה טיבו של עוּבר זה?
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     הסו! הסו! תתום-נא הקריאה אז תשאל.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     כתום הקריאה תשאל!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     כך דרכם של אחינו בני-ישראל, עם קשה עורף, הנה הוא שואל כי יאבה לדעת פשר דבר, ולמה נמנע מחפצו?
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     חלילה! ישאל-נא כנפשו שבעוֹ, אבל יחכה-נא כמעט רגע, הן עלינו לשמוע בראשונה דברי הספר.
@@ -428,14 +524,14 @@
      הרב (קורא): אמריקה, פלשתינה, בכל עיר ואם בישראל יתנוצצו כאבני נזר אנשי לבב העובדים שכם אחד לטובת כלל האומה. מעל במתי כתבי העתים קול מבשר ואומר חדשים לבקרים פרשת גדולת מעשים רבים והמון עלילות לאין תכלית. חברות ועדים ואגודות נוסדו בכל אפסי תבל: במאזפּבקה, במאקארוֹבקה, בקאשפֶּרוב, ביאמפלה, וגם בסטרישטש תתנוסס אגודה ערוכה בכול לשם ולתפארת. ואיך לא יחוורו פנינו ותכסנו כלי מלא בושה וכלימה, כי בעירנו, עיר ואם בישראל, אשר בה קהילה גדולה (כן ירבו!)…
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     כן ירבו וכן יפרצו כדגי הרקק!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     לא עת להתלוצץ עתה, הן הרב קורא.
@@ -445,20 +541,20 @@
      הבחורים (כולם): הסו הסו, יקרא-נא רבנו הלאה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ‘ואנחנו מחשים, מים זדונים כהמות ימים יהמיוּן ואנחנו נעצים עין ועל לבנו כפור כאפר יפזר! באה העת כי גם אנחנו נתעורר מן התרדמה העזה והמסכה הנסוכה עלינו, נקומה כגיבור מתרונן מיין, נחלץ חושים ונצא חמושים ונחשבה מחשבות בעצה תיכון’…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     ובכן מה לנו לעשות?
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     עמא פזיזא! מה תפרוץ פרץ לדעת מראשית אחרית? חכה עד ארגיעה וידעת מה לנו לעשות!
@@ -468,8 +564,8 @@
      הבחורים (כולם יחד): יקרא-נא רבנו הלאה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     'לכן קמנו ונתעודד ונגמור אומר כולנו פה היום, משכילינו ונאורינו, בחורינו וצעירינו, הרודפים מדע והשׂכל, הקוראים מעל לוחות כתבי העתים, היודעים את הנעשה בתבל ארצה, הרואים, המבינים, המרגישים, המ…
@@ -479,8 +575,8 @@
      ברוך-צבי (מתנודד ממקומו): כללו של דבר: מה גמרנו אומר?
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     הפלא ופלא! השקט לא יוכל האיש הזה, כיושב על גחלים! חכה-נא מעט וידעת מה גמרנו אומר…
@@ -490,20 +586,20 @@
      הבחורים (כולם): יקרא-נא רבנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     'המרגישים, המשגיחים, המתבוננים, השׂמים לב, היודעים מה רע ומר לנו. לכן גמרנו אומר לקרוא עצרה ולהתאסף יחד בביתי, וכולנו נחשוב מחשבנות וגם נפעול ונעשה דבר קיים לטובת כלל האומה העגומה, כמעשה יתר אחינו די בכל אתר ואתר, וחברה חדשה תכונן בקרבנו, חברה אשר…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     אומנם כן, ראוי ונכון מאוד.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     הבין בל אוכל! המעטות הן החברות בתוכנו? המעט הוא כסף הצדקות אשר נחלק שנה שנה? המעטות הן הנדבות למעות חיטין? והטאקסה?!…
@@ -513,38 +609,38 @@
      שמחה (בחפזה): הנח-נא! לא זו המטרה ולא זאת כוונת הדברים!
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     ומה כוונת הדברים?
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     הלא שמעת מפורש יוצא מפי הרב. זאת היא הכוונה!
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     זאת ולא אחרת!
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     נשיאים ורוח וגשם אין! לוּ לעצתי תשמעו…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     מה תסכון עצתך? מראש ידעתי עצתך והיא לא תצלח. אתה ושמחה אך בטכסא מעיינכם כל הימים.
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     הנה בעל החלומות בא! מה עניין שמיטה אצל הר-סיני?
@@ -554,8 +650,8 @@
      הבחורים (כולם יחד): הקץ לדברי רוח! ברוב דברים לא ייעשה גם חצי דבר, עת לעשות ולפעול!
     </p>
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     לפעול ולעשות!
@@ -565,38 +661,38 @@
      הרב (קורא): ‘זה היום תחילת מעשינו למצוא לכם…’
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     לכסף! לכסף! מי לא יבין זאת? כל הנחלים הולכים אל הים…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     אכן נודע הדבר! הבה כסף – ותו לא מידי!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     ומה כל החרדה הגדולה הזאת?
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     טוב הדבר, הבה כסף – אבל עלינו להעלות במאזני משפט מה תהי מטרת הכסף ומה ייעשה בו. הנזרע על צחיח סלע? הלא לזאת קראנו עצרת היום לחשוב מחשבות ולבוא עד תכלית פרטי העניין אשר לפנינו.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     לבוא עד תכלית! לבוא עד תכלית!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אבל החרישו כמעט קט וידבר האחד דבריו. יקרא-נא הרב הלאה ואחר נשפוט.
@@ -606,158 +702,158 @@
      הבחורים (כולם): יקרא-נא הרב, יקרא!
     </p>
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     יתעוררו-נא ויקומו…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     מי יקום?
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     הס-נא רגע אחד!
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ‘יקומו-נא ראשי עירנו, גבירינו…’
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     גבירינו! מי בראש? הגבירים בראש! לכל צרה שלא תבוא, הגבירים! הגבירים!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     אבל הרגע-נא כמעט, למה תפסיק הקריאה בכל רגע?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     למה תפסיק? הרגע-נא אך רגע!
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ‘גבירינו, קצינינו, אשר חננם ה’ בהון ועושר, וירימו תרומה…'
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     מראשית כזאת ידעתי! פזמון ישן אשר כבר היה לעולמים!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     בחיי ראשי, עוד לא ראיתי מימי איש נבהל כמוהו! ידבר-נא גם רעך דבר…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     רבנו! מה יועילו הוויכוחים והלהג הרב? הגידה-נא בקצרה: מה לנו לעשות?
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     לדעתי, עלינו לבחור ראשונה גבאים ויועצים…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     את מי נבחר ומי יהיו הגבאים והיועצים?
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     מי יהיו? אנחנו אלה פה היום: אני, אתה, הוא והוא…
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     אנחנו, אתם, הם והם…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ואני זאת יעצתי: בראשונה עלינו…
    </sp>
-   <sp>
-    <speaker id="ikusil">
+   <sp who="ikusil">
+    <speaker>
      יקותיאל
     </speaker>
     לא! ראש דבר עלינו לטכס עצה…
    </sp>
-   <sp>
-    <speaker id="irkhmil">
+   <sp who="irkhmil">
+    <speaker>
      ירחמיאל
     </speaker>
     עלינו לחשוב ולבחון…
    </sp>
-   <sp>
-    <speaker id="ikhil">
+   <sp who="ikhil">
+    <speaker>
      יחיאל
     </speaker>
     נציע הדברים בספר, סעיף-סעיף לבדו ונתייעץ…
    </sp>
-   <sp>
-    <speaker id="klmn">
+   <sp who="klmn">
+    <speaker>
      קלמן
     </speaker>
     בעיר סטרישטש לא נהגו כן, המה כתבו ראשונה לעיר הבירה…
    </sp>
-   <sp>
-    <speaker id="zlmn">
+   <sp who="zlmn">
+    <speaker>
      זלמן
     </speaker>
     מה זה תדבר?! לפני ימים מספר שבתי מסטרישטש – אין כאן לא דובים ולא יער! המה אחרת עשו, המה נ…
    </sp>
-   <sp>
-    <speaker id="mnshh">
+   <sp who="mnshh">
+    <speaker>
      מנשה
     </speaker>
     אם כה או כה עשו – אחת היא לנו.
    </sp>
-   <sp>
-    <speaker id="mshh">
+   <sp who="mshh">
+    <speaker>
      משה
     </speaker>
     נהפוך הוא, לא אחת היא לנו; הבה אראך את ‘המגיד’ וראית (ומוציא מצלחתו גיליון ‘המגיד’. בין הבחורים שאון והמולה).
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     הסו בחורים! זקנים כי ידברו יעמדו הצעירים מנגד ויחרישו.
    </sp>
-   <sp>
-    <speaker id="irkhmil">
+   <sp who="irkhmil">
+    <speaker>
      ירחמיאל
     </speaker>
     ורבים אומרים כי בשאלות כמו אלה יחוו גם הצעירים דעה, ודעתם נשמעת מאוד…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     שם בבית-הרחצה תחוו דעה ותשאו מרום ראשכם. יד לפה, אפרוחים!
@@ -767,26 +863,26 @@
      יחיאל (ליתר הבחורים): איזה חכם הרואה את הנולד? מראשית הגדתי כי כן יקום…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     למה נרבה אמרים ללא הועיל? החרישו ממני ואדברה אך מלים שתיים (עולה על השולחן).
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     שתיים שהן ארבע!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     (מקפץ על השולחן): שמעו-נא לי! הנה עלה רעיון חדש על לבי!
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     רעיון חדש, רעיון חדש!
@@ -806,38 +902,38 @@
      שמחה (יסיר בזעם אף את היד מעל פיו ויצעק): בחור לנו גבאים בגורל!!!…
     </p>
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     בגורל? הנסתרה כוונת האיש הזה? כאחד המשוגעים ידבר!
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     משוגע איש הרוח!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אבל ידבר נא דבריו ואחר תצעקו, מדוע תעמדו לו לשטן? כה דרך אחינו בני ישראל, כל אחד יאמר: אני ואפסי עוד!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     הבל הבלים! שמעו לעצתי וידעתם מה טוב!
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     לפי דעתי אני…
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     הן עוד לא שמעתם, רבותי, את אשר יעצתי אנוכי, אביעה-נא ראשונה אנוכי את מעלות רוחי ואז תדברו אתם כטוב וכישר בעיניכם.
@@ -847,20 +943,20 @@
      הבחורים (כולם): אמת וצדק! נשמע-נא ראשונה דעת הרב.
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     את דעת הרב נדע גם בטרם שמענוה, תחילתה כסף וסופה כסף ותוכה…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     בושו והיכלמו, אדוני! הבית-מרזח היה לנו הבית הזה? ר' ברוך-צבי אַן חכמתך אַן סבלנותך? ‘ומושל ברוחו מלוכד עיר’! יחווה-נא הרב את עצתו ראשונה…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     טוב הדבר, טוב הדבר, הנני מחריש (ישים יד לפה).
@@ -870,50 +966,50 @@
      הרב (קורא): ‘לדאוג לטובת כלל האומה…’
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     עוד הפעם ‘לטובת כלל האומה’!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     הן הבטחת כי תחריש כמעט רגע?
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     טוב הדבר, הנני מחריש.
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ‘ונצא חמושים יחד לפעול ולעשות להרמת קרן הכלל’.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     אבל…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     הוי פחז כמים! בוש והיכלם (וירק בבוז).
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ולמען תמצא ידינו לעשות דבר אין די לנו ביועצים אשר נבחור מתוכנו.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     מה עניין יועצים לכאן? האם בית מועצה נייסד?
@@ -928,14 +1024,14 @@
      הבחורים (כולם): ומדוע לא יועצים? מחשבה בעצה תיכון ותשועה ברוב יועץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     יועצים או גבאים – האם לא אחת היא לנו?
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ובכן איך תהי בחירת הגבאים?
@@ -945,32 +1041,32 @@
      גרונם ובונם: אכן זאת היא שאלה אשר לא נשמעה מששת ימי בראשית! ‘איך תהי בחירת הגבאים’ – פשוטו כמשמעו! אנחנו פה נבחור לנו גבאים מתוכנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikusil">
+   <sp who="ikusil">
+    <speaker>
      יקותיאל
     </speaker>
     ואני אחרת אשפוט, הנה בשבוע שעבר קראתי במכתב העתי במאמר…
    </sp>
-   <sp>
-    <speaker id="irkhmil">
+   <sp who="irkhmil">
+    <speaker>
      ירחמיאל
     </speaker>
     לא כי! הבה אגידה לכם אני!
    </sp>
-   <sp>
-    <speaker id="ikhil">
+   <sp who="ikhil">
+    <speaker>
      יחיאל
     </speaker>
     הנה הנער! אך זה לנו יועץ פלא!
    </sp>
-   <sp>
-    <speaker id="zlmn">
+   <sp who="zlmn">
+    <speaker>
      זלמן
     </speaker>
     אם דעתו לא תסכון הגידה אתה!
    </sp>
-   <sp>
-    <speaker id="klmn">
+   <sp who="klmn">
+    <speaker>
      קלמן
     </speaker>
     יגידו הזקנים ממנו לימים. ‘והדרת פני זקן’!
@@ -985,14 +1081,14 @@
      משה (מניף את ‘המגיד’): ‘המגיד’ מודיע… ל’המגיד' מודיע אחד הסופרים
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     שבעה דברים בגולם, גדיים קופצים בראש.
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ובכן הגידה אתה איככה.
@@ -1002,56 +1098,56 @@
      אברהם (מעל השולחן): ואני חקרתיה כן היא: אל-נא נשאל את פי קציני העיר, כי המה אך יקלקלו עצתנו, נבחר נא פה מקרב הנאספים גבאים. הננו ניצבים פה כולנו היום, הבה נפיל גורל מי יהי לגבאי, מי לגזבר ומי לרואה חשבון.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     מי ומי יעמוד לגורל?
    </sp>
-   <sp>
-    <speaker id="hbkhurim">
+   <sp who="hbkhurim">
+    <speaker>
      הבחורים
     </speaker>
     יחד כל הנאספים.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     וגם האפרוחים שכמעט נתבקעו מביצתם? הגם הם ישפטו שפוט ויתנשאו לכל לראש?
    </sp>
-   <sp>
-    <speaker id="hbkhurim">
+   <sp who="hbkhurim">
+    <speaker>
      הבחורים
     </speaker>
     גם רוב ימים לא יודיעו חכמה! בימינו אלה יעמדו אך הצעירים בראש כל התנועות הגדולות, קרא-נא מעל הספר ונוכחת! (יניפו את ‘המגיד’).
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     הנכם מתנגחים ומתווכחים בטרם תדעו מי ומה ומתי. מה יתנו ומה יוסיפו לנו הגבאים אם כסף אין לנו?
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     לא טוב הדבר, כן לא ייעשה!
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     לא ייעשה כן, לא!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     מדוע לא טוב הדבר? עוד לא שמעת כלה והנה מלתך על לשונך כי לא טוב הדבר! הן כל השומע יצחק ילעג לנו!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     לכן האזינו עָדַי!
@@ -1071,38 +1167,38 @@
      ברוך-צבי (יחזיק בזרוע שמחה): האחד אתה אין שני לך? או האם זקן שבחבורה אתה כי יהיו רק דבריך נשמעים ואנחנו למוצא שפתיך נחכה? ואיך תעיז לסוגר פי מחות דעת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     דבּר מעתה ועד עולם, אנוכי לא אעמוד לך לשטן.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     נשימה ראש ונבחור לנו גבאים מבין זקני הצעירים אשר פה.
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     מדוע רק  הצעירים? האם יש כאן משא-פנים?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     כלום משא-פנים יש כאן?
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     היינו דאמרי אינשי ‘כל דרשן דורש אך לטובתו’.
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     האם לא השחוק הוא? הלא כל הרואים אנדרלמוסיה זאת יצחקו עלינו מלוא חופניים!
@@ -1117,8 +1213,8 @@
      הבחורים (כולם): דברי הרב נאמנו מאוד, אמת וצדק!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ‘לחוק על כתבי העתים’? (מביט על יקותיאל) ינסה-נא אחד מבחורינו לעשות כדבר הזה!
@@ -1128,8 +1224,8 @@
      יקותיאל (קופץ ממקומו): התאמר בלבך כי אימתך תבעתנו? אם יהי רצון מלפני אחד מאתנו להניף עט עליך וידעת את תנואתנו! מכף רגל ועד ראש לא נשאיר מתום!
     </p>
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     היאלם יונק שדיים! ואתה שבלול תמס תהלך עלינו אימים כי תתננו לחרפה בכתבי העתים? לך התגולל באשפה בין גמולי מחלב כערכך, שם יכירך מקומך!
@@ -1139,20 +1235,20 @@
      ירחמיאל (ליקותיאל): אל תבוא בדברים עם עלוקות מוצצי אדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ‘עלוקות’? דום עז-פנים! עצב נבזה נפוץ! הנשמע חוצפה יתירה כזו כי ירהב הנער בזקן? (מהומה ורעש בין הנאספים. הרב יפריד בין עצומים).
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     אדוני הנכבדים! הלא תקנו לבב חכמה! מה זה היה לכם? בושו והיכלמו! הזאת תהי אחרית אסיפתנו? הלא נהיה לבוז ולקלס. אם נאספנו יחד הן עלינו לפעול ולתקן דבר-מה…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אומנם כן, הרפו מריב, כי עת לעשות!
@@ -1162,98 +1258,98 @@
      גרונם (אל ברוך-צבי ושמחה): זקנים אתם ממנו לימים, דברו אתם ונשמעה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     אתם הזקנים תדברו ואנחנו נשמע.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     אנוכי כבר הגדתי והשמעתי עצתי, והנה באו הצעירים ויעמדו לי לשטן ויקלקלו מחשבתי.
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     טעית עד מאוד, ר' ברוך-צבי. הנה נא שמעוני ותראו כי אך אתי ילין צדק!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     דבּר אתה אם לא תתן לאחרים לדבר דבר.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     דבּר אתה!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ראשונה נבחור לנו גבאים ואז נדע מה נעשה.
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     לוּ יהי כדבריך, אבל נחשוב-נא בראשונה מה תהי פעולת הגבאים?
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     דברי שמחה צדקו יחדיו! בראשונה נבחור לנו גבאים, יועצים.
    </sp>
-   <sp>
-    <speaker id="hbkhurim">
+   <sp who="hbkhurim">
+    <speaker>
      הבחורים
     </speaker>
     יועצים, יועצים!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     ואחריו : מי ומי היועצים?
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     יועצים נמצא לנו על נקלה, אבל אל-נא נעשה את הטפל לעיקר. הבה אקרא-נא באוזניכם ראשונה את הצעתי אשר ערכתי בספר…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     עוד הפעם ‘דברי הספר’! מה שהיה הוא שיהיה! כבר שמענו ונדעם.
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אבל חדל לך מהפסיק בכל רגע ורגע, הלא נהיה לחוכא ואטלולא!
    </sp>
-   <sp>
-    <speaker id="hbkhurim">
+   <sp who="hbkhurim">
+    <speaker>
      הבחורים
     </speaker>
     ידבר-נא הרב דבריו. מה זה היה לכם כי השקט לא תוכלו?
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     אחרי כי נאספנו יחד הלום הנה העצה היעוצה ממני היא…
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     דברים בטלים, אמרים ללא הועיל!
@@ -1268,14 +1364,14 @@
      שמחה (מטפס ועולה על השולחן): הנה פה גבאי, גזבר, סוכן ויועצים. ומה יחסר לנו עוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     מי המה?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     מי ומי?
@@ -1290,14 +1386,14 @@
      גרונם ובונם: והנשארים?…
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     עוד דרוש לחפצנו גזבר… שני גזברים…
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     גרונם ובונם יהיו לגזברים, אבל מה תהי כהונת אברהם?
@@ -1307,8 +1403,8 @@
      ברוך-צבי (אל שמחה בהחזיקו בידו): יהי האחד לגזבר והשני לרואה-חשבון.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     לא, שני גזברים ואחד רואה-חשבון, או שניים רואי-חשבון ואחד גזבר. אברהם יהי הגזבר וגרונם ובונם יהיו לרואי חשבון.
@@ -1318,32 +1414,32 @@
      הבחורים (יקומו יחד): ובזה תמו כל הכהונות?
     </p>
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     הלא נאציל גם להם ברכה!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     הבחורים יהיו לחברים-יועצים.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     יועצים, יועצים!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ובכן יש לנו שלושה גבאים, שני גזברים… לא כך אמרתי – גזבר אחד ושניים רואי-חשבון.
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     אבל מה בצע בגבאים ובגזברים וברואי-החשבון?…
@@ -1353,14 +1449,14 @@
      אברהם (עולה על השולחן): ושישה חברים יועצים.
     </p>
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     לא! שבעה יועצים! שבעה בחורים – שבעה יועצים.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     שבעה! שבעה!
@@ -1370,86 +1466,86 @@
      ברוך-צבי (לוקח צלוחית יין בידו): ובכן חסל סידור פסח! הלא רשות לנו עתה אפוא לשובב נפשנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     אל תחפזו! עוד לא נגמרה המלאכה. עתה עלינו לרשום בפנקס את תקנות החברה…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אם כן, יעשו-נא פנקס!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     מי יעשה?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     מי ומי?
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     את זה יעשו הבחורים.
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     עדת בחורים למה תחרישו?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     למה בחורים תחרישו?
    </sp>
-   <sp>
-    <speaker id="ikusil">
+   <sp who="ikusil">
+    <speaker>
      יקותיאל
     </speaker>
     (רומז על ירחמיאל)
    </sp>
-   <sp>
-    <speaker id="irkhmil">
+   <sp who="irkhmil">
+    <speaker>
      ירחמיאל
     </speaker>
     (ירמוז על יחיאל)
    </sp>
-   <sp>
-    <speaker id="ikhil">
+   <sp who="ikhil">
+    <speaker>
      יחיאל
     </speaker>
     (מראה באצבע על קלמן)
    </sp>
-   <sp>
-    <speaker id="klmn">
+   <sp who="klmn">
+    <speaker>
      קלמן
     </speaker>
     (רומז לזלמן)
    </sp>
-   <sp>
-    <speaker id="zlmn">
+   <sp who="zlmn">
+    <speaker>
      זלמן
     </speaker>
     (מתבונן אל מנשה)
    </sp>
-   <sp>
-    <speaker id="mnshh">
+   <sp who="mnshh">
+    <speaker>
      מנשה
     </speaker>
     (מתבונן אל משה)
    </sp>
-   <sp>
-    <speaker id="mshh">
+   <sp who="mshh">
+    <speaker>
      משה
     </speaker>
     (מחזיק את ‘המגיד’ ויושב תפוש ברוב שרעפיו): ת… ר… מ… (יספור אצבעותיו)
@@ -1464,44 +1560,44 @@
      משה (עודנו הוגה ברוחו): זאת לא זאת… לא… הנני מחפש אחר אחד הפסוקים אשר אעשה בו את האותות והלפ"ק.
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     החיסרון יוכל להימנות! אתה הכינה-נא ראשונה את הפנקס לכל חוקותיו ומשפטיו, והיתה חברתנו ערוכה בכל ושמורה…
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     ומה יהי שם חברתנו אשר פינו ייקבנה? הלא ניתן לה שם על פני חוצות?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     הן שם ניתן לה!
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     אבל לא השם הוא העיקר! מה צבע?…
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     נהפוך הדבר, השם הוא אבן הפינה לכל דבר.
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     הבל הבלים!
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     פיך תבטל כל דבר!
@@ -1511,14 +1607,14 @@
      ברוך-צבי (מחזיק את הצלוחית בידו): הנה חברות יש לנו די והותר שישים בכרס אחד: חברה משניות, חברה תהלים, חברת מלביש ערומים, סומך נופלים, רופא חולים, מתיר אסורים, זוקף קפופים… אולי ייקרא שמה בישראל ‘חברת משיח אילמים?’
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     אתה אך לצון תחמוד לך.
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     לא! שמעו אלי כולכם!
@@ -1528,98 +1624,98 @@
      ברוך-צבי (ימשכהו אחור): מה חפץ לנו בדבריך?
     </p>
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     הניחו וידבר גם רעכם דבר. הלא כל השומע ילעג לנו!
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     פליאה דעת ממני, על מה את מתווכחים יחד? הילד עוד לא יצא לאוויר העולם ואתם תריבו מה יהי שמו!
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     ואני מדברי לא אסור. אין חפץ לנו בשם! החברה היא אבן הפינה והשם אך למוֹתר! הבה נשובב נפשנו כמעט. מרוב צעקה כבר ניחר גרוננו (מוזג את הכוס) לחיים, אחי ורעי, לחיים, לחיים! (שותה).
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     לחיים טובים ולשלום (הנאספים ישתו ויסעדו לבם בפרפרת; כולם יצעקו, יגעשו וירעשו, כל אחד מחריש את רעהו, נכנס לדבריו ורגזו ושחקו ואין נחת. הרב ינסה להשמיע מרום קולו על אודות דבר נכבד מאוד, אך אין פונה אליו; ברוך-צבי אוכל מן הפת; הצעירים יסטרו איש על פי רעהו, הבחורים יתעצמו; משה קורא את ‘המגיד’ וברוך-צבי יתבונן אליו מרחוק ושיחק וכמו יאמר: 'הביטו-נא וראו את התרנגול בבני-אדם זה! הגם אתה בקוראי מה"ע? – ההמולה לא תחדל, עד כי חצות לילה תגיע והנאספים יקומו ללכת איש לביתו)
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     ובכן מה החלטנו היום?
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     מה גמרנו היום אומר?
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     רבות עשינו היום! בחרנו לנו גבאים, גזברים ויועצים…
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     ובזה נאמר די?
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     את אשר לנו לעשות עוד – נחקור לדעת לעת אחרת. הלא עוד נתראה פנים!
    </sp>
-   <sp>
-    <speaker id="brhm">
+   <sp who="brhm">
+    <speaker>
      אברהם
     </speaker>
     ובכן נתאסף עוד לאסיפה אחרת? הלא!
    </sp>
-   <sp>
-    <speaker id="hrb">
+   <sp who="hrb">
+    <speaker>
      הרב
     </speaker>
     עוד אסיפה שנייה?
    </sp>
-   <sp>
-    <speaker id="brukh-tsbi">
+   <sp who="brukh-tsbi">
+    <speaker>
      ברוך-צבי
     </speaker>
     ומה ממנו יהלוך אם נאסף עוד הפעם לאסיפה?
    </sp>
-   <sp>
-    <speaker id="shmkhh">
+   <sp who="shmkhh">
+    <speaker>
      שמחה
     </speaker>
     ובכן מנויה וגמורה!
    </sp>
-   <sp>
-    <speaker id="grunm">
+   <sp who="grunm">
+    <speaker>
      גרונם
     </speaker>
     עוד אסיפה אחת.
    </sp>
-   <sp>
-    <speaker id="bunm">
+   <sp who="bunm">
+    <speaker>
      בונם
     </speaker>
     עוד אחת!
    </sp>
-   <sp>
-    <speaker id="hbkhurim">
+   <sp who="hbkhurim">
+    <speaker>
      הבחורים
     </speaker>
     אסיפה! אסיפה!

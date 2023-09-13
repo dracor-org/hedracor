@@ -46,6 +46,22 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="hkhsn">
+      <persName>
+       החתן
+      </persName>
+     </person>
+     <person xml:id="hkhlh">
+      <persName>
+       הכלה
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -82,8 +98,8 @@
      השושבינה האחת: עתה, אחותי…
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     היה לא תהיה!
@@ -93,8 +109,8 @@
      השושבינה השניה: כן, כן… כנהוג בישׂראל…
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     הרפינה!
@@ -149,8 +165,8 @@
      החתן (מתבונן כה וכה. בראותו את הכלה בלבושיה, מתפלא ופותח את פיו בתמיה…חפץ לשוב אל הדלת ולקרוא).
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     שוטה, בוא הנה! אל תקרא לאיש… דבר-סתר לי אליך…
@@ -160,20 +176,20 @@
      החתן ( בחפזון ): אחרי כן, אחרי כן!…
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     לא, יקירי, עתה!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     מה זאת? אַת תמשלי בי?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אך היום, יקירי… אך היום… מחר תהיה אתה הבעל ואני…
@@ -183,56 +199,56 @@
      החתן ( בצחוק ): ואַת אשת איש… אך מהרי נא!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אבל שב נא…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     ואַת?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     גם אני אשב…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     על-יד שולחן אחר?…
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אך היום, יקירי, אך היום…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     ומחר?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     ומחר כאשר ייטב בעיניך… הלא אתה תהיה הבעל…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     דעי לך, איפוא, כי אך פעם אחת אשׂא פניך!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     תודה… ( צוחקת מרה ).
@@ -247,38 +263,38 @@
      הכלה ( מתאפקת ): יען… יען כי שכחתי את שמך, חתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     חא, חא, חא! זכרון של חתול! שמי… שמי… עליך לזכור את שמי!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     שלומיאל?
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     לא!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     יוסי…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     לא, לא!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     חיים?
@@ -288,8 +304,8 @@
      החתן ( קופץ פתאום ממקומו ): ואני, השוטה, עודני יושב אתה… למה לה לדעת את שמי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אבל – הלא דבר לי אליך!
@@ -299,68 +315,68 @@
      החתן ( שב למקומו ): דבּרי!…
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     חפצתי להגיד לך, מדוע ראשונה לא רציתי בך, ועתה, כאשר עיניך רואות, אני רוצה!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     אני יודע – אביך ציוה עליך! בשוט דפק אותך אל החופה!… ובלי ספק הבטיח לך, שאם לא תמרי את פיו, יתן לך איזה צעצועים. אולי דברים , הלא נשים דעתן קלות! אך שטיא! מה לי ולמאוּנך, ולחפצך?!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     להתנצל לפניך אני חפצה!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     למה לי ההתנצלות שלך? לצור על גבי צלוחית?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     הלא פעם אחת תוכל לשׂאת פני…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     כבר נשׂאתי שתי פעמים.
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אבי ציוה עלי לירוא את הזוגות… שמע לי  פעם אחת…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     אביך ציוה! זה הוא דבר שונה לגמרי… וגם זוגות, משהו של חשש! דבּרי, אך חושי!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אמרו לי, כי קטן אתה ודל ועיניך טרוטות, ולא חפצתי…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     הנשים מקפידות בהבלים שכאלה… שטיא. מרבה בשׂר מרבה רימה! ומה לך ולעיני?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אמרו לי שגדול בתורה אתה, ובכל זאת לא חפצתי… ומה לי ולתורתך בתוך מעיך? הלא גם הדיבּר אין בך לבאר לי את תורתך, אף כי פיך פתוח תמיד!
@@ -370,20 +386,20 @@
      החתן ( בצחוק ): לך?… לאשה?… חאַ, חאַ, חאַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     ואיך אדע להוקירה?
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     לכאורה, כן הוא… אבל באמת לא כן הוא! האשה מחויבת להאמין, שבזכות תורתו של בעלה תהיה הדום לרגליו בגן עדן…
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     ואם ארד לגיהנום?
@@ -393,20 +409,20 @@
      החתן ( בפחד ): לגיהנום? לגיהנום? ( מתנשׂא וצועק ) שוֹק על ירך אכּך, אם תרדי לגיהנום… התאמרי כי לפי שגדולה את ממני ועבה ממני, לא אַכּך? חי נפשי, אַכך! בשבט אכך! כמו שאביך דורש, ושבט גדול אקנה, גדול ועב!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אבל למה תכּני? הלא אמרתי לך, כי עתה אני רוצה, וחפצה אני להגיד לך מדוע!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     הלא אמרתי: דבּרי…
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אמרו עליך, כי מזמר משׂכיל אתה!
@@ -416,92 +432,92 @@
      החתן ( בקורת רוח ): אמת! בעירנו אני המשורר הראשון! בחגים ומועדים מוליך אותי אבי לבתי הגבירים שבעיר ואני אומר שם מעט תורה, ואחרי כן אני מזמר… ונותנים לי ממתקים! לפעמים נותנים לי גם דגים מלוחים! דגים קטנים מאד, אבל טובים!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     למען מצוא חן בעיניך, אתן לך גם אני דגים מלוחים… אבל במה אדע, כי כנים דבריך…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     שאני אוהב דגים מלוחים? הבי כרגע ואוכל!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     לא זאת, אך במה תוכיח לי, שאתה מזמר!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     ומה אעשׂה לך?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     היודע אתה לזמר “כל נדרי”?
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     על צד היותר טוב!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     ויהי האות, אם תזמר!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     עתה? היש לי עתה  לזמר?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אני מבקשת – – –
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     ותהי הפעם הרביעית, עוד הפעם זוּגות!…
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אין דבר, עוד יש לי מה לבקש… עד חמש ועד שבע פעמים…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     אבל – – –
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     הבל הבלים! היודע לזמר  לזמר…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     זה אמת! אבל מה אזמר לך?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     הלא ביקשתיך: כל נדרי!
@@ -511,62 +527,62 @@
      החתן ( מזמר בקול ).
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     טוב מאד! חי נפשי, טוב מאד! גם בהכּרך שלנו תהיה המשורר הראשון! ראש וראשון תהיה! ולזמר “שושנת יעקב” אתה יודע?
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     בוַדאי! בשלוש נוסחאות! בנגינת החזן מווילנא, החזן מאודיסה והחזן מז’יטומיר!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     כלתה נפשי למנגינות, זמר נא, זמר, ידידי!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     ידידי?! איזה ידיד אני לך?… האם רעינו יחד חזירים, מה?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     אבל זמר נא לראשונה, ואחר תכעס!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     יהי כן, ובאיזו נוסחא אזמר?
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     בכל השלוש…
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     היכא דמי, משוגעת!
    </sp>
-   <sp>
-    <speaker id="hkhlh">
+   <sp who="hkhlh">
+    <speaker>
      הכלה
     </speaker>
     בזה אחר זה!
    </sp>
-   <sp>
-    <speaker id="hkhsn">
+   <sp who="hkhsn">
+    <speaker>
      החתן
     </speaker>
     בזה אחר זה – שפיר דמי! הנני מתחיל בנגון של החזן מווילנא ( מזמר ). עתה תבוא נוסחת החזן מז’יטוֹמיר ( מזמר ).

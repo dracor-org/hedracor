@@ -46,6 +46,17 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="hhlkh">
+      <persName>
+       ההלך
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,8 +73,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hhlkh">
+   <sp who="hhlkh">
+    <speaker>
      ההלך
     </speaker>
     (נאֵטהע)

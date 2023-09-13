@@ -46,6 +46,87 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="ksk">
+      <persName>
+       קסקא
+      </persName>
+     </person>
+     <person xml:id="tsitsrun">
+      <persName>
+       ציצרון
+      </persName>
+     </person>
+     <person xml:id="zrkh shni">
+      <persName>
+       אזרח שני
+      </persName>
+     </person>
+     <person xml:id="zrkh rshun">
+      <persName>
+       אזרח ראשון
+      </persName>
+     </person>
+     <person xml:id="ksyus">
+      <persName>
+       קסיוס
+      </persName>
+     </person>
+     <person xml:id="flָuִyus">
+      <persName>
+       פלָוִיוס
+      </persName>
+     </person>
+     <person xml:id="brutus">
+      <persName>
+       ברוטוס
+      </persName>
+     </person>
+     <person xml:id="floyus">
+      <persName>
+       פלויוס
+      </persName>
+     </person>
+     <person xml:id="kisr">
+      <persName>
+       קיסר
+      </persName>
+     </person>
+     <person xml:id="klfurnih">
+      <persName>
+       קלפורניה
+      </persName>
+     </person>
+     <person xml:id="ntunyus">
+      <persName>
+       אנטוניוס
+      </persName>
+     </person>
+     <person xml:id="mrulus">
+      <persName>
+       מרולוס
+      </persName>
+     </person>
+     <person xml:id="tsin">
+      <persName>
+       צינא
+      </persName>
+     </person>
+     <person xml:id="hkhuzh">
+      <persName>
+       החוזה
+      </persName>
+     </person>
+     <person xml:id="hkul">
+      <persName>
+       הקול
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -72,8 +153,8 @@
      באים פלויוּס, מרולוס והמון אזרחים
     </p>
    </sp>
-   <sp>
-    <speaker id="flָuִyus">
+   <sp who="flָuִyus">
+    <speaker>
      פלָוִיוס
     </speaker>
     <p>
@@ -91,16 +172,16 @@
 מַה-מְּלַאכְתְּךָ, הָאִישׁ?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh rshun">
+   <sp who="zrkh rshun">
+    <speaker>
      אזרח ראשון
     </speaker>
     <p>
      :    בַּנַּי אָנֹכִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
@@ -112,24 +193,24 @@
      וּמָה מַּחֲלְּצוֹת אֵלֶּה אֲשֶׁר לָבַשְׁתָּ? – וְאַתָּה הָאִישׁ מָה-מְּלַאכְתֶּךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
      : אֲנִי, בִּמְחִילַת כְּבוֹד הָאֻמָּנִים הַשְּׁלֵמִים, אֵינֶנִּי בִלְתִּי אִם מַטְלִיא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
      : אַךְ מְלַאכְתְּךָ מָה הִיא? עֲנֵה דָּבָר בָּרוּר!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
@@ -137,48 +218,48 @@
 אֵין בָּהּ סֶלֶף. רוֹפֵא גְלָדוֹת אָנֹכִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
      : מְלַאכְתְּךָ מַה הִיא, הַנּוֹכֵל! אֱמֹר, מַה-מְּלַאכְתְּךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
      : אַל-נָא בַחֲמָתְךָ, אֲדוֹנִי, פֶּן תִּתְבַּקַּע מֵחֵמָה וְהָיְתָה גַם בְּךָ יָדִי לְרָפְאֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
      : הַאוֹתִי תֹּאמַר לְרַפֵּא? אִי עַז-פָּנִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
      : כִּדְבָרֶיךָ כֶּן-הוּא, בְּיָדִי לָשִׁים עָלֶיךָ טְלָאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="floyus">
+   <sp who="floyus">
+    <speaker>
      פלויוס
     </speaker>
     <p>
      : אֻשְכָּף אַתָּה, הָאֵין זֹאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
@@ -205,8 +286,8 @@
      לְרַגְלָם – עַל מַעֲשֵׂי יָדַי יִדְרֹכוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="floyus">
+   <sp who="floyus">
+    <speaker>
      פלויוס
     </speaker>
     <p>
@@ -218,8 +299,8 @@
      הָאֲסַפְסוּף הַזֶּה אֲשֶׁר הִקְהַלְתָּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrkh shni">
+   <sp who="zrkh shni">
+    <speaker>
      אזרח שני
     </speaker>
     <p>
@@ -241,8 +322,8 @@
      לָנוּ חַג הַיּוֹם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
@@ -326,8 +407,8 @@
      וְהֵשִׁיבוּ מֵעֲלֵיכֶם אֶת חֲרוֹן-אַפָּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="floyus">
+   <sp who="floyus">
+    <speaker>
      פלויוס
     </speaker>
     <p>
@@ -374,8 +455,8 @@
      כְּלִילֵי פְאֵר בְּרָאשֵׁי הַפְּסִילִים וַהֲסִירוֹתָם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrulus">
+   <sp who="mrulus">
+    <speaker>
      מרולוס
     </speaker>
     <p>
@@ -383,8 +464,8 @@
 כִי חַג לְפֶּרְקַל לָנוּ הַיּוֹם!
     </p>
    </sp>
-   <sp>
-    <speaker id="floyus">
+   <sp who="floyus">
+    <speaker>
      פלויוס
     </speaker>
     <p>
@@ -451,16 +532,16 @@
      אחריהם המון עם ובתוכו .
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      : קַלְפּוּרְנִיָּה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -472,24 +553,24 @@
      הנוגנים משתתקים
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      : קַלְפּוּרְנִיָּה!
     </p>
    </sp>
-   <sp>
-    <speaker id="klfurnih">
+   <sp who="klfurnih">
+    <speaker>
      קלפורניה
     </speaker>
     <p>
      :     הִנֵּנִי, אַלּוּפִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -501,16 +582,16 @@
      לִמְרוּצָתוֹ בַּמְתַחֲרִים. אַנְטוֹנְיּוּס!
     </p>
    </sp>
-   <sp>
-    <speaker id="ntunyus">
+   <sp who="ntunyus">
+    <speaker>
      אנטוניוס
     </speaker>
     <p>
      : הִנֵּנִי, אֲדוֹנִי הַמֶּלֶךְ!
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -547,8 +628,8 @@
      וְנִפְקְדוּ בִּפְרִי בָטֶן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ntunyus">
+   <sp who="ntunyus">
+    <speaker>
      אנטוניוס
     </speaker>
     <p>
@@ -560,8 +641,8 @@
      דְּבַר קֵיסָר צָו!
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -578,32 +659,32 @@
      זמרת המנגנים
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhuzh">
+   <sp who="hkhuzh">
+    <speaker>
      החוזה
     </speaker>
     <p>
      : קֵיסָר!
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      :    מִי הַקּוֹרֵא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      :       הֶחֱשׁוּ, יֶחְדַּל הָרָעַשׁ!
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -615,72 +696,72 @@
      עַז וָרָם מִשְּׁאוֹן הַזִּמְרָה בּוֹקֵעַ
     </p>
    </sp>
-   <sp>
-    <speaker id="hkul">
+   <sp who="hkul">
+    <speaker>
      הקול
     </speaker>
     <p>
      : קֵיסָר! – דַּבֵּר, קֵיסָר יַט אֹזֶן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhuzh">
+   <sp who="hkhuzh">
+    <speaker>
      החוזה
     </speaker>
     <p>
      : הִזָּהֵר בְּיוֹם אִיד מַרְצִיּוּס.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      :          מֵי הָאִישׁ?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : חוֹזֶה הוּא, הַמַּזְהִירְךָ מֵאִיד מַרְצִיּוּס.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      : הֲבִיאוּהוּ אֵלָי. אֶרְאֶנּוּ פָנִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : הָאִישׁ, צֵא הֵרָאֵה לִפְנֵי קֵיסָר!
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      : וּמַה בְּפִיךָ עַתָּה? שׁוּבָה דַבֵּרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhuzh">
+   <sp who="hkhuzh">
+    <speaker>
      החוזה
     </speaker>
     <p>
      : הִזָּהֵר בְּיוֹם אִיד מַרְצִיּוּס.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -697,32 +778,32 @@
      זמרת לכת. התהלוכה עוברת. נשארים ברוטוס וקסיוס
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : הֲתֵלֵךְ לַחֲזוֹת בִּמְרוּצַת הַמְתַחֲרִים?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : אֲנִי – לֹא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      :  אָנָּא לֵכָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -744,8 +825,8 @@
      אָנֹכִי לֹא אֶעֶצְרֶךָּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -777,8 +858,8 @@
      מִדֵּי תְנִיפֶנָּה לִקְרַאת יְדִיד נָפֶשׁ.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -845,8 +926,8 @@
      אֶת יְדִידָיו מְאוֹר פָּנָיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -868,8 +949,8 @@
      לִרְאוֹת אֶת-חָזוּת פָּנֶיךָ אַתָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -881,8 +962,8 @@
      פְּנֵי בְעָלֶיהָ אִם לֹא בַמַּרְאָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -924,8 +1005,8 @@
      כִּי תָשֹׁבְנָה עֵינֵי בְּרוּטוּס אִישׁ הַנְּדִיבוֹת אֵלָיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -937,8 +1018,8 @@
      כִּי תְּצַוֵּנִי לְבַקֵּשׁ בְּנַפְשִׁי אֶת-אֲשֶׁר אֵין בָּהּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -1015,8 +1096,8 @@
      קול חצוצרות ותרועת עם
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1028,16 +1109,16 @@
      פֶּן הִמְלִיךְ הָעָם אֶת-קֵיסָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : דּוֹאֵג אַתָּה? אִם כֵּן רַע עָלֶיךָ הַדָּבָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1079,8 +1160,8 @@
      עַזָּה מִיִּרְאָתִי אֶת-הַמָּוֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -1292,8 +1373,8 @@
      קול חצוצרות ותרועת עם
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1310,8 +1391,8 @@
      שֵׁנִית עַל רֹאשׁ קֵיסָר שִׁפְעַת הוֹד וְתִפְאָרֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -1468,8 +1549,8 @@
      אֶת-הַשָּׂטָן מֵהָקִים עָלֶיהָ מֶלֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1536,8 +1617,8 @@
      אֲשֶׁר תָּזֹם עִתֵּנוּ הָרָעָה לֶאֱֻכֹף עָלֵינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -1549,16 +1630,16 @@
      פָּגְעָה בְּלֵב בְּרוּטוּס וַתַּרְשִׁיפֵהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : תַּמּוּ הַמִּשְׂחָקִים. קֵיסָר הִנֵּה זֶה שָׁב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -1580,8 +1661,8 @@
      קיסר ורואי פניו שבים
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1613,32 +1694,32 @@
      בְּהִתְנַגְּחוֹ אֶת אֶחָד מִזִּקְנֵי הָאָרֶץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : קַסְקָא הֵן יַגִּיד לָנוּ מָה הַדָּבָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
      : אַנְטוֹנִיּוּס!
     </p>
    </sp>
-   <sp>
-    <speaker id="ntunyus">
+   <sp who="ntunyus">
+    <speaker>
      אנטוניוס
     </speaker>
     <p>
      :   הִנֵּנִי קֵיסָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -1665,8 +1746,8 @@
      בְּנֵי אָדָם כָּמֹהוּ מוֹקֵשׁ טָמוּן בְּקִרְבָּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ntunyus">
+   <sp who="ntunyus">
+    <speaker>
      אנטוניוס
     </speaker>
     <p>
@@ -1678,8 +1759,8 @@
      בֶּן רוֹמֵי הוּא, אִישׁ חַיִל וְאָדָם הַמַּעֲלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kisr">
+   <sp who="kisr">
+    <speaker>
      קיסר
     </speaker>
     <p>
@@ -1776,16 +1857,16 @@
      קיסר וכל רואי פניו סרים, זולתי קסקא
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : בִּכְנַף בִּגְדִי מְשֵׁכְתָּנִי: הֲדָבָר לְךָ אֵלָי?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -1797,24 +1878,24 @@
      כִּי זָעֲפוּ כֹה פְנֵי קֵיסָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : הֲלֹא עִמּוֹ הָיִיתָ, הַאַף אֵין זֹאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : כִּי אָז לֹא שָׁאַלְתִּי אֶת-פִּי קַסְקָא עַל-כָּכָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -1826,48 +1907,48 @@
      וַיֶּהְדֳּפֶנָּה מַעָלָיו כִּלְאַחַר-יָד: כָּזֹאת –; אָז נִשְׁמַע קוֹל הָעָם בְּרֵעֹה
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : וּמַה-דְּבַר תְּרוּעַת הָעָם בַּשְׁנִיָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : שׁוּב עַל כָּכָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : הָעָם הֵרִיעַ בַּשְּׁלִישִׁית. מַה-פֵּשֶׁר תְּרוּעָתוֹ הָאַחֲרוֹנָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : עַל-כָּכָה וְעַל-כָּכָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : הַפְּעָמִים שָׁלֹשׁ הֻגְּשָׁה לוֹ הָעֲטָרָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -1884,32 +1965,32 @@
      כָּל-דְּחִיָּה וּדְחִיָּה הֵרִיעוּ לְעֻמָּתוֹ שְׁכֵנַי הַכְּשֵׁרִים תְּרוּעָה גְדוֹלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : וּמִי הִגִּישׁ לוֹ אֶת הָעֲטָרָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : הֲלֹא אַנְטוֹנְיּוּס.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : סַפֵּר-נָא קַסְקָא יָקָר, הַדָּבָר עַל אָפְנָיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -1981,16 +2062,16 @@
      שְׂפָתַי וּבָאָה הַצַּחֲנָה בְקִרָבִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : אָנָּא, לְאַט לְךָ, הַאֻמְנָם הִתְעַלֵּף קֵיסָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2002,24 +2083,24 @@
      לֹא הָיָה בוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : לֹא יִפָּלֵא הַדָּבָר, נִכְפֶּה הִנֵּהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : לֹא, כִּי אַתָּה וַאֲנִי וְקַסְקָא הַנִּכְפִּים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2041,16 +2122,16 @@
      עָלָיו, אִם טוֹב וְאִם רָע, כַּעֲשׂוֹתָם לַמְשַׂחֲקִים עַל הַבָּמָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : וּבְשׁוּב אֵלָיו רוּחוֹ מֶה הָיָה דְבָרוֹ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2107,48 +2188,48 @@
      לְעֵינֵיהֶן רִטֵּשׁ קֵיסָר, כִּי עַתָּה גַם עַתָּה לֹא הִמְעִיטוּ עֲשׂוֹת מִכֵּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
      : וְאַחֲרֵי-כֵן הָלַךְ מִשָּׁם בְּזָעַף?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : כִּדְבָרֶיךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : וְצִיצֵרוֹן נָאָם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : נָאֹם נָאַם, וִיוָנִית.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : וְעַל מָה נָשָׂא מַשָּׂאוֹ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2180,32 +2261,32 @@
      כְּאֵלֶּה וְכָאֵלֶּה הָיוּ שָׁם – מִי אִישׁ וְיִזִכְּרֵם כֻּלָּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : הֲתֹאכַל, קַסְקָא, אִתִּי לֶחֶם הָעָרֶב?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : לֹא, קָרוּא אֲנִי אֶל מָקוֹם אַחֵר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : אוּלַי תֹּאבֶה לֶאֱכֹל עִמִּי מָחָר בַּצָּהֳרָיִם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2217,16 +2298,16 @@
      אֲרֻחָתְךָ תִנְעָם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : טוֹב הַדָּבָר, אֲנִי אֲחַכֶּה לָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2238,8 +2319,8 @@
      קסקא הולך לו
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -2251,8 +2332,8 @@
      וּבִנְעוּרָיו הֵן עַזָּה רוּחוֹ כְּאֵשׁ שַׁלְהָבֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -2284,8 +2365,8 @@
      לְעַכֵּל אֶת דְּבָרָיו בְּיֶתֶר תֵּאָבוֹן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brutus">
+   <sp who="brutus">
+    <speaker>
      ברוטוס
     </speaker>
     <p>
@@ -2307,8 +2388,8 @@
      אָנֹכִי אֲחַכֶּה לָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -2420,8 +2501,8 @@
      הקודמים. רחוב. רעמים וברקים. קסקא, חרב שלופה בידו, וציצרון
     </p>
    </sp>
-   <sp>
-    <speaker id="tsitsrun">
+   <sp who="tsitsrun">
+    <speaker>
      ציצרון
     </speaker>
     <p>
@@ -2433,8 +2514,8 @@
      לָמָה עָיַפְתָּ כֹה? וּמָה-לְךָ כִּי רוּחֲךָ נִבְהָלָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2496,16 +2577,16 @@
      אֶת-חֲמַת הָאֱלֹהִים וַיֹּאמְרוּ לְהַשְׁחִיתָהּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsitsrun">
+   <sp who="tsitsrun">
+    <speaker>
      ציצרון
     </speaker>
     <p>
      : הֲגַם נִפְלָאוֹת מֵאֵלֶּה רָאִית?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2597,8 +2678,8 @@
      מְבַשְּׂרִים רָעָה לַמְּדִינָה, בְּהֵרָאוֹתָם בָּהּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsitsrun">
+   <sp who="tsitsrun">
+    <speaker>
      ציצרון
     </speaker>
     <p>
@@ -2620,8 +2701,8 @@
      הֲיָבוֹא קֵיסָר אֶל הַקַּפִּיטוֹלִיּוֹן מָחָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2633,8 +2714,8 @@
      לְהוֹדִיעֲךָ כִּי מָחָר יִהְיֶה שָׁמָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsitsrun">
+   <sp who="tsitsrun">
+    <speaker>
      ציצרון
     </speaker>
     <p>
@@ -2646,8 +2727,8 @@
      לֹא עֵת שׁוֹטֵט וָשׂוּחַ הוּא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2659,56 +2740,56 @@
      קסיוס בא
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : מִי בָזֶה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      אִישׁ רוֹמֵי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      :       הֲקוֹלְךָ הוּא, קַסְקָא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : אֹזֶן בּוֹחֶנֶת לָךְ. מָה-נּוֹרָא הַלַּיְלָה, קַסִּיּוּס.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : נְעִים הַלֵּילוֹת הוּא לְיִשְׁרֵי רוּחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : מִי רָאָה מֵאָז שְׁמֵי זַעַם כָּאֵלֶּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -2755,8 +2836,8 @@
      כַּמַטָּרָה לְרֶשֶׁף אִשׁוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2783,8 +2864,8 @@
      אֵין טוֹב לָאָדָם כִּי אִם לְבֹשׁ אֵימוֹת וַחֲרָדוֹת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -2891,16 +2972,16 @@
      וְהוּא נוֹרָא וְאָיֹם כְּבִעוּתֵי הַלַּיְלָה הַזֶּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : הַלֹא עַל קֵיסָר תְּדַבֵּר, – הָאֵין זֹאת, קַסִּיּוּס?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -2932,8 +3013,8 @@
      כִי לֵב נָשִׁים לִבֵּנוּ לְעֹל וּלְסֶבֶל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -2950,8 +3031,8 @@
      בַּיָּם וּבַיַּבָּשָׁה, בִּלְעֲדֵי פֹה בְאִיטַלְיָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3018,8 +3099,8 @@
      הרעמים
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -3031,8 +3112,8 @@
      אֲשֶׁר לֹא תְהִי פְדוּתוֹ עִמּוֹ וּגְאֻלָּתוֹ בְיָדוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3094,8 +3175,8 @@
      אַךְ אֵין פָּחַד: נִשְׁקֵי בְכַפִּי, וְלַמָּוֶת אִבֶז.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -3122,8 +3203,8 @@
      לְמֵיטִיבֵי צַעַד וּלְמַרְחִיקֵי לָכֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3170,16 +3251,16 @@
      כֻּלָּם דָּם וָאֵשׁ וַּבַלְהוֹת מָוֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
      : הַחֲרִישָׁה רָגַע. הִנֵּה אִישׁ בָּא בְחִפָּזוֹן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3201,24 +3282,24 @@
      אָנָה תַחְפֹּז, צִינָא?
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צינא
     </speaker>
     <p>
      : יָצָאתִי לְבַקְשֶׁךָ. מִי הַלָּז? מֵטֵלוּס צִמְבֵּר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : לֹא, קַסְקָא הוּא, אִישׁ בְּרִיתֵנוּ. הַיְחַכּוּ לִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צינא
     </speaker>
     <p>
@@ -3230,16 +3311,16 @@
      מִשֶּׁלָּנוּ אֲשֶׁר רָאוּ מַרְאוֹת זָרִים מְאֹד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
      : הַמְחַכִּים לִי? הֲלֹא תַעַן!
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צינא
     </speaker>
     <p>
@@ -3256,8 +3337,8 @@
      גַּם אֶת בְּרוּטוּס אִישׁ הַחַיִל בִּבְרִיתֵנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3299,8 +3380,8 @@
      וּטְרֶבּוֹנְיּוּס שָׁמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צינא
     </speaker>
     <p>
@@ -3317,8 +3398,8 @@
      אֶת הָאִגְּרוֹת לִמְקוֹם זֶה יָעַדְתָּ לָהֶן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>
@@ -3350,8 +3431,8 @@
      וְהָיָה כֻלּוֹ לָנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksk">
+   <sp who="ksk">
+    <speaker>
      קסקא
     </speaker>
     <p>
@@ -3373,8 +3454,8 @@
      לִצְדָקָה וּלְיִתְרוֹן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ksyus">
+   <sp who="ksyus">
+    <speaker>
      קסיוס
     </speaker>
     <p>

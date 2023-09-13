@@ -46,6 +46,52 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="khri khmsh esrh shnh">
+      <persName>
+       אחרי חמש עשׂרה שנה
+      </persName>
+     </person>
+     <person xml:id="bmkhzh">
+      <persName>
+       במחזה
+      </persName>
+     </person>
+     <person xml:id="mrim">
+      <persName>
+       מרים
+      </persName>
+     </person>
+     <person xml:id="hnfshus">
+      <persName>
+       הנפשות
+      </persName>
+     </person>
+     <person xml:id="hmkum">
+      <persName>
+       המקום
+      </persName>
+     </person>
+     <person xml:id="srh">
+      <persName>
+       שׂרה
+      </persName>
+     </person>
+     <person xml:id="mir">
+      <persName>
+       מאיר
+      </persName>
+     </person>
+     <person xml:id="(hmskh nufl bmhirus)">
+      <persName>
+       (המסך נופל במהירות)
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,37 +108,37 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hnfshus">
+   <sp who="hnfshus">
+    <speaker>
      הנפשות:
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      חייט, כבן כ"ה.
     </p>
    </sp>
-   <sp>
-    <speaker id="srh">
+   <sp who="srh">
+    <speaker>
      שׂרה
     </speaker>
     <p>
      אמו, חולנית, אילמת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      קרובתם, כבת י"ח. תופרת כלי לבן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmkum">
+   <sp who="hmkum">
+    <speaker>
      המקום:
     </speaker>
     <p>
@@ -124,104 +170,104 @@
      מאיר עובד עבודתו בלי הרף, אך עיניו נטויות אל מעבר למחיצה ודולקות אחרי כל תנועת ראשה של מרים, הנראה מעל להמחיצה. כצאת  הוא משפיל עיניו ומורידן אל עבודתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (בצאתה אל החדר): תהילה לאל, נרדמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (חוזר אחריה): תהילה לאל… כן… כן… היא נרדמה… ברחמיו וברוב חסדיו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (בלחש עוז): דום, אל תנבּל פה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בלעג מעושׂה): שומע עבדך…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (נאנחת ויושבת אל המכונה, שהיא מניעה ביד רועדת).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (מרים עיניו בחשאי ומביט על פני מרים בשארית רוגז, הנהפך חיש לדאגה, והדאגה נהפכת לרחמים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (כשהרגישה במבטו): מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (משפיל עיניו, בתמהון מעושׂה): מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (בעצבון): דימיתי, כי רוצה אתה להגיד לי איזה דבר; הלא על כן הבטת בפני?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר:
     </speaker>
     <p>
      אני? חלמת! לא רציתי להגיד כלום… אין לי מה להגיד. בכלל איני רוצה כלום… אסור לרצות…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (אינה גורעת עיניה ממנו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (נרעש): למה אַת דוקרת אותי במבטי עיניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -231,128 +277,128 @@
      ? אני? אולי להפך! (ברגש) הלא אתה – – הלא כל מלה, היוצאת מפיך יורדת על לבי כנטף זפת בוערת! כל הגה – מחט… (תופשׂת בראשה) הוי אלי, אלי! את הגיהנום אני רואה בחיי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר:
     </speaker>
     <p>
      ולמה באת הנה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      לא אליך… אותך לא ידעתי… אחות אמי קראה לי… כתבה שהיא חולה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר:
     </speaker>
     <p>
      וּבאת! (במרירות) הוי נערה שוטה! מה לך ולנו? צעירה את, יפה את, כך אומרין הבריות – חפשיה אֵת! שערי העולם פּתוחים, שערי החיים – למרחב! יחידה, בלי אם חולנית – – – למה באת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      אל תחטא, מאיר! לוּ ידעת את נפשה של הנערה הגלמודה… לו ידעת את לילותיה של הבודדת, היחידה, את הצללים, את רעד הנשּמה, את לחץ הלב… אבל אתה אינך יודע, אתה אינך רוצה לדעת…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (מתאפק בכל עוז): די, מרים! אל תפריעי… אני איני רוצה לדעת… לי אסור לדעת, לי אסור לרצות. הרצון של פועל עני הוא דבר אסור, החפץ – – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (בקוצר רוח): שמעתי, שמעתי… אבל בלילות אני שומעת אחרת… שׂפתיך דובבות לפעמים בשנתך… אתה לא ידעת זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (מניע את המכונה ביתר עוז): אין אני ערב לחלומותי – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      למה אתה לוחץ את נשמתי, מאיר? למה אתה מעיק עלי כמשׂא לעיפה? וכי אינך רואה, שאני נחנקת פה, שאני – –
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בקור רוח מעושׂה): העבודה מרובה, מרים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      אתה שׂונא אותי, מאיר! אני יודעת; תכלית שׂנאה אתה שׂונא אותי. ואני יודעת מדוע… אתה שׂונא אותי לפי – שאתה אוהב אותי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בזדון לב): מטורפת אֵת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (קופצת ממושבה): איני מטורפת! אולי עוד אצא מדעתי, אך עדיין לא יצאתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בקול בלי צבע): אולי… גם זה יתּכן…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      באחד הלילות, לילות נדודי על הכסא, עלה לפני פתאום פתרון החידה. כעלות כוכב על שמי אופל, כן עלה הפתרון לפתע פתאום! כטובעת ברגעיה האחרונים, זכרתי פתאום את הכול. כל הגה, כל נשימה חמה, כל ברק עין, הכול זכרתי – את עיניך הדולקות אחרי מאחורי והחשכות לפתע פתאום, כשאני פונה אליך! אתה אוהב אותי, אבל אתה שׂונא את הטוב, את הרגש הטוב, כמו ששׂונא הילד החולה את תרופתו…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (מגמגם): ה-ב-לים! מליצות מן הרומנים שאַת קוראת…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -364,82 +410,82 @@
      מאיר (מוציא ביד רועדת מכיס חזהו תמונה פוטוגרפית ומוסר לה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (אוחזת בתמונה, מסתכלת בה רגע אחד ונרתעת): אתה אוהב אחרת – – – מי היא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      אמי היא… אמי מלפנים… כשהיתה כלה של אבי… אבי, לוּ ידעת אותו, היה מוצא חן בעיניך… בעל בטחון, שומר אמונים, מעולם לא הוציא מפיו דבר מגונה… חס ושלום… (חדל מלהניע את המכונה. לחשו מעתה כלחישת פתן) הוא לא ידע, כי רצונו של פועל עני עבירה הוא, יצר הרע הוא… אהבו זה את זו, חולות היו הנשמות, כמו שאַת אומרת וביקשו את התרופה המתוקה – ומצאוּה – ונרפאו!… שישה חדשים בגן עדן – ואחר כך (מליט פניו בכפיו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      ואחר-כך?…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (כאילו הקיץ): ואחר-כך? אחר-כך היה אבי עובד בעד שני פיות… גם אמי היתה תופרת לבנים… ואחר-כך עבדו בעד שלושה וארבעה פיות… ואחר-כך נפל אבי למשכב… ואחר-כך – בא מלאך המות, ומתו הבנים, ומת האב… ואני והיא נשארנו… אני, כמו שאַת רואה, והיא…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (ברחמים גדולים): חולנית… אילמת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בעקשות זדון): הטבע מתנקם בפועל עני! יפרה, אומר הטבע, העשיר – והעשיר אינו רוצה. והעני, כשהוא רוצה – – – (מראה באצבע על האדמה) כן… השאול… מצאת את פתרון החידה… מתייראה אַת מפני השגעון? אני איני מתיירא… הלוַאי ואצא מדעתי! הלא יש מטורפים מאושרים… חלומות טובים של שגעון טובים מחיים כאלה… בשגעוני מותר יהיה לי לאהבך, לאמצך אל לבי, למוץ את אור עיניך, למוץ את נשמתך…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (בתמהון עליצות ופחד): אבל, מאיר! מאיר שלי! אולי ירחם ה'. אולי ימנע ממני… אתה יודע מה… הלא מעשׂים בכל יום – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="srh">
+   <sp who="srh">
+    <speaker>
      שׂרה
     </speaker>
     <p>
      (מעבר המחיצה): מ מ מ…
     </p>
    </sp>
-   <sp>
-    <speaker id="(hmskh nufl bmhirus)">
+   <sp who="(hmskh nufl bmhirus)">
+    <speaker>
      (המסך נופל במהירות)
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bmkhzh">
+   <sp who="bmkhzh">
+    <speaker>
      במחזה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khri khmsh esrh shnh">
+   <sp who="khri khmsh esrh shnh">
+    <speaker>
      אחרי חמש עשׂרה שנה
     </speaker>
    </sp>
@@ -453,72 +499,72 @@
      המעון כלעיל. אך הדלת אל החדר השני פתוחה. מבעד לדלת נראים פועלים חייטים ומכונות תפירה. מריבות וקטטות וגם שירים נשמעים מן החדר השני. בחדר הראשון כלי בית יפים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (יושב על ספר חשבונות. פתאום הוא מתרגז למשמע שירתם של הפועלים וקורא אל החדר השני): דומו, כלבים! איני משלם בעד זמירות! (קם ומתהלך אנה ואנה בכעס).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (יושבת על המטה בשׂער פרוע כאבלה, בתחנונים): עוד הפעם התרגזת… הלא אסור לך, חביבי, להתרגז…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (עומד. מביט עליה בעין זעם ואומר בקול גס): ואַת דומי… היום הוא היום האחרון… הרב כבר הכין את הגט… היום נלך אל הרב…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (ביאוש): אני לא אלך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר:
     </speaker>
     <p>
      הלוך תלכי… ואם לא תלכי, אעזבך עגונה בלי פת לחם…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      מאיר!!!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר:
     </speaker>
     <p>
      אל תשׁחיתי את דבריך לחינם… איני רוצה ללכת ערירי! בשום אופן איני רוצה! למי אני עמל? בשביל מי אני גוזז את הצאן – שם? בשביל מי אני מתעשר… השומעת אַתּ? איני רוצה ללכת ערירי – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (נשמטת מעל המטה על ברכיה. פורשׂת כפיה כלתפילה): אבל, מאיר, עוד יש תקוָה… הלא יתּכן… אולי יראה ה' בעניי, אולי ירחם… הלא דברים כאלו קרו… אולי אִבּנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="(hmskh nufl bmhirus)">
+   <sp who="(hmskh nufl bmhirus)">
+    <speaker>
      (המסך נופל במהירות)
     </speaker>
    </sp>

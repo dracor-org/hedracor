@@ -46,6 +46,137 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="khdim">
+      <persName>
+       אחדים
+      </persName>
+     </person>
+     <person xml:id="hmskh yurd lt">
+      <persName>
+       המסך יורד לאט
+      </persName>
+     </person>
+     <person xml:id="zblun">
+      <persName>
+       זבלון
+      </persName>
+     </person>
+     <person xml:id="gd">
+      <persName>
+       גד
+      </persName>
+     </person>
+     <person xml:id="yekb">
+      <persName>
+       יעקבּ
+      </persName>
+     </person>
+     <person xml:id="hnfshׁus">
+      <persName>
+       הנפשׁות
+      </persName>
+     </person>
+     <person xml:id="nfsli">
+      <persName>
+       נפתלי
+      </persName>
+     </person>
+     <person xml:id="bni-ishrl">
+      <persName>
+       בני-ישראל
+      </persName>
+     </person>
+     <person xml:id="bni-yekb">
+      <persName>
+       בני-יעקב
+      </persName>
+     </person>
+     <person xml:id="rubn">
+      <persName>
+       ראובן
+      </persName>
+     </person>
+     <person xml:id="shׁmeuֹn">
+      <persName>
+       שׁמעוֹן
+      </persName>
+     </person>
+     <person xml:id="bni-isrl">
+      <persName>
+       בני-ישׂראל
+      </persName>
+     </person>
+     <person xml:id="ֱmֹr">
+      <persName>
+       אֱמֹר
+      </persName>
+     </person>
+     <person xml:id="loy">
+      <persName>
+       לוי
+      </persName>
+     </person>
+     <person xml:id="uְeַtָh">
+      <persName>
+       וְעַתָּה
+      </persName>
+     </person>
+     <person xml:id="shְׁal">
+      <persName>
+       שְׁאַל
+      </persName>
+     </person>
+     <person xml:id="bni ishrl">
+      <persName>
+       בני ישראל
+      </persName>
+     </person>
+     <person xml:id="ishshkhr">
+      <persName>
+       יששכר
+      </persName>
+     </person>
+     <person xml:id="bni isrl">
+      <persName>
+       בני ישׂראל
+      </persName>
+     </person>
+     <person xml:id="yekb">
+      <persName>
+       יעקב
+      </persName>
+     </person>
+     <person xml:id="isskhr">
+      <persName>
+       ישׂשׂכר
+      </persName>
+     </person>
+     <person xml:id="ishskhr">
+      <persName>
+       יששׂכר
+      </persName>
+     </person>
+     <person xml:id="shׁmeun">
+      <persName>
+       שׁמעון
+      </persName>
+     </person>
+     <person xml:id="ihudh">
+      <persName>
+       יהודה
+      </persName>
+     </person>
+     <person xml:id="shmeun">
+      <persName>
+       שמעון
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,8 +194,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hnfshׁus">
+   <sp who="hnfshׁus">
+    <speaker>
      הנפשׁות:
     </speaker>
    </sp>
@@ -129,8 +260,8 @@
 האהל שכלפי הרואים בהציצו לרגעים החוצה).
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
@@ -143,8 +274,8 @@
      הוּא בָא, הוּא בָא, יִשְׂרָאֵל בָּא, אָבִינוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni ishrl">
+   <sp who="bni ishrl">
+    <speaker>
      בני ישראל
     </speaker>
     <p>
@@ -156,16 +287,16 @@
      הוּא בָא! הוּא בָא;
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
      וּמַה הִיא כָל הַחֲרָדָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
@@ -177,24 +308,24 @@
      קַח אַתָּה! – אַתָּה קַח! – קְחוּ אַתֶּם! קְחוּ אֶת זֶה מִיָדִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      הֵרָגַע!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
      : קַח – אֲשֶׁר יִקַח אֶת כֻּתָּנְתּוֹ – אֲנִי לֹא אוּכַל!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -206,8 +337,8 @@
      מֶה הָיָה לְךָ, יִשָׂשְׂכָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
@@ -249,48 +380,48 @@
      (הוא מושיטה לאחיו).
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-isrl">
+   <sp who="bni-isrl">
+    <speaker>
      בני-ישׂראל:
     </speaker>
     <p>
      (משתמטים ממנה, כל אחד נרתע מפניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
      לֹא אָנִי… לֹא, לֹא אָנִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
      לֹא אָנֹכִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="zblun">
+   <sp who="zblun">
+    <speaker>
      זבלון:
     </speaker>
     <p>
      גַם לֹא אָנִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="khdim">
+   <sp who="khdim">
+    <speaker>
      אחדים:
     </speaker>
     <p>
      לֹא, לֹא! לֹא, לֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -302,8 +433,8 @@
      קַלָה הִיא הַכְּתֹנֶת כַּאֲשֶׁר הָיָתָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
@@ -316,16 +447,16 @@
 הַדָם! הַדָם!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      דַם גְדִי!…
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
@@ -347,16 +478,16 @@
      הַאַגִיד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      הַס מִלְהַזְכִּיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
@@ -368,8 +499,8 @@
      אַגִיד – וִיהִי מָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -381,8 +512,8 @@
      וְהָיִיתָ בְּעֵינֵי יַעֲקֹב אָבִינוּ כִּמְתַעְתֵּעַ…
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
@@ -394,8 +525,8 @@
      וְאָבִינוּ – הִנוֹ בָא! הוּא בָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni ishrl">
+   <sp who="bni ishrl">
+    <speaker>
      בני ישראל
     </speaker>
     <p>
@@ -407,8 +538,8 @@
      הוּא בָא! הוּא בָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -425,16 +556,16 @@
      לְעֵת-עַתָּה צֵא וְאַחַר תָּבֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
      : מָתַי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -461,16 +592,16 @@
      לֹא נַבְהִילֵהוּ פִּתְאֹם – צֵא
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
      (יוצא לצד שמאל).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -487,8 +618,8 @@
      שָׁלוֹם, שָׁלוֹם שׁוּבְכֶם בָּנָי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni ishrl">
+   <sp who="bni ishrl">
+    <speaker>
      בני ישראל
     </speaker>
     <p>
@@ -500,8 +631,8 @@
      שָׁלוֹם
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -533,16 +664,16 @@
      הִתְמַהְמַהְתֶּם, בָּנָי!
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
      מָצָאנוּ מִרְעֶה טוֹב וְלָכֵן הִתִמַהְמָהְנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -559,8 +690,8 @@
      בְּפַעַם שְׁנִיָה אַל-נָא תִמְצְאוּ מִרְעֶה טוֹב –
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -572,8 +703,8 @@
      אָבִינוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -606,16 +737,16 @@
      הִתְפַּזֵרוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-ishrl">
+   <sp who="bni-ishrl">
+    <speaker>
      בני-ישראל
     </speaker>
     <p>
      : (נעים וזעים ואולם הם נשארים צפופים זה אצל זה).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -652,16 +783,16 @@
      הִתְפַּזֵרוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-ishrl">
+   <sp who="bni-ishrl">
+    <speaker>
      בני-ישראל
     </speaker>
     <p>
      : (זעים רגע ואינם משים ממקומותיהם).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -753,16 +884,16 @@
      הִתְפַּזֵרוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-isrl">
+   <sp who="bni-isrl">
+    <speaker>
      בני-ישׂראל
     </speaker>
     <p>
      : (נפרדים אלה מאלה לשני עברים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -774,8 +905,8 @@
      כָּכָה, כָּכָה – אֲנִי לָכֶם דָאַגְתִּי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון:
     </speaker>
     <p>
@@ -792,8 +923,8 @@
      הָאֶחָד נִשְׁאַר לְךָ בַּבָּיִת!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -845,8 +976,8 @@
      אֵי רְאוּבֵן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
@@ -856,8 +987,8 @@
      תִּשְׁאָל?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -869,16 +1000,16 @@
      אֵי רְאוּבֵן בְּכוֹרִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון
     </speaker>
     <p>
      בַּשָׂדֶה נִשְׁאָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -905,8 +1036,8 @@
      וְאֵי יִשָׂשְׂכָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון
     </speaker>
     <p>
@@ -918,8 +1049,8 @@
      אִתָּנוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -956,8 +1087,8 @@
      “רְאוּבֵן וְגַם יִשָׂשְׂכָר” –  הֵמָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
@@ -969,24 +1100,24 @@
      גַם הָמה “שְׁנַיִם”?
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      וְטוֹבִים הֵם הַשְׁנַיִם מִן הָאֶחָד!…
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeuֹn">
+   <sp who="shׁmeuֹn">
+    <speaker>
      שׁמעוֹן
     </speaker>
     <p>
      : לֹא תָמִיד כֹּה תְדַבֵּר…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1018,8 +1149,8 @@
      וְהָרְגוּ אֶת יוֹשְׁבֶיהָ לְפִי חָרֶב.
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeuֹn">
+   <sp who="shׁmeuֹn">
+    <speaker>
      שׁמעוֹן
     </speaker>
     <p>
@@ -1056,8 +1187,8 @@
      רַק עַל הָאַחַת, עַל  אֲחוֹתֵנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1069,16 +1200,16 @@
      סוּר מִמֶנוּ, לֵוִי! (מנתק את זה מאת זה).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      הוֹי אָבִי, אַל תַּפְרִיד בֵּין הַדְבֵקִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1135,32 +1266,32 @@
      וּלְבֶן-פָּנִים אַרְצָה לְרַגְלֵיכֶם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
      (בא סר וזעף בפתח שלפני הרואים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : ראוּבֵן! קְרַב הֵנָה רְאוּבֵן!
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
      : (קרב אל אביו).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1172,8 +1303,8 @@
      וְאֵי אָחִיךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
@@ -1190,16 +1321,16 @@
      אֵינֶנוּ, הָהּ אֵינֶנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-isrl">
+   <sp who="bni-isrl">
+    <speaker>
      בני-ישׂראל
     </speaker>
     <p>
      : (רוחשים נפחדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1211,8 +1342,8 @@
      יִשָׂשְׂכָר אֵי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
@@ -1224,16 +1355,16 @@
      יִשָׂשְׂכָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      יִשָׂשְׂכָר אֵי, אָחִיךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
@@ -1250,8 +1381,8 @@
      לֹא יָדַעְתִּי, אָבִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1273,16 +1404,16 @@
      וּלְפֶתַע פִּתְאֹם לָמָה שַׁבְתָּ לִמְנוּחָתךָ?..
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
      יִשָׂשְׂכָר יָבוֹא, יָבוֹא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1304,32 +1435,32 @@
      וּלְפֶתַע פִּתְאֹם לָמָה שַׁבְתָּ לִמְנוּחָתְךָ?..
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
      יִשָׂשְׂכָר יָבוֹא, יָבוֹא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : לְבַדוֹ יָבוֹא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר:
     </speaker>
     <p>
      (נראה ברגע זה על סף האהל. בידו הכתנת המלוכלכת בדם)
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
@@ -1341,8 +1472,8 @@
      עַל יִשָׂשְׂכָר תִּשְׁאַל – הִנוֹ!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1369,16 +1500,16 @@
      עוֹד אֶחָד עוֹמֵד שָׁם מֵאֲחוֹרֶיךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishskhr">
+   <sp who="ishskhr">
+    <speaker>
      יששׂכר:
     </speaker>
     <p>
      אֵין אִתִּי אִישׁ, זֶה צִלִי אַחֲרַי בָּא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1395,8 +1526,8 @@
      אֲחִיכֶם אֵי? אֵי יוֹסֵף?
     </p>
    </sp>
-   <sp>
-    <speaker id="bni isrl">
+   <sp who="bni isrl">
+    <speaker>
      בני ישׂראל
     </speaker>
     <p>
@@ -1408,8 +1539,8 @@
      יוֹסֵף… יוֹסֵף…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1551,8 +1682,8 @@
      בּוֹא אַתָּה יְהוּדָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -1564,32 +1695,32 @@
      וְאַחֲרֵי כֵן תְּבַקֵשׁ אֶת הַגְנֵבָה בָּעֵינָיִם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      אֶת עֵינֶיךָ הָבָה לִי יְהוּדָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : לֹא אוּכַל תֵּת אֶת עֵינָי
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      אֶת עֵינֶיךָ הָבָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -1606,8 +1737,8 @@
      וְעַל עֵינַי לֹא אֲצַוֵה – שְׁאַל אֶת פִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1759,32 +1890,32 @@
      הַמְצָאֲכֶם בִּשְׁכֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : לֹא בִשְׁכֶם רָעִינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      לא בִשְׁכֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      בְּדוֹתָן, שָׁם מָצָאנוּ מִרְעֶה טוֹב.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1836,16 +1967,16 @@
      לָמָה זֶה לֹא תִרְעוּ עוֹד בִּשְׁכֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
      בִּשְׁכֶם לֹא נוּכַל נִרְעֶה…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1887,8 +2018,8 @@
      הֲתִרְעוּ עוֹד בְּדוֹתָן?
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-ishrl">
+   <sp who="bni-ishrl">
+    <speaker>
      בני-ישראל
     </speaker>
     <p>
@@ -1905,8 +2036,8 @@
      גַם לֹא בְדוֹתָן נִרְעֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1918,8 +2049,8 @@
      אֵי יוֹסֵף בְּנִי? הַגִידוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
@@ -1931,8 +2062,8 @@
      זֹאת מָצָאנוּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -1944,16 +2075,16 @@
      מְצָאתֶם –
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
      : זֹאת מָצָאנוּ – הַכֶּר נָא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1965,16 +2096,16 @@
      מָה אַכִּיר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ishshkhr">
+   <sp who="ishshkhr">
+    <speaker>
      יששכר
     </speaker>
     <p>
      : הַכְּתֹנֶת בִּנְךָ הִיא אִם לֹא?
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -1991,32 +2122,32 @@
      זֶה בְשָׂרְךָ וְזֶה בִגְדְךָ –
     </p>
    </sp>
-   <sp>
-    <speaker id="isskhr">
+   <sp who="isskhr">
+    <speaker>
      ישׂשׂכר
     </speaker>
     <p>
      : מַה תְּבַקֵשׁ, אָבִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      אֶת דָמוֹ!
     </p>
    </sp>
-   <sp>
-    <speaker id="isskhr">
+   <sp who="isskhr">
+    <speaker>
      ישׂשׂכר
     </speaker>
     <p>
      : (נרתע לאחוריו).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2043,8 +2174,8 @@
      וִידֵי בְנֵי יַעֲקֹב צְחוֹרוֹת מִנִי שָׁלֶג, –
     </p>
    </sp>
-   <sp>
-    <speaker id="uְeַtָh">
+   <sp who="uְeַtָh">
+    <speaker>
      וְעַתָּה
     </speaker>
     – יִשָׂשְׂכָר! אֵי יִשָׂשְׂכָר?
@@ -2054,16 +2185,16 @@
      כֻּתָּנְתּוֹ זֹה – אֵיפֹה, – אֵי מָצאתָהּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="isskhr">
+   <sp who="isskhr">
+    <speaker>
      ישׂשׂכר
     </speaker>
     <p>
      : בַּשָׂדֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2075,16 +2206,16 @@
      עֶצֶם אַחַת חַמָה, רַכָּה, שְׁבוּרָה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="isskhr">
+   <sp who="isskhr">
+    <speaker>
      ישׂשׂכר:
     </speaker>
     <p>
      רַק אֶת הַכְּתֹנֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -2111,22 +2242,22 @@
      חַיָה רָעָה, חַיָה רָעָה…
     </p>
    </sp>
-   <sp>
-    <speaker id="ֱmֹr">
+   <sp who="ֱmֹr">
+    <speaker>
      אֱמֹר
     </speaker>
     מֵאַיִן תָּבוֹא? מֵאֵי-מִזֶה, יִשָׂשְׂכָר?
    </sp>
-   <sp>
-    <speaker id="isskhr">
+   <sp who="isskhr">
+    <speaker>
      ישׂשׂכר
     </speaker>
     <p>
      : מִדוֹתָן אָבוֹא.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -2143,70 +2274,70 @@
      (הוא ממהר ויוצא דרך הפתח שלפני הרואים).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : לֵךְ אַחֲרָיו, רְאוּבֵן, וַהֲשִׁיבֵהוּ הֵנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
      (סופק כף ויוצא אחרי אביו).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : הוֹי, מֶה עָשִׂינוּ, אַחַי!
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי
     </speaker>
     <p>
      : אַל תִּשְׁאַל: “מֶה עָשִׁינוּ” –
     </p>
    </sp>
-   <sp>
-    <speaker id="shְׁal">
+   <sp who="shְׁal">
+    <speaker>
      שְׁאַל
     </speaker>
     מה נַעֲשֶׂה עָתָּה?
    </sp>
-   <sp>
-    <speaker id="nfsli">
+   <sp who="nfsli">
+    <speaker>
      נפתלי
     </speaker>
     <p>
      : אֲשַׁוֶה רַגְלַי כָּאַיָלוֹת וְאֵרֵד חִישׁ מִצְרָיְמָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : לָמָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nfsli">
+   <sp who="nfsli">
+    <speaker>
      נפתלי
     </speaker>
     <p>
      : אֲבַקֵשׁ שָׁם אֶת יוֹסֵף.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -2223,8 +2354,8 @@
      הֶרֶף! – מַה נַעֲשֶׂה, הָהּ, מַה נַעֲשֶׂה?
     </p>
    </sp>
-   <sp>
-    <speaker id="gd">
+   <sp who="gd">
+    <speaker>
      גד:
     </speaker>
     <p>
@@ -2236,8 +2367,8 @@
      אוּלַי –
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -2249,8 +2380,8 @@
      אוֹבַד עֵצוֹת הִנְנִי הַפָּעַם…
     </p>
    </sp>
-   <sp>
-    <speaker id="gd">
+   <sp who="gd">
+    <speaker>
      גד:
     </speaker>
     <p>
@@ -2262,16 +2393,16 @@
      אוּלַי נַגִיד לוֹ, לְאָבִינוּ? –
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : מַה נַגִיד, מָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="gd">
+   <sp who="gd">
+    <speaker>
      גד:
     </speaker>
     <p>
@@ -2283,8 +2414,8 @@
      “הוּא חי!”
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -2311,8 +2442,8 @@
      אֵיךְ נָבִיא עַל רָאשֵׁינוּ קִלְלַת אָבִינוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
@@ -2329,16 +2460,16 @@
      אֲנִי לְבַדִי אַט אֶת רֹאשִׁי תַּחְתָּהּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      שִׁמְעוֹן!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
@@ -2350,8 +2481,8 @@
      אֶשָׂא נָא הֶעָוֹן!…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
@@ -2398,8 +2529,8 @@
      אֵין גָדוֹל וְאֵין רַע הֵימֶנוּ – נֶחֱשֶׁה…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2416,32 +2547,32 @@
      יְהִי כַלֵב הַבֶּגֶד, קְרַב הֵנָה, קַרע!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : לֹא אֶעֱצָר כֹּחַ, אָבִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקבּ:
     </speaker>
     <p>
      בּוֹא אַתָּה, שִׁמְעוֹן!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון
     </speaker>
     <p>
      : גַם יָדַי רָפוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2458,16 +2589,16 @@
      (קורע בעצמו את בגדו הלבן).
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-yekb">
+   <sp who="bni-yekb">
+    <speaker>
      בני-יעקב
     </speaker>
     <p>
      : (פורצים בבכי).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2484,32 +2615,32 @@
      אָנֹכִי אֶבְכֶּה רִאשׁוֹן!
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
      הוֹי אָבִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
      מַה-לָךְ, לֵוִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="loy">
+   <sp who="loy">
+    <speaker>
      לוי:
     </speaker>
     <p>
      עַל שֵׂיבָתְךָ חוּסָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -2711,32 +2842,32 @@
      דָמְךָ עַל כֻּתָּנְתְּךָ מִלִבִּי בָּא
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      (צועק) הוֹי אָבִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : לָמָה תִצְעַק?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : גָדוֹל כְּאֵבִי, אָבִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2748,16 +2879,16 @@
      לִי אָבַד בֵּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      וְלִי אָח…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2774,8 +2905,8 @@
      וַאֲנִי – בֵן יוֹתֵר קָרוֹב – (סופק כף)
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -2787,24 +2918,24 @@
      וְכֻלָנוּ מֵתִים – וְהִתְנֶחָמְתָּ…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : יהוּדָה, קוּם שְׁקָה לִי, שְׁקָה בְּפָנַי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      (נושקו).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב:
     </speaker>
     <p>
@@ -2816,32 +2947,32 @@
      דִמְעָה נִתְלְתָה בִזְקָנִי – אַיֶהָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
      : אָנֹכִי מְצִיתִיהָ:..
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : מָרָה הָיְתָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה:
     </speaker>
     <p>
      מָרָה…
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2863,24 +2994,24 @@
      אַל תְּנַחֲמוּנִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
      (שולף חרבו).
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
      : מִי שָׁלַף חֶרֶב?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmeun">
+   <sp who="shׁmeun">
+    <speaker>
      שׁמעון:
     </speaker>
     <p>
@@ -2892,8 +3023,8 @@
      בָּרְכֵנִי לִפְנֵי מוֹתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb">
+   <sp who="yekb">
+    <speaker>
      יעקב
     </speaker>
     <p>
@@ -2960,16 +3091,16 @@
      וְהָס… (הוא יושב לארץ).
     </p>
    </sp>
-   <sp>
-    <speaker id="bni-ishrl">
+   <sp who="bni-ishrl">
+    <speaker>
      בני-ישראל
     </speaker>
     <p>
      : (יושבים לאט-לאט לארץ כמבכים למת).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh yurd lt">
+   <sp who="hmskh yurd lt">
+    <speaker>
      המסך יורד לאט.
     </speaker>
    </sp>

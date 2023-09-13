@@ -46,6 +46,52 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="omָr">
+      <persName>
+       אָמָר
+      </persName>
+     </person>
+     <person xml:id="mַeֲsֵh hַnַּeֲrָh hַzֹּs">
+      <persName>
+       מַעֲשֵׂה הַנַּעֲרָה הַזֹּאת
+      </persName>
+     </person>
+     <person xml:id="pַeַm akhְ ֶshְׁmַe pָmִinָh">
+      <persName>
+       פַּעַם אַךְ אֶשְׁמַע פָּמִינָה
+      </persName>
+     </person>
+     <person xml:id="uֹmְrִin">
+      <persName>
+       אוֹמְרִין
+      </persName>
+     </person>
+     <person xml:id="bְּlַkhַshׁ">
+      <persName>
+       בְּלַחַשׁ
+      </persName>
+     </person>
+     <person xml:id="omְrָh">
+      <persName>
+       אָמְרָה
+      </persName>
+     </person>
+     <person xml:id="shָׁm bְִuַlְtָm, shָׁmַeְtִi, khִּi gַm iְkhַnּunִi sָּmִinuֹ">
+      <persName>
+       שָׁם בְּאִוַּלְתָּם, שָׁמַעְתִּי, כִּי גַם יְכַנּוּנִי תָּמִינוֹ
+      </persName>
+     </person>
+     <person xml:id="ֵs shֶׁhֶeֱlַmְtָ agִּidָh: lִi nִrְֶh, khִּi eַtָh">
+      <persName>
+       אֵת שֶׁהֶעֱלַמְתָּ אַגִּידָה: לִי נִרְאֶה, כִּי עַתָּה
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -487,8 +533,8 @@
      וְשָׁאַב גַּם חָכְמָה וְדַעַת מִמֵּיטַב סְפָרִים חִיצוֹנִים.)
     </p>
    </sp>
-   <sp>
-    <speaker id="omָr">
+   <sp who="omָr">
+    <speaker>
      אָמָר
     </speaker>
     "אֵינִי מְגַנֶּה הַמִּדּוֹת, הַתְּפֵלוֹת לִכְאוֹרָה,
@@ -2253,8 +2299,8 @@
      אוּלָם אָנֹכִי לֹא הַכֹּל הֵבַנְתִּי מִדִּבְרֵי הַשִּׁירָה;
     </p>
    </sp>
-   <sp>
-    <speaker id="pַeַm akhְ ֶshְׁmַe pָmִinָh">
+   <sp who="pַeַm akhְ ֶshְׁmַe pָmִinָh">
+    <speaker>
      פַּעַם אַךְ אֶשְׁמַע פָּמִינָה
     </speaker>
     <p>
@@ -2324,8 +2370,8 @@
      דָּרֹךְ לֹא אֶדְרֹךְ עַל סַף זֶה הַבָּיִת! – וְכֵן אֲקַיֵּמָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shָׁm bְִuַlְtָm, shָׁmַeְtִi, khִּi gַm iְkhַnּunִi sָּmִinuֹ">
+   <sp who="shָׁm bְִuַlְtָm, shָׁmַeְtִi, khִּi gַm iְkhַnּunִi sָּmִinuֹ">
+    <speaker>
      שָׁם בְּאִוַּלְתָּם, שָׁמַעְתִּי, כִּי גַם יְכַנּוּנִי תָּמִינוֹ
     </speaker>
     <p>
@@ -4092,8 +4138,8 @@
      לִבּוֹ אַךְ יִפְחַד שֶׁמָּא לֹא כִוֵּן, וּבְגַפּוֹ כֵּן יַעֲמֹד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ֵs shֶׁhֶeֱlַmְtָ agִּidָh: lִi nִrְֶh, khִּi eַtָh">
+   <sp who="ֵs shֶׁhֶeֱlַmְtָ agִּidָh: lִi nִrְֶh, khִּi eַtָh">
+    <speaker>
      אֵת שֶׁהֶעֱלַמְתָּ אַגִּידָה: לִי נִרְאֶה, כִּי עַתָּה
     </speaker>
     <p>
@@ -6000,8 +6046,8 @@
      בָּאִים לְהַזְכִּיר לוֹ כַּסְפּוֹ וּזְהָבוֹ שֶׁהֻתְּכוּ בַדְּלֵקָה,
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹmְrִin">
+   <sp who="uֹmְrִin">
+    <speaker>
      אוֹמְרִין
     </speaker>
     קְבֹץ אֶת מַתַּכְתָּם מֵאֵפֶר, אִם מְעַט הוּא הַנּוֹתָר,
@@ -6451,8 +6497,8 @@
      אַחַת הַנְּעָרוֹת וַתַּצֵּל אֶת נַפְשָׁהּ וְאֵת רֵעוֹתֶיהָ –
     </p>
    </sp>
-   <sp>
-    <speaker id="mַeֲsֵh hַnַּeֲrָh hַzֹּs">
+   <sp who="mַeֲsֵh hַnַּeֲrָh hַzֹּs">
+    <speaker>
      מַעֲשֵׂה הַנַּעֲרָה הַזֹּאת
     </speaker>
     <p>
@@ -7674,8 +7720,8 @@
      בִּקֵּשׁ הוּא לִטּוֹל כַּד אֶחָד מִיָּדָהּ לְהָקֵל מַשָּׂאָהּ,
     </p>
    </sp>
-   <sp>
-    <speaker id="omְrָh">
+   <sp who="omְrָh">
+    <speaker>
      אָמְרָה
     </speaker>
     "הֶרֶף, כִּי נוֹחַ לַנֹּשֵׂא מַשָּׂא הַשָּׁקוּל.
@@ -8990,8 +9036,8 @@
      מִהֵר וְהִטָּה לַצַּד אֶת הַכֹּהֵן וְאָמַר עַל אָזְנוֹ
     </p>
    </sp>
-   <sp>
-    <speaker id="bְּlַkhַshׁ">
+   <sp who="bְּlַkhַshׁ">
+    <speaker>
      בְּלַחַשׁ
     </speaker>
     "אֲדוֹנִי נִכְבַּדִּי, עָזְרֵנִי הַפַּעַם בַּמְּבוּכָה,

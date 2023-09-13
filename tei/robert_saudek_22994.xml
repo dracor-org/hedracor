@@ -46,6 +46,107 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="kֶrְshׁtֶn">
+      <persName>
+       קֶרְשׁטֶן
+      </persName>
+     </person>
+     <person xml:id="frufsur uִinְkְmַn">
+      <persName>
+       פרופסור וִינְקְמַן
+      </persName>
+     </person>
+     <person xml:id="krshtn">
+      <persName>
+       קרשטן
+      </persName>
+     </person>
+     <person xml:id="oysmn">
+      <persName>
+       ויסמן
+      </persName>
+     </person>
+     <person xml:id="hfrufisur oynkmn">
+      <persName>
+       הפרופיסור וינקמן
+      </persName>
+     </person>
+     <person xml:id="ruֹlf">
+      <persName>
+       רוֹלף
+      </persName>
+     </person>
+     <person xml:id="tsֵlֶh">
+      <persName>
+       צֵלֶה
+      </persName>
+     </person>
+     <person xml:id="bִirlֵin">
+      <persName>
+       בִירלֵין
+      </persName>
+     </person>
+     <person xml:id="urkr">
+      <persName>
+       ורקר
+      </persName>
+     </person>
+     <person xml:id="oysbrg">
+      <persName>
+       ויסברג
+      </persName>
+     </person>
+     <person xml:id="gֹּldְshְׁtֵin">
+      <persName>
+       גֹּלדְשְׁטֵין
+      </persName>
+     </person>
+     <person xml:id="hfrufsur oynkmn">
+      <persName>
+       הפרופסור וינקמן
+      </persName>
+     </person>
+     <person xml:id="hfruf. oynkmn">
+      <persName>
+       הפרופ. וינקמן
+      </persName>
+     </person>
+     <person xml:id="shׁmid">
+      <persName>
+       שׁמיד
+      </persName>
+     </person>
+     <person xml:id="uַisְbֶrְgְּ">
+      <persName>
+       וַיסְבֶּרְגְּ
+      </persName>
+     </person>
+     <person xml:id="uֶrְkֶr">
+      <persName>
+       וֶרְקֶר
+      </persName>
+     </person>
+     <person xml:id="ruֹlָf">
+      <persName>
+       רוֹלָף
+      </persName>
+     </person>
+     <person xml:id="krshׁtn">
+      <persName>
+       קרשׁטן
+      </persName>
+     </person>
+     <person xml:id="gldshtin">
+      <persName>
+       גלדשטין
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,8 +164,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="frufsur uִinְkְmַn">
+   <sp who="frufsur uִinְkְmַn">
+    <speaker>
      פרופסור וִינְקְמַן
     </speaker>
     <p>
@@ -76,43 +177,43 @@
      תלמידים:
     </p>
    </sp>
-   <sp>
-    <speaker id="uַisְbֶrְgְּ">
+   <sp who="uַisְbֶrְgְּ">
+    <speaker>
      וַיסְבֶּרְגְּ
     </speaker>
    </sp>
-   <sp>
-    <speaker id="gֹּldְshְׁtֵin">
+   <sp who="gֹּldְshְׁtֵin">
+    <speaker>
      גֹּלדְשְׁטֵין
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shׁmid">
+   <sp who="shׁmid">
+    <speaker>
      שׁמיד
     </speaker>
    </sp>
-   <sp>
-    <speaker id="ruֹlָf">
+   <sp who="ruֹlָf">
+    <speaker>
      רוֹלָף
     </speaker>
    </sp>
-   <sp>
-    <speaker id="kֶrְshׁtֶn">
+   <sp who="kֶrְshׁtֶn">
+    <speaker>
      קֶרְשׁטֶן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bִirlֵin">
+   <sp who="bִirlֵin">
+    <speaker>
      בִירלֵין
     </speaker>
    </sp>
-   <sp>
-    <speaker id="uֶrְkֶr">
+   <sp who="uֶrְkֶr">
+    <speaker>
      וֶרְקֶר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="tsֵlֶh">
+   <sp who="tsֵlֶh">
+    <speaker>
      צֵלֶה
     </speaker>
    </sp>
@@ -123,24 +224,24 @@
 שלשה תלמידים ומרימים את ידיהם. המורה רושם במהירות את שמותיהם).
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
      (בגשתו אל ורקר): ובכן, כמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="urkr">
+   <sp who="urkr">
+    <speaker>
      ורקר
     </speaker>
     <p>
      . תשעה, אדוני הפרופיסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
@@ -148,16 +249,16 @@
 רוֹלף?
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹlf">
+   <sp who="ruֹlf">
+    <speaker>
      רוֹלף
     </speaker>
     <p>
      (במהירות): אחד עשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufsur oynkmn">
+   <sp who="hfrufsur oynkmn">
+    <speaker>
      הפרופסור וינקמן
     </speaker>
     <p>
@@ -165,16 +266,16 @@
 יודע.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      (אחרי התנודדו רגע): תשעה וחצי פרוצנט.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
@@ -183,16 +284,16 @@
 אל הלוח).
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
      : הזוכר אתה את השאלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -202,16 +303,16 @@
 הגורלות?
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
      : ובכן חשב. (דממה לרגע).
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
@@ -219,8 +320,8 @@
 גורל?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -230,8 +331,8 @@
 מחיר עשרה גורלות, או עשרה פרוצנט שלמים בשכרו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
@@ -244,16 +345,16 @@
      (ויסברג מחריש).
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
      : השומע אתה מה שאני שואל? ענני!
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -262,56 +363,56 @@
 מאד לחשב פרוצנטים, גם כאלה שאינם כתובים בספר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
      : מה זה “אנחנו”? אל מי ירמזו?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      (בחשאי): גלדשטיין ואני.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
      : מדוע רק אתם שניכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      . (בהתאמצות) הלא תבין, אדוני הפרופסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
      : הגד ברור.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      (בחשאי): אנחנו… אנחנו… היהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
@@ -321,16 +422,16 @@
 (בחמה) מי הגיד לך ראשונה על דבר הפרוצנטים האלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      : כלם מדברים אלינו ככה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
@@ -338,16 +439,16 @@
 התבין?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
      (בחשאי): אינני יודע, אדוני הפרופסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
@@ -355,8 +456,8 @@
 לא אוכל לסלוח למחרפים פה ולמפריעים את הסדר. אצלי הסדר מוכרח, ענה!
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -364,8 +465,8 @@
 אקראם בשמותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfrufisur oynkmn">
+   <sp who="hfrufisur oynkmn">
+    <speaker>
      הפרופיסור וינקמן
     </speaker>
     <p>
@@ -373,8 +474,8 @@
 עלי לדעת את כל הנעשה פה. הגד, אל תירא!
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -385,8 +486,8 @@
 לשום חבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hfruf. oynkmn">
+   <sp who="hfruf. oynkmn">
+    <speaker>
      הפרופ. וינקמן
     </speaker>
     <p>
@@ -403,8 +504,8 @@
 באימה מאחורי ויסברג. קרשטן מניף את אגרופיו ומניעם לעומת ויסברג.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshׁtn">
+   <sp who="krshׁtn">
+    <speaker>
      קרשׁטן
     </speaker>
     <p>
@@ -414,8 +515,8 @@
 הלבב!…
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -425,8 +526,8 @@
 גם לאחד מכם, לא רציתי ולא הרעותי. לא קראתי בשמות.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -434,8 +535,8 @@
 אתה, אשה זקנה, רך הלבב!
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -445,8 +546,8 @@
 הלבב.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -454,8 +555,8 @@
 בירושה באה לך הערמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹlf">
+   <sp who="ruֹlf">
+    <speaker>
      רוֹלף
     </speaker>
     <p>
@@ -464,8 +565,8 @@
 טובים, וכל חבריו ישאו חרפה. הם כלם כמוהו… כל היהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -473,8 +574,8 @@
 היהודים!
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -483,8 +584,8 @@
 נבלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="urkr">
+   <sp who="urkr">
+    <speaker>
      ורקר
     </speaker>
     <p>
@@ -495,8 +596,8 @@
 מכוערים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -505,8 +606,8 @@
 אתכם, רכי הלבב, יודע אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="urkr">
+   <sp who="urkr">
+    <speaker>
      ורקר
     </speaker>
     <p>
@@ -514,8 +615,8 @@
 הצדק את ויסברג. ואך אתה הנך רך הלבב.
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -524,8 +625,8 @@
 בכח).
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -533,8 +634,8 @@
 יושר וצדק לא תלמדהו עוד
     </p>
    </sp>
-   <sp>
-    <speaker id="urkr">
+   <sp who="urkr">
+    <speaker>
      ורקר
     </speaker>
     <p>
@@ -543,8 +644,8 @@
 רגע לפני ויסברג).
     </p>
    </sp>
-   <sp>
-    <speaker id="krshtn">
+   <sp who="krshtn">
+    <speaker>
      קרשטן
     </speaker>
     <p>
@@ -558,8 +659,8 @@
 במחשבותיו הנוגות, גלדשטין אשר החריש עד כה נגש אליו).
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -568,8 +669,8 @@
 לך מאומה רע, תוכל לספר לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -577,8 +678,8 @@
 להתאונן על חברי.
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -587,8 +688,8 @@
 לנפשך?
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -597,8 +698,8 @@
 אינני מתאונן, ולא מפני שאני ירא את הענש.
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -606,8 +707,8 @@
 התאמצת להגן עלינו היהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -615,8 +716,8 @@
 במלשינות.
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -627,8 +728,8 @@
 כלל.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -636,8 +737,8 @@
 מעלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -647,8 +748,8 @@
 כמעללו. והן איש לא ידע, כי הייתי בבית וינקמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysmn">
+   <sp who="oysmn">
+    <speaker>
      ויסמן
     </speaker>
     <p>
@@ -658,8 +759,8 @@
 מפיך דבר, אכך מכות נוראות: זכור ואל תשכח את אשר אמרתי לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>
@@ -668,8 +769,8 @@
 להכות את אחיך היהודי.
     </p>
    </sp>
-   <sp>
-    <speaker id="oysbrg">
+   <sp who="oysbrg">
+    <speaker>
      ויסברג
     </speaker>
     <p>
@@ -677,8 +778,8 @@
 רע אתה! לא טוב אתה מהם!
     </p>
    </sp>
-   <sp>
-    <speaker id="gldshtin">
+   <sp who="gldshtin">
+    <speaker>
      גלדשטין
     </speaker>
     <p>

@@ -46,6 +46,22 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="hַgֵּd">
+      <persName>
+       הַגֵּד
+      </persName>
+     </person>
+     <person xml:id="kָl-gַּl">
+      <persName>
+       כָּל-גַּל
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -517,8 +533,8 @@
      אֲנִי זֶה אֲדוֹן הָאוֹקְיָנוֹס;
     </p>
    </sp>
-   <sp>
-    <speaker id="hַgֵּd">
+   <sp who="hַgֵּd">
+    <speaker>
      הַגֵּד
     </speaker>
     מַה-תִּפְקוֹד עָלָי?
@@ -538,8 +554,8 @@
      וְנַחֲלֵי גָפְרִית שְׂרֵפָה מְצַוִּים
     </p>
    </sp>
-   <sp>
-    <speaker id="kָl-gַּl">
+   <sp who="kָl-gַּl">
+    <speaker>
      כָּל-גַּל
     </speaker>
     עֲלֵה וָרַשׁ;

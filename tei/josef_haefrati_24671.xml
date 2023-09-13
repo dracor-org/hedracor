@@ -46,6 +46,382 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="rkhi, brsi">
+      <persName>
+       ארכי, ברסי
+      </persName>
+     </person>
+     <person xml:id="khulm">
+      <persName>
+       כולם
+      </persName>
+     </person>
+     <person xml:id="khuln blkhsn">
+      <persName>
+       כולן בלכתן
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
+      </persName>
+     </person>
+     <person xml:id="yers khrs">
+      <persName>
+       יערת חרת
+      </persName>
+     </person>
+     <person xml:id="hner">
+      <persName>
+       הנער
+      </persName>
+     </person>
+     <person xml:id="sַkhְrֵeַ">
+      <persName>
+       תַחְרֵעַ
+      </persName>
+     </person>
+     <person xml:id="bַkְbַkָּr">
+      <persName>
+       בַּקְבַּקָּר
+      </persName>
+     </person>
+     <person xml:id="ishi">
+      <persName>
+       ישי
+      </persName>
+     </person>
+     <person xml:id="duֹd">
+      <persName>
+       דוֹד
+      </persName>
+     </person>
+     <person xml:id="shdh hmerkhh lmlkhmh">
+      <persName>
+       שדה המערכה למלחמה
+      </persName>
+     </person>
+     <person xml:id="shmul">
+      <persName>
+       שמואל
+      </persName>
+     </person>
+     <person xml:id="lִishׁurֻn">
+      <persName>
+       לִישׁוּרֻן
+      </persName>
+     </person>
+     <person xml:id="kishׁ">
+      <persName>
+       קישׁ
+      </persName>
+     </person>
+     <person xml:id="lhks nbiim">
+      <persName>
+       להקת נביאים
+      </persName>
+     </person>
+     <person xml:id="ein dur">
+      <persName>
+       עין דור
+      </persName>
+     </person>
+     <person xml:id="hmkhshfus">
+      <persName>
+       המכשפות
+      </persName>
+     </person>
+     <person xml:id="shs ishi">
+      <persName>
+       אשת ישי
+      </persName>
+     </person>
+     <person xml:id="hkhd">
+      <persName>
+       האחד
+      </persName>
+     </person>
+     <person xml:id="gd">
+      <persName>
+       גד
+      </persName>
+     </person>
+     <person xml:id="bnr kish">
+      <persName>
+       אבנר קיש
+      </persName>
+     </person>
+     <person xml:id="nr">
+      <persName>
+       נר
+      </persName>
+     </person>
+     <person xml:id='b"'>
+      <persName>
+       ב"א
+      </persName>
+     </person>
+     <person xml:id="mrb">
+      <persName>
+       מרב
+      </persName>
+     </person>
+     <person xml:id="bels ub">
+      <persName>
+       בעלת אוב
+      </persName>
+     </person>
+     <person xml:id="bnr">
+      <persName>
+       אבנר
+      </persName>
+     </person>
+     <person xml:id="tַkhְrֵeַ">
+      <persName>
+       תַּחְרֵעַ
+      </persName>
+     </person>
+     <person xml:id="nshyu">
+      <persName>
+       אנשיו
+      </persName>
+     </person>
+     <person xml:id="bַkְbַkָr">
+      <persName>
+       בַּקְבַּקָר
+      </persName>
+     </person>
+     <person xml:id="ezmus">
+      <persName>
+       עזמות
+      </persName>
+     </person>
+     <person xml:id="mikhl">
+      <persName>
+       מיכל
+      </persName>
+     </person>
+     <person xml:id="bisr">
+      <persName>
+       אביתר
+      </persName>
+     </person>
+     <person xml:id="kish blkhsu">
+      <persName>
+       קיש בלכתו
+      </persName>
+     </person>
+     <person xml:id="gd hkhuzh">
+      <persName>
+       גד החוזה
+      </persName>
+     </person>
+     <person xml:id="4">
+      <persName>
+       4
+      </persName>
+     </person>
+     <person xml:id="dud">
+      <persName>
+       דוד
+      </persName>
+     </person>
+     <person xml:id="1">
+      <persName>
+       1
+      </persName>
+     </person>
+     <person xml:id="nyus brmh">
+      <persName>
+       ניות ברמה
+      </persName>
+     </person>
+     <person xml:id="gbeh">
+      <persName>
+       גבעה
+      </persName>
+     </person>
+     <person xml:id="ishun lilh">
+      <persName>
+       אישון לילה
+      </persName>
+     </person>
+     <person xml:id="khuln">
+      <persName>
+       כולן
+      </persName>
+     </person>
+     <person xml:id='bָ"'>
+      <persName>
+       בָּ"א
+      </persName>
+     </person>
+     <person xml:id="3">
+      <persName>
+       3
+      </persName>
+     </person>
+     <person xml:id="mֵrַb">
+      <persName>
+       מֵרַב
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="ishi ushsu">
+      <persName>
+       ישי ואשתו
+      </persName>
+     </person>
+     <person xml:id="bishi">
+      <persName>
+       אבישי
+      </persName>
+     </person>
+     <person xml:id="nush khlyu">
+      <persName>
+       נושא כליו
+      </persName>
+     </person>
+     <person xml:id="shׁul">
+      <persName>
+       שׁאול
+      </persName>
+     </person>
+     <person xml:id="khinuem">
+      <persName>
+       אחינועם
+      </persName>
+     </person>
+     <person xml:id="mdbr zif lilh">
+      <persName>
+       מדבר זיף לילה
+      </persName>
+     </person>
+     <person xml:id="mlkhishue">
+      <persName>
+       מלכישוע
+      </persName>
+     </person>
+     <person xml:id="khdr hmlkhְ">
+      <persName>
+       חדר המלךְ
+      </persName>
+     </person>
+     <person xml:id="bmkr">
+      <persName>
+       במקרא
+      </persName>
+     </person>
+     <person xml:id="em htsb">
+      <persName>
+       עם הצבא
+      </persName>
+     </person>
+     <person xml:id="hish">
+      <persName>
+       האיש
+      </persName>
+     </person>
+     <person xml:id="nshim">
+      <persName>
+       נשים
+      </persName>
+     </person>
+     <person xml:id="sdh">
+      <persName>
+       שׂדה
+      </persName>
+     </person>
+     <person xml:id="khimlkh">
+      <persName>
+       אחימלך
+      </persName>
+     </person>
+     <person xml:id="dug">
+      <persName>
+       דואג
+      </persName>
+     </person>
+     <person xml:id="bkbkr">
+      <persName>
+       בקבקר
+      </persName>
+     </person>
+     <person xml:id="rkhi brsi">
+      <persName>
+       ארכי ברסי
+      </persName>
+     </person>
+     <person xml:id="ebd">
+      <persName>
+       עבד
+      </persName>
+     </person>
+     <person xml:id="msnb">
+      <persName>
+       מתנבא
+      </persName>
+     </person>
+     <person xml:id="khdr hmlkh">
+      <persName>
+       חדר המלך
+      </persName>
+     </person>
+     <person xml:id="mִhְyuֹs">
+      <persName>
+       מִהְיוֹת
+      </persName>
+     </person>
+     <person xml:id="yunsn">
+      <persName>
+       יונתן
+      </persName>
+     </person>
+     <person xml:id="2">
+      <persName>
+       2
+      </persName>
+     </person>
+     <person xml:id="kish">
+      <persName>
+       קיש
+      </persName>
+     </person>
+     <person xml:id="skhre">
+      <persName>
+       תחרע
+      </persName>
+     </person>
+     <person xml:id="shir">
+      <persName>
+       שיר
+      </persName>
+     </person>
+     <person xml:id="khln">
+      <persName>
+       כלן
+      </persName>
+     </person>
+     <person xml:id="shul">
+      <persName>
+       שאול
+      </persName>
+     </person>
+     <person xml:id="mbu rmun hmlkh">
+      <persName>
+       מבוא ארמון המלך
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -144,24 +520,24 @@
      יוסף האפרתי מטראפלוויץ
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול,
     </speaker>
     <p>
      מלך על ישראל
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם,
     </speaker>
     <p>
      המלכה
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -170,13 +546,13 @@
      בניהם
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -185,113 +561,113 @@
      בנותיהם
     </p>
    </sp>
-   <sp>
-    <speaker id="mֵrַb">
+   <sp who="mֵrַb">
+    <speaker>
      מֵרַב
     </speaker>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש,
     </speaker>
     <p>
      אבי שאול
     </p>
    </sp>
-   <sp>
-    <speaker id="nr">
+   <sp who="nr">
+    <speaker>
      נר
     </speaker>
     <p>
      שרי צבאות שאול
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד,
     </speaker>
     <p>
      מבית לחם
     </p>
    </sp>
-   <sp>
-    <speaker id="ishi ushsu">
+   <sp who="ishi ushsu">
+    <speaker>
      ישי ואשתו,
     </speaker>
     <p>
      אבות דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל,
     </speaker>
     <p>
      הרואה
     </p>
    </sp>
-   <sp>
-    <speaker id="lhks nbiim">
+   <sp who="lhks nbiim">
+    <speaker>
      להקת נביאים
     </speaker>
    </sp>
-   <sp>
-    <speaker id="gd hkhuzh">
+   <sp who="gd hkhuzh">
+    <speaker>
      גד החוזה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bisr">
+   <sp who="bisr">
+    <speaker>
      אביתר,
     </speaker>
     <p>
      בן אחימלך הכהן
     </p>
    </sp>
-   <sp>
-    <speaker id="khimlkh">
+   <sp who="khimlkh">
+    <speaker>
      אחימלך
     </speaker>
     <p>
      החתי
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי,
     </speaker>
     <p>
      בן צרויה
     </p>
    </sp>
-   <sp>
-    <speaker id="nshim">
+   <sp who="nshim">
+    <speaker>
      נשים,
     </speaker>
     <p>
      המשחקות
     </p>
    </sp>
-   <sp>
-    <speaker id="bels ub">
+   <sp who="bels ub">
+    <speaker>
      בעלת אוב
     </speaker>
    </sp>
-   <sp>
-    <speaker id="ezmus">
+   <sp who="ezmus">
+    <speaker>
      עזמות,
     </speaker>
     <p>
      בנה
     </p>
    </sp>
-   <sp>
-    <speaker id="rkhi, brsi">
+   <sp who="rkhi, brsi">
+    <speaker>
      ארכי, ברסי,
     </speaker>
     <p>
@@ -303,18 +679,18 @@
      שומרים לפני ארמון המלך
     </p>
    </sp>
-   <sp>
-    <speaker id="bַkְbַkָr">
+   <sp who="bַkְbַkָr">
+    <speaker>
      בַּקְבַּקָר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="tַkhְrֵeַ">
+   <sp who="tַkhְrֵeַ">
+    <speaker>
      תַּחְרֵעַ
     </speaker>
    </sp>
-   <sp>
-    <speaker id="em htsb">
+   <sp who="em htsb">
+    <speaker>
      עם הצבא,
     </speaker>
     <p>
@@ -326,8 +702,8 @@
      שאול (בשובו מהכות העמלקי) יונתן ושאר בניו
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -361,8 +737,8 @@
      נָקַמְתִּי נִקְמַת מָרוֹם וּדְבָרָיו מָלֵאתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -386,8 +762,8 @@
      אִישׁ וָאִישׁ תַּחַת גַּפְנוֹ וּתְאֵנָתוֹ בָּטַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -456,8 +832,8 @@
      כַּאֲשֶׁר לַנִּלְחַם עַל יָבֵשׁ – זֹאת לֹא יָדַעְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -576,8 +952,8 @@
      שאול לוקח יד יונתן
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -626,8 +1002,8 @@
      מִתַּחַת רַגְלָיו עֲטָרָה מוּבֶסֶת מֻשְׁלֶכֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mִhְyuֹs">
+   <sp who="mִhְyuֹs">
+    <speaker>
      מִהְיוֹת
     </speaker>
     <p>
@@ -652,8 +1028,8 @@
      אֶל־אַחַת הַגְּאָיוֹת בִּישִׁימוֹן יַשְׁלִיכֶנָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -677,8 +1053,8 @@
      וּבִפְנוֹת אֵלֶּה לִבְּךָ לָבוּשׁ בָּעוֹז יֶהִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -697,8 +1073,8 @@
      שמואל, שאול (זולת יונתן)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -732,8 +1108,8 @@
      גַּם מֵהֶם לָקְחוּ וַיִּדְּרוּ לָאֵל מוֹשִׁיעַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -822,8 +1198,8 @@
      אוֹתוֹ בָחַרְתִּי וָאֶפַּח בּוֹ רוּחַ חַיִּים.
     </p>
    </sp>
-   <sp>
-    <speaker id="omַrְtִi">
+   <sp who="omַrְtִi">
+    <speaker>
      אָמַרְתִּי
     </speaker>
     מִבְחַר מִפְעֲלוֹתַי לֹא יֵלֵךְ שָׁחַת!
@@ -1048,8 +1424,8 @@
      גַּם אוֹתְךָ מִמְּלוֹךְ עַל זֶרַע יַעְקֹב מָאָסְתִּי׳ – –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1058,8 +1434,8 @@
      יָדַעְתִּי אֶת פִּשְׁעִי. אָנָּא! שָׂא נָא הַפָּעַם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -1083,8 +1459,8 @@
      אבנר, יונתן, שאול
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -1093,8 +1469,8 @@
      שִׁפְעַת נֶצַח וָיֶשַׁע לַאֲדֹנִי הַמֶּלֶךְ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1118,8 +1494,8 @@
      הַעוֹד יִתְנַדְּבוּ לֶכֶת לִקְרָב וּלְמִלְחָמֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -1163,8 +1539,8 @@
      דָּבָר קָטָן אֶשְׁאַל, אַל נָא יִחַר אַפֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1203,8 +1579,8 @@
      וּמַה־זֶּה עוֹד דָּבָר קָטָן תִּשְׁאַל? דַּבֵּרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -1253,8 +1629,8 @@
      דַּם אַבְנֵר יִשָּׁפֵךְ כַּמַּיִם! לָךְ יוֹשִׁיעַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1328,8 +1704,8 @@
      מִגָּבְהֵי שַׁחַק לַבּוֹר צָרָה הִפִּילַנִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -1338,8 +1714,8 @@
      אֵיךְ יָדַעְתָּ כִּי בָזֶה אֶת פִּיהוּ מָרִיתָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1383,8 +1759,8 @@
      (מסיר פניו לבכות)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -1393,8 +1769,8 @@
      הוֹי אָבִי; עוֹד פָּנֶיךָ חֲמַרְמָרוּ מִבֶּכִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1408,8 +1784,8 @@
      הוֹד מַלְכוּתִי חָלַף מֶנִּי גַם רוּחִי סָרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -1553,8 +1929,8 @@
      וּכְמֵאָז וּמִקֶּדֶם יְהִי לִבְּךָ שָׂמֵחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -1598,8 +1974,8 @@
      אִמְרֵי פִיהוּ מַמְלִיךְ מַלְכֵי אֶרֶץ הוֹכִיחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1703,8 +2079,8 @@
      אחד מן עבדי המלך
     </p>
    </sp>
-   <sp>
-    <speaker id="ebd">
+   <sp who="ebd">
+    <speaker>
      עבד
     </speaker>
    </sp>
@@ -1738,8 +2114,8 @@
      אָהוּב מִכֹּל וּבְכָל מָקוֹם יִפְנֶה יַצְלִיחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -1748,8 +2124,8 @@
      אַיֵּה הָעֶלֶם הַזֶּה? חִישׁ דַּבֵּר אַיֵּהוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ebd">
+   <sp who="ebd">
+    <speaker>
      עבד
     </speaker>
    </sp>
@@ -1758,8 +2134,8 @@
      אַבִיו יִשַּׁי יִקָּרֵא, שֵם עִירוֹ בֵית לָחֶם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -1783,8 +2159,8 @@
      דוד רועה בצאן, וכינור קטן בידו. הרחק ממנו שוכב האריה המת אשר שיסע
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -1953,8 +2329,8 @@
      יונתן בא מרחוק עם נערו
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -1993,8 +2369,8 @@
      יונתן, דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2038,8 +2414,8 @@
      דַּבֶּר נָא אֵי מִזֶּה הָעִיר אַתָּה הָעֶלֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2048,8 +2424,8 @@
      שֵׁם אָבִי יִשַּׁי, מוֹשָבִי הָעִיר בֵּית לָחֶם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2058,8 +2434,8 @@
      גַם שִׁמְךָ הָעֶלֶם נִכְסַף לִבִּי לָדַעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2068,8 +2444,8 @@
      דָּוִד.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2078,8 +2454,8 @@
      הַעוֹד לָךְ אַחִים בֵּית אָבִיךָ זוּלָתֶךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2093,8 +2469,8 @@
      דֶּרֶךְ אָבִי תֵת לִבְנוֹ הַקָּטָן הָעֵדֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2103,8 +2479,8 @@
      חֲזַק דָּוִד! אֶל אִמְרָתִי הַטֵּה אָזְנֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2128,8 +2504,8 @@
      כָּאַחַד אֲנָשִׁים הַיּוֹשְׁבִים תַּחַת הַשָּׁבֶט.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2228,8 +2604,8 @@
      תַּחַת רוּחַ כֵּהָה יִתֵּן לוֹ לֵב שָׂמֵחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2243,8 +2619,8 @@
      הֲלֹא יִמָּצֵא בַמַּלְכוּת אִישׁ יָקָר מִמֶּנִּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2278,8 +2654,8 @@
      (השקטה – דוד מביט בפני יונתן)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2323,8 +2699,8 @@
      אַחְרֵי כֵן אָבוֹא אֵלֵךְ בַּאֲשֶׁר תּוֹלִיכֵנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -2338,8 +2714,8 @@
      עַתָּה אָחִי הָבָה! וּבְרִית עוֹלָם נִכְרָתָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2358,8 +2734,8 @@
      ארמון המלך: שאול, מיכל, מרב, ושאר בניו
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -2503,8 +2879,8 @@
      אַיֵּכָם בָּנַי? אַיֵּךְ מִיכַל? מַלְכִּישׁוּעַ? – –
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
    </sp>
@@ -2513,8 +2889,8 @@
      הִנֵּנוּ אָבִינוּ, הִנֵּנוּ! נָא הַרְגִּיעָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -2763,8 +3139,8 @@
      שאול, יונתן, דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -2828,8 +3204,8 @@
      דוד משתחווה
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2838,8 +3214,8 @@
      אֵלֶּה בְלֶב אוֹיְבֵי אֲדֹנִי הַמֶּלֶךְ יִשְׁכֹּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -2858,8 +3234,8 @@
      לִהְיוֹת כְּאַחַד מֵהָאוֹכְלִים פֹּה עַל שֻלְחָנִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2873,8 +3249,8 @@
      לַעֲשׂוֹתָן, מֵאָז רוּחִי גַם נַפְשִׁי שׁוֹקָקוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -2943,8 +3319,8 @@
      וּכְיַד הַמֶּלֶךְ לַאֲשֶׁר חָפֵץ מַשְׂכֻּרְתֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -2968,8 +3344,8 @@
      חדר אבנר: אבנר, אחינועם אשת שאול
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -3123,8 +3499,8 @@
      מיכל והקודמים
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -3133,8 +3509,8 @@
      אַךְ מַה אִתָּךְ חֲדָשׁוֹת כִּי כֹה מִהַרְתְּ לָלֶכֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -3163,8 +3539,8 @@
      וּבְעֵת נַגְּנוֹ סָר הַשִּׁגָּעוֹן מֵאָבִינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -3198,8 +3574,8 @@
      הַרְאוֹת לוֹ שִׂמְחַת לִבִּי גַם כִּי לֹא נִקְרֵאתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -3243,8 +3619,8 @@
      כִִּי אַהֲבַת בִּתֵּךְ לָךְ גָּדֵלָה גַּם נִפְלָאָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -3263,8 +3639,8 @@
      חדר המלך: המלך, יונתן, מלכישוע, מרב, דוד (מנגן בכינור ומשורר)
     </p>
    </sp>
-   <sp>
-    <speaker id="1">
+   <sp who="1">
+    <speaker>
      1
     </speaker>
    </sp>
@@ -3303,8 +3679,8 @@
      פורט
     </p>
    </sp>
-   <sp>
-    <speaker id="2">
+   <sp who="2">
+    <speaker>
      2
     </speaker>
    </sp>
@@ -3348,8 +3724,8 @@
      מדי נגנו יבואו אחינועם אבנר ומיכל, וכולם משתוממים על מיטב הניגון. דוד, כהביטו את כל בני המלך –
     </p>
    </sp>
-   <sp>
-    <speaker id="3">
+   <sp who="3">
+    <speaker>
      3
     </speaker>
    </sp>
@@ -3383,8 +3759,8 @@
      אֵין בָּם שַׁכּוּלָה – (אל ורדי ריח וכו')
     </p>
    </sp>
-   <sp>
-    <speaker id="4">
+   <sp who="4">
+    <speaker>
      4
     </speaker>
    </sp>
@@ -3423,8 +3799,8 @@
      שאול אל אבנר
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -3448,8 +3824,8 @@
      עַל נוֹעַם שִׁירַת הָעֶלֶם נַפְשִׁי שָׂמֵחָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -3483,8 +3859,8 @@
      יונתן ילך הלוך והלום אל דוד כאיש אשר אין לאל ידו להתאפק
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -3503,8 +3879,8 @@
      הוּא מוֹדָעִי וִידִידִי אָחִי כַמִּבָּטֶן – (נופל על צווארי דוד)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -3528,8 +3904,8 @@
      (אחינועם לוקחת יד שאול)
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -3568,8 +3944,8 @@
      כולם הולכים אחר המלך והמלכה, יונתן ודוד אחוזי יד. זולת מרב ומיכל תשארנה
     </p>
    </sp>
-   <sp>
-    <speaker id="mrb">
+   <sp who="mrb">
+    <speaker>
      מרב
     </speaker>
    </sp>
@@ -3578,8 +3954,8 @@
      תָּמַהְתִּי אֲחוֹתִי כִי לֹא פָנִית מֶנּוּ עָיִן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -3618,8 +3994,8 @@
      אָמְנָם מִמְּלֹא חָפְנַיִם מִיָּפְיוֹ גָדֵלוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrb">
+   <sp who="mrb">
+    <speaker>
      מרב
     </speaker>
    </sp>
@@ -3633,8 +4009,8 @@
      הוּא אֶחָד מִדַּלַּת הָעָם רוֹעֵה הָעֵדֶר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -3698,8 +4074,8 @@
      מרב לבדה
     </p>
    </sp>
-   <sp>
-    <speaker id="mrb">
+   <sp who="mrb">
+    <speaker>
      מרב
     </speaker>
    </sp>
@@ -3748,8 +4124,8 @@
      יונתן, דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -3829,8 +4205,8 @@
      בּוֹ לִבּוֹתֵנוּ גַם נַפְשׁוֹתֵנוּ נִקְשָׁרוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -3890,8 +4266,8 @@
      אַךְ נֶפֶשׁ מַשְׂכֶּלֶת מוֹלֶכֶת עַל הָאָרֶץ! —
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -3935,8 +4311,8 @@
      וּכְעֵת מָחָר הִנְּנִי פֹה אַרְמוֹן הַמֶּלֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -3955,8 +4331,8 @@
      קיש, נר, אבנר, שאול (ויונתן עודנו עומד בירכתי הבית ובל יתראה)
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -3990,8 +4366,8 @@
      תִּשְׂמַח אַתָּה בְעַמֶּיךָ אַף הֵם בָּךְ יִשְׂמָחוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="nr">
+   <sp who="nr">
+    <speaker>
      נר
     </speaker>
    </sp>
@@ -4015,14 +4391,14 @@
      כָּעֵת יֵאָמֵר אֶל יַעְקֹב: שַׁנֵּס מָתְנֶיךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="lִishׁurֻn">
+   <sp who="lִishׁurֻn">
+    <speaker>
      לִישׁוּרֻן
     </speaker>
     חַזֵּק! וַחֲגוֹר עַל יָרֵךְ חַרְבֶּךָ.
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -4106,8 +4482,8 @@
      וּכְבָר עָשׂוּ חָמָס אֵצֶל גְּבוּלֵי הָאָרֶץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -4121,8 +4497,8 @@
      מִי הִגִּיד זֹאת דּוֹדִי? סַפְּרָה נָא לִי סַפֵּרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="nr">
+   <sp who="nr">
+    <speaker>
      נר
     </speaker>
    </sp>
@@ -4161,8 +4537,8 @@
      עוֹד אָרִיק חֲנִית לִירוֹת תּוֹךְ בֶּטֶן עַזֵּי נָפֶשׁ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -4171,8 +4547,8 @@
      סַפֵּר נָא לִי אַבְנֵר כָּל הַדְּבָרִים שָׁמַעְתָּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -4250,8 +4626,8 @@
 חָרָפוּ׳.
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -4335,8 +4711,8 @@
      וּבְעֵת קוּם צַר וּמַכְאִיב לֹא נַרְפֶּה יָדֵינוּ׳.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -4366,8 +4742,8 @@
      בַּעֲבוּר יִהְיוּ מוּכָנִים עִם כָּל צִבְאוֹתָמוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -4381,8 +4757,8 @@
      (הולך והנשארים אחריו) אחינועם מיכל יונתן
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -4461,8 +4837,8 @@
      מִי יוֹדֵעַ מַה יִּקְרֵהוּ מִשְּׁאוֹן הַנָּשֶׁק? —
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -4512,8 +4888,8 @@
      וּבְרֹאשָׁם זִקְנֵי הָעָם גַּם שָׁאוּל אָבִינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -4540,8 +4916,8 @@
 הֵנָּה
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4684,8 +5060,8 @@
      (אחינועם ומיכל הולכות) יונתן לבדו
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4739,8 +5115,8 @@
      דוד יונתן
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4760,8 +5136,8 @@
      אַךְ לָמָּה רֵעִי הִתְמַהְמָהְתָּ זֶה יוֹמָיִם?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -4791,8 +5167,8 @@
      גַּם פָּנֶיךָ זוֹעֲפִים, כִּתְמוֹל שִׁלְשֹׁם אֵינֵמוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4806,8 +5182,8 @@
      לִמְאוֹד נִפְלָא גַם דַּמּוֹת לֹא יוּכַל לִבֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -4821,8 +5197,8 @@
      הַאִם רוּחַ רָעָה לֵב הַמֶּלֶךְ אֲחָזַתְהוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4857,8 +5233,8 @@
      חֲמָתוֹ אֵשׁ שׂוֹרֶפֶת כַּתָּפְתֶּה מִתְלַקָּחַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -4867,8 +5243,8 @@
      אַיֵּה הַמֶּלֶךְ? אֵיפוֹ גִּבּוֹרֵי הֶחָיִל?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -4961,8 +5337,8 @@
 יִשְׁכֹּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -5002,8 +5378,8 @@
      (דוד נופל על צווארו)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -5027,8 +5403,8 @@
      עֵת כִּי מַחְנֵה יִשְׂרָאֵל בַּשָּׂדֶה הִנָּמוֹ?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -5052,8 +5428,8 @@
      אחינועם לבדה באה מצד אחד. הולכת כמה פעמים הלוך ושוב בסתרי מזימותיה. — אז תשא עיניה השמימה, ואומרת:
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5218,8 +5594,8 @@
      מיכל באה מרחוק בטרם כילתה אמה לדבר
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -5255,8 +5631,8 @@
      הֲנֶחְרַד מֵרָעָה אִם גַּם הַתִּקְוָה נֶגְדֵּנוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5285,8 +5661,8 @@
      מיכל נשקפת בעד החלון
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -5310,8 +5686,8 @@
      אחינועם כהביטה
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5330,8 +5706,8 @@
      מלכישוע והקודמים
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -5362,8 +5738,8 @@
      אִישׁ אִישׁ מִיִּשְׂרָאֵל הוֹלֵךְ נַגֵּן וָרֶנֶן.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5395,8 +5771,8 @@
 נִבָּאָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -5410,8 +5786,8 @@
      הֲרָאִיתָ יוֹנָתָן עִם רֵעוֹ מִבֵּית לָחֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -5601,8 +5977,8 @@
      מדי דברו תשתוממנה אחינועם ומיכל על אשר נעשה
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5621,8 +5997,8 @@
      עַתָּה יָבוֹאוּ, נֵלְכָה לִקְרָאתָם שָׂמֵחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -5641,8 +6017,8 @@
      אחינועם בלכתה
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5656,8 +6032,8 @@
      מלכישוע לבדו
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -5746,8 +6122,8 @@
      הַמַּמְלִיךְ מְלָכִים גַּם הוּא נִלְחַם בַּמִּלְחֲמוֹתָיו –
     </p>
    </sp>
-   <sp>
-    <speaker id="khln">
+   <sp who="khln">
+    <speaker>
      כלן
     </speaker>
    </sp>
@@ -5786,8 +6162,8 @@
      שָׁלוֹם לַמֶּלֶךְ וּלְבֶן יִשַׁי וּלְצִבְאוֹתָיו –
     </p>
    </sp>
-   <sp>
-    <speaker id="khln">
+   <sp who="khln">
+    <speaker>
      כלן
     </speaker>
    </sp>
@@ -5826,8 +6202,8 @@
      אִישׁ לֹא נֶעְדָּר מִיִּשְׂרָאֵל מִכָּל צִבְאוֹתָיו –
     </p>
    </sp>
-   <sp>
-    <speaker id="khln">
+   <sp who="khln">
+    <speaker>
      כלן
     </speaker>
    </sp>
@@ -5866,8 +6242,8 @@
      מַה־נֶּחְמָד מֶלֶךְ יְשֻׁרוּן וּמַה נֶחְמְדוּ צִבְאוֹתָיו –
     </p>
    </sp>
-   <sp>
-    <speaker id="khln">
+   <sp who="khln">
+    <speaker>
      כלן
     </speaker>
    </sp>
@@ -5876,16 +6252,16 @@
      הִכָּה שָׁאוּל בַּאֲלָפָיו אַךְ דָּוִד בְּרִבְבוֹתָיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khdr hmlkhְ">
+   <sp who="khdr hmlkhְ">
+    <speaker>
      חדר המלךְ
     </speaker>
     <p>
      : המלך, המלכה, קיש, נר, אבנר, יונתן, דוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -5944,8 +6320,8 @@
      אִישׁ אִישׁ בִּגְבוּרָתוֹ – בּוֹאוֹ לְשֻׁלְחַן הַמֶּלֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -6004,8 +6380,8 @@
      הֵנִיס הָאוֹיֵב וַיַךְ אִיש נוֹרָא כַּשַּׁחַל
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -6029,8 +6405,8 @@
      הַיוֹם הַזֶה רָאִיתִי לִרְאוֹת לֹא דִמִּיתִי
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -6054,8 +6430,8 @@
      כָּבַשׁ לוֹחֲמֵי שָׁאוּל בָּעֵת עָמְדוֹ מִנֶגֶד; –
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6069,8 +6445,8 @@
      הַיוֹם הַזֶה יִוָדַע עוֹצֶם מַלְכוּתֶךָ. –
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -6084,8 +6460,8 @@
      כִּי יָעַצְתִּי נֵלֵכָה וּמָחָר נְשַׁחֲרֶךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6109,8 +6485,8 @@
      אַחֲרֵי הַשְׁקֵט רוּחִי אַף אָנֹכִי אָבוֹאָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -6129,8 +6505,8 @@
      אִם יֶעְצַב לִבֶּךָ אִם אֵין הוֹלְכִים פָּנֶיךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6144,8 +6520,8 @@
      כלם הולכים, ושאול נשאר לבדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6439,8 +6815,8 @@
      דוד מסב מפּניו פעמים – והולךְ. שאול נופל על הכסא – מתעלף. ואבנר בא הולךְ וקרב אל שאול.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6454,8 +6830,8 @@
      יָדַעְתָ כִּי רֹאשׁ שָׂרֵי צִבְאוֹתַי הִנֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6474,8 +6850,8 @@
      טוֹב לִי מִהְיוֹת שַׂר הַצָּבָא בָּאִיֵי קֶדֶם. –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6484,8 +6860,8 @@
      מַה יֶהְגֶּה לִבְּךָ אַבְנֵר מִנַעַר בֵּית לָחֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6514,8 +6890,8 @@
      שָׁלַח מִמֶּרְחָק אִישׁ גִבוֹר יוֹדֵעַ לָחֶם
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6529,8 +6905,8 @@
      יָשָׁר מְצָאתִיךָ לִבִי אֲגַלֶּה לָךְ הַפָעַם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6544,8 +6920,8 @@
      מַלְּאוֹת כָּל מִצְותָיו נָפְשִׁי מֵאָז מוּכָנְת
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6554,8 +6930,8 @@
      לֹא אֲצַוֶּה כָעֵת דָבָר עֲצָתְךָ אוֹבֶה שְׁמוֹעַ
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6569,8 +6945,8 @@
      תֵּת עֵצָה טוֹבָה רְצוּיָה לַאֲדֹנִי הַמֶּלֶךְ
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6584,8 +6960,8 @@
      בִּתִּי הַקְּטַנָּה מִיכַל לְאִשָׁה לוֹ אֶתְּנֶנָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6604,8 +6980,8 @@
      מה־נכבד יהיה ביתך ומה נעים יהי!
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6619,8 +6995,8 @@
      גַּם קִישׁ אָבִי נֵר אָבִיךָ עִמָּם יָבוֹאוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -6629,8 +7005,8 @@
      רֶגַע הִנֵה הִנָם פֹה בַחֲדָרְךָ הַמֶּלֶךְ
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6664,8 +7040,8 @@
      קיש, נר, אבנר, יונתן, דוד, מיכל, אחינועם
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -6749,8 +7125,8 @@
      תֵּת לָךְ בִּתּוֹ הַיָפָה מִיכַל הַמְּאֻשָּׁרֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6764,8 +7140,8 @@
      דוד נופל על בּרכיו
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -6824,8 +7200,8 @@
      רוֹעֶה צֹאן מִנְּעוּרָיו יִתְחַתֵּן עִם בַּת מֶלֶךְ? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -6844,8 +7220,8 @@
      הַכּוֹתְךָ פְלֶשֶׁת תִּגְמוֹל כָּל חַסְדִי עָלֶיךָ
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -6869,8 +7245,8 @@
      אֵל רוֹעֵנִי מֵעוֹדִי יִרְצֵנִי גַּם אָנִי. (נושק ידי שאול ועומד)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -6889,8 +7265,8 @@
      יִחְיֶה בֶן יִשַׁי מִבֵית לֶחֶם חֲתַן הַמֶּלֶךְ
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -6910,8 +7286,8 @@
 קיש הולך ונושק את דוד ומיכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -7000,8 +7376,8 @@
      שאול, דואג
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -7015,8 +7391,8 @@
      יַפִּילֵם עַד עָפָר אַף הַשְׁמֵד יַשׁמִידֵמוֹ. –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7035,8 +7411,8 @@
      כַּאֲשֶׁר הָיָה מֵאָז בָּאתָ אֵלַי לְשָׁרְתנִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -7045,8 +7421,8 @@
      לִבִּי יֶחְרַד הַגֵּד זֹאת לַאֲדֹנִי הַמֶלֶךְ –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7055,8 +7431,8 @@
      אַל תֶּחְרַד דּוֹאֶג דַּבֵּר מַצְפּוּנֵי לִבֶּךָ
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -7085,8 +7461,8 @@
      בִּרְאותִי הַדְרַת מַלְכִּי מִפָנָיו הָלָכָה. –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7110,8 +7486,8 @@
      לֹא אִרֶף מִמֶנוּ עַד כִּי יֻתַּן לַמָוְתָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -7125,8 +7501,8 @@
      לָמָה בִּתְּךָ לוֹ תַּתָּה? לָמָּה הִגְבַּהְתָּהוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7145,8 +7521,8 @@
      יונתן בא ודואג נשמט החוצה
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -7165,8 +7541,8 @@
      הַכִי נַחֵם תִּתְנַחֵם הֲיוֹת בֶּן יִשַׁי חֲתָנֶךָ? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7180,8 +7556,8 @@
      דַע יוֹנָתָן! מוֹת יוּמַת דָוִד מִבֵּית לָחֶם
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -7220,8 +7596,8 @@
      הַכְמוֹ רָגַע אַהֲבָה אֶל שִׂנְאָה הִתְהַפְכָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7240,8 +7616,8 @@
      הֲתַחַת זֹאת לֹא יוּמַת בֶּן יִשַׁי מִבית לָחֵם?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -7285,8 +7661,8 @@
      אַךְ בַּל יוּמַת דָּוִד אִישׁ מָלֵא טוֹב וָיוֹשֶׁר. –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7305,8 +7681,8 @@
      וּבֶן יִשַׁי זֶה – כִּדְבָרְךָ יוֹנָתָן, יֶהִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -7320,8 +7696,8 @@
      מַעֲשָׂיו וּמִפְעֲלוֹתָיו לָךְ לְכָבוֹד וּלְתִפְאָרֶת
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7340,8 +7716,8 @@
      (יונתן הולךְ ונשׁאר שׁאוּל לבדו)
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
    </sp>
@@ -7370,8 +7746,8 @@
      שׁאול, דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
    </sp>
@@ -7380,8 +7756,8 @@
      הַאַתָּה זֶה בֶן יִשַּׁי? אָן אֵיפוֹ הָיִיתָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -7435,8 +7811,8 @@
      שָׁם נָפְלוּ חלָלִים תַּחַת הָרֵי הַגִּלְבּוֹעַ. –
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -7540,8 +7916,8 @@
      דוד יחל לפרוט בכנור, שאול דוקר אחריו בחנית. (דוד רץ החוצה ושאול אחריו)
     </p>
    </sp>
-   <sp>
-    <speaker id="nyus brmh">
+   <sp who="nyus brmh">
+    <speaker>
      ניות ברמה
     </speaker>
    </sp>
@@ -7550,8 +7926,8 @@
      שמואל, ואצלו להקת הנביאים מתנבאים, מלבשים באדרי שער.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
    </sp>
@@ -7580,8 +7956,8 @@
      מֵאַחַר עַלוֹת הֱבִיאוֹ הֶדֶר הִלְבִּישָׁהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -7620,8 +7996,8 @@
      דוד בא ומשתחוה מול הדרת שמואל
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -7645,8 +8021,8 @@
      דוד נושק ידי שמואל
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -7740,8 +8116,8 @@
      לוּלֵי הִיא וּכְבָר מַתִּי עַל יַד הַבְּלִיָעַל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -7785,8 +8161,8 @@
      יֵלֵךְ הָלוֹךְ וַהֲלוֹם כָּאִישׁ נִבְעַר מִדָּעַת
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -7810,8 +8186,8 @@
      שׁאול בא משׁורר ומשׁתגע
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
    </sp>
@@ -7840,8 +8216,8 @@
      אַתָּה עַל יַעֲקֹב הִמְלַכְתַּנִי. הִמְלַכְתָּנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -7860,8 +8236,8 @@
      שאול פושט בגדיו וחוטף אדר אחד מבני הנביאים
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
    </sp>
@@ -7875,8 +8251,8 @@
      בַּיָמִים עָבָרוּ בַּיָמִים כְּבָר חָלָפוּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="msnb">
+   <sp who="msnb">
+    <speaker>
      מתנבא
     </speaker>
    </sp>
@@ -7940,16 +8316,16 @@
      מֵאַחר עָלוֹת הֱבִיאוֹ הֶדֶר הִלְבִּישָׁהוּ
     </p>
    </sp>
-   <sp>
-    <speaker id="gbeh">
+   <sp who="gbeh">
+    <speaker>
      גבעה
     </speaker>
     <p>
      : יונתן דוד. שׁניהם באים אחוזי יד.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -7973,8 +8349,8 @@
      גַם שָׁם בָא לְרָדְפנִי עַתָּה מָה אֶעשֶׂה אָני
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -7988,8 +8364,8 @@
      לֹא מִשִנְאָה עושה זאת לָמָּה יִשְׂנָאךָ
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -7998,8 +8374,8 @@
      אִם הַדָבָר כֵן מַדועַ רַק עָלַי יִחַר?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8013,8 +8389,8 @@
      מַדוּעַ לֹא יָגִיד לִי מַדועַ יסתּרנָה
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -8033,8 +8409,8 @@
      אוּלָם חַי אָנִי כִּי יָערֵם עָלַי לְהָרְגֵנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8108,8 +8484,8 @@
      תּדַע כִּי הָרָעָה מאת אָבִי כָלָתָה. –
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -8128,8 +8504,8 @@
      יונתן לבדו
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8243,8 +8619,8 @@
      מָה אִתֵּךְ אֲחוֹתִי עַד כִּי לָלֶכֶת כֹּה מִהָרְתְּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrb">
+   <sp who="mrb">
+    <speaker>
      מרב
     </speaker>
    </sp>
@@ -8258,8 +8634,8 @@
      כִּי אָבִינוּ שָׁאַל לָךְ לְמִשְׁתֵּה הַצָהֳרָיִם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8278,8 +8654,8 @@
      מִשְׁפָּט וָצֶדֶק מֵעֵינֶיךָ בַּל יַלִּיזוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khdr hmlkh">
+   <sp who="khdr hmlkh">
+    <speaker>
      חדר המלך:
     </speaker>
     <p>
@@ -8288,8 +8664,8 @@
 קטנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -8308,8 +8684,8 @@
      גַם עַתָּה תַּהֲלוּכוֹתֶיךָ מִנִּי נִפְלָאוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -8318,8 +8694,8 @@
      זֹאת מַתְּנַת הַנָּשִׁים לָדַעַת כֹּל תַּחְפּוֹצְנָה. –
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -8328,8 +8704,8 @@
      דַעַת כֹּל בַּל אֶחְפּוֹץ לָדַעַת זֹאת חָפָצְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -8338,8 +8714,8 @@
      זֹאת תֵּדְעִי רַעְיָתִי אַחַר מִשְׁתֵּה הַצָהֳרָיִם.
     </p>
    </sp>
-   <sp>
-    <speaker id="kishׁ">
+   <sp who="kishׁ">
+    <speaker>
      קישׁ
     </speaker>
    </sp>
@@ -8358,8 +8734,8 @@
      לֹא יִרְפּוּ מֵעֲשׂוֹת נַבְלוּתָם בִּגְבוּלֵי אָרֶץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -8371,8 +8747,8 @@
      אַיֵּה דָוִד? מַדּוּעַ לֹא בָא אֶל הַלָּחֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8431,8 +8807,8 @@
      לָמָּה יוּמַת? מֶה עָשָׂה דָוִד מִבֵּית לָחֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -8461,8 +8837,8 @@
      מכה בחניתו מלפנים ומאחור. ואבנר אוחז ידו
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
    </sp>
@@ -8471,8 +8847,8 @@
      אֵל עֶלְיוֹן אַדִּיר וְנוֹרָא! מֶה הָיָה לַמֶלֶךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -8571,8 +8947,8 @@
      (מדי דברת אבנר – שׁךְ חמת שׁאול)
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
     <p>
@@ -8594,8 +8970,8 @@
      בְנִי, בְנִי! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁul">
+   <sp who="shׁul">
+    <speaker>
      שׁאול
     </speaker>
    </sp>
@@ -8604,8 +8980,8 @@
      רַעְיַת נַפְשִׁי מַדּוּעַ מִנֶּגֶד תַּעֲמוֹדִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -8629,16 +9005,16 @@
      בּוֹא עַתָּה אִישִׁי לִשְׁכַּב מִשְׁכַּב הַצָהֳרָיִם.
     </p>
    </sp>
-   <sp>
-    <speaker id="sdh">
+   <sp who="sdh">
+    <speaker>
      שׂדה:
     </speaker>
     <p>
      דוד בא מתחת אחד השׂיחים. וכנור קטן בידו הולך ופורט
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -8807,8 +9183,8 @@
      יונתן והנער
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8822,8 +9198,8 @@
      אַתָּה עַל הַחִצִים אֲשֶׁר אוֹרֶה תֵּן עֵינֶיךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hner">
+   <sp who="hner">
+    <speaker>
      הנער
     </speaker>
    </sp>
@@ -8837,8 +9213,8 @@
      הנער הולך ממנו הרחק כמטחוי קשת. יונתן מורה החצים להעבירו. והנער ילך הלוךְ והלום ללקוט אותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8867,8 +9243,8 @@
      (הנער הולך. דוד בא ממחבואו. יונתן לקראתו מתחבקים ובוכים)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8897,8 +9273,8 @@
      (דוד נושק לחייו ובוכה)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -8937,8 +9313,8 @@
      אִם יִיטַב בְּעֵינֵי הָאֵל עוֹד שְׂמָחוֹת יַרְאֵנוּ. –
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -8957,8 +9333,8 @@
      (נושק את דוד והולך – דוד משתומם ומביט אחריו)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -8982,8 +9358,8 @@
      שדה מערת עדולם. אם הדרך. דוד בא כינורו על שכמו. חרב גלית הפלשתי אשר לקח מאחימלך הכוהן על זרועו. הולך ויושב על גבעה קטנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9247,8 +9623,8 @@
      ישי ואשתו אבות דוד באים הלוך והלום, דוד חרד לקראתם. נופל על צווארם
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9257,8 +9633,8 @@
      אֲבוֹתַי הַנֶּחְמָדִים! מָה עֵינַי תִרְאֶינָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ishi">
+   <sp who="ishi">
+    <speaker>
      ישי
     </speaker>
    </sp>
@@ -9267,8 +9643,8 @@
      שָׂמַחְתִּי לִרְאוֹתְךָ בְנִי – הוֹי אָמוּת הַפָּעַם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shs ishi">
+   <sp who="shs ishi">
+    <speaker>
      אשת ישי
     </speaker>
    </sp>
@@ -9292,8 +9668,8 @@
      (בוכה)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9307,8 +9683,8 @@
      תִּרְאִי פְנֵי דָוִד בְּנֵךְ וָאַתְּ בִּלְתִּי שָׂמֵחָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shs ishi">
+   <sp who="shs ishi">
+    <speaker>
      אשת ישי
     </speaker>
    </sp>
@@ -9352,8 +9728,8 @@
      (ישי, העומד מדי דברה במר נפש)
     </p>
    </sp>
-   <sp>
-    <speaker id="ishi">
+   <sp who="ishi">
+    <speaker>
      ישי
     </speaker>
    </sp>
@@ -9402,8 +9778,8 @@
      (דוד הולך ומתייצב בין אביו ואמו, לוקח ידם)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9412,8 +9788,8 @@
      אֲבוֹתַי! אָבוֹת יְשָׁרִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shs ishi">
+   <sp who="shs ishi">
+    <speaker>
      אשת ישי
     </speaker>
    </sp>
@@ -9432,8 +9808,8 @@
      'דָּוִד רֻדַּף יַעַן כִּי לֹא עָשָׂה כֵן – יַעַן – '
     </p>
    </sp>
-   <sp>
-    <speaker id="ishi">
+   <sp who="ishi">
+    <speaker>
      ישי
     </speaker>
    </sp>
@@ -9442,8 +9818,8 @@
      יַעַן הִסְתַּפַּחְתָּ בִּבְנֵי הַמֶּלֶךְ – יַעַן –
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9567,8 +9943,8 @@
      ישי ואשתו בלכתם
     </p>
    </sp>
-   <sp>
-    <speaker id="ishi ushsu">
+   <sp who="ishi ushsu">
+    <speaker>
      ישי ואשתו
     </speaker>
    </sp>
@@ -9582,8 +9958,8 @@
      דוד לבדו
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9667,8 +10043,8 @@
      דוד, גד
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9687,8 +10063,8 @@
      מַחְזֵה שַׁדַּי יֵרָאֶה עַל פָּנֶיךָ אֵלֶּה –
     </p>
    </sp>
-   <sp>
-    <speaker id="gd">
+   <sp who="gd">
+    <speaker>
      גד
     </speaker>
    </sp>
@@ -9712,8 +10088,8 @@
      אֶל יַעַר חָרֶת הָלוֹךְ יֵלֵךְ'. כֹּה צֻוֵּיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -9742,8 +10118,8 @@
      אָז יַעַר חָרֶת אֵלֵךְ כַּאֲשֶׁר צִוִּיתַנִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="gd">
+   <sp who="gd">
+    <speaker>
      גד
     </speaker>
    </sp>
@@ -9787,16 +10163,16 @@
      הוּצַק חֵן בִּלְשׁוֹנוֹ בֵּרַכוֹ אֱלֹהִים לַמֶּלֶךְ. (הולך)
     </p>
    </sp>
-   <sp>
-    <speaker id="gbeh">
+   <sp who="gbeh">
+    <speaker>
      גבעה:
     </speaker>
     <p>
      גינת הביתן. שאול ודואג האדומי באים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -9840,8 +10216,8 @@
      זֹאת שָׁמַעְתִּי וָאַגִּיד לַאֲדוֹנִי הַמֶּלֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -9885,8 +10261,8 @@
      דואג משתחווה
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -9905,8 +10281,8 @@
      שאול לבדו
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -10117,8 +10493,8 @@
 הבאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -10230,8 +10606,8 @@
 החדר אשר הובל המלך:
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -10240,8 +10616,8 @@
      אַבְנֵר, יוֹנָתָן! חוּשׁוּ נָא, בוֹאוּ הֶחָדֶר!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10260,8 +10636,8 @@
      דַּבְּרוּ נָא מַה נִּהְיָה כִּי הַשָּׁבָץ אֲחָזַתְהוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -10280,8 +10656,8 @@
      מלכישוע בא
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -10305,8 +10681,8 @@
      נוֹב עִיר הַכֹּהֲנִים הַכֶּה תַכֶּה מַכַּת חָרֶב.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -10315,8 +10691,8 @@
      נוֹב עִיר הַכֹּהֲנִים? מַה דִבַּרְתָּ מַלְכִּישׁוּעַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -10325,8 +10701,8 @@
      דִּבְרַת אָבִי וּמִצְווֹתָיו הִנֵּה דִבַּרְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10335,8 +10711,8 @@
      הֲשָׁמַעְתָּ אָחִי אֶת קוֹלוֹ דוֹבֵר אֵלֶיךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkhishue">
+   <sp who="mlkhishue">
+    <speaker>
      מלכישוע
     </speaker>
    </sp>
@@ -10355,8 +10731,8 @@
      גַּם אַחְרֵי דָוִד יִרְדּוֹף, חֲרוֹן אַפּוֹ גָדֵלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10370,8 +10746,8 @@
      הֲלֹא דַבֵּר יְדַבֵּר אָבִינוּ וָאַתְּ שׁוֹמָעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khinuem">
+   <sp who="khinuem">
+    <speaker>
      אחינועם
     </speaker>
    </sp>
@@ -10390,8 +10766,8 @@
      הַצִּילֵנִי גַם אָנִי – הָהּ כִּי כֹה נִטְבַּעְתִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -10415,8 +10791,8 @@
      מיכל הולכת אליו לאט לאט, עדי הגיעה אליו
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10430,8 +10806,8 @@
      מַדּוּעַ תֵּשֵׁב כַּגֶּבֶר עֲבָרוֹ הַיָּיִן?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -10440,8 +10816,8 @@
      דְּמוּתֵךְ תַּגְדִּיל מַכְאוֹבָי, הָסֵבִּי עֵינָיִךְ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10475,8 +10851,8 @@
      אִישִׁי – (נחל דמעות מעיניה)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -10485,8 +10861,8 @@
      הַרְפִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10495,8 +10871,8 @@
      אִישִׁי הַיָקָר הוֹלֵךְ אוֹבֵד וּמְתַעְתֵּעַ –
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -10515,8 +10891,8 @@
      מיכל בהלך נפש
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10580,8 +10956,8 @@
      (יונתן קם מעל השולחן – מחבק את אחותו)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -10655,8 +11031,8 @@
      וּבְכֹחֵךְ זֶה הַרְגִּיעִי, עָלַי הִתְפָּאֵרִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10665,8 +11041,8 @@
      אֵיפוֹ אַתָּה הוֹלֵךְ? אַחְרִית נֶחָמָתִי אָתָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -10695,8 +11071,8 @@
      יונתן הולך ומיכל נשארת
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhl">
+   <sp who="mikhl">
+    <speaker>
      מיכל
     </speaker>
    </sp>
@@ -10795,16 +11171,16 @@
      אַךְ יוֹדַעַת אָנִי כִי מִנּוֹפֶת מָתָקוּ. ( הולכת)
     </p>
    </sp>
-   <sp>
-    <speaker id="yers khrs">
+   <sp who="yers khrs">
+    <speaker>
      יערת חרת
     </speaker>
     <p>
      : אחימלך החתי, אבישי בן צרויה. שרי צבאות דוד
     </p>
    </sp>
-   <sp>
-    <speaker id="khimlkh">
+   <sp who="khimlkh">
+    <speaker>
      אחימלך
     </speaker>
    </sp>
@@ -10843,8 +11219,8 @@
      בַּמֹאזְנַיִם לַעְלוֹת תָּקְפּוֹ לָהֶם נִשְׁתָּוָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -10868,8 +11244,8 @@
      הַזְכָּרָה בִנְסִיכִי תִּתֵּן לִי עוֹז וָכֹחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khimlkh">
+   <sp who="khimlkh">
+    <speaker>
      אחימלך
     </speaker>
    </sp>
@@ -10933,8 +11309,8 @@
      כַּאֲשֶׁר בַּל קָרָהוּ דָבָר מוֹגָה הַנָּפֶשׁ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -10988,8 +11364,8 @@
      ‘אָז כָּבְדָה אַנְחָתִי, אֶבְחַר מִנַּפְשִׁי חֶנֶק’.
     </p>
    </sp>
-   <sp>
-    <speaker id="khimlkh">
+   <sp who="khimlkh">
+    <speaker>
      אחימלך
     </speaker>
    </sp>
@@ -11008,8 +11384,8 @@
      עַתָּה הַבֵּט, מֵסִיר מִבֵּין עֵינָיו הַדֶּמַע.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -11023,8 +11399,8 @@
      בּוֹא רֵעִי נֵלְכָה הַמַּחְנֶה טֶרֶם בּוֹאָמוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khimlkh">
+   <sp who="khimlkh">
+    <speaker>
      אחימלך
     </speaker>
    </sp>
@@ -11038,8 +11414,8 @@
      דוד אביתר
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11213,8 +11589,8 @@
      אביתר נופל לפניו ארצה ונושק ידיו
     </p>
    </sp>
-   <sp>
-    <speaker id="bisr">
+   <sp who="bisr">
+    <speaker>
      אביתר
     </speaker>
    </sp>
@@ -11228,8 +11604,8 @@
      אָנָּא סְפָחֵנִי נָא! הִנֵּנִי לִרְחוֹץ רַגְלֶיךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11253,8 +11629,8 @@
      (יונתן בא, דוד חיש לקראתו, מתחבקים זמן רב)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11263,8 +11639,8 @@
      אֵיזוֹ הָרוּחַ נְשָׂאֲךָ וַיְבִיאֶךָ הֵנָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11278,8 +11654,8 @@
      עֶשְׁתּוֹנוֹתַי הַהוֹגוֹת בָּךְ תָּמִיד מְשָׁכוּנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11293,8 +11669,8 @@
      הֲיָדוֹעַ יָדְעָה דָבָר כִּי אֵלַּי הָלַכְתָּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11333,8 +11709,8 @@
      זֹאת בַּל יִתָּכֵן – אַף הִיא תָשִׁיב לָהּ אֲמָרֶיהָ – –
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11353,8 +11729,8 @@
      הִיא כָל מְגָמָּתִי כָּל עֵת לֶכְתִּי עַל הַדֶּרֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11373,8 +11749,8 @@
      כִּמְלֻמְּדֵי קְרָב פְּנֵיהֶם כַּגִּבּוֹרֵי הֶחָיִל?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11433,8 +11809,8 @@
      וּלְמַעַן הַצֵּל נַפְשִׁי אִתָּם הִסְתַּפַּחְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11488,8 +11864,8 @@
      דוד לוקח יד יונתן
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11533,8 +11909,8 @@
      אֱלֹהִים יַחְקָר זֹאת, בַּל יִסְלַח עָוֹן וָפֶשַׁע.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11583,8 +11959,8 @@
      עַתָּה נִכְרוֹת בְּרִית יָקוּם לְזַרְעֵנוּ אַחְרֵנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11723,8 +12099,8 @@
      יִרְפָּא מֵעֵת לָעֵת וּמֵרֶגַע לָרֶגַע.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -11743,8 +12119,8 @@
      (בוכה ונופל על צווארו)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -11763,16 +12139,16 @@
      רָפָה הַיּוֹם לַעְרוֹב, בֹּא עַתָּה אֶל הָאֹהֶל. (הולכים)
     </p>
    </sp>
-   <sp>
-    <speaker id="mdbr zif lilh">
+   <sp who="mdbr zif lilh">
+    <speaker>
      מדבר זיף לילה
     </speaker>
     <p>
      : (שאול, אבנר, דואג, נר, מקצת מאנשי המלחמה)
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -11786,8 +12162,8 @@
      לֹא נָסוֹב מֵהַכִּכָּר הַלָּז – כֵּן צִוִּיתָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -11841,8 +12217,8 @@
      מֶה עָשָׂה דָוִד? מֶה חֳרִי? וּמֶה הַפֶּשַׁע?
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -11886,8 +12262,8 @@
      אבנר בפני עצמו
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -11896,8 +12272,8 @@
      (יְלִיד תָּפְתֶּה וַאֲבַדּוֹן!)
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -11921,8 +12297,8 @@
      (אבנר בפני עצמו)
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -11931,8 +12307,8 @@
      (מָקוֹר מָשְׁחָת וּבְלִיַּעָל!)
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -11946,8 +12322,8 @@
      אַךְ עַתָּה לִבּוֹ נֶהְפַּךְ, זֹאת מַעֲשָׂיו יָעִידוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -11961,8 +12337,8 @@
      כִּי עַל פְּנֵי הַיְשִׁימוֹן מִסְתַּתֵּר זֶה יוֹמַיִּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -12026,8 +12402,8 @@
      כִּי תִמְצָא אוֹיִבְךָ הֲרַק כְּנַף הַמְעִיל תִּכְרוֹתָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -12071,8 +12447,8 @@
      לַעְשׂוֹת לוֹ כַּאְשֶׁר עָשָׂה. – כֵּן אַבְנֵר שָׁמַעְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -12146,8 +12522,8 @@
      (מסיר פניו בחרי)
     </p>
    </sp>
-   <sp>
-    <speaker id="nr">
+   <sp who="nr">
+    <speaker>
      נר
     </speaker>
    </sp>
@@ -12161,8 +12537,8 @@
      אַשְׁרֵי לָךְ בֶּן אָחִי כִי תִשְׁמַע לוֹ, אַשְׁרֶיךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -12236,8 +12612,8 @@
      (הולך ושוכב על הקרקע. אבנר ונר מימינו דואג משמאלו ושאר העם סביבותיו)
     </p>
    </sp>
-   <sp>
-    <speaker id="ishun lilh">
+   <sp who="ishun lilh">
+    <speaker>
      אישון לילה:
     </speaker>
     <p>
@@ -12246,8 +12622,8 @@
 אבוקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12276,8 +12652,8 @@
      (דוד, אל אחד מאנשיו)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12296,8 +12672,8 @@
      (הנער הולך אליהם לאט לאט עד אחר התבונן, אז ישוב אל דוד)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12306,8 +12682,8 @@
      מָה אָתָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hish">
+   <sp who="hish">
+    <speaker>
      האיש
     </speaker>
    </sp>
@@ -12326,8 +12702,8 @@
      הוֹזִים שׁוֹכְבִים כִּי תַרְדֵּמָה עֲלֵיהֶם נָפָלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12366,8 +12742,8 @@
      שָׁם בִּמְקוֹם הֵכִין חִצֵּי נִשְׁקוֹ לַהֲמִיתֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12411,8 +12787,8 @@
      כַּאֲשֶׁר יִישַׁר לוֹ כֵן אֲבִישַׁי יֶהִי, כֵּן יֶהִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12431,8 +12807,8 @@
      לוֹ עוֹדְךָ מִסְתּוֹלֵל בִּלְתִּי הַכּוֹתוֹ אָרְצָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12481,8 +12857,8 @@
      הַכּוֹת אִישׁ רִיבִי, מֵעַל פָּנַי הַשְׁמִידֵהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12496,8 +12872,8 @@
      אִם שָׁאוּל מְצָאֶךָ, הֶהָמֵת לֹא הֱמִיתֶךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12516,8 +12892,8 @@
      אִם אֶחָד עוֹשֶׂה רֶשַׁע הָאֶרְשַׁע גַּם אָנִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12531,8 +12907,8 @@
      (דוד הולך בלאט לוקח החנית וצפחת המים מראש שאול, ושב אל מעמדו הקודם)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12546,8 +12922,8 @@
      (אבנר מקיץ משנתו)
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -12556,8 +12932,8 @@
      מִי זֶה? מִי אַתָּה שָׁמָּה תִקְרָא אֶל הַמֶּלֶךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12586,8 +12962,8 @@
      (אבנר עומד ממשכבו)
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -12596,8 +12972,8 @@
      הָהּ! – דָּוִד בֶּן יִשַׁי!
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12616,8 +12992,8 @@
      (שאול ודואג עומדים)
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -12631,8 +13007,8 @@
      (אוחז חרבו ורץ לקראת דוד. אבישי חיש נגדו)
     </p>
    </sp>
-   <sp>
-    <speaker id="bishi">
+   <sp who="bishi">
+    <speaker>
      אבישי
     </speaker>
    </sp>
@@ -12641,8 +13017,8 @@
      סוּר עַוָּל, סוּר! (יהדוף אותו עדי יפול מרחוק ארצה)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -12651,8 +13027,8 @@
      הֲקוֹלְךָ זֶה בְנִי דָוִד? דָּוִד! הָהּ כִּי שָׁגִיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12736,8 +13112,8 @@
      יַשְׂבִּיעַ נַפְשׁוֹ; אַךְ אַתָּה תִתֵּן מִגְרָעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -12761,8 +13137,8 @@
      שָׁגִיתִי, כַּפֶּר נָא! כִּי גָדַלְתָּ מִמֶּנִּי –
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -12796,8 +13172,8 @@
      (אחד מנערי שאול הולך ולוקח החנית מיד דוד)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -12826,16 +13202,16 @@
      נשלמה המערכה החמישית
     </p>
    </sp>
-   <sp>
-    <speaker id="mbu rmun hmlkh">
+   <sp who="mbu rmun hmlkh">
+    <speaker>
      מבוא ארמון המלך
     </speaker>
     <p>
      : בקבקר ותַחרֵעַ, אחד מימין הארמון ואחד משמאלו. חלוצים וחגורי חרב כמנהג אנשי הצבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="bַkְbַkָּr">
+   <sp who="bַkְbַkָּr">
+    <speaker>
      בַּקְבַּקָּר
     </speaker>
    </sp>
@@ -12849,8 +13225,8 @@
      בֹּא נִתְוַכְּחָה נָא יַחַד עַל דִּבְרַת מַלְכֵּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -12864,8 +13240,8 @@
      כִּמְעַט מֵרֹב הַקֶּרַח רַגְלַי תִּבָּצַקְנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -12904,8 +13280,8 @@
      שִׁמְעָה אָחִי כִי מַר יִצְרַח שָׁמָּה הַקָּאַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -12919,8 +13295,8 @@
      הֲיֵשׁ לִבְּךָ עִמִּי כִלְבָבִי עִם לִבֶּךָ?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -12929,8 +13305,8 @@
      יֵשׁ וָיֵשׁ! – גֵּשׁ נַעַר זָקֵן! וּתְנָה יָדֶךָ. (תוקעים כף אל כף)
     </p>
    </sp>
-   <sp>
-    <speaker id="sַkhְrֵeַ">
+   <sp who="sַkhְrֵeַ">
+    <speaker>
      תַחְרֵעַ
     </speaker>
    </sp>
@@ -12944,8 +13320,8 @@
      קַח, קַח אָחִי בַּקְבַּקָּר, תּוֹךְ לִבְּךָ שָׂאֵהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -12954,8 +13330,8 @@
      כֶּתֶר הַמְּלָכִים בַּל אֶקַּח חֵלֶף לִבֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -12974,8 +13350,8 @@
      הֶאָח! בַּיּוֹם הַמָּחְרָת בַּל יָבוֹא עוֹד הֵנָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -12984,8 +13360,8 @@
      אוֹ טוֹב מִזֶּה לֹא יֵלֵךְ! פֹּה אַחְרִית יָמֵיהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13019,8 +13395,8 @@
      עָרַבְתִּי לִבִּי, חַי רֹאשִׁי! חַדָרוֹ הָלָכְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13044,8 +13420,8 @@
      הָהּ בֵּין חַגְוֵי הַקִּיר אֶחְבָּא; הָאֵל שָׁמְרֵנִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13069,8 +13445,8 @@
      לִפְנֵי אַנְשֵׁי תַרְמִית בַּל אֶת יוֹצְרָם יַכִּירוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13079,8 +13455,8 @@
      הַחְשֵׁה, הַחְ –
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13089,8 +13465,8 @@
      מַה זֹּאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13099,8 +13475,8 @@
      שׁוֹמֵעַ אָנֹכִי קוֹל מִצְעָדִים בֶּחָדֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13114,8 +13490,8 @@
      פתח הארמון נפתח. שאול בא במלבושי ליל. דלת ראשו תולה מצדדי הראש בלי סדרים. השומרים מתייצבים איש על מקומו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13134,8 +13510,8 @@
      חִישׁ הִגִּידוּ אָנָא הָלַךְ? דַּבְּרוּ, דַּבֵּרוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13144,8 +13520,8 @@
      גַּם קוֹל גַּם קֶשֶׁב אָיִן, אֲדֹנֵנוּ הַמֶּלֶךְ! –
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13154,8 +13530,8 @@
      לוּ הָיָה פֹה אִישׁ, עַל דִּבְרָתִי פֹה עוֹדֶנּוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13354,8 +13730,8 @@
      (הולך בחפזה החדר)
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13369,8 +13745,8 @@
      אַךְ אוֹת אַחַת מִכָּל אִמְרוֹתָיו לֹא הֲבִינוֹתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13389,8 +13765,8 @@
      כֵּן הָיָה לֵיל שִׁלְשׁוֹם, אַךְ לֹא בָא מֵהַחָדֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkbkr">
+   <sp who="bkbkr">
+    <speaker>
      בקבקר
     </speaker>
    </sp>
@@ -13424,8 +13800,8 @@
      עִם כָּל עָשְׁרָם וּרְכוּשָׁם עוֹצֶב יִתְלַבָּשׁוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhre">
+   <sp who="skhre">
+    <speaker>
      תחרע
     </speaker>
    </sp>
@@ -13454,8 +13830,8 @@
      (הולכים)
     </p>
    </sp>
-   <sp>
-    <speaker id="ein dur">
+   <sp who="ein dur">
+    <speaker>
      עין דור:
     </speaker>
     <p>
@@ -13472,8 +13848,8 @@
      עזמות לבד
     </p>
    </sp>
-   <sp>
-    <speaker id="ezmus">
+   <sp who="ezmus">
+    <speaker>
      עזמות
     </speaker>
    </sp>
@@ -13577,18 +13953,18 @@
      (בעלת אוב, ארכי, ברסי, אחת מימינה ואחת משמאלה. ועוד איזה מכשפות)
     </p>
    </sp>
-   <sp>
-    <speaker id="shir">
+   <sp who="shir">
+    <speaker>
      שיר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="1">
+   <sp who="1">
+    <speaker>
      1
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hmkhshfus">
+   <sp who="hmkhshfus">
+    <speaker>
      המכשפות
     </speaker>
    </sp>
@@ -13612,8 +13988,8 @@
      רֹנּוּ בַלַּיְלָה הִיא חֶדְוַת לִבֵּנוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="khuln">
+   <sp who="khuln">
+    <speaker>
      כולן
     </speaker>
    </sp>
@@ -13622,13 +13998,13 @@
      הַלַּיְלָה, הַלַּיְלָה, חֶדְוַת לִבֵּנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="2">
+   <sp who="2">
+    <speaker>
      2
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hmkhshfus">
+   <sp who="hmkhshfus">
+    <speaker>
      המכשפות
     </speaker>
    </sp>
@@ -13652,8 +14028,8 @@
      חֶדֶר בֶּחָדֶר אָז תַּלִינוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="khuln">
+   <sp who="khuln">
+    <speaker>
      כולן
     </speaker>
    </sp>
@@ -13662,13 +14038,13 @@
      הַלַּיְלָה, הַלַּיְלָה, חֶדְוַת לִבֵּנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="3">
+   <sp who="3">
+    <speaker>
      3
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hmkhshfus">
+   <sp who="hmkhshfus">
+    <speaker>
      המכשפות
     </speaker>
    </sp>
@@ -13692,8 +14068,8 @@
      אָמְנָה אָז שָׂמֵחַ לִבֵּנוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="khuln">
+   <sp who="khuln">
+    <speaker>
      כולן
     </speaker>
    </sp>
@@ -13707,13 +14083,13 @@
      (בעלת אוב הולכת ורואה מלאכת בנה, אז באה)
     </p>
    </sp>
-   <sp>
-    <speaker id="4">
+   <sp who="4">
+    <speaker>
      4
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bels ub">
+   <sp who="bels ub">
+    <speaker>
      בעלת אוב
     </speaker>
    </sp>
@@ -13722,8 +14098,8 @@
      אַרְכִי בַּרְסִי הֵחָלַצְנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="rkhi brsi">
+   <sp who="rkhi brsi">
+    <speaker>
      ארכי ברסי
     </speaker>
    </sp>
@@ -13732,8 +14108,8 @@
      צַוִּי, צַוִּי! כִּי הִנֵּנוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="bels ub">
+   <sp who="bels ub">
+    <speaker>
      בעלת אוב
     </speaker>
    </sp>
@@ -13742,8 +14118,8 @@
      אַתֶּן אַחְיוֹת, הִקָּבֵצְנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmkhshfus">
+   <sp who="hmkhshfus">
+    <speaker>
      המכשפות
     </speaker>
    </sp>
@@ -13752,8 +14128,8 @@
      חֶפְצֵי לִבֵּךְ גַּם חֶפְצֵנוּ; —
     </p>
    </sp>
-   <sp>
-    <speaker id="khuln blkhsn">
+   <sp who="khuln blkhsn">
+    <speaker>
      כולן בלכתן
     </speaker>
    </sp>
@@ -13767,8 +14143,8 @@
      (תזורנה אחור — שאול ושני אנשים במסווה)
     </p>
    </sp>
-   <sp>
-    <speaker id="bels ub">
+   <sp who="bels ub">
+    <speaker>
      בעלת אוב
     </speaker>
    </sp>
@@ -13787,8 +14163,8 @@
      דַּבְּרוּ נָא מִי אַתֶּם וּמַה מֶּנִּי תַחְפֹּצוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhd">
+   <sp who="hkhd">
+    <speaker>
      האחד
     </speaker>
    </sp>
@@ -13817,8 +14193,8 @@
      יַעַן שָׁמַעְנוּ מִמֵּךְ כָּל חֶפְצֵךְ תּוּכָלִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bels ub">
+   <sp who="bels ub">
+    <speaker>
      בעלת אוב
     </speaker>
    </sp>
@@ -13832,8 +14208,8 @@
      הַמֶּלֶךְ צִוָּה בָּעֵר קֶסֶם מִן הָאָרֶץ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13857,8 +14233,8 @@
      גַּם אַחַת מִשַּׂעְרַת רֹאשֵׁךְ בַּל יִפּוֹל אָרְצָה.
     </p>
    </sp>
-   <sp>
-    <speaker id='b"'>
+   <sp who='b"'>
+    <speaker>
      ב"א
     </speaker>
    </sp>
@@ -13867,8 +14243,8 @@
      אַךְ הַגִּידָה לִי, מַה אַתָּה מְבַקֵּשׁ מִמֶּנִּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13882,8 +14258,8 @@
      הַעְלִי נָא לִי אֶת הָאִישׁ אֲשֶׁר אוֹמַר אֵלָיִךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id='b"'>
+   <sp who='b"'>
+    <speaker>
      ב"א
     </speaker>
    </sp>
@@ -13892,8 +14268,8 @@
      אֶת מִי אַעֲלֶה לָךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13915,8 +14291,8 @@
      שמואל מדי העלותו
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -13925,8 +14301,8 @@
      אֲהָהּ — בֶּן קִישׁ!
     </p>
    </sp>
-   <sp>
-    <speaker id='b"'>
+   <sp who='b"'>
+    <speaker>
      ב"א
     </speaker>
    </sp>
@@ -13949,8 +14325,8 @@
      לַבַּת אֵשׁ רָאִיתִי וּתְמוּנָה לֹא חָזִיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id='bָ"'>
+   <sp who='bָ"'>
+    <speaker>
      בָּ"א
     </speaker>
    </sp>
@@ -13974,8 +14350,8 @@
      אֱלֹהִים רָאִיתִי עוֹלִים עוֹלִים מִן הָאָרֶץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -13984,8 +14360,8 @@
      אָבִי הָרוֹאֶה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -13999,8 +14375,8 @@
      לָמָּה מִשֵּׁינַת מְנוּחָה הַרְגֵּז הִרְגַּזְתַּנִּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14059,8 +14435,8 @@
      הוֹדִיעֵנִי מָה אֶעֱשֶׂה — הוֹשִׁיעָה הַפָּעַם!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
@@ -14136,8 +14512,8 @@
 בעלת אוב הולכת אליו.
     </p>
    </sp>
-   <sp>
-    <speaker id='b"'>
+   <sp who='b"'>
+    <speaker>
      ב"א
     </speaker>
    </sp>
@@ -14151,8 +14527,8 @@
      עֵינֶיךָ שָׁאוּל מוֹקְדֵי אֵשׁ, לַבּוֹת יָרֹקּוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="nshyu">
+   <sp who="nshyu">
+    <speaker>
      אנשיו
     </speaker>
    </sp>
@@ -14161,8 +14537,8 @@
      אֲדוֹנֵנוּ הַמֶּלֶךְ קוּם נָא! קוּם מֵהָאָרֶץ.
     </p>
    </sp>
-   <sp>
-    <speaker id='b"'>
+   <sp who='b"'>
+    <speaker>
      ב"א
     </speaker>
    </sp>
@@ -14186,8 +14562,8 @@
      (מקימים אותו, ויוליכוהו החדר פנימה)
     </p>
    </sp>
-   <sp>
-    <speaker id="shdh hmerkhh lmlkhmh">
+   <sp who="shdh hmerkhh lmlkhmh">
+    <speaker>
      שדה המערכה למלחמה:
     </speaker>
     <p>
@@ -14204,8 +14580,8 @@
      (יונתן בעת מותו)
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -14229,8 +14605,8 @@
      (השחר מאיר. דואג בא. בראותו יונתן)
     </p>
    </sp>
-   <sp>
-    <speaker id="dug">
+   <sp who="dug">
+    <speaker>
      דואג
     </speaker>
    </sp>
@@ -14259,8 +14635,8 @@
      (רואה שאול והולך על הגבעה מנגד. שאול בא ברעש ורוגז — בלתי מביט מפלת בנו)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14469,8 +14845,8 @@
      הִתְלַבֵּשׁ בָּעוֹז וְּדְקוֹר אֲדוֹנֶךְ הַמֶּלֶךְ!
     </p>
    </sp>
-   <sp>
-    <speaker id="nush khlyu">
+   <sp who="nush khlyu">
+    <speaker>
      נושא כליו
     </speaker>
    </sp>
@@ -14484,8 +14860,8 @@
      (כורע על ברכיו)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14514,8 +14890,8 @@
      עַל חָרְבּוֹ נָפַל אַךְ הַפְּלִשְׁתִּים בַּל הֲרָגוּהוּ —
     </p>
    </sp>
-   <sp>
-    <speaker id="nush khlyu">
+   <sp who="nush khlyu">
+    <speaker>
      נושא כליו
     </speaker>
    </sp>
@@ -14539,8 +14915,8 @@
      אבנר, קיש, נר.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -14554,8 +14930,8 @@
      (רואה מפלת שאול)
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr kish">
+   <sp who="bnr kish">
+    <speaker>
      אבנר קיש
     </speaker>
    </sp>
@@ -14569,8 +14945,8 @@
      (דוד, אבישי, אחימלך וחילו באים)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -14584,8 +14960,8 @@
      מֵהֶם וּמֵהֱמֵהֶם שָׂרִיד בַּל תַּשְׁאִירוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnr">
+   <sp who="bnr">
+    <speaker>
      אבנר
     </speaker>
    </sp>
@@ -14604,8 +14980,8 @@
      שאול מגביה ראשו
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14634,8 +15010,8 @@
      אֲהָהּ — מַה זֶּה? עַוָּל דּוֹאֵג! הוֹי פַּחְדֵי הַמָּוֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -14649,8 +15025,8 @@
      (דוקרהו — נופל מת)
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14659,8 +15035,8 @@
      (יפרוץ לעמוד — מבלי יכולת) דָּוִד! —
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -14674,8 +15050,8 @@
      יָדַעְתִּי לִבֶּךָ, חַף אַתָּה מִכָּל פֶּשַׁע.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
@@ -14689,8 +15065,8 @@
      (מת)
     </p>
    </sp>
-   <sp>
-    <speaker id="dud">
+   <sp who="dud">
+    <speaker>
      דוד
     </speaker>
    </sp>
@@ -14704,8 +15080,8 @@
      הוֹי מַלְכִּי! —
     </p>
    </sp>
-   <sp>
-    <speaker id="kish">
+   <sp who="kish">
+    <speaker>
      קיש
     </speaker>
    </sp>
@@ -14719,8 +15095,8 @@
      (דוד עומד, ולוחש אל אבנר ונר להוליך את קיש — הולכים עמו)
     </p>
    </sp>
-   <sp>
-    <speaker id="kish blkhsu">
+   <sp who="kish blkhsu">
+    <speaker>
      קיש בלכתו
     </speaker>
    </sp>
@@ -14729,8 +15105,8 @@
      בְּנִי שָׁאוּל, שָׁאוּל בְּנִי בְנִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="duֹd">
+   <sp who="duֹd">
+    <speaker>
      דוֹד
     </speaker>
    </sp>
@@ -16211,8 +16587,8 @@
      אל (ת"מ).
     </p>
    </sp>
-   <sp>
-    <speaker id="bmkr">
+   <sp who="bmkr">
+    <speaker>
      במקרא
     </speaker>
     כל מאומה (שמואל ב' ג, לה).

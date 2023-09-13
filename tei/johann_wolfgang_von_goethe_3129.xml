@@ -46,6 +46,52 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="kָrָsִi">
+      <persName>
+       קָרָאתִי
+      </persName>
+     </person>
+     <person xml:id="mngins hrukhus">
+      <persName>
+       מנגינת הרוחות
+      </persName>
+     </person>
+     <person xml:id="mfistufls">
+      <persName>
+       מפיסטופלס
+      </persName>
+     </person>
+     <person xml:id="nַgִּidָh">
+      <persName>
+       נַגִּידָה
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+      <persName>
+       הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
+      </persName>
+     </person>
+     <person xml:id="fust">
+      <persName>
+       פאוסט
+      </persName>
+     </person>
+     <person xml:id="kֹh">
+      <persName>
+       כֹּה
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -67,8 +113,8 @@
      (לשכת-עבודתו של פאַוּסט. ד"ר פאַוּסט נכנס בלוית הפּוּדל – הכלב אשר מצא ברחובות).
     </p>
    </sp>
-   <sp>
-    <speaker id="fust">
+   <sp who="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -279,8 +325,8 @@
      (פותח את הספר ומסתכל בו)
     </p>
    </sp>
-   <sp>
-    <speaker id="kָrָsִi">
+   <sp who="kָrָsִi">
+    <speaker>
      קָרָאתִי
     </speaker>
     “בְּרֵאשִׁית הָיָה דָבָר” –
@@ -325,8 +371,8 @@
      הֲבֶאֱמֶת רַעיוֹן הַכֹּל בָּרָא?
     </p>
    </sp>
-   <sp>
-    <speaker id="nַgִּidָh">
+   <sp who="nַgִּidָh">
+    <speaker>
      נַגִּידָה
     </speaker>
     “בְּרֵאשִׁית הָיָה ”.
@@ -346,8 +392,8 @@
      עוֹד רֶגַע…כֵּן! מָצָאתִי – אֲתַרגֵּם-נָא
     </p>
    </sp>
-   <sp>
-    <speaker id="kֹh">
+   <sp who="kֹh">
+    <speaker>
      כֹּה
     </speaker>
     “בְּרֵאשִׁית הָיָה ”!
@@ -442,14 +488,14 @@
      וְלִשׁרָצִים כָּמוֹךָ יֵשׁ לִי רַעַל –
     </p>
    </sp>
-   <sp>
+   <sp who="mngins hrukhus">
     <p>
      נִחוּשׁ הַמֶּלֶךְ שְׁלֹמֹה
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mngins hrukhus">
+    <speaker>
      מנגינת הרוחות
     </speaker>
    </sp>
@@ -503,8 +549,8 @@
      הוּא מוֹרֵנוּ וְאָחִינוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="fust">
+   <sp who="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -748,14 +794,14 @@
      אִם לֹא דַיֶּךָ
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      תִּראֶה יוֹתֵר מִכֹּחַ שִׁלטוֹנִי!
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -769,14 +815,14 @@
      לבוש בגדי אַסכולסטיקן נודד).
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      אַל נָא לִרעוֹשׁ! מַה חֵפֶץ אֲדוֹנִי?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -785,14 +831,14 @@
      הַסּוֹף מַצחִיק: פִּתרוֹן חַיַּת הַשַּׁחַת –
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      תַּלמִיד חָכָם נוֹדֵד? מִקְרֶה נֶחמָד!
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -806,19 +852,19 @@
      אִם-כִּי הִזַּעתָּ לִי זֵעָה רוֹתַחַת
     </p>
    </sp>
-   <sp>
-    <speaker id="fust">
+   <sp who="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      וּמַה שִׁמךָ?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -837,14 +883,14 @@
      מַשׁקִיף אֶל הַתַּמצִית וּבְז לְכָל מִלָּה,
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      לְכָל דְּמוּת – שֶׁהֵן מִרמָה וָתֹהוּ.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -868,14 +914,14 @@
      אוֹ “אַשׁמְדַאי”, אוֹ גַּם “מַשׁחִית”,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      טוֹב: מִי אַתָּה?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -889,25 +935,25 @@
      שֶׁהוּא תָּמִיד לָרַעַ שׁוֹאֵל בְּלִי מָנוֹחַ –
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      וְאֶת הַטּוֹב יוֹצֵר.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      אֵינִי מֵבִין: פָּרֵשׁ.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -926,8 +972,8 @@
      כָּל הַנִּברָא רָאוּי לְהֶרֶס,
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     – מַה טּוֹב לוּלֵא נִברָא!
@@ -942,25 +988,25 @@
      אוֹ, בְּקִצּוּר, כָּל מַה שֶׁ“רַע” נִקרָא –
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      זֶה עוֹלָמִי – שֶׁבּוֹ לֹא אֶתבַּיֵּשָׁה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      אָמַרתָּ לִי “קֹרטוֹב”: הַאֵין אַתָּה מֻשׁלָם?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -989,8 +1035,8 @@
      אֲשֶׁר בָּרִאשׁוֹנָה, בְּעוֹד אֵין רַע, אֵין טוֹב,
     </p>
    </sp>
-   <sp>
-    <speaker id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+   <sp who="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+    <speaker>
      הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
     </speaker>
     <p>
@@ -1027,14 +1073,14 @@
      כֹּה בְקָרוֹב, אוּלַי, עוֹד אֶפָּטֵר מִמֵּנוּ –
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      יִכבֶּה עִם הַגּוּפוֹת, וְאָז יִמשׁוֹל מָעוּף.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1048,14 +1094,14 @@
      רָצִיתָ אֶת הַכֹּל הַשׁחֵת – וְלֹא הִשׁחַתָּ,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      לָכֵן פָּנִיתָ לַפְּרָט?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1139,14 +1185,14 @@
      לוּלֵא הָאֵשׁ שֶׁהִיא בֵּיתִי לְפִי מָסֹרֶת,
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      אָז לֹא נוֹתַר לִי אַף מִקְלָט.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1175,14 +1221,14 @@
      בַּקֵּשׁ לְךָ מִשׂרָה אַחֶרֶת,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      בֶּן תֹּהוּ מְשֻׁנֶּה – אוּלַי תִּצלַח יוֹתֵר.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1196,14 +1242,14 @@
      הַשְּׁאֵלָה בִּזמַן אַחֵר.
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      כָּעֵת – הַרשֵׁנִי וְאֵלֵכָה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1227,14 +1273,14 @@
      כֵּן גַּם תֵּצֵא – הִנֵּה הַדֶּלֶת,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      הִנֵּה חַלּוֹן – אוֹ אֲרֻבָּה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1248,14 +1294,14 @@
      וְגַם אוֹדֶה אֶת הַסִּבָּה:
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      זֶה הַצִּיּוּר בַּסַּף – זֶה שָׁמָּה…
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1274,14 +1320,14 @@
      אֱמוֹר, כֵּיצַד הֲלֹם נִכנַסְתָּ?
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      שַׂר כָּל עָרמָה – כֵּיצַד בַּמֶּה נִתפַּשׂתָּ?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1290,14 +1336,14 @@
      פֹּה יֵשׁ מִגרַעַת בְּצִיּוּר: אַחַת הַזָּוִיּוֹת, זֹה שֶּׁפּוֹנָה הַדַּלתָּה,
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      הִיא פְּתוּחָה קְצָת – הֲלֹא תִּרְאֶה?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1311,14 +1357,14 @@
      עַל כֵּן, נִשְׁבֵּיתָ וְנִכבַּלתָּ?
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      זֶה נִצָּחוֹן מִמַּעַל לַתִּקוָה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1332,25 +1378,25 @@
      אוּלָם כְּשֶׁאָמַר: עַכשָׁו מִכָּאן אָרוּצָה –
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      הִנֵּה, לַשֵּׁד אָסוּר לָצֵאת הַחוּצָה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      וְהַחַלּוֹן? הֲלֹא אֵינוֹ רָחוֹק.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1364,14 +1410,14 @@
      לְצֵאת בַּדֶּרֶךְ בָּהּ נִכְנַסְנוּ,
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      לָבוֹא – מִבְחַר חָפְשִׁי: בָּחַרְנוּ – נֶאֱנַסְנוּ.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1385,14 +1431,14 @@
      לֵאמֹר, אֶפשָׁר לִכרוֹת עִמכֶם בְּרִית וּתנַאי
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      וְתִשׁמְרוּ אוֹתוֹ בְצֶדֶק?
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1426,8 +1472,8 @@
      אֵצֵא-נָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="fust">
+   <sp who="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1436,14 +1482,14 @@
      לֹא, שְׁהֵה כְרֶגַע עוֹד,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      סַפֵּר לִי מַשֶּׁהוּ – דִּברֵי עִניָן וָטַעַם.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1452,14 +1498,14 @@
      בִּי, אֲדוֹנִי, הַרשֵׁנִי וְאֵצֵא!
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      הֲלֹא אָשׁוּב – אֲזַי תִּשׁאַל מַה שֶּׁתִּרצֶה.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1478,14 +1524,14 @@
      שָׂטָן כִּי תְפַשׂתּוֹ, אֱחֹז אוֹתוֹ לָבֶטַח,
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      כִּי לֹא עַל נְקַלָּה תִּתפֹּשׂ אוֹתוֹ שֵׁנִית.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1504,14 +1550,14 @@
      כִּי לְשַׂמֵּחַ פֹּה תַּרְשֵׁנִי
     </p>
    </sp>
-   <sp>
+   <sp who="fust">
     <p>
      אֶת נַפְשְׁךָ בְּעִנּוּנָי.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="fust">
+    <speaker>
      פאוסט
     </speaker>
    </sp>
@@ -1520,14 +1566,14 @@
      מַדּוּעַ לֹא, אָדוֹן אוֹרֵחַ?
     </p>
    </sp>
-   <sp>
+   <sp who="mfistufls">
     <p>
      גַּם כֵּן בִּתנַאי, שֶׁ – תְּשַׂמֵּחַ.
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -1581,14 +1627,14 @@
      הָאֳמְנִים עַל הָאַשְׁמֹרֶת
     </p>
    </sp>
-   <sp>
+   <sp who="mngins hrukhus">
     <p>
      מִחוּץ לַסַּף. עַל כֵּן – תִּזְמֹרֶת!
     </p>
     <p>
      <br/>
     </p>
-    <speaker id="mngins hrukhus">
+    <speaker>
      מנגינת הרוחות
     </speaker>
    </sp>
@@ -1942,8 +1988,8 @@
      חֶסֶד עוֹלָם…
     </p>
    </sp>
-   <sp>
-    <speaker id="mfistufls">
+   <sp who="mfistufls">
+    <speaker>
      מפיסטופלס
     </speaker>
    </sp>
@@ -2052,8 +2098,8 @@
      (יוצא)
     </p>
    </sp>
-   <sp>
-    <speaker id="fust">
+   <sp who="fust">
+    <speaker>
      פאוסט
     </speaker>
     <p>

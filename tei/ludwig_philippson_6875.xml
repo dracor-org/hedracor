@@ -46,6 +46,72 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="es hmeshh">
+      <persName>
+       עת המעשה
+      </persName>
+     </person>
+     <person xml:id="mkum hmkhzh">
+      <persName>
+       מקום המחזה
+      </persName>
+     </person>
+     <person xml:id="ishmel besh">
+      <persName>
+       ישמעאל בעשא
+      </persName>
+     </person>
+     <person xml:id="zbidh ugdlihu">
+      <persName>
+       זבידה וגדליהו
+      </persName>
+     </person>
+     <person xml:id="ishmel eglun besh">
+      <persName>
+       ישמעאל עגלון בעשא
+      </persName>
+     </person>
+     <person xml:id="khmutl ishmel">
+      <persName>
+       חמוטל ישמעאל
+      </persName>
+     </person>
+     <person xml:id="gdlihu yukhnn">
+      <persName>
+       גדליהו יוחנן
+      </persName>
+     </person>
+     <person xml:id="khmutl uzbidh">
+      <persName>
+       חמוטל וזבידה
+      </persName>
+     </person>
+     <person xml:id="ishְׁal">
+      <persName>
+       יִשְׁאַל
+      </persName>
+     </person>
+     <person xml:id="yukhnn b mfskh hbis, khryu shlikh">
+      <persName>
+       יוחנן בא מפתח הבית, אחריו שליח
+      </persName>
+     </person>
+     <person xml:id="khshdi uhkudmim">
+      <persName>
+       כשדי והקודמים
+      </persName>
+     </person>
+     <person xml:id="mkhzh ">
+      <persName>
+       מחזה א
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -783,16 +849,16 @@
      אנשים, נשים ונערות, כשדים ועמונים.
     </p>
    </sp>
-   <sp>
-    <speaker id="es hmeshh">
+   <sp who="es hmeshh">
+    <speaker>
      עת המעשה
     </speaker>
     <p>
      : קרוב אחר חרבת ירושלים בפעם הראשונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mkum hmkhzh">
+   <sp who="mkum hmkhzh">
+    <speaker>
      מקום המחזה
     </speaker>
     <p>
@@ -2209,8 +2275,8 @@
      מקום בבירת מצפה, לשמאלה שער מקורה; קרוב לו בית גדול נחמד למראּה, בירכתים ימה מקום גבוה, משם עין רואה למרחוק ונשקף על פני הישמון וההרים וקצה העיר ירושלים השוממה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhzh ">
+   <sp who="mkhzh ">
+    <speaker>
      מחזה א.
     </speaker>
    </sp>
@@ -2219,8 +2285,8 @@
      להקת נשים ונערות מלקטות פרחים וצצים ומקשרות כותרות וצרורי פרחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn b mfskh hbis, khryu shlikh">
+   <sp who="yukhnn b mfskh hbis, khryu shlikh">
+    <speaker>
      יוחנן בא מפתח הבית, אחריו שליח.
     </speaker>
    </sp>
@@ -3114,8 +3180,8 @@
      בְּהִבָּקַע הַזָּג אָז אָפֵס כָּל-חֶסֶד!
     </p>
    </sp>
-   <sp>
-    <speaker id="gdlihu yukhnn">
+   <sp who="gdlihu yukhnn">
+    <speaker>
      גדליהו יוחנן.
     </speaker>
    </sp>
@@ -3809,8 +3875,8 @@
      אֲבָל רְאֵה נָא מִי זֶה הוּא בָא שָׁמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khshdi uhkudmim">
+   <sp who="khshdi uhkudmim">
+    <speaker>
      כשדי והקודמים.
     </speaker>
    </sp>
@@ -4789,8 +4855,8 @@
      חמוטל והנשים עם יוחנן הולכים והוא נשאר עודנו שם לבדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="zbidh ugdlihu">
+   <sp who="zbidh ugdlihu">
+    <speaker>
      זבידה וגדליהו.
     </speaker>
    </sp>
@@ -6739,8 +6805,8 @@
      גדליהו הולך הביתה וגם האנשים הלכו להם איש איש לדרכו לאהליהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ishmel eglun besh">
+   <sp who="ishmel eglun besh">
+    <speaker>
      ישמעאל עגלון בעשא
     </speaker>
    </sp>
@@ -8799,8 +8865,8 @@
      חדר בתוך הבית פנימה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khmutl uzbidh">
+   <sp who="khmutl uzbidh">
+    <speaker>
      חמוטל וזבידה.
     </speaker>
    </sp>
@@ -11724,8 +11790,8 @@
      וּבְחָזְקָה לָקַחְתָּ לְךָ מִשְׂרָה וְקַרְנָיִם –
     </p>
    </sp>
-   <sp>
-    <speaker id="ishְׁal">
+   <sp who="ishְׁal">
+    <speaker>
      יִשְׁאַל
     </speaker>
     הֲיִפּוֹל כֹּה יְהוּדָה לָנֶצַח
@@ -13235,8 +13301,8 @@
      חדר בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="khmutl ishmel">
+   <sp who="khmutl ishmel">
+    <speaker>
      חמוטל ישמעאל.
     </speaker>
    </sp>
@@ -17610,8 +17676,8 @@
      (הוא והרוכבים הולכים ).
     </p>
    </sp>
-   <sp>
-    <speaker id="gdlihu yukhnn">
+   <sp who="gdlihu yukhnn">
+    <speaker>
      גדליהו יוחנן.
     </speaker>
    </sp>
@@ -17865,8 +17931,8 @@
      (הולך)
     </p>
    </sp>
-   <sp>
-    <speaker id="ishmel besh">
+   <sp who="ishmel besh">
+    <speaker>
      ישמעאל בעשא.
     </speaker>
    </sp>

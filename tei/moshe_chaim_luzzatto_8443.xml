@@ -46,6 +46,22 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="u">
+      <persName>
+       או
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,8 +78,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="u">
+   <sp who="u">
+    <speaker>
      או
     </speaker>
    </sp>
@@ -1904,8 +1920,8 @@
      כֵּן חשְׁבִים עָלֶיךָ,
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     יְהִי עַבְדֵּנוּ, -

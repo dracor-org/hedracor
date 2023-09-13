@@ -46,6 +46,62 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="khֲbִibִh">
+      <persName>
+       חֲבִיבִה
+      </persName>
+     </person>
+     <person xml:id="hzmn">
+      <persName>
+       הזמן
+      </persName>
+     </person>
+     <person xml:id="yuֹdֵeַ">
+      <persName>
+       יוֹדֵעַ
+      </persName>
+     </person>
+     <person xml:id="uֹmְrִim">
+      <persName>
+       אוֹמְרִים
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
+      </persName>
+     </person>
+     <person xml:id="bְbַkָּshָׁh">
+      <persName>
+       בְּבַקָּשָׁה
+      </persName>
+     </person>
+     <person xml:id="eַbְdּuֹ">
+      <persName>
+       עַבְדּוֹ
+      </persName>
+     </person>
+     <person xml:id="bַr-dְּruֹmָ">
+      <persName>
+       בַּר-דְּרוֹמָא
+      </persName>
+     </person>
+     <person xml:id="omַrְtָ">
+      <persName>
+       אָמַרְתָּ
+      </persName>
+     </person>
+     <person xml:id="drmh bs rbe elilus">
+      <persName>
+       דרמה בת ארבע עלילות
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,8 +118,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="drmh bs rbe elilus">
+   <sp who="drmh bs rbe elilus">
+    <speaker>
      דרמה בת ארבע עלילות
     </speaker>
    </sp>
@@ -82,8 +138,8 @@
      רָחֵל בַּת כַּלְבָּא-שָׂבוּעַ:       אשת רבי עקיבא, סימני יופי מקודם.
     </p>
    </sp>
-   <sp>
-    <speaker id="khֲbִibִh">
+   <sp who="khֲbִibִh">
+    <speaker>
      חֲבִיבִה
     </speaker>
     שומרונית צעירה, יפת-הרים פראית.
@@ -118,8 +174,8 @@
      רַבִּי טַרְפוֹן:  –      אחד החכמים
     </p>
    </sp>
-   <sp>
-    <speaker id="bַr-dְּruֹmָ">
+   <sp who="bַr-dְּruֹmָ">
+    <speaker>
      בַּר-דְּרוֹמָא
     </speaker>
     צעיר.
@@ -144,8 +200,8 @@
      נַעַר מְשָׁרֵת
     </p>
    </sp>
-   <sp>
-    <speaker id="hzmn">
+   <sp who="hzmn">
+    <speaker>
      הזמן
     </speaker>
     שנות 130 – 135 לפי הספירה הנהוגה.
@@ -599,8 +655,8 @@
      חייל רביעי
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹmְrִim">
+   <sp who="uֹmְrִim">
+    <speaker>
      אוֹמְרִים
     </speaker>
     גַּם בַּגָּלִיל.
@@ -650,8 +706,8 @@
      יִמַּח שְׁמָם שֶׁל בַּרְבָּרִים! כְּבָר אֲנִי
     </p>
    </sp>
-   <sp>
-    <speaker id="omַrְtִi">
+   <sp who="omַrְtִi">
+    <speaker>
      אָמַרְתִּי
     </speaker>
     דַּי לִי, אָשׁוּב בַּיְתָה לְאַרְצִי,
@@ -2651,8 +2707,8 @@
      רַבִּי, וְאִי אַתָּה
     </p>
    </sp>
-   <sp>
-    <speaker id="yuֹdֵeַ">
+   <sp who="yuֹdֵeַ">
+    <speaker>
      יוֹדֵעַ
     </speaker>
     אֻמָּה זוֹ מִן הַשָּׁמַיִם
@@ -6358,8 +6414,8 @@
      בר כוכבא
     </p>
    </sp>
-   <sp>
-    <speaker id="omַrְtָ">
+   <sp who="omַrְtָ">
+    <speaker>
      אָמַרְתָּ
     </speaker>
     בָּנִים.
@@ -6519,8 +6575,8 @@
      יִתְבּוֹנֵן מַר, יִתְבּוֹנֵן נָא אֵלָי,
     </p>
    </sp>
-   <sp>
-    <speaker id="bְbַkָּshָׁh">
+   <sp who="bְbַkָּshָׁh">
+    <speaker>
      בְּבַקָּשָׁה
     </speaker>
     זָקֵן… חוֹלֶה, כֹּחוֹ תָשׁ…
@@ -9088,8 +9144,8 @@
      מִירוּשָׁלָים. וּלְקַיֵּם אֵת אֲשֶׁר דִּבֶּר בְּפִי משֶׁה
     </p>
    </sp>
-   <sp>
-    <speaker id="eַbְdּuֹ">
+   <sp who="eַbְdּuֹ">
+    <speaker>
      עַבְדּוֹ
     </speaker>
     דָּרַך כּוֹכָב מִיַּעֲקֹב וְקָם שֵׁבֶט מִיִּשְׂרָאֵל;

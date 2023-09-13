@@ -46,6 +46,102 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="h“gbrs”">
+      <persName>
+       ה“גברת”
+      </persName>
+     </person>
+     <person xml:id="bilh">
+      <persName>
+       בּילה
+      </persName>
+     </person>
+     <person xml:id="hgbrs">
+      <persName>
+       הגברת
+      </persName>
+     </person>
+     <person xml:id="mkum mkhzh bmtbkh">
+      <persName>
+       מקום מחזה במטבח
+      </persName>
+     </person>
+     <person xml:id="bilh">
+      <persName>
+       בילה
+      </persName>
+     </person>
+     <person xml:id="r' ltr">
+      <persName>
+       ר' אלתּר
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="klm">
+      <persName>
+       כּלם
+      </persName>
+     </person>
+     <person xml:id="r'">
+      <persName>
+       ר'
+      </persName>
+     </person>
+     <person xml:id="frdil">
+      <persName>
+       פרדיל
+      </persName>
+     </person>
+     <person xml:id="bilh ufrdil">
+      <persName>
+       בילה ופרדיל
+      </persName>
+     </person>
+     <person xml:id="r' lsr">
+      <persName>
+       ר' אלתר
+      </persName>
+     </person>
+     <person xml:id="kheym ultr">
+      <persName>
+       חיים ואלתּר
+      </persName>
+     </person>
+     <person xml:id="kheym uhnshim">
+      <persName>
+       חיים והנשים
+      </persName>
+     </person>
+     <person xml:id="r' alsr">
+      <persName>
+       ר' אַלתר
+      </persName>
+     </person>
+     <person xml:id="kheym">
+      <persName>
+       חיים
+      </persName>
+     </person>
+     <person xml:id="r' altr">
+      <persName>
+       ר' אַלתּר
+      </persName>
+     </person>
+     <person xml:id="r' lsr. (mlkk s shfsyu)">
+      <persName>
+       ר' אלתר. (מלקק את שפתיו)
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,24 +159,24 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
      . מבשלת, אלמנה למעלה משלשים, אשה מלאה ובריאה.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
      . משרתת, שחרחרת מלאת חן.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -89,8 +185,8 @@
 מלוכלכת וקפילוש מעוך על ראשו. הוא משדך את עצמו אל המבשלת.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -98,8 +194,8 @@
 אתעמו אל המשרתת.
     </p>
    </sp>
-   <sp>
-    <speaker id="h“gbrs”">
+   <sp who="h“gbrs”">
+    <speaker>
      ה“גברת”.
     </speaker>
     <p>
@@ -107,16 +203,16 @@
 המחזה האחרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="mkum mkhzh bmtbkh">
+   <sp who="mkum mkhzh bmtbkh">
+    <speaker>
      מקום מחזה במטבח
     </speaker>
     <p>
      .
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
@@ -223,8 +319,8 @@
 ספרים תחת זרועו).
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -254,8 +350,8 @@
 דבר מה אל פיו. (מגשת לו מכל המטעמים).
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -270,8 +366,8 @@
 יובל שנים מלה יהודית… שומעת אַת, בילה’ניו, חוץ לארץ זהו הפּגע שלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -285,8 +381,8 @@
 (היא גוחנת, מוציאה בקבוק יי"ש ומוזגת לו כוס קטנה)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -301,8 +397,8 @@
 צ. צ.
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -311,8 +407,8 @@
      צ – צ – צפעונים? איזה מין פּגע הוא זה, ר' אלתר?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
    </sp>
@@ -322,8 +418,8 @@
 שנלך כלנו לפלשתינה רוצים הם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
     <p>
@@ -335,8 +431,8 @@
      הרי לך! שמא מעט היה! בלסטרינה על ראשם, מחלה וצנה, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -350,8 +446,8 @@
 והעם כלו, כלומר: לדא ולהא, להאי ולמאי…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -362,8 +458,8 @@
 האנשים האלו!…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -389,8 +485,8 @@
      נו, ר' אלתר, יטעם נא עוד משהו מן היין הזה, גם זה נותר מאתמול.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -404,8 +500,8 @@
 פיו) אך זה יין! יש בו כל הסממנים. גם דא וגם הא, וגם האי וגם מאי….
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בּילה
     </speaker>
     <p>
@@ -418,8 +514,8 @@
 לכשיתהפכו במדויהם, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -434,8 +530,8 @@
 שכור? חס ושלום, יהודי שכור? חלילה! לא היתה כזאת בישראל!…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בּילה
     </speaker>
     <p>
@@ -447,8 +543,8 @@
      לא היתה, לא היתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -466,8 +562,8 @@
 משלך, תבשיל משלך ודא, והא, והאי ומאי משלך? ההבנת בילה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -477,8 +573,8 @@
 ומה נדבר? אלמנה שוממה, “מה אנו ומה חיינו?”.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -488,8 +584,8 @@
 דא ומצד הא, ומצד האי ומצד מאי…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
@@ -502,8 +598,8 @@
 עלובים? עשר זה, רבוש”ע, על בעה’ב שלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
     <p>
@@ -518,8 +614,8 @@
 בידו. בר נש, אשר… מבינה את דא והא, האי ומאי…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -528,8 +624,8 @@
      כדומה למשל, כגון?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -540,8 +636,8 @@
 כעין ספרים, מעשיות. רומנים (עושה תנועה בידיו) דא והא, האי ומאי… נו?
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -557,8 +653,8 @@
 ויאכלו, – רמה תאכל אותם! (מוזגת לו עוד כוס)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -572,8 +668,8 @@
 נותנים לה לאל ולשתות דא והא, והאי ומאי… נו?
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בּילה.
     </speaker>
    </sp>
@@ -582,8 +678,8 @@
      ר' אלתר, דבריך תמיד סתומים ממני, ואין אני…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' alsr">
+   <sp who="r' alsr">
+    <speaker>
      ר' אַלתר.
     </speaker>
    </sp>
@@ -593,8 +689,8 @@
 ימח שמם…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -603,8 +699,8 @@
      מה א-א-א-לה הלימיסטים? איזה פגע? פגע יהיה להם על חוטמם, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -615,8 +711,8 @@
 כל הדויים ומעונים בעלמא הדין…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -626,8 +722,8 @@
 הקטנה של אלו.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -637,8 +733,8 @@
 ור' אלתר משקיע עיניו בספר)
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
     <p>
@@ -654,8 +750,8 @@
 אי פרדיל? פרדיל, איכי? (רוצה למזוג לו עוד כוס).
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
@@ -668,8 +764,8 @@
 אצלך, ומה לשום אדוניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -680,8 +776,8 @@
 מפצחם בין שניו, בהכותו בידו בסנטרו מלמטה למעלה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
@@ -693,8 +789,8 @@
      מפני מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -713,8 +809,8 @@
      (נכנסת פרדיל מן הבית)
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
     <p>
@@ -741,8 +837,8 @@
      ואני נשארתי לבדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -754,8 +850,8 @@
      ואך, איזה צער!
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -772,8 +868,8 @@
      מתי לי חתן תביא! (הדרן)
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -805,8 +901,8 @@
      שלמה לא ראיתיך מני יום שבתּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -843,8 +939,8 @@
      מתי לי חתן תביא? (הדרן)
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -859,8 +955,8 @@
 וכ' ככתוב בספריו של ר' אלתר.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -871,8 +967,8 @@
 קוביוסטוסים?.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -883,8 +979,8 @@
 משחק. יודעת את מאימתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -893,8 +989,8 @@
      אדרבה, מאימתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -905,8 +1001,8 @@
 ושנית, מפני שאני צובר על יד, פרוטה לפרוטה, בשביל החתונה, נשמה שלי…
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -915,8 +1011,8 @@
      ומה מעשיך בלילות, לאחר שאתה גומר את עבודתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -930,8 +1026,8 @@
 לא ישנתי וקראתי וקראתי וקראתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -943,8 +1039,8 @@
      אני משערת את טיבו של הספר אשר נפל לתוך ידיך… ודאי רומנס?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -956,8 +1052,8 @@
      ועוד איזה רומנס! רומנס בששה חלקים וניקרולוג בראש.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -966,8 +1062,8 @@
      אפּילוג.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -979,8 +1075,8 @@
      כן, אמפילוג.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -989,8 +1085,8 @@
      מה שמו של ספר זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1003,8 +1099,8 @@
 מה שמו?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1013,8 +1109,8 @@
      של מי? של מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1023,8 +1119,8 @@
      של אותו הספר אשר הבאת לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1037,8 +1133,8 @@
 שמ”ר".
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh ufrdil">
+   <sp who="bilh ufrdil">
+    <speaker>
      בילה ופרדיל.
     </speaker>
    </sp>
@@ -1047,8 +1143,8 @@
      איזה מין שם אריכתא, ישמרנו ויצילנו שומר ישראל.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1064,8 +1160,8 @@
 עצמותיו”.
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh ufrdil">
+   <sp who="bilh ufrdil">
+    <speaker>
      בילה ופרדיל.
     </speaker>
    </sp>
@@ -1074,8 +1170,8 @@
      תפחנה עצמותיך אתה! כפרה בעד כל היהודים תהיה, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1087,8 +1183,8 @@
      אמן, על אויבי! בקצור, פרדיל, זהו מין ספר – שפתיים ישק!
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -1097,8 +1193,8 @@
      מה כותבים שם באותו ספר! האם חולה אתה ואינך יכול לספר לנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1107,8 +1203,8 @@
      כותבים שם… קשה לזכר מה שכותבים שם.. שם חד בחור יפה כבן עשרים ויותר…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1117,8 +1213,8 @@
      בן י"ח!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1130,8 +1226,8 @@
      מתאהב בנערה בת י"ט.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1140,8 +1236,8 @@
      בת י"ז!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1154,8 +1250,8 @@
 כזפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -1164,8 +1260,8 @@
      עם שערות בהירות.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1174,8 +1270,8 @@
      כונתי, ברוניטית עם שערות בירות.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -1187,8 +1283,8 @@
      ומה שמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1201,8 +1297,8 @@
 מה שמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1211,8 +1307,8 @@
      של מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1224,8 +1320,8 @@
      של אותה ריבה אשר בספר שלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -1234,8 +1330,8 @@
      סרפימה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1247,8 +1343,8 @@
 אותו מקום היה חד מטבח… לא כך, ר' אלתר?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1257,8 +1353,8 @@
      מה? מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1267,8 +1363,8 @@
      איפה נפגש שם בספר שלך אותו בחור עם אותה ריבה? במטבח, – לא כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1278,8 +1374,8 @@
 בגינת הבּיתן של אסתר המלכה, שם אצל קריאת ים סוף, בפרדס של תפוחי זהב…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1299,8 +1395,8 @@
      לך לך – ריקא!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' altr">
+   <sp who="r' altr">
+    <speaker>
      ר' אַלתּר.
     </speaker>
    </sp>
@@ -1309,8 +1405,8 @@
      חס ושלום, לא כך! תחלה כורע הוא על הברכיים…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1322,8 +1418,8 @@
      ברצוני רק להראותך כיצד אותו בחור חובק אותה ריבה שם, בספר שלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -1336,8 +1432,8 @@
 רחוקים אל בת הגברת והנה הוא יושב סגור אתה בחדר מיוחד מאז הבקר…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1349,8 +1445,8 @@
      מאז הבקר? רבוש"ע, כמה ארכן הוא זה! במה הם עוסקים שם, חתלתלי שלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -1362,8 +1458,8 @@
      כלום אני יודעת? רק מלה אחת שמעתי, כשנכנסתי עם התה אליהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1375,8 +1471,8 @@
      איזו, איזו מלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -1388,8 +1484,8 @@
      וכשאני אומר לך תדע מיד. “זשיואפּרי” שמעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1402,8 +1498,8 @@
 ר' אלתר?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr. (mlkk s shfsyu)">
+   <sp who="r' lsr. (mlkk s shfsyu)">
+    <speaker>
      ר' אלתר. (מלקק את שפתיו).
     </speaker>
    </sp>
@@ -1413,8 +1509,8 @@
 שזה לא דא ולא הא…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1431,8 +1527,8 @@
      (נשמע קול מתוך הבית: פרני, פרדיל, מה לך שם במטבח? חולאת עליך!)
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל
     </speaker>
     <p>
@@ -1445,8 +1541,8 @@
 את הכלים. אני הולכת, אני הולכת, על ארבע תלכוּ, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1458,8 +1554,8 @@
      אמן, על אויבי!
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -1469,8 +1565,8 @@
 הטריחי נא את עצמך והביאי כוס מים בשביל הגברת לוקשנקוגל.
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -1479,8 +1575,8 @@
      ומה ע"ד החתן והכלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -1489,8 +1585,8 @@
      גם עליהם אל תבא ברכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1499,8 +1595,8 @@
      אמן, על אויבי!
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -1510,8 +1606,8 @@
 בחדר לכל היום. אוי לו למסכן. הכלה שלנו יודעת את העסק, גם את עיניו תנקר.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -1522,8 +1618,8 @@
 קויתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -1550,8 +1646,8 @@
      סובל עוני שוד וקרץ…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1563,8 +1659,8 @@
      אוהו, ר' אלתר בגלופין. כנראה, שתה ככל הצרך מן האדם-האדם!…
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה
     </speaker>
     <p>
@@ -1576,8 +1672,8 @@
      כשתיתו שלו – כן יהיה מאכלך שלך, רבוש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1591,8 +1687,8 @@
 ובכדומה.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1602,8 +1698,8 @@
 לרוח הזמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym uhnshim">
+   <sp who="kheym uhnshim">
+    <speaker>
      חיים והנשים.
     </speaker>
    </sp>
@@ -1612,8 +1708,8 @@
      טוב, טוב, נלוה אותך כלנו. (מכינים את עצמם לזמרה)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -1660,8 +1756,8 @@
      ננגן נגון טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -1693,8 +1789,8 @@
      ונשארנו שמונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם.
     </speaker>
    </sp>
@@ -1703,8 +1799,8 @@
      אוי, הכנור וכו'…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1723,8 +1819,8 @@
      ונשארנו שבעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="klm">
+   <sp who="klm">
+    <speaker>
      כּלם
     </speaker>
    </sp>
@@ -1733,8 +1829,8 @@
      אוי, הכנור וכו'…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1758,8 +1854,8 @@
      ונשארנו ששה.
     </p>
    </sp>
-   <sp>
-    <speaker id="klm">
+   <sp who="klm">
+    <speaker>
      כּלם
     </speaker>
     <p>
@@ -1771,8 +1867,8 @@
      אוי, הכנור וכר'…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
     <p>
@@ -1799,8 +1895,8 @@
      ונשארנו חמשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="klm">
+   <sp who="klm">
+    <speaker>
      כּלם
     </speaker>
     <p>
@@ -1812,8 +1908,8 @@
      אוי, הכנור וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1837,8 +1933,8 @@
      ונשארנו ארבעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="klm">
+   <sp who="klm">
+    <speaker>
      כּלם
     </speaker>
     <p>
@@ -1850,8 +1946,8 @@
      אוי, הכנור וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1875,8 +1971,8 @@
      ונשארנו שלשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -1888,8 +1984,8 @@
      אוי, הכנור וכו'….
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1913,8 +2009,8 @@
      ונשארנו שנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -1926,8 +2022,8 @@
      אוי, הכנור וכו'…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -1951,8 +2047,8 @@
      ונשאר רק אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -1964,8 +2060,8 @@
      אוי, הכנור וכו'…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר
     </speaker>
    </sp>
@@ -1989,8 +2085,8 @@
      וילך ציונה!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -2007,8 +2103,8 @@
      אוי, הכנור וכו'…
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -2020,8 +2116,8 @@
      נחמד, נחמד ויפה!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2038,8 +2134,8 @@
      (נשמע קול מתוך הבית: פרני, פרדיל, המים המים!)
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -2054,8 +2150,8 @@
      (ממהרת לצאת)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -2144,8 +2240,8 @@
      אבל שכורים איננו…
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -2159,8 +2255,8 @@
      ההשתגעת? איזה רקוד פתאם? ואתה, ר' אלתר, יהודי שכמותך! הרי זו בושה!
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
     <p>
@@ -2173,8 +2269,8 @@
 כזו, אשר כמה שישתה לא יהא שכור לעולם (מוזג לו כוס).
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -2183,8 +2279,8 @@
      כל חלומותי מאתמול ומשלשם ומכל השנה! השמעתם? שמה המז"ט ופה השתיה, בילה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -2193,8 +2289,8 @@
      ש – ש, מה הרעש? הם לא שתו כלל כל כך הרבה. נגעו בשפתותיהם ולא יותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2207,8 +2303,8 @@
 לי, שתהיי שלי, שלי לנצח נצחים ולעולם ועד ולעולמי עולמים. (רוצה לחבקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
    </sp>
@@ -2217,8 +2313,8 @@
      כל חלומותי הרעים עליך! מה אתך? שכור אתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
    </sp>
@@ -2227,8 +2323,8 @@
      שכור! חס ושלום. יהודי שכור! מה תאמר, ר' אלתר, יכל יהודי להיות שכור?
     </p>
    </sp>
-   <sp>
-    <speaker id="r'">
+   <sp who="r'">
+    <speaker>
      ר'
     </speaker>
     <p>
@@ -2243,8 +2339,8 @@
 מאי…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
     <p>
@@ -2262,8 +2358,8 @@
 אל הרופאים…
     </p>
    </sp>
-   <sp>
-    <speaker id="frdil">
+   <sp who="frdil">
+    <speaker>
      פרדיל.
     </speaker>
     <p>
@@ -2275,8 +2371,8 @@
      תדבק לשונך!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2287,8 +2383,8 @@
 הרי לך מתנתי, כּלה שלי! (הוא חובקה ומנשקה, והיא כאלו דוחפתו).
     </p>
    </sp>
-   <sp>
-    <speaker id="bilh">
+   <sp who="bilh">
+    <speaker>
      בילה.
     </speaker>
    </sp>
@@ -2298,8 +2394,8 @@
 (מראה לו את השרשרת)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' lsr">
+   <sp who="r' lsr">
+    <speaker>
      ר' אלתר.
     </speaker>
    </sp>
@@ -2345,8 +2441,8 @@
      אוי, אוי, אוי, אוי…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2362,8 +2458,8 @@
 ור' אלתר צמד חמד, זווג מן השמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -2372,8 +2468,8 @@
      זווג מן השמים… לחיים, לחיים…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2384,8 +2480,8 @@
 שירה לנו משיריך, שיהא כפתור ופרח מן שמחת תורה.
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
     <p>
@@ -2477,8 +2573,8 @@
      כבד פה תהיה אתה!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2494,8 +2590,8 @@
      (אוחזים זה את זה בידים ורקדים)
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -2509,8 +2605,8 @@
      אבל יהודים הננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2522,8 +2618,8 @@
      אבל קבצנים הננו…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' altr">
+   <sp who="r' altr">
+    <speaker>
      ר' אַלתּר
     </speaker>
     <p>
@@ -2540,8 +2636,8 @@
      אבל עם ציציות הננוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2553,8 +2649,8 @@
      אבל עם משקה הננו!…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר.
     </speaker>
    </sp>
@@ -2568,8 +2664,8 @@
      אבל יהודים הננו!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2578,8 +2674,8 @@
      אבל שכורים הננוּ…
     </p>
    </sp>
-   <sp>
-    <speaker id="r' ltr">
+   <sp who="r' ltr">
+    <speaker>
      ר' אלתּר
     </speaker>
     <p>
@@ -2596,8 +2692,8 @@
      אבל עם תפלין הננו!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים.
     </speaker>
    </sp>
@@ -2606,8 +2702,8 @@
      אבל עם נשמה הננוּ…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym ultr">
+   <sp who="kheym ultr">
+    <speaker>
      חיים ואלתּר.
     </speaker>
    </sp>
@@ -2636,8 +2732,8 @@
      אבל רקדנים הננוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2655,8 +2751,8 @@
      (פתאום נפתחת הדלת ונראה החטם של “הגברת” ואחריו היא עצמה).
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbrs">
+   <sp who="hgbrs">
+    <speaker>
      הגברת
     </speaker>
     <p>

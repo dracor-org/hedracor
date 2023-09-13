@@ -46,6 +46,297 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="nerus">
+      <persName>
+       נערות
+      </persName>
+     </person>
+     <person xml:id="khd">
+      <persName>
+       אחד
+      </persName>
+     </person>
+     <person xml:id="ִmru">
+      <persName>
+       אִמרו
+      </persName>
+     </person>
+     <person xml:id="uְhֹuֶh, kְlִil mְtsִyus umַh shֶּׁlֹּ hָiָh">
+      <persName>
+       וְהֹוֶה, כְּלִיל מְצִיאוּת וּמַה שֶּׁלֹּא הָיָה
+      </persName>
+     </person>
+     <person xml:id="ssr uhnerus">
+      <persName>
+       אסתר והנערות
+      </persName>
+     </person>
+     <person xml:id="shulkhn b">
+      <persName>
+       שולחן ב
+      </persName>
+     </person>
+     <person xml:id="shulkhn ">
+      <persName>
+       שולחן א
+      </persName>
+     </person>
+     <person xml:id="oyzs">
+      <persName>
+       ויזתא
+      </persName>
+     </person>
+     <person xml:id="hgi">
+      <persName>
+       הגי
+      </persName>
+     </person>
+     <person xml:id="ssr">
+      <persName>
+       אסתר
+      </persName>
+     </person>
+     <person xml:id="uumrim">
+      <persName>
+       ואומרים
+      </persName>
+     </person>
+     <person xml:id="umrim">
+      <persName>
+       אומרים
+      </persName>
+     </person>
+     <person xml:id="nerh ">
+      <persName>
+       נערה א
+      </persName>
+     </person>
+     <person xml:id="lmr">
+      <persName>
+       לאמר
+      </persName>
+     </person>
+     <person xml:id="khrbunh">
+      <persName>
+       חרבונה
+      </persName>
+     </person>
+     <person xml:id="khl hkhl">
+      <persName>
+       כל הקהל
+      </persName>
+     </person>
+     <person xml:id="shlishi">
+      <persName>
+       שלישי
+      </persName>
+     </person>
+     <person xml:id="mhumn">
+      <persName>
+       מהומן
+      </persName>
+     </person>
+     <person xml:id="}">
+      <persName>
+       }
+      </persName>
+     </person>
+     <person xml:id="shni mshulkhn u">
+      <persName>
+       שני משולחן ו
+      </persName>
+     </person>
+     <person xml:id="khd mshulkhn h">
+      <persName>
+       אחד משולחן ה
+      </persName>
+     </person>
+     <person xml:id="hkhl">
+      <persName>
+       הכל
+      </persName>
+     </person>
+     <person xml:id="rshun">
+      <persName>
+       ראשון
+      </persName>
+     </person>
+     <person xml:id="skhls-lbn">
+      <persName>
+       תכלת-לבן
+      </persName>
+     </person>
+     <person xml:id="khd mshulkhn ">
+      <persName>
+       אחד משולחן א
+      </persName>
+     </person>
+     <person xml:id="hnerus uhkhl">
+      <persName>
+       הנערות והקהל
+      </persName>
+     </person>
+     <person xml:id="nerh g">
+      <persName>
+       נערה ג
+      </persName>
+     </person>
+     <person xml:id="ֲsurִim mִkָl iְmuֹs hַshָּׁnָh umִpurִim">
+      <persName>
+       אֲסוּרִים מִכָּל יְמוֹת הַשָּׁנָה וּמִפּוּרִים
+      </persName>
+     </person>
+     <person xml:id="mrdkhi mshulkhn d">
+      <persName>
+       מרדכי משולחן ד
+      </persName>
+     </person>
+     <person xml:id="srsh">
+      <persName>
+       תרש
+      </persName>
+     </person>
+     <person xml:id="bgsn">
+      <persName>
+       בגתן
+      </persName>
+     </person>
+     <person xml:id="umur">
+      <persName>
+       ואמור
+      </persName>
+     </person>
+     <person xml:id="shni">
+      <persName>
+       שני
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="bgsn usrsh">
+      <persName>
+       בגתן ותרש
+      </persName>
+     </person>
+     <person xml:id="nerus ssr">
+      <persName>
+       נערות אסתר
+      </persName>
+     </person>
+     <person xml:id="hmkhlh">
+      <persName>
+       המקהלה
+      </persName>
+     </person>
+     <person xml:id="gudi">
+      <persName>
+       אגודאי
+      </persName>
+     </person>
+     <person xml:id="hmn">
+      <persName>
+       המן
+      </persName>
+     </person>
+     <person xml:id="hkhl">
+      <persName>
+       הקהל
+      </persName>
+     </person>
+     <person xml:id="khshurush">
+      <persName>
+       אחשורוש
+      </persName>
+     </person>
+     <person xml:id="khd mshulkhn b">
+      <persName>
+       אחד משולחן ב
+      </persName>
+     </person>
+     <person xml:id="mzrkhi umrdkhi">
+      <persName>
+       מזרחי ומרדכי
+      </persName>
+     </person>
+     <person xml:id="khd mshulkhn u">
+      <persName>
+       אחד משולחן ו
+      </persName>
+     </person>
+     <person xml:id="nerh b">
+      <persName>
+       נערה ב
+      </persName>
+     </person>
+     <person xml:id="hnerus">
+      <persName>
+       הנערות
+      </persName>
+     </person>
+     <person xml:id="zrsh">
+      <persName>
+       זרש
+      </persName>
+     </person>
+     <person xml:id="shulkhn d">
+      <persName>
+       שולחן ד
+      </persName>
+     </person>
+     <person xml:id="mrdkhi">
+      <persName>
+       מרדכי
+      </persName>
+     </person>
+     <person xml:id="nerh d">
+      <persName>
+       נערה ד
+      </persName>
+     </person>
+     <person xml:id="shulkhn g">
+      <persName>
+       שולחן ג
+      </persName>
+     </person>
+     <person xml:id="shlishi mshulkhn u">
+      <persName>
+       שלישי משולחן ו
+      </persName>
+     </person>
+     <person xml:id="shulkhn h">
+      <persName>
+       שולחן ה
+      </persName>
+     </person>
+     <person xml:id="uְlֹ nִbְrָ, shְׁbִil rְtsִinus uַhֲbָlִim">
+      <persName>
+       וְלֹא נִבְרָא, שְׁבִיל רְצִינוּת וַהֲבָלִים
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="bְlִil mָsuֹrֶs umuֹdֶrְnִiּus, tsְlִil eָbַr">
+      <persName>
+       בְּלִיל מָסוֹרֶת וּמוֹדֶרְנִיּוּת, צְלִיל עָבַר
+      </persName>
+     </person>
+     <person xml:id="mzrkhi">
+      <persName>
+       מזרחי
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,23 +354,23 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="bְlִil mָsuֹrֶs umuֹdֶrְnִiּus, tsְlִil eָbַr">
+   <sp who="bְlִil mָsuֹrֶs umuֹdֶrְnִiּus, tsְlִil eָbַr">
+    <speaker>
      בְּלִיל מָסוֹרֶת וּמוֹדֶרְנִיּוּת, צְלִיל עָבַר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="uְhֹuֶh, kְlִil mְtsִyus umַh shֶּׁlֹּ hָiָh">
+   <sp who="uְhֹuֶh, kְlִil mְtsִyus umַh shֶּׁlֹּ hָiָh">
+    <speaker>
      וְהֹוֶה, כְּלִיל מְצִיאוּת וּמַה שֶּׁלֹּא הָיָה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="uְlֹ nִbְrָ, shְׁbִil rְtsִinus uַhֲbָlִim">
+   <sp who="uְlֹ nִbְrָ, shְׁbִil rְtsִinus uַhֲbָlִim">
+    <speaker>
      וְלֹא נִבְרָא, שְׁבִיל רְצִינוּת וַהֲבָלִים
     </speaker>
    </sp>
-   <sp>
-    <speaker id="ֲsurִim mִkָl iְmuֹs hַshָּׁnָh umִpurִim">
+   <sp who="ֲsurִim mִkָl iְmuֹs hַshָּׁnָh umִpurִim">
+    <speaker>
      אֲסוּרִים מִכָּל יְמוֹת הַשָּׁנָה וּמִפּוּרִים
     </speaker>
    </sp>
@@ -191,8 +482,8 @@
      כוסות-שתיה בצריחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -209,8 +500,8 @@
 רוקדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -232,8 +523,8 @@
      (לשותים) כפי המלך!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -244,8 +535,8 @@
 אל זֵתר! (גם הוא מנגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -312,8 +603,8 @@
      יקחהו השטן! (צוחק).
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -361,8 +652,8 @@
 «עורה».. הערבוביה הולכת ומנמיכה. בסוף מסתדרת מקהלה:
     </p>
    </sp>
-   <sp>
-    <speaker id="hmkhlh">
+   <sp who="hmkhlh">
+    <speaker>
      המקהלה:
     </speaker>
     <p>
@@ -384,8 +675,8 @@
      אלא בַּיֵש בּם. }
     </p>
    </sp>
-   <sp>
-    <speaker id="shulkhn ">
+   <sp who="shulkhn ">
+    <speaker>
      שולחן א.
     </speaker>
     <p>
@@ -412,8 +703,8 @@
      לא יעמוד על הרגלים…
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -430,8 +721,8 @@
      בכל שושן כמוהו אין.
     </p>
    </sp>
-   <sp>
-    <speaker id="shulkhn b">
+   <sp who="shulkhn b">
+    <speaker>
      שולחן ב.
     </speaker>
     <p>
@@ -463,8 +754,8 @@
      (ויזתא בא ושר הלווי: אך זה יין וכו'.)
     </p>
    </sp>
-   <sp>
-    <speaker id="shulkhn g">
+   <sp who="shulkhn g">
+    <speaker>
      שולחן ג.
     </speaker>
     <p>
@@ -491,16 +782,16 @@
      אם יש יין, יין, יין… (מפהקים)
     </p>
    </sp>
-   <sp>
-    <speaker id="shulkhn d">
+   <sp who="shulkhn d">
+    <speaker>
      שולחן ד.
     </speaker>
     <p>
      (שלשה יהודים יראי ה' מתפללים, מרדכי בתוכם).
     </p>
    </sp>
-   <sp>
-    <speaker id="mzrkhi">
+   <sp who="mzrkhi">
+    <speaker>
      מזרחי:
     </speaker>
     <p>
@@ -547,8 +838,8 @@
      אוי, אוי, אוי וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="gudi">
+   <sp who="gudi">
+    <speaker>
      אגודאי:
     </speaker>
     <p>
@@ -590,8 +881,8 @@
      אי, אי, אי וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -633,8 +924,8 @@
      בקופסה של הקרן הקימת.
     </p>
    </sp>
-   <sp>
-    <speaker id="gudi">
+   <sp who="gudi">
+    <speaker>
      אגודאי
     </speaker>
     <p>
@@ -661,8 +952,8 @@
      (מושך)
     </p>
    </sp>
-   <sp>
-    <speaker id="mzrkhi umrdkhi">
+   <sp who="mzrkhi umrdkhi">
+    <speaker>
      מזרחי ומרדכי
     </speaker>
     <p>
@@ -679,8 +970,8 @@
      הוא מושך לחוּד.
     </p>
    </sp>
-   <sp>
-    <speaker id="gudi">
+   <sp who="gudi">
+    <speaker>
      אגודאי
     </speaker>
     <p>
@@ -727,8 +1018,8 @@
      ויקרב  (מושך).
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -755,16 +1046,16 @@
      שירתם הקודמת נמשכת)
     </p>
    </sp>
-   <sp>
-    <speaker id="shulkhn h">
+   <sp who="shulkhn h">
+    <speaker>
      שולחן ה.
     </speaker>
     <p>
      (שלשה יהודים מתבוללים)
     </p>
    </sp>
-   <sp>
-    <speaker id="khd">
+   <sp who="khd">
+    <speaker>
      אחד:
     </speaker>
     <p>
@@ -786,8 +1077,8 @@
      תכלת, כרפס, חור… (שותה בתיאבון)
     </p>
    </sp>
-   <sp>
-    <speaker id="shni">
+   <sp who="shni">
+    <speaker>
      שני:
     </speaker>
     <p>
@@ -809,8 +1100,8 @@
      בהט ושש וסוחרת ודַר… (שותה. נשמע קול היהודים החרדים)
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi">
+   <sp who="shlishi">
+    <speaker>
      שלישי:
     </speaker>
     <p>
@@ -832,8 +1123,8 @@
      מרחוק עולה רֵיחָם… (שותה בזו אחר זו)
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mshulkhn u">
+   <sp who="khd mshulkhn u">
+    <speaker>
      אחד משולחן ו.
     </speaker>
     <p>
@@ -860,8 +1151,8 @@
      ואתה שתֵה, הָקֵא וָדוֹם! (מתפתל בשתיָתו)
     </p>
    </sp>
-   <sp>
-    <speaker id="shni mshulkhn u">
+   <sp who="shni mshulkhn u">
+    <speaker>
      שני משולחן ו.
     </speaker>
     <p>
@@ -883,8 +1174,8 @@
      ומי ינקה הַקִיא נָקי? (עומד להקיא; שותה שוב)
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi mshulkhn u">
+   <sp who="shlishi mshulkhn u">
+    <speaker>
      שלישי משולחן ו.
     </speaker>
     <p>
@@ -926,8 +1217,8 @@
      הוא אלינו מתקרב…
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -954,8 +1245,8 @@
      (ויזתא שר את פזמונו והולך)
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mshulkhn u">
+   <sp who="khd mshulkhn u">
+    <speaker>
      אחד משולחן ו.
     </speaker>
     <p>
@@ -982,8 +1273,8 @@
      (שופך את היין תחת השולחן)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi mshulkhn d">
+   <sp who="mrdkhi mshulkhn d">
+    <speaker>
      מרדכי משולחן ד.
     </speaker>
     <p>
@@ -1020,8 +1311,8 @@
      אִי, אִי, אִי, אִי, אִי, אִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="gudi">
+   <sp who="gudi">
+    <speaker>
      אגודאי:
     </speaker>
     <p>
@@ -1053,8 +1344,8 @@
      אַי, אי, אי וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="mzrkhi">
+   <sp who="mzrkhi">
+    <speaker>
      מזרחי:
     </speaker>
     <p>
@@ -1091,8 +1382,8 @@
      אוי, אוי, אוי וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="shni mshulkhn u">
+   <sp who="shni mshulkhn u">
+    <speaker>
      שני משולחן ו.
     </speaker>
     <p>
@@ -1124,8 +1415,8 @@
      ושוחד למלצר נותן.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mshulkhn h">
+   <sp who="khd mshulkhn h">
+    <speaker>
      אחד משולחן ה.
     </speaker>
     <p>
@@ -1147,8 +1438,8 @@
      עת תבוא וַשתי ערומה. (מנמנם)
     </p>
    </sp>
-   <sp>
-    <speaker id="shni">
+   <sp who="shni">
+    <speaker>
      שני:
     </speaker>
     <p>
@@ -1170,8 +1461,8 @@
      ובלבד אשנב למשתה הנשים. (מנמנם)
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi">
+   <sp who="shlishi">
+    <speaker>
      שלישי:
     </speaker>
     <p>
@@ -1188,40 +1479,40 @@
      שקבלתי היום בגן…
     </p>
    </sp>
-   <sp>
-    <speaker id="shni">
+   <sp who="shni">
+    <speaker>
      שני:
     </speaker>
     <p>
      תואר אחשדרפן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi">
+   <sp who="shlishi">
+    <speaker>
      שלישי:
     </speaker>
     <p>
      לא. אחשתרן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shni">
+   <sp who="shni">
+    <speaker>
      שני:
     </speaker>
     <p>
      (אינו שומע מתוך נמנום) אחשדרפן?
     </p>
    </sp>
-   <sp>
-    <speaker id="rshun">
+   <sp who="rshun">
+    <speaker>
      ראשון:
     </speaker>
     <p>
      (כנ"ל) אחשדרפן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi">
+   <sp who="shlishi">
+    <speaker>
      שלישי:
     </speaker>
     <p>
@@ -1239,8 +1530,8 @@
 והספות באין אונים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1427,8 +1718,8 @@
      ולשאת במאזנים הכל יחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="umrim">
+   <sp who="umrim">
+    <speaker>
      אומרים
     </speaker>
     ושתי שנאה סתומה,
@@ -1443,8 +1734,8 @@
      ושתי כמו שהיא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1461,14 +1752,14 @@
      צא ומצא את הסריסים,
     </p>
    </sp>
-   <sp>
-    <speaker id="umur">
+   <sp who="umur">
+    <speaker>
      ואמור
     </speaker>
     את ושתי, בקשתי!
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1486,8 +1777,8 @@
 ושתי על שפתיהם)
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -1529,8 +1820,8 @@
      (שר פזמונו)
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1547,8 +1838,8 @@
      מה זה עסקך?
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -1575,8 +1866,8 @@
      ויש לה הרבה דרישות…
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1588,8 +1879,8 @@
      אַל תפיח הֶבֶל!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -1601,8 +1892,8 @@
      אין אני אלא קוץ וחֵדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1629,8 +1920,8 @@
      הנה שבים כבר הסריסים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1652,8 +1943,8 @@
      אשה כי תתריז כלפי בעלה…
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1665,8 +1956,8 @@
      מסתתרת עוד כאשר נִחשתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1683,24 +1974,24 @@
      והיא…
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      מרד ומרי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      קנים והי…
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1712,8 +2003,8 @@
      הלא אני המולך מהודו ועד כוש!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1735,120 +2026,120 @@
      ולבוא הנה תמָאן.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אבל אולי יש לה כאב שִׁנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      בריאה היא שבעתים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אולי יש לה כאב מעים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      בריאה היא שבעתים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אולי לָחֳלִי עינים, רגלים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      בריאה היא שבעתים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אלי חָרשו לה האזנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      בריאה היא שבעתים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אולי ציץ לה צץ על מצח?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      יש לה שנאת נצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      למה? לשלום?
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      לשלום החלום!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      הלא נתתי לה יתרון זכויות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      היא אומרת: הזכויות דחויות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1860,8 +2151,8 @@
      ומשרות לעושי פרעות!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1873,8 +2164,8 @@
      יש לי דרישות, יש לי דרָשות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -1886,8 +2177,8 @@
      אין אשה בממלכתי סרבנית.
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -1914,8 +2205,8 @@
      רעדה. צפיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -1982,8 +2273,8 @@
      מן הספות ומן המטות ומתישבים לשולחנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mshulkhn ">
+   <sp who="khd mshulkhn ">
+    <speaker>
      אחד משולחן א:
     </speaker>
     <p>
@@ -2015,8 +2306,8 @@
      האשה עם המצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mshulkhn b">
+   <sp who="khd mshulkhn b">
+    <speaker>
      אחד משולחן ב:
     </speaker>
     <p>
@@ -2043,8 +2334,8 @@
      זו נינת נבוכדנצר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shni">
+   <sp who="shni">
+    <speaker>
      שני:
     </speaker>
     <p>
@@ -2076,8 +2367,8 @@
      במדרגה שניה הם אזרחים,
     </p>
    </sp>
-   <sp>
-    <speaker id="uumrim">
+   <sp who="uumrim">
+    <speaker>
      ואומרים
     </speaker>
     בגתן ותרש
@@ -2087,8 +2378,8 @@
      חורשים מזמות חרש…
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -2125,8 +2416,8 @@
      לא תבוא, לא, לא, לא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -2173,8 +2464,8 @@
      סרבנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="ִmru">
+   <sp who="ִmru">
+    <speaker>
      אִמרו
     </speaker>
     סרבנית!
@@ -2189,120 +2480,120 @@
      סרבנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      מרדנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      מרדנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      חוצפנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      חוצפנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אחת ואין שנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      אחת ואין שנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      קולנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      קולנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      יצאנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      יצאנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      רתחנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      רתחנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      אחת ואין שנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      אחת ואין שנית!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
@@ -2344,8 +2635,8 @@
      ואת הפסוק תסָרֵסנה:
     </p>
    </sp>
-   <sp>
-    <speaker id="lmr">
+   <sp who="lmr">
+    <speaker>
      לאמר
     </speaker>
     «והיא תמשול בך!»
@@ -2360,48 +2651,48 @@
      אחת דתה להמית!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הכל:
     </speaker>
     <p>
      להמית! להמית!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      להיות הבעל שורר עולמית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      עולמית! עולמית!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      העם!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      מלך רם!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -2413,64 +2704,64 @@
      לשתות! לשתות!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      לשתות! לשתות! (שותים)
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      למלך זכות!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      זכות!
     </p>
    </sp>
-   <sp>
-    <speaker id="mhumn">
+   <sp who="mhumn">
+    <speaker>
      מהומן:
     </speaker>
     <p>
      לושתי מוּת!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      מוּת!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
      העם, העם!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
      מלך רם!
     </p>
    </sp>
-   <sp>
-    <speaker id="khshurush">
+   <sp who="khshurush">
+    <speaker>
      אחשורוש:
     </speaker>
     <p>
@@ -2508,8 +2799,8 @@
 ונופלים זה על זה וזה מול זה).
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם:
     </speaker>
     <p>
@@ -2521,8 +2812,8 @@
      בכל הכוחות!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -2560,8 +2851,8 @@
      מרדכי מתהלך מסביב לבית. יושב. נשמע קולו בניגון איכה:
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי.
     </speaker>
     <p>
@@ -2571,8 +2862,8 @@
 בתולותי ובחורי הלכו בשבי…
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -2580,8 +2871,8 @@
 גם תֶרש).
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2593,8 +2884,8 @@
      גם לבגתנא!
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -2606,8 +2897,8 @@
      כל מנה היא לבתולה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2619,8 +2910,8 @@
      כמוךָ עץ בול…
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -2642,8 +2933,8 @@
      ותלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2665,8 +2956,8 @@
      הוא שוכב במטתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2678,8 +2969,8 @@
      החכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2691,8 +2982,8 @@
      באתָ הֵנה חרש?
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2704,8 +2995,8 @@
      שנינו מופסים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2717,8 +3008,8 @@
      אתה מקבל משכורת ממָדַי?
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2730,8 +3021,8 @@
      גם אני רוצה תמרוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2748,8 +3039,8 @@
      לסַמֵם לעזעזל!
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2766,8 +3057,8 @@
      מה הכוָנָה? (שוב מתלחשים)
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
@@ -2784,8 +3075,8 @@
      אל פיךָ פֶרש.
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2797,16 +3088,16 @@
      פיך סתום!
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
      ידעתיך, כלב!
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
@@ -2818,8 +3109,8 @@
      (מכים איש את רעהו)
     </p>
    </sp>
-   <sp>
-    <speaker id="nerh ">
+   <sp who="nerh ">
+    <speaker>
      נערה א.
     </speaker>
     <p>
@@ -2836,8 +3127,8 @@
      וכֻלי יפה ומה מגָרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="umrim">
+   <sp who="umrim">
+    <speaker>
      אומרים
     </speaker>
     איננו חכם.
@@ -2872,24 +3163,24 @@
      (רוקדת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      (מציץ) בת עכו"ם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
      חוטם עקום…
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn usrsh">
+   <sp who="bgsn usrsh">
+    <speaker>
      בגתן ותרש:
     </speaker>
     <p>
@@ -2916,8 +3207,8 @@
      ומחר שעשגָז.
     </p>
    </sp>
-   <sp>
-    <speaker id="nerh b">
+   <sp who="nerh b">
+    <speaker>
      נערה ב.
     </speaker>
     <p>
@@ -2964,8 +3255,8 @@
      (רוקדת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -2977,24 +3268,24 @@
      בת עַכּוּ"ם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn">
+   <sp who="bgsn">
+    <speaker>
      בגתן:
     </speaker>
     <p>
      חזה רקוּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn usrsh">
+   <sp who="bgsn usrsh">
+    <speaker>
      בגתן ותרש:
     </speaker>
     <p>
      (כנ"ל)
     </p>
    </sp>
-   <sp>
-    <speaker id="nerh g">
+   <sp who="nerh g">
+    <speaker>
      נערה ג.
     </speaker>
     <p>
@@ -3046,8 +3337,8 @@
      (רוקדת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3059,24 +3350,24 @@
      כושית…
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
      חִפושית.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn usrsh">
+   <sp who="bgsn usrsh">
+    <speaker>
      בגתן ותרש:
     </speaker>
     <p>
      (כנ"ל)
     </p>
    </sp>
-   <sp>
-    <speaker id="nerh d">
+   <sp who="nerh d">
+    <speaker>
      נערה ד.
     </speaker>
     <p>
@@ -3133,8 +3424,8 @@
      (רוקדת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3146,16 +3437,16 @@
      הודִיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="srsh">
+   <sp who="srsh">
+    <speaker>
      תרש:
     </speaker>
     <p>
      גם זאת ברִיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn usrsh">
+   <sp who="bgsn usrsh">
+    <speaker>
      בגתן ותרש:
     </speaker>
     <p>
@@ -3167,8 +3458,8 @@
      (ארבעתן רוקדות ויוצאות. קולו של מרדכי נשמע בבכיו מבחוץ)
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3300,8 +3591,8 @@
      נפשי לקראתך נמַסָה…
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3313,8 +3604,8 @@
      כבר מלאו ימי, כבר תמה שנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3326,16 +3617,16 @@
      העוד מנה? העוד תמרוק?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      לא. אינני כנערות השוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3347,8 +3638,8 @@
      ועוד מעט פוך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3360,8 +3651,8 @@
      הֵגי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3373,8 +3664,8 @@
      עוד מעט אבק?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3416,8 +3707,8 @@
      לנסות את מזלי שמה אלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3459,8 +3750,8 @@
      מחר אַת מלכה ובראשך הכתר…
     </p>
    </sp>
-   <sp>
-    <speaker id="nerus">
+   <sp who="nerus">
+    <speaker>
      נערות:
     </speaker>
     <p>
@@ -3492,8 +3783,8 @@
      רק לי, רק לי, רק לי, הכתר!
     </p>
    </sp>
-   <sp>
-    <speaker id="bgsn usrsh">
+   <sp who="bgsn usrsh">
+    <speaker>
      בגתן ותרש:
     </speaker>
     <p>
@@ -3521,8 +3812,8 @@
      מלכי עולם, הָאֲחַשְׁוֵרוֹשִים…
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3564,8 +3855,8 @@
      מי יודע כמוני כי אני ירקרקת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus">
+   <sp who="hnerus">
+    <speaker>
      הנערות:
     </speaker>
     <p>
@@ -3592,8 +3883,8 @@
      רק לי, רק לי, רק לי הכתר!
     </p>
    </sp>
-   <sp>
-    <speaker id="hgi">
+   <sp who="hgi">
+    <speaker>
      הגי:
     </speaker>
     <p>
@@ -3635,16 +3926,16 @@
      נשבעתי כי לך ורק לך הכתר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus">
+   <sp who="hnerus">
+    <speaker>
      הנערות:
     </speaker>
     <p>
      (כנ"ל)
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3666,8 +3957,8 @@
      בודאי דבר לו אלי. (הגי מכניס את מרדכי)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3694,8 +3985,8 @@
      אני רואה: חוט חן עליך משוּך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3722,8 +4013,8 @@
      (הגי מתרחק)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3771,8 +4062,8 @@
      זכרי את עמך ומרודו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3794,8 +4085,8 @@
      לא אשכח, לא אשכח עמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3822,8 +4113,8 @@
      לשים בכוס המלך ארס…
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -3840,80 +4131,80 @@
      (בקול) מרדכי, האגיד שם המולדת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אין אסתר מגדת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      בצער, כשאהיה רועדת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אין אסתר מגדת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      בעצבון, כשאהיה בודדת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אין אסתר מגדת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      בשמחה, כשאהיה רוקדת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אין אסתר מגדת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      בשעה נחוצה, מיוחדת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אז אסתר מגדת! (חוזרים בשיר על האחרון, אסתר יוצאת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -3980,8 +4271,8 @@
      הוי לאסתר היום! (יוצא)
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -3993,8 +4284,8 @@
      חה, חה, חה, חה, חה, חה. }
     </p>
    </sp>
-   <sp>
-    <speaker id="}">
+   <sp who="}">
+    <speaker>
      }
     </speaker>
     <p>
@@ -4116,56 +4407,56 @@
      בית המן
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן
     </speaker>
     <p>
      (דופק על דלת חדר אשתו קולו הולך ורם): זרש, זרש, זרש, זרש!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      אני באה, אני באה. «זרש זרש», אינך יכול לדבר חרש?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, ראשי כואב! אוי, כל הגֵו. (נופל על הספה)
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      מה יש? (ממשמשת בראשו) ראש כָּאֵש…
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, זרש, זרש! הביאי אספרין בעד גרש.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      חרפה! ראש השרים אצל אחשורוש, ויש לו כאב ראש!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4184,8 +4475,8 @@
 וקלון. אולי תתני לי מעט או-דֵה-קולון.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4193,8 +4484,8 @@
 צלוח, שתמיד אין לו כח.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4202,8 +4493,8 @@
 בנים כדרבנים! מכאב ראש מי נסתר? אפילו לא מיניסטר!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4211,24 +4502,24 @@
 (ממשמשת באבריו)? מה? איפה? היכן? מאי?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, זרש, כואב לי מרדכי!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      זה מרדכי עוד חי? זה היהודי? זה מרודי?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4236,8 +4527,8 @@
 פה, כואב לי שם, הוא הרעל אשר בדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4245,8 +4536,8 @@
 מפני מה היהודי לך כעצם בגרון?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4257,16 +4548,16 @@
 אוי, אַי אַי אַי.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      ומה בדבר המועצה המחוקקת?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4276,8 +4567,8 @@
 הארורה. זרש, פרש, אספרין בעד גרש…
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4287,8 +4578,8 @@
 וי, וי, זה אתה! רשע, כלב! אַכּךָ אלף! וי, וי, זה אתה! וי, וי, זה אתה!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4296,8 +4587,8 @@
 כאן למעלה ומי כאן למטה? איזה מהומה רבה? היכן אמא, היכן אבא?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4305,32 +4596,32 @@
 פצועה?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      הוא הכַני, הלקַני, דחפני, הממני! אני פצועה, אתה פצוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (חוזר).
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      (חוזרת).
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4343,8 +4634,8 @@
 ויהיה מס דודי-דודים!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4352,8 +4643,8 @@
 מעשרה בנים נעלֶה, ויזתאלֶה. אמור: מי יתָלה? מי? מרדכי או אני?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4362,8 +4653,8 @@
 טִנופת? על מרדכי או על אבא או על הבהמה על גבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4372,16 +4663,16 @@
 מלא. נעשה עץ ומרדכי יתָּלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
      מרדכי לא יתלה! (שותים כלם)
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4389,48 +4680,48 @@
 העץ לכרות, מתוך גני, כמו שעושה בוסתאני.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      עץ יהיה בן כמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      מכאן עד גלגל החמה!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
      חמשים אמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
      מרדכי ישאר חי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      עתה, עתה, ויזתא, ויזתא. איפה כל הבנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4439,16 +4730,16 @@
 אִירְלֵנְדַשְׁתָּא ואת קַנַדָתָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      ודומיניון של מרדכי? פלשתינה אַ"י?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4460,8 +4751,8 @@
 הז’רגון. (בנגון) כי מציון תצא ז’רגון ודבר פיטרושקא מירושלים!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4471,8 +4762,8 @@
 וטף.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4483,16 +4774,16 @@
 הנקודים, הברודים, ושללם לבוז.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      ואחר כך נשתה גזוז (מנמנמת).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4500,16 +4791,16 @@
 לבוז».
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      ואחר כך נשתה גזוז (מנמנמת).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4517,16 +4808,16 @@
 לבוז, לבוז, לבוז.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
      גזוז, גזוז, גזוז (נרדמת).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4534,8 +4825,8 @@
 (יושבים ורושמים פתקאות ושרים).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4557,8 +4848,8 @@
      מִפָּנַי גוּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4580,8 +4871,8 @@
      נַפִּיל פּוּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
@@ -4603,16 +4894,16 @@
      לְמָרְדְּכַי אוּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מוציא פתקא) בנובמבר יצא הפור!
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4624,8 +4915,8 @@
      בדצמבר. טוב ונעים!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4637,8 +4928,8 @@
      במאי, במאי, זה לא רע.
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4650,8 +4941,8 @@
      בינואר! זה טוב, זה טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -4673,8 +4964,8 @@
      בו מת רבם משה המצרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="oyzs">
+   <sp who="oyzs">
+    <speaker>
      ויזתא:
     </speaker>
     <p>
@@ -4686,8 +4977,8 @@
      גם במושב תל-חי.
     </p>
    </sp>
-   <sp>
-    <speaker id="zrsh">
+   <sp who="zrsh">
+    <speaker>
      זרש:
     </speaker>
     <p>
@@ -4699,16 +4990,16 @@
      ונשתה גזוז.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      נגמר. בזה החודש בארבעה עשר!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
@@ -5041,8 +5332,8 @@
      אל מלך יושב וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
@@ -5050,24 +5341,24 @@
 לָדַעַת. (הכל מביטים לצד ומתגלים פתאום סוס והמן ומרדכי. הם עומדים)
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מכין את הסוס) לאט, לאט, והסוס מקושט.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      כה אמר מרדכי: הקשוט לא די!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -5080,8 +5371,8 @@
      כבר כל תכשיטי פשטתי ואת הסוס קשטתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5089,32 +5380,32 @@
 זוג, ולצואר זוג!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, עוד זוג, עוד שהרון! גדול העוון ונורא העוון!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אתה זוכר, המן, מי היה לבוש ארגמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5122,16 +5413,16 @@
 בתער?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, אוי, לפנים, לפנים. אז הייתי כסיל ובער.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5141,48 +5432,48 @@
      אצל המלך בשער.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      ואני, טפש, אמרתי לךָ לנוע.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אני לא שמעתי. לא נעתי ולא זעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      מדוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      כי אני מרדכי, ולי אלהים חי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      הסוס כבר מוכן. קום!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5219,8 +5510,8 @@
      הקהל מצטרף למרדכי למנין ומתפלל «אזכרה אלהים» עד אל מלך, יושב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5228,16 +5519,16 @@
 ותשבר ותמגר ותכניע וכו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      עודךָ מתפלל? כל יהודי מתפלל?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5269,16 +5560,16 @@
      וּבְכָל זֹאת אָנוּ בְּמַשָּׂא וּמַתָּן עִם הָ«אֲגוּדָה»!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל:
     </speaker>
     <p>
      אזכרה וכו' עד אל מלך, יושב (מרדכי ממשיך להתפלל)
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -5290,120 +5581,120 @@
 מרדכי, יבורך שמך. בוא נא וַאֲרִימְךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      (מפסיק תפלתו) עוד חי אלהי ירושלים. גזרתך המן, לא מן השמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
      המן גוזר גזרה ומרדכי מְבַטְלָהּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      המן, הרם רגלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אללי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      הרם, אַנטישֵם!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מנסה להרים) אתה גדול, מרדכי, אתה שמן!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      מה שאני אומר אמוֹר: אָמֵן!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מנסה להרים) ארים, ארים. אוי, רגלים כמו הרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      בן בלי שם, שכב והרֵם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אוי, שכבתי, עוד מעט והתעלפתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      הרם, קומם, אל תנמנם!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מתחנן) מרדכי, מרדכילה, אתה חולה? (מחבקהו)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אמרת אלהים אותנו עזב. עתה תשכב ואני אעלה עליך על הגב.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      הוי, מרדכי, רב לי רב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5420,24 +5711,24 @@
 לי אתה חייב!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      מנדט – דבר שוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      לא ולא! אתה התחייבת! עזור!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -5445,70 +5736,70 @@
 לךָ, חמודי, שקשה לעזור ליהודי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      כיצד? התחייבת! עוד לא שכבת! (משכיבהו)
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      כן. כן. התחייבתי. בעסק ביש עצמי השכבתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי
     </speaker>
     (עולה על המן ועל הסוס) עכשו, המן, !…
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      הוי, מרדכי, חוס נא, חוס!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      אני כבר רוכב.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      ואני בארץ שוכב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      עתה קום וקרא, כאשר אמר המלך כדברו:
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מכריז) כ-כה י-ע-שה ל-איש א-שר ה-מ-לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
@@ -5516,72 +5807,72 @@
 רשמית! קרא!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      אהה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      קרא!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (מכריז) ככה יעשה לאיש אשר המלך חפץ ביקרו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      המן. הזה קול אדם? קרא בקול רם!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (בקול רם יותר) ככה יעשה לאיש אשר המלך חפץ ביקרו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      המן! זה קול צפור מצפצפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
      (בקול רם וחזק) ככה יעשה וכו'
     </p>
    </sp>
-   <sp>
-    <speaker id="mrdkhi">
+   <sp who="mrdkhi">
+    <speaker>
      מרדכי:
     </speaker>
     <p>
      זה קול שור ברפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -5593,8 +5884,8 @@
      (מרדכי רוכב בין היהודים)
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל
     </speaker>
     <p>
@@ -5603,8 +5894,8 @@
      מרדכי על הסוס! (ד' פעמים. מוחא כפים).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmn">
+   <sp who="hmn">
+    <speaker>
      המן:
     </speaker>
     <p>
@@ -5613,16 +5904,16 @@
 בחוץ. רגלי בבוץ בוצָצו ויהודיך עלי יתלוצָצו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל:
     </speaker>
     <p>
      מרדכי על הסוס (ד' פעמים).
     </p>
    </sp>
-   <sp>
-    <speaker id="skhls-lbn">
+   <sp who="skhls-lbn">
+    <speaker>
      תכלת-לבן:
     </speaker>
     <p>
@@ -5635,8 +5926,8 @@
 ושרות).
     </p>
    </sp>
-   <sp>
-    <speaker id="nerus ssr">
+   <sp who="nerus ssr">
+    <speaker>
      נערות אסתר:
     </speaker>
     <p>
@@ -5668,8 +5959,8 @@
      עַם אֶסְתֵּר הַמַּלְכָּה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -5691,8 +5982,8 @@
      וְאֶת עַמִּי מֵאִבּוּד גָּאַלְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus">
+   <sp who="hnerus">
+    <speaker>
      הנערות:
     </speaker>
     <p>
@@ -5704,16 +5995,16 @@
      (נראה חרבונה)
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות:
     </speaker>
     <p>
      הנה חרבונה, בא הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khrbunh">
+   <sp who="khrbunh">
+    <speaker>
      חרבונה:
     </speaker>
     <p>
@@ -5761,40 +6052,40 @@
      נעשה שלום, נשתה יין!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      (רואה את המן) אוי, המן הרע הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל
     </speaker>
     <p>
      (מראים באצבעות על המן): אוי, המן הרע הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      אוי, המן הרע הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל:
     </speaker>
     <p>
      אוי, המן הרע הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
@@ -5806,16 +6097,16 @@
      ולתלותו עשה העץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhl">
+   <sp who="hkhl">
+    <speaker>
      הקהל:
     </speaker>
     <p>
      עתה בא עליו הקץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr uhnerus">
+   <sp who="ssr uhnerus">
+    <speaker>
      אסתר והנערות:
     </speaker>
     <p>
@@ -5832,72 +6123,72 @@
      (הנערות והקהל עושים עגול ואסתר ומרדכי רוקדים באמצע).
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      עַד שַׁקַּמְתִּי, אֶסְתֵּר, שַׁקַּמְתִּי
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus uhkhl">
+   <sp who="hnerus uhkhl">
+    <speaker>
      הנערות והקהל
     </speaker>
     <p>
      שַׁקַּמְתְּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      חֶרֶשׁ חֶרֶשׁ בָּרַע נִלְחַמְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus uhkhl">
+   <sp who="hnerus uhkhl">
+    <speaker>
      הנערות והקהל:
     </speaker>
     <p>
      נִלְחַמְתְּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      אֶת עַמִּי בַּגּוֹלָה רוֹמַמְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus uhkhl">
+   <sp who="hnerus uhkhl">
+    <speaker>
      הנערות והקהל:
     </speaker>
     <p>
      רוֹמַמְתְּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssr">
+   <sp who="ssr">
+    <speaker>
      אסתר:
     </speaker>
     <p>
      עַד שַׁקַּמְתִּי, עַד שַׁקַּמְתִּי, עַד שַׁקַּמְתִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hnerus uhkhl">
+   <sp who="hnerus uhkhl">
+    <speaker>
      הנערות והקהל
     </speaker>
     <p>
      שַקַמְתְּ, שַקַמְתְּ, שַקַמְתְּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="khl hkhl">
+   <sp who="khl hkhl">
+    <speaker>
      כל הקהל:
     </speaker>
     <p>

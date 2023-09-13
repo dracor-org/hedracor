@@ -46,6 +46,362 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="ishׁ khil hshׁlishׁi">
+      <persName>
+       אישׁ חיל השׁלישׁי
+      </persName>
+     </person>
+     <person xml:id="mrim">
+      <persName>
+       מרים
+      </persName>
+     </person>
+     <person xml:id="ezil">
+      <persName>
+       עזיאל
+      </persName>
+     </person>
+     <person xml:id="hַiְhudִim">
+      <persName>
+       הַיְהוּדִים
+      </persName>
+     </person>
+     <person xml:id="rbyei">
+      <persName>
+       רביעי
+      </persName>
+     </person>
+     <person xml:id="eָmְrִi">
+      <persName>
+       עָמְרִי
+      </persName>
+     </person>
+     <person xml:id="sshׁyei">
+      <persName>
+       תשׁיעי
+      </persName>
+     </person>
+     <person xml:id="hihudi hshׁni">
+      <persName>
+       היהודי השׁני
+      </persName>
+     </person>
+     <person xml:id="smh merkhh rshׁunh">
+      <persName>
+       תמה מערכה ראשׁונה
+      </persName>
+     </person>
+     <person xml:id="shׁlumis">
+      <persName>
+       שׁלומית
+      </persName>
+     </person>
+     <person xml:id="siehe">
+      <persName>
+       Siehe
+      </persName>
+     </person>
+     <person xml:id="bergleiche">
+      <persName>
+       Bergleiche
+      </persName>
+     </person>
+     <person xml:id="hkhd esr">
+      <persName>
+       האחד עשׂר
+      </persName>
+     </person>
+     <person xml:id="ishׁ khil hshׁni">
+      <persName>
+       אישׁ חיל השׁני
+      </persName>
+     </person>
+     <person xml:id="bָkhְ">
+      <persName>
+       בָּךְ
+      </persName>
+     </person>
+     <person xml:id="ezil, mrim ushׁlumis">
+      <persName>
+       עזיאל, מרים ושׁלומית
+      </persName>
+     </person>
+     <person xml:id="ish shlishׁi">
+      <persName>
+       איש שלישׁי
+      </persName>
+     </person>
+     <person xml:id="eֻzִiֵl">
+      <persName>
+       עֻזִיאֵל
+      </persName>
+     </person>
+     <person xml:id="shlishi">
+      <persName>
+       שלישי
+      </persName>
+     </person>
+     <person xml:id="hkudmim zuls">
+      <persName>
+       הקודמים זולת
+      </persName>
+     </person>
+     <person xml:id="yuezr">
+      <persName>
+       יועזר
+      </persName>
+     </person>
+     <person xml:id="umָsַi">
+      <persName>
+       וּמָתַי
+      </persName>
+     </person>
+     <person xml:id="yuֹeֶzֶr">
+      <persName>
+       יוֹעֶזֶר
+      </persName>
+     </person>
+     <person xml:id="emri, zmri uzbdi">
+      <persName>
+       עמרי, זמרי וזבדי
+      </persName>
+     </person>
+     <person xml:id="zmri">
+      <persName>
+       זמרי
+      </persName>
+     </person>
+     <person xml:id="shׁshׁi">
+      <persName>
+       שׁשׁי
+      </persName>
+     </person>
+     <person xml:id="esiri">
+      <persName>
+       עשׂירי
+      </persName>
+     </person>
+     <person xml:id="khd hgbrim">
+      <persName>
+       אחד הגברים
+      </persName>
+     </person>
+     <person xml:id="ubָkhְ">
+      <persName>
+       וּבָךְ
+      </persName>
+     </person>
+     <person xml:id="shlishׁi">
+      <persName>
+       שלישׁי
+      </persName>
+     </person>
+     <person xml:id="khmishׁi">
+      <persName>
+       חמישׁי
+      </persName>
+     </person>
+     <person xml:id="mֻkhh umdֻkhh slh">
+      <persName>
+       ומדוע אמונות הנוצרים והמחמדנים על דת משה נשענות
+      </persName>
+     </person>
+     <person xml:id="fshemishl bshns srm“d lf”k">
+      <persName>
+       פשעמישל בשנת תרמ“ד לפ”ק
+      </persName>
+     </person>
+     <person xml:id="shׁni">
+      <persName>
+       שׁני
+      </persName>
+     </person>
+     <person xml:id="hmkhbr">
+      <persName>
+       המחבר
+      </persName>
+     </person>
+     <person xml:id="uְonֹkhִi">
+      <persName>
+       וְאָנֹכִי
+      </persName>
+     </person>
+     <person xml:id="shlumis umrim">
+      <persName>
+       שלומית וּמרים
+      </persName>
+     </person>
+     <person xml:id="emri">
+      <persName>
+       עמרי
+      </persName>
+     </person>
+     <person xml:id="ishׁ khd">
+      <persName>
+       אישׁ אחד
+      </persName>
+     </person>
+     <person xml:id="ubְkhָl">
+      <persName>
+       וּבְכָל
+      </persName>
+     </person>
+     <person xml:id="emindb">
+      <persName>
+       עמינדב
+      </persName>
+     </person>
+     <person xml:id="shlumis umrim">
+      <persName>
+       שלומית ומרים
+      </persName>
+     </person>
+     <person xml:id="nuֹrָ">
+      <persName>
+       נוֹרָא
+      </persName>
+     </person>
+     <person xml:id="hihudi hrbyei">
+      <persName>
+       היהודי הרביעי
+      </persName>
+     </person>
+     <person xml:id="shׁbyei">
+      <persName>
+       שׁביעי
+      </persName>
+     </person>
+     <person xml:id="hihudi hshlishׁi">
+      <persName>
+       היהודי השלישׁי
+      </persName>
+     </person>
+     <person xml:id="rַb lָkhֵn">
+      <persName>
+       רַב לָכֵן
+      </persName>
+     </person>
+     <person xml:id="buֹ">
+      <persName>
+       בּוֹ
+      </persName>
+     </person>
+     <person xml:id="emri, zmri, uzbdi. shׁfes mrtskhim">
+      <persName>
+       עמרי, זמרי, וזבדי. שׁפעת מרצחים
+      </persName>
+     </person>
+     <person xml:id="khzyun sugh: mrdifus hihudim bngb rusih">
+      <persName>
+       חזיון תוגה: מרדיפות היהודים בנגב רוסיה
+      </persName>
+     </person>
+     <person xml:id="shַׁlָmָh">
+      <persName>
+       שַׁלָמָה
+      </persName>
+     </person>
+     <person xml:id="eֲmִinָdָb">
+      <persName>
+       עֲמִינָדָב
+      </persName>
+     </person>
+     <person xml:id="smh merkhh shׁnih">
+      <persName>
+       תמה מערכה שׁניה
+      </persName>
+     </person>
+     <person xml:id="smh merkhh shׁlishׁis, ubhּ nshׁlm hsfr">
+      <persName>
+       תמה מערכה שׁלישׁית, וּבהּ נשׁלם הספר
+      </persName>
+     </person>
+     <person xml:id="hkudmim">
+      <persName>
+       הקודמים
+      </persName>
+     </person>
+     <person xml:id="lh kurus shns">
+      <persName>
+       אלה קורות שנת
+      </persName>
+     </person>
+     <person xml:id="zbdi">
+      <persName>
+       זבדי
+      </persName>
+     </person>
+     <person xml:id="mִrְiָm">
+      <persName>
+       מִרְיָם
+      </persName>
+     </person>
+     <person xml:id="shׁmini">
+      <persName>
+       שׁמיני
+      </persName>
+     </person>
+     <person xml:id="ishׁ khil hrshׁun">
+      <persName>
+       אישׁ חיל הראשׁון
+      </persName>
+     </person>
+     <person xml:id="udְbָrַikhְ">
+      <persName>
+       וּדְבָרַיִךְ
+      </persName>
+     </person>
+     <person xml:id="khd mhbim">
+      <persName>
+       אחד מהבאים
+      </persName>
+     </person>
+     <person xml:id="ish shni">
+      <persName>
+       איש שני
+      </persName>
+     </person>
+     <person xml:id="hihudi hrshun">
+      <persName>
+       היהודי הראשון
+      </persName>
+     </person>
+     <person xml:id="shlumis">
+      <persName>
+       שלומית
+      </persName>
+     </person>
+     <person xml:id="shְׁluֹmִis">
+      <persName>
+       שְׁלוֹמִית
+      </persName>
+     </person>
+     <person xml:id="ishׁ khil hrshun">
+      <persName>
+       אישׁ חיל הראשון
+      </persName>
+     </person>
+     <person xml:id="hַeuֹd">
+      <persName>
+       הַעוֹד
+      </persName>
+     </person>
+     <person xml:id="eַd mָsַi">
+      <persName>
+       עַד מָתַי
+      </persName>
+     </person>
+     <person xml:id="uְiֹmַr">
+      <persName>
+       וְיֹאמַר
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,8 +419,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="khzyun sugh: mrdifus hihudim bngb rusih">
+   <sp who="khzyun sugh: mrdifus hihudim bngb rusih">
+    <speaker>
      חזיון תוגה: מרדיפות היהודים בנגב רוסיה:
     </speaker>
     <p>
@@ -137,7 +493,7 @@
 “”
     </p>
    </sp>
-   <sp>
+   <sp who="mֻkhh umdֻkhh slh">
     <p>
      גם בדורנו זה עוד שלהבת שנאת הדת לא כבתה! אף אם כבר שמש הדעת מאיר לארץ
 ולדרים עליה, עדן ימצאון חסרי לב אשר בחשכת אולתם ישאפו לבלוע בני אדם
@@ -155,7 +511,7 @@
       </sup>
      </a>
     </p>
-    <speaker id="umdue munus hnutsrim uhmkhmdnim el ds mshh nshenus">
+    <speaker>
      ומדוע אמונות הנוצרים והמחמדנים על דת משה נשענות
     </speaker>
     <p>
@@ -224,7 +580,7 @@
       </sup>
      </a>
     </p>
-    <speaker id="rbim">
+    <speaker>
      רבים
     </speaker>
     <p>
@@ -243,7 +599,7 @@
       </sup>
      </a>
     </p>
-    <speaker id="mֻkhh umdֻkhh slh">
+    <speaker>
      מֻכה ומדֻכה סלה
     </speaker>
     <p>
@@ -260,8 +616,8 @@
 הבינים,  נראו על גי החזיון!!
     </p>
    </sp>
-   <sp>
-    <speaker id="lh kurus shns">
+   <sp who="lh kurus shns">
+    <speaker>
      אלה קורות שנת:
     </speaker>
     <p>
@@ -293,66 +649,66 @@
 מקומם, ואושר התבל יפרח כגפן אדרת לטובת כל העמים סלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshemishl bshns srm“d lf”k">
+   <sp who="fshemishl bshns srm“d lf”k">
+    <speaker>
      פשעמישל בשנת תרמ“ד לפ”ק
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hmkhbr">
+   <sp who="hmkhbr">
+    <speaker>
      המחבר.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="eֲmִinָdָb">
+   <sp who="eֲmִinָdָb">
+    <speaker>
      עֲמִינָדָב,
     </speaker>
     <p>
      סוחר עברי בעיר קיעב.
     </p>
    </sp>
-   <sp>
-    <speaker id="shְׁluֹmִis">
+   <sp who="shְׁluֹmִis">
+    <speaker>
      שְׁלוֹמִית
     </speaker>
     <p>
      , אשתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mִrְiָm">
+   <sp who="mִrְiָm">
+    <speaker>
      מִרְיָם
     </speaker>
     <p>
      , בתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="yuֹeֶzֶr">
+   <sp who="yuֹeֶzֶr">
+    <speaker>
      יוֹעֶזֶר
     </speaker>
     <p>
      , משרת בית מסחרו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eֻzִiֵl">
+   <sp who="eֻzִiֵl">
+    <speaker>
      עֻזִיאֵל
     </speaker>
     <p>
      , אורח צעיר מארץ עסטרייך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַiְhudִim">
+   <sp who="hַiְhudִim">
+    <speaker>
      הַיְהוּדִים
     </speaker>
     <p>
      שׁוֹכְנֵי קִיֶעב.
     </p>
    </sp>
-   <sp>
-    <speaker id="eָmְrִi">
+   <sp who="eָmְrִi">
+    <speaker>
      עָמְרִי,
     </speaker>
     <p>
@@ -372,16 +728,16 @@
      בשוק אצל בית־מסחר עמינדב אשר דלתותיו הרחבות ממולאות בזכיכות.
     </p>
    </sp>
-   <sp>
-    <speaker id="emri, zmri uzbdi">
+   <sp who="emri, zmri uzbdi">
+    <speaker>
      עמרי, זמרי וזבדי
     </speaker>
     <p>
      נקבצים באים ומתחרשים מעט קט
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי
     </speaker>
     <p>
@@ -438,8 +794,8 @@
      אֵלֶה הַסְחוֹרוֹת, הַמְלֵאוֹת תִּפְאֶרֶת וָהוֹד?
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -463,8 +819,8 @@
      וְעַל אַחַת  כָּל דָבָר תְּהַלֵל?
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי.
     </speaker>
    </sp>
@@ -508,8 +864,8 @@
      כִּי לִטְחוֹן פָּנָיו אֵשׁ קִרְבִּי קֹדַחַת!
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -553,8 +909,8 @@
      יָעִיז בַּעַל נֶפֶשׁ יָדוֹ לִשְׁלוֹחַ? –
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -568,8 +924,8 @@
      לְהוֹרִידוֹ עַל לֹא עָוֶל לְעֵמֶק הַבָּכָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי.
     </speaker>
    </sp>
@@ -633,8 +989,8 @@
      וְלַעֲשׂוֹת הַזְבָחִים וּלְמַלְאוֹת כִּיסֵינוּ נָחִישָׁה
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -648,8 +1004,8 @@
      נַעַט כַּאֲשֶׁר עֲלֵי אָכְלָם יָטוּשׁוּ הַנְשָׁרִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -663,8 +1019,8 @@
      כִּי לִצְבֹּר רֹב שָׁלָל יֵשׁ לִי אַמְתַּחַת!
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי
     </speaker>
     <p>
@@ -691,8 +1047,8 @@
      בבית־מסחר עמינדב. עמינדב ויועזר משרתו. הקודמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="emindb">
+   <sp who="emindb">
+    <speaker>
      עמינדב
     </speaker>
     <p>
@@ -755,8 +1111,8 @@
 עליו ועל יועזר באגרוף רשע)
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי.
     </speaker>
    </sp>
@@ -765,8 +1121,8 @@
      הֲתַחְשׁוֹב לִבְרוֹחַ מִזֶה אִישׁ בָּעַר?
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -775,8 +1131,8 @@
      דַע כִּי תַחְבּוּלָתְךָ תַּחְבּוּלַת נָעַר!
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -785,8 +1141,8 @@
      רַק לְגֵיא צַלְמָוֶת לָךְ נִפְתַּח הַשָׁעַר
     </p>
    </sp>
-   <sp>
-    <speaker id="emindb">
+   <sp who="emindb">
+    <speaker>
      עמינדב.
     </speaker>
    </sp>
@@ -800,8 +1156,8 @@
      וְלִבּוֹת אֲנָשִׁים בְּקֶרֶב גְוִיוֹתֵיכֶם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -815,8 +1171,8 @@
      נַפְשׁוֹת נְקִיִים כֵּן תִּטְרְפוּ טָרֶף?
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -836,8 +1192,8 @@
 קומתו ארצה)
     </p>
    </sp>
-   <sp>
-    <speaker id="emindb">
+   <sp who="emindb">
+    <speaker>
      עמינדב.
     </speaker>
    </sp>
@@ -861,8 +1217,8 @@
      הָהּ! מְרַצְחִים אַכְזָרִים – יוֹרִידוּנִי שְׁאוֹלָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -886,8 +1242,8 @@
      הקודמים. יהודים אחדים באים מבוהלים ודחופים לעזרת הנדכאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hihudi hrshun">
+   <sp who="hihudi hrshun">
+    <speaker>
      היהודי הראשון.
     </speaker>
    </sp>
@@ -901,8 +1257,8 @@
      הַזֶה עַמִינָדָב? הוֹי רֶשַׁע אַכְזָרִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hihudi hshׁni">
+   <sp who="hihudi hshׁni">
+    <speaker>
      היהודי השׁני.
     </speaker>
    </sp>
@@ -916,13 +1272,13 @@
      הָאֵלֶה דַרְכֵּי רוּחַ עֵת הַחֲדָשָׁה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="hihudi hshlishׁi">
+   <sp who="hihudi hshlishׁi">
+    <speaker>
      היהודי השלישׁי.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shַׁlָmָh">
+   <sp who="shַׁlָmָh">
+    <speaker>
      שַׁלָמָה
     </speaker>
     <p>
@@ -944,8 +1300,8 @@
      וְחַטְאַת  הַגֶבֶר כִּי  תִּשְׁפָּכוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="hihudi hrbyei">
+   <sp who="hihudi hrbyei">
+    <speaker>
      היהודי הרביעי.
     </speaker>
    </sp>
@@ -974,8 +1330,8 @@
      וּזְרֹעֲכֶם תִּשָׁבֵר כַּאֲשֶׁר לִשְׁבֹּר הִגְדִילָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי
     </speaker>
     <p>
@@ -997,8 +1353,8 @@
      וּבְשֶׁטֶף דַם פְּצָעָיו עֲדֶן לֹא מִתְבֹּסֵס? –
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -1007,8 +1363,8 @@
      עוֹד נִרְאֶה כָל הַיְהוּדִים כָּכָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -1017,8 +1373,8 @@
      כָּעֵת מֹשֶׁה לֹא יוֹצִיאֲכֶם לִרְוָחָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי.
     </speaker>
    </sp>
@@ -1088,8 +1444,8 @@
 בקול תמרורים.)
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -1234,8 +1590,8 @@
 המסחר ימלא מהמון רב)
     </p>
    </sp>
-   <sp>
-    <speaker id="emri, zmri, uzbdi. shׁfes mrtskhim">
+   <sp who="emri, zmri, uzbdi. shׁfes mrtskhim">
+    <speaker>
      עמרי, זמרי, וזבדי. שׁפעת מרצחים
     </speaker>
     <p>
@@ -1243,8 +1599,8 @@
 גדולה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mhbim">
+   <sp who="khd mhbim">
+    <speaker>
      אחד מהבאים.
     </speaker>
    </sp>
@@ -1258,8 +1614,8 @@
      וּדְמֵי לִבּוֹתָם יִשְׁתַּפְּכוּ כַנְחָלִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁni">
+   <sp who="shׁni">
+    <speaker>
      שׁני.
     </speaker>
    </sp>
@@ -1273,8 +1629,8 @@
      וּלְנַתְּחֵם לִנְתָחִים נַפְשִׁי גָרְסָה לְתַאֲבָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishׁi">
+   <sp who="shlishׁi">
+    <speaker>
      שלישׁי.
     </speaker>
    </sp>
@@ -1288,8 +1644,8 @@
      עָרוֹם וְיָחֵף יִתָּלֶה! אוֹפֶל יִקָחֵהוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbyei">
+   <sp who="rbyei">
+    <speaker>
      רביעי.
     </speaker>
    </sp>
@@ -1303,8 +1659,8 @@
      וּבְכַשִׁיל וְכֵילַפּוֹת תִּשָׁבַרְנָה עַצְמוֹתָיו!
     </p>
    </sp>
-   <sp>
-    <speaker id="khmishׁi">
+   <sp who="khmishׁi">
+    <speaker>
      חמישׁי.
     </speaker>
    </sp>
@@ -1318,8 +1674,8 @@
      אִם מוֹרֵיהֶם לְקַלֵעַ יַשְׂכִּילוּ! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁshׁi">
+   <sp who="shׁshׁi">
+    <speaker>
      שׁשׁי.
     </speaker>
    </sp>
@@ -1333,8 +1689,8 @@
      וְאוּלָם אֵיפֹא הַיְהוּדִים הָאֲרוּרִים? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁbyei">
+   <sp who="shׁbyei">
+    <speaker>
      שׁביעי.
     </speaker>
    </sp>
@@ -1348,8 +1704,8 @@
      לַשָׁוְא הַחִצִים שְׁנוּנִים וּדְרֻכָה הַקֶשֶׁת
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmini">
+   <sp who="shׁmini">
+    <speaker>
      שׁמיני.
     </speaker>
    </sp>
@@ -1363,8 +1719,8 @@
      הֲשִׂיגוּם! תִּפְשׂוּם! עַד אַרְגִיעָה יָמֻתוּ!…
     </p>
    </sp>
-   <sp>
-    <speaker id="eָmְrִi">
+   <sp who="eָmְrִi">
+    <speaker>
      עָמְרִי.
     </speaker>
    </sp>
@@ -1403,8 +1759,8 @@
      וְהִגִידוּ אִם יֵשׁ לְמַכָּתָם תְּשׁוּעָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -1448,8 +1804,8 @@
      הֵן נִחַר גְרוֹנִי, וּלְשׁוֹנִי צִחֵה צָמָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="zbdi">
+   <sp who="zbdi">
+    <speaker>
      זבדי.
     </speaker>
    </sp>
@@ -1463,8 +1819,8 @@
      כִּי דֶלֶף לֹא שָׁתִיתִי מִלְבַד כֹּסוֹת עֲשֶׂרֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mhbim">
+   <sp who="khd mhbim">
+    <speaker>
      אחד מהבאים.
     </speaker>
    </sp>
@@ -1478,8 +1834,8 @@
      בְּכַדֵי יַיִן־שָׂרָף צִמְאוֹנְכֶם אֲשַׁבַּרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁni">
+   <sp who="shׁni">
+    <speaker>
      שׁני.
     </speaker>
    </sp>
@@ -1493,8 +1849,8 @@
      כָּעֵת בְּלֹא מְחִיר נַשְׁקִיט הַצִמָאוֹן –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlishi">
+   <sp who="shlishi">
+    <speaker>
      שלישי.
     </speaker>
    </sp>
@@ -1508,8 +1864,8 @@
      עוֹד יַיִן וְשֵׁכָר לְמַדַי לָנוּ עֲתוּדִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbyei">
+   <sp who="rbyei">
+    <speaker>
      רביעי.
     </speaker>
    </sp>
@@ -1533,8 +1889,8 @@
      נַעֲשֶׂה לָנוּ עַתָּה מִשְׁתֶּה שְׁמָנִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="khmishׁi">
+   <sp who="khmishׁi">
+    <speaker>
      חמישׁי.
     </speaker>
    </sp>
@@ -1548,8 +1904,8 @@
      מִשְׁתֶּה וְשִׂמְחָה לְעֻמַת צָרָה וָנֶהִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbyei">
+   <sp who="rbyei">
+    <speaker>
      רביעי.
     </speaker>
    </sp>
@@ -1563,8 +1919,8 @@
      וְאָנֹכִי כְּרֶגַע מַלְאוֹת חֶפְצְכֶם אֲקַוֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁshׁi">
+   <sp who="shׁshׁi">
+    <speaker>
      שׁשׁי.
     </speaker>
    </sp>
@@ -1588,8 +1944,8 @@
      יִהְיוּ נָא דְבָרַי עַל לוּחַ לִבְּךָ חֲרֻתִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁbyei">
+   <sp who="shׁbyei">
+    <speaker>
      שׁביעי.
     </speaker>
    </sp>
@@ -1603,8 +1959,8 @@
      עִם חֵלֶב כָּרִים בְּסֵפֶל אַדִירִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁmini">
+   <sp who="shׁmini">
+    <speaker>
      שׁמיני.
     </speaker>
    </sp>
@@ -1618,8 +1974,8 @@
      חֲזֶה עֵגֶל, וּזְנִים מְרוּקָחִים חַמִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="sshׁyei">
+   <sp who="sshׁyei">
+    <speaker>
      תשׁיעי.
     </speaker>
    </sp>
@@ -1633,8 +1989,8 @@
      וְשִׁשִׁים לְבִיבוֹת בְּשֶׁמֶן חֲזִיר מְרֻבָּכוֹת!
     </p>
    </sp>
-   <sp>
-    <speaker id="esiri">
+   <sp who="esiri">
+    <speaker>
      עשׂירי.
     </speaker>
    </sp>
@@ -1648,8 +2004,8 @@
      נַעֲרָה יְהוּדִית לִי תַנְעִים הַלָיִל
     </p>
    </sp>
-   <sp>
-    <speaker id="rbyei">
+   <sp who="rbyei">
+    <speaker>
      רביעי.
     </speaker>
    </sp>
@@ -1683,8 +2039,8 @@
      וְתַחַת , גַם יָחַד – !
     </p>
    </sp>
-   <sp>
-    <speaker id="esiri">
+   <sp who="esiri">
+    <speaker>
      עשׂירי.
     </speaker>
    </sp>
@@ -1708,8 +2064,8 @@
      לְבַדִי לִי אֲבַקֵשׁ יַעֲלַת חֵן וָיֹפִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhd esr">
+   <sp who="hkhd esr">
+    <speaker>
      האחד עשׂר.
     </speaker>
    </sp>
@@ -1723,8 +2079,8 @@
      עַל גַמָד כָּמוֹךָ לֹא טוֹב הִשָׁעֵן!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbyei">
+   <sp who="rbyei">
+    <speaker>
      רביעי.
     </speaker>
    </sp>
@@ -1743,16 +2099,16 @@
      (שלשתם הולכים)
     </p>
    </sp>
-   <sp>
-    <speaker id="hkudmim zuls">
+   <sp who="hkudmim zuls">
+    <speaker>
      הקודמים זולת
     </speaker>
     <p>
      השלושה. אנשי חיל יבואו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ishׁ khil hrshׁun">
+   <sp who="ishׁ khil hrshׁun">
+    <speaker>
      אישׁ חיל הראשׁון.
     </speaker>
    </sp>
@@ -1766,8 +2122,8 @@
      לְהִשְׁתַּעֲשֵׁעַ עִמָכֶם יָבֹאוּ תְמִימֵי דֵעִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishׁ khil hshׁni">
+   <sp who="ishׁ khil hshׁni">
+    <speaker>
      אישׁ חיל השׁני.
     </speaker>
    </sp>
@@ -1781,8 +2137,8 @@
      הֵן תֵּת לָנוּ חֵלֶק מֵהַשָׁלָל תַּחְפֹּצוּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="ishׁ khil hshׁlishׁi">
+   <sp who="ishׁ khil hshׁlishׁi">
+    <speaker>
      אישׁ חיל השׁלישׁי.
     </speaker>
    </sp>
@@ -1796,8 +2152,8 @@
      וּמַשְׂכֹּרֶת עֲמָלֵנוּ עֲדֶן לֹא לָקַחְנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ishׁ khil hrshun">
+   <sp who="ishׁ khil hrshun">
+    <speaker>
      אישׁ חיל הראשון.
     </speaker>
    </sp>
@@ -1821,8 +2177,8 @@
      וּמִגְוִיוֹת הַיְהוּדִים דָמִים רָוָתָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="zmri">
+   <sp who="zmri">
+    <speaker>
      זמרי.
     </speaker>
    </sp>
@@ -1836,8 +2192,8 @@
      וְעִמָנוּ עַתָּה תֹאכְלוּ אֲרוּחָה נָעֵמָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="emri">
+   <sp who="emri">
+    <speaker>
      עמרי.
     </speaker>
    </sp>
@@ -1851,8 +2207,8 @@
      וְעַל רֹב מַטְעַמִים תִּתְעַנְגוּ, תִשְׂמָחוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="hkudmim">
+   <sp who="hkudmim">
+    <speaker>
      הקודמים
     </speaker>
     <p>
@@ -2011,8 +2367,8 @@
      (מדי ירוצו לשלול שלל ולבוז בז, הידיעה פורשת כנפיה על גיי החזיון.
     </p>
    </sp>
-   <sp>
-    <speaker id="smh merkhh rshׁunh">
+   <sp who="smh merkhh rshׁunh">
+    <speaker>
      תמה מערכה ראשׁונה.
     </speaker>
    </sp>
@@ -2028,8 +2384,8 @@
 למכסה החדר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2168,8 +2524,8 @@
      וּסְגֻלוֹתֵיהֶן הַחֲמֻדוֹת כָּלוּ בְיָגוֹן כָּלוּ! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2223,8 +2579,8 @@
      גַּם כָּל תִּקְוֹתַיִךְ בַּחַיִים יַפְרִיחַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2318,8 +2674,8 @@
      שִׁמְעִי! כָּל אֲשֶׁר סְבִיבוֹתַי מַר מַר יְקוֹנֵן! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2345,8 +2701,8 @@
 הקודמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -2360,8 +2716,8 @@
      אוֹיָה, בַּעֲלִי! בַּעֲלִי! – הוֹי חשֶׁךְ יְשׁוּפֵנִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2370,8 +2726,8 @@
      אַלְלַי לִי! הֲכֵן עַתָּה נִתְרָאֶה, אָבִי? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2380,8 +2736,8 @@
      עַמִינָדָב! הוֹי מַרְאֶה פָנֶיךָ רֶצַח בִּלְבָבִי
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2395,8 +2751,8 @@
      גְמוּל זְאֵבֵי אַרְצֵנוּ יְהִי זֶה הַנוֹתָר!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2410,8 +2766,8 @@
      כִּי שֶׁבַע תְּקַלְעֵנוּ לִמְצֻלוֹת הַהֹוָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2420,8 +2776,8 @@
      וְאִם גַם כָּכָה עֲצַת אֱלֹהִים צְבָאוֹת,
     </p>
    </sp>
-   <sp>
-    <speaker id="hַeuֹd">
+   <sp who="hַeuֹd">
+    <speaker>
      הַעוֹד
     </speaker>
     <p>
@@ -2483,8 +2839,8 @@
      אוּלַי  זֹאת אֶשְׁמַע וְאָבִינָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -2493,8 +2849,8 @@
      נִפְעַמְתִּי וְלֹא אֲדַבֵּר, עַלְמָה עֲדִינָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2503,8 +2859,8 @@
      וּבְכָל זֹאת, יוֹעֶזֶר, אַל בְּמִלִין תַּעֲצֹרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -2513,8 +2869,8 @@
      הַגֵד מַה נִהְיָה! הָהּ! מַכְאוֹבִי נוֹרָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -2538,8 +2894,8 @@
      הֹרְגִים אַכְזָרִים הִקְרִיבוֹ לַשַׁחַת חַיָתִי –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis umrim">
+   <sp who="shlumis umrim">
+    <speaker>
      שלומית וּמרים.
     </speaker>
    </sp>
@@ -2548,8 +2904,8 @@
      אֲבוֹי! גַם הַיוֹם הוֹרְגִים אַכְזָרִים?! –
     </p>
    </sp>
-   <sp>
-    <speaker id="yuezr">
+   <sp who="yuezr">
+    <speaker>
      יועזר.
     </speaker>
    </sp>
@@ -2558,8 +2914,8 @@
      שַׁאֲלֶינָה וְיַגִידוּכֶן אֵלֶה הַגְבָרִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="khd hgbrim">
+   <sp who="khd hgbrim">
+    <speaker>
      אחד הגברים.
     </speaker>
    </sp>
@@ -2578,8 +2934,8 @@
      רַבִּים חֲלָלִים הִפִּילוּ, וַהֲרֻגֵיהֶן עֲצֻמִים –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2588,8 +2944,8 @@
      וּבְתוֹכָם מַחֲמַדֵי נַפְשֵׁנוּ הַנְעִימִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2618,8 +2974,8 @@
      אֲבָל יוּבָא נָא רוֹפֵא, גַם חֹבֵשׁ יִקָרֵא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khd hgbrim">
+   <sp who="khd hgbrim">
+    <speaker>
      אחד הגברים.
     </speaker>
    </sp>
@@ -2628,8 +2984,8 @@
      בִּי נִשְׁבַּעְתִּי כִּי לָצֵאת אֲנִי יָרֵא!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁni">
+   <sp who="shׁni">
+    <speaker>
      שׁני.
     </speaker>
    </sp>
@@ -2658,8 +3014,8 @@
      הדלת תסוב על צירה ועזיאל יבוא. הקודמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
     <p>
@@ -2721,8 +3077,8 @@
      לִשְׁאוֹל לִשְׁלוֹמְכֶן יָרֵאתִי! אָבְדוּ עֶשְׁתֹּנֹתַי!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis umrim">
+   <sp who="shlumis umrim">
+    <speaker>
      שלומית ומרים.
     </speaker>
    </sp>
@@ -2736,8 +3092,8 @@
      רָאָה, קִוִינוּ לְשָׁלוֹם, וְשַׁדַי הֵמַר לָנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2751,8 +3107,8 @@
      אֲבָל… הֲכִי הַשְׁמוּעָה לֹא שֵׁמַע הַחֲלֹמוֹת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -2761,8 +3117,8 @@
      לֹא בַחֲלוֹם אַךְ בְּהָקִיץ הִקְשַׁבְתָּ דִבְרֵי אֱמֶת
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -2771,8 +3127,8 @@
      לֵב כָּל שׂמְעֵיהֶם כְּשַׁבְלוּל יַהֲלֹךְ תֶּמֶס!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2786,8 +3142,8 @@
      אֵיךְ עָרְבָה שִׂמְחַתְכֶן? הַחֶדְוָה אֵיךְ שָׁבָתָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2821,8 +3177,8 @@
      זֶה יָמִים אֲחָדִים עָלֵינוּ חִצָיו קוֹלֵעַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2836,8 +3192,8 @@
      שֶׁבָּהּ נִקְרֹא נִקְרֵאתִי עַל שִׂמְחַתְכֶן?! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -2851,8 +3207,8 @@
      וּבְעֶרֶב יוֹם הַהוּא כִּמְעַט נִרְצָח אִישִׁי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2866,8 +3222,8 @@
      כְּאִישׁ חָלָל בְּאַכְזָרִיוּת חֵמָה רָצוּחַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
     <p>
@@ -2879,8 +3235,8 @@
      הוּא וְלֹא אַחֵר! כִּכְּפוֹר וָקֶרַח יָדָיו!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2899,8 +3255,8 @@
      וּתְמוּר גִילָה פֹה אֶמְצָא יָגוֹן וַאֲנָחָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -2934,8 +3290,8 @@
      וְחֶבֶר מְרַצְחִים הִתְנַפֵל כְּדֻבֵּי יַעָרוֹת –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -2944,8 +3300,8 @@
      עוֹד הַפַּעַם עַל ? עוֹד הַפַּעַם?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -2989,8 +3345,8 @@
      (מרים תמרר בבכי במרוצת הדברים האלה)
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3079,16 +3435,16 @@
      אַךְ אֵיכָה נִפְצַע כָּכָה, גְבִירָה נִכְבָּדָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="umָsַi">
+   <sp who="umָsַi">
+    <speaker>
      וּמָתַי
     </speaker>
     <p>
      זֹה הֹוָה שְׁלִישִׁיָה נוֹלָדָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -3132,8 +3488,8 @@
      אַךְ מִי יִתֵּן גַם אֲשֶׁר הִקְשַׁבְתִּי לֹא שָׁמַעְתִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3167,8 +3523,8 @@
      וְעֶדְנֵי זֶה הַבַּיִת לְרוֹשׁ וְלַעֲנָה הֹפֶכֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -3208,8 +3564,8 @@
 ומעל מפתן הדלת המובלת החוצה צועק
     </p>
    </sp>
-   <sp>
-    <speaker id="ishׁ khd">
+   <sp who="ishׁ khd">
+    <speaker>
      אישׁ אחד.
     </speaker>
    </sp>
@@ -3218,8 +3574,8 @@
      בְּאוּלַם הַשַׁעַר נְגֹהוֹת אֵשׁ יַגִיהוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ish shni">
+   <sp who="ish shni">
+    <speaker>
      איש שני.
     </speaker>
    </sp>
@@ -3228,8 +3584,8 @@
      גַם רִשְׁפֵּי לֶהָבוֹת שָׁם עוּף יַגְבִּיהוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ish shlishׁi">
+   <sp who="ish shlishׁi">
+    <speaker>
      איש שלישׁי.
     </speaker>
    </sp>
@@ -3238,8 +3594,8 @@
      נָחִישָׁה מִפְלָט לָנוּ! מִן הַבָּיִת נָרוּצָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3248,8 +3604,8 @@
      אֶת עַמִינָדָב הָאֻמְלָל חִישׁ נוֹצִיא הַחוּצָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -3273,8 +3629,8 @@
      אֲבוֹי! בְּעוֹד רֶגַע לֹא תִהְיֶה לָנוּ פְלֵיטָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3294,8 +3650,8 @@
 ונחפזים לצאת.)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -3397,8 +3753,8 @@
      וְשֶׁמֶשׁ פַּרְדֵס נֵצַח מִמָרוֹם זוֹרֵחַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית
     </speaker>
     <p>
@@ -3410,8 +3766,8 @@
      בִּתִּי! בִּתִּי יְחִידָתִי בַּבַּיִת נִשְׁאָרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -3423,8 +3779,8 @@
      אַל נָא תִדְאָגִי, אִמִי הַיְקָרָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -3433,8 +3789,8 @@
      הוֹי! כָּל הַבַּיִת בֹּעֵר, וּמִי יוֹצִיאֶנָהּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל
     </speaker>
     <p>
@@ -3446,16 +3802,16 @@
      יַעֲבוֹר עָלַי מָה! אָנֹכִי אֲחַלְצֶנָהּ! –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
     <p>
      עזיאל יבוא בחפזון ובלב נפעם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3479,8 +3835,8 @@
      וּבְעוֹד רֶגַע בַּמַעֲלוֹת תַּעֲלֶה אֵשׁ רַבָּה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3494,8 +3850,8 @@
      עַד אֲבַדוֹן תֹאכַל, וּתְלַהֵט עַד לֵב שְׁחָקִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3519,8 +3875,8 @@
      וְנַפְשׁוֹתֵינוּ מִבְּלִי יְכֹלֶת לָנוּס תִּשְׁאַפְנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3534,8 +3890,8 @@
      אֶל תּוֹחֶר לָצֵאת פֶּן תִּשָׂרֵף עִמָדִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3559,8 +3915,8 @@
      וְתִקְוָתִי חֲזָקָה שֶׁלֹא לַשָׁוְא עָמַלְתִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3619,8 +3975,8 @@
      אִם בְּאָבְדַן דוֹדִי וְאָבִי הַיָקָר לֹא יַשְׂפִּיקוּ,
     </p>
    </sp>
-   <sp>
-    <speaker id="ubְkhָl">
+   <sp who="ubְkhָl">
+    <speaker>
      וּבְכָל
     </speaker>
     <p>
@@ -3650,8 +4006,8 @@
      אִם אַךְ גַם  קָבַרְתִּי, וְנָקָם לָקַחְתִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3675,8 +4031,8 @@
      וְאֵיפֹה תֶחֱזִי עַתָּה תּוֹפְשֵׂי חֶרֶב וָקָיִן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3685,8 +4041,8 @@
      בְּכָל עֵבֶר וּפִנָה אֶחֱזֶה הֲמוֹנִים הֲמוֹנִים!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3705,8 +4061,8 @@
      וּבְרֶשֶׁת פַּחַד שָׁוְא נַפְשֵׁךְ נִלְכָּדָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -3745,8 +4101,8 @@
      אָמוּתָה נָא, וְאֶשְׁכַּח מְרִי יְגוֹנִי סֶלָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -3800,8 +4156,8 @@
      (יאחזנה בשתי ידיו וירוץ אל החלון, וברגע הזה המסכה נסוכה על פני החדר)
     </p>
    </sp>
-   <sp>
-    <speaker id="smh merkhh shׁnih">
+   <sp who="smh merkhh shׁnih">
+    <speaker>
      תמה מערכה שׁניה.
     </speaker>
    </sp>
@@ -3813,8 +4169,8 @@
 נפש.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -3828,8 +4184,8 @@
      מָתוֹק שֶׁמֶשׁ הָאשֶׁר, וּמַר לָבֹא עַד הֲלוֹם!
     </p>
    </sp>
-   <sp>
-    <speaker id="nuֹrָ">
+   <sp who="nuֹrָ">
+    <speaker>
      נוֹרָא
     </speaker>
     <p>
@@ -3956,8 +4312,8 @@
      הקודמים. עזיאל יבוא בלויית ארבעה אנשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל
     </speaker>
     <p>
@@ -3984,8 +4340,8 @@
      אֲשֶׁר מַלְאוֹת חֶפְצֵנוּ הִנָם לָנוּ נִדְרָשִׁים –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -3999,8 +4355,8 @@
      גַּם בִּתִּי בִתְנוּמָה תָנוּחַ עַל עַרְשֵׂהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4039,8 +4395,8 @@
      לָכֵן חִישׁ נִשָׂאֵם לַעֲלִיָה הַנִשְׂכֶּרֶת –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -4049,8 +4405,8 @@
      יְהִי כֵן, אַךְ – הִנֵה בִתִּי מִתְעוֹרֶרֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4070,8 +4426,8 @@
      הֲמָצָאתָ חֶדֶר? אִם הֵבֵאתָ שְׁמוּעָה טוֹבָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4085,8 +4441,8 @@
      מִחוּץ לִשְׁוָקֵי הַשַעֲרוּרִיוֹת שָׂכַרְתִּי עֲלִיָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4095,8 +4451,8 @@
      וּמָתַי נָשִׂים פְּעָמֵינוּ שָׁמָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4126,8 +4482,8 @@
      בַעֲלִיַת־מלון במגרש העיר קיעב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל
     </speaker>
     <p>
@@ -4265,8 +4621,8 @@
      וְאִישׁ עַל אָחִיו יְנֹפֵף חֶרֶב הַיוֹנָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="eַd mָsַi">
+   <sp who="eַd mָsַi">
+    <speaker>
      עַד מָתַי
     </speaker>
     <p>
@@ -4423,8 +4779,8 @@
      וְשָׁם אֱנוֹשׁ צִיץ נֹבֵל קָטֹן יְהַלֵל שֶׁבַע,
     </p>
    </sp>
-   <sp>
-    <speaker id="uְiֹmַr">
+   <sp who="uְiֹmַr">
+    <speaker>
      וְיֹאמַר
     </speaker>
     צְבִי תִפְאֶרֶת הַפְּרָחִים הִנֵהוּ.
@@ -4494,8 +4850,8 @@
      שׁלומית ומרים באות במר נפש. עמינדב יובא במטתו. עזיאל ירוץ לקראתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4509,8 +4865,8 @@
      וּמַדוּעַ עַד כֹּה אֶחֱרוּ פַעֲמֵיכֶן? –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -4554,8 +4910,8 @@
      אַךְ תּוֹדֹת אֶלֶף לָאֵל כִּי פֹה הִנֵנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4599,8 +4955,8 @@
      וּמִי יִתֵּן שׂרַפְתִּי לְבַּל עוֹד אֶרְאֶה שׁוֹד וָרֶצַח!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4644,8 +5000,8 @@
      וּמַה זֶה אַךְ  אַתְּ נַפְשֵׁךְ שֹׁאֶלֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4714,8 +5070,8 @@
      אֶצְלוֹ נִצֶבֶת אִמִי כְאִשָׁה קְשַׁת־רוּחַ,
     </p>
    </sp>
-   <sp>
-    <speaker id="uְonֹkhִi">
+   <sp who="uְonֹkhִi">
+    <speaker>
      וְאָנֹכִי
     </speaker>
     <p>
@@ -4730,8 +5086,8 @@
      אַיכָה כַלְכֵּל זֹאת, אֵיכָה לִחְיוֹת אוּכָלָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4795,8 +5151,8 @@
      וְעוֹד יוּכַל קוּם בְּטֶרֶם רִדְתּוֹ קָבֶר!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4820,8 +5176,8 @@
      הֵן אָבְדַן  לָהּ מַכְאוֹב וְתוּגָה – –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4835,8 +5191,8 @@
      אֹהֲבֵךְ עוֹד יִשְׁאַף חַיִים וְעִמוֹ תִשְׂמָחִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4845,8 +5201,8 @@
      עֻזִיאֵל! אִם בְּמַהֲתַלוֹת אוֹ בְחִידוֹת תְּדַבֵּרָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -4855,8 +5211,8 @@
      הֲכִי רְפָאַי יָקוּמוּ? מַה תֹאמֵרָה? –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4870,8 +5226,8 @@
      בּוֹחֵן הַכְּלָיוֹת יוֹדֵעַ יוֹשֶׁר אֲמָרַי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4880,8 +5236,8 @@
      לֹא יוּכַל הֱיוֹת אַחֲרֵי רֹאִי מוֹתוֹ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -4890,8 +5246,8 @@
      הַאַתָּה בְעֵינֶיךָ רָאִיתָ אוֹתוֹ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4900,8 +5256,8 @@
      כֶּן הִיא! בַּמָלוֹן הַלָזֶה הִנֵהוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4910,8 +5266,8 @@
      דוֹדִי שֶׁאָהֲבָה נַפְשִׁי? מְאֹד שָׁגִיתָ! אַיֵהוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -4930,8 +5286,8 @@
      הִנוֹ עֹמֵד לְפָנַיִךְ! דוֹדַיִךְ לוֹ הָבִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -4943,8 +5299,8 @@
      עֻזִיאֵל אֲדוֹנִי! עֻזִיאֵל! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית
     </speaker>
     <p>
@@ -4961,13 +5317,13 @@
      (כלם עומדים בלי נוע, ודממה ממושכה שלטת)
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="rַb lָkhֵn">
+   <sp who="rַb lָkhֵn">
+    <speaker>
      רַב לָכֵן
     </speaker>
     <p>
@@ -4989,8 +5345,8 @@
      וְאוּלַי בְּסוֹד מָרוֹם זֹה הַחֹבֶרֶת נֶעֶשָׂתָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5014,8 +5370,8 @@
      וְלָמָה לָךְ אֻמְלָלָה וּקְשַׁת רוּחַ כָּמוֹנִי? –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5034,32 +5390,32 @@
      יִקְרַת לֵב וָנֶפֶשׁ מִכָּל אֹשֶׁר יְקָרָה,
     </p>
    </sp>
-   <sp>
-    <speaker id="ubָkhְ">
+   <sp who="ubָkhְ">
+    <speaker>
      וּבָךְ
     </speaker>
     <p>
      מִרְיָם לִי אֶמְצָא חֲבֶרֶת נִבְחָרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bָkhְ">
+   <sp who="bָkhְ">
+    <speaker>
      בָּךְ
     </speaker>
     <p>
      שֶׁמֶשׁ כָּל חֶמְדָה לְעֵינַי זֹהָרֶת,
     </p>
    </sp>
-   <sp>
-    <speaker id="ubָkhְ">
+   <sp who="ubָkhְ">
+    <speaker>
      וּבָךְ
     </speaker>
     <p>
      עַלְמָה נְעִימָה, נַפְשִׁי בֹחָרֶת –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5093,8 +5449,8 @@
      וּבְטֶרֶם יַעֲבֹר הָאֵבֶל,  לִי אֶקָחָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5158,8 +5514,8 @@
      וּכְחֶפְצֵךְ לָךְ אֵעָגֵן עֲדֵי כָל תּוּגָה חָלָפָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5183,8 +5539,8 @@
      אֵיךְ לֶאֱהֹב מֵחָדָשׁ חִישׁ אַחֲלִיף כֹּחַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5218,16 +5574,16 @@
      אוּלַי  תִּישַׁר זֹה הָאֲגוּדָה,
     </p>
    </sp>
-   <sp>
-    <speaker id="udְbָrַikhְ">
+   <sp who="udְbָrַikhְ">
+    <speaker>
      וּדְבָרַיִךְ
     </speaker>
     <p>
      יַעֲשׂוּ פֶרִי, שָׂרָתִי הַכְּבוּדָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -5296,8 +5652,8 @@
      אֶצְבַּע אֱלֹהִים הִיא! כֵּן גָמַר אֵל מִמָעַל! –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5321,8 +5677,8 @@
      (שניהם מתחבקים, ועומדים כן רגעים אחדים.)
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית
     </speaker>
     <p>
@@ -5349,8 +5705,8 @@
      הֶאָח בַּעֲלִי! רְאֵה נָא הַנֶאֱהָבִים! –
     </p>
    </sp>
-   <sp>
-    <speaker id="emindb">
+   <sp who="emindb">
+    <speaker>
      עמינדב
     </speaker>
     <p>
@@ -5362,8 +5718,8 @@
      בְּאֹשֶׁר – וּבְרָכָה – יִהְיוּ – מְשֻׁלָבִים! –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil, mrim ushׁlumis">
+   <sp who="ezil, mrim ushׁlumis">
+    <speaker>
      עזיאל, מרים ושׁלומית
     </speaker>
     <p>
@@ -5390,8 +5746,8 @@
      וּלְבַּל שׁוּב עַד נֵצַח יִתַּמוּ, יִסָפוּ!!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5435,8 +5791,8 @@
      וּבְצֵל כַּנְפֵי הַשַׁלְוָה נִמְצָא חַיִים טוֹבִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -5470,8 +5826,8 @@
      אֲבָל אֵיךְ נִסַע אִם מַחֲלָתוֹ קָשָׁתָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5505,8 +5861,8 @@
      אִם עַד מָחָר בְּחֹמוֹת קִיעֶב נִשְׁכּוֹנָה –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -5530,8 +5886,8 @@
      וּמָר מַר לָנוּס כֵּן פַּחַז כַּמַיִם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5545,8 +5901,8 @@
      עֲדֵי יָהּ יַעַזְרֵנוּ גַּם יִתְּמוּ חַתְּחַתִּים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5591,8 +5947,8 @@
 ופתאום הראשונה פורשת כפיה השמימה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -5686,8 +6042,8 @@
      וְתָמְכֵנוּ בִּגְבוּרוֹת יֵשַׁע יְמִינְךָ סֶלָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5701,8 +6057,8 @@
      וּמִי יִתֵּן אֵל יְמַלֵא מִשְׁאֲלוֹת לִבֵּנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -5726,8 +6082,8 @@
      שֶׁלֹא יָסִירוּ וְלֹא יָפֵרוּ מֶנוּ חַסְדֵימוֹ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -5821,8 +6177,8 @@
      אִם גְוִיָתוֹ הַחוֹלָה לַמֶרְחַקִים נֹדֶדֶת –
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁlumis">
+   <sp who="shׁlumis">
+    <speaker>
      שׁלומית.
     </speaker>
    </sp>
@@ -5842,8 +6198,8 @@
 למשמעתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
     <p>
@@ -5875,8 +6231,8 @@
      וְלָרוּץ לִמְסִלַת־הַבַּרְזֶל עֹמְדוֹת הָכֵן! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis umrim">
+   <sp who="shlumis umrim">
+    <speaker>
      שלומית ומרים
     </speaker>
     <p>
@@ -5888,8 +6244,8 @@
      מְאֹד נַחְפֹּץ לִנְסוֹעַ! – אָכֵן – אָכֵן –
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5903,8 +6259,8 @@
      וּשְׁמַעֲנָה אֲמָרַי לְבַל עֲצָתִי תָפֵרְנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis umrim">
+   <sp who="shlumis umrim">
+    <speaker>
      שלומית ומרים.
     </speaker>
    </sp>
@@ -5918,8 +6274,8 @@
      אֵיכָה חִישׁ עִם חוֹלֶה זֹה הַדֶרֶךְ נֶאֱחֹזָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -5978,8 +6334,8 @@
      אֶת חוֹלֵנוּ הַיָקָר אִישִׁים אֵלֶה יִקָחוּ! –
     </p>
    </sp>
-   <sp>
-    <speaker id="shlumis">
+   <sp who="shlumis">
+    <speaker>
      שלומית.
     </speaker>
    </sp>
@@ -6003,8 +6359,8 @@
      אִם  יָנֻסוּ, אַל נָא נַחְנוּ נִשָׁאֵרָה! –
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -6018,8 +6374,8 @@
      (לעזיאל)
     </p>
    </sp>
-   <sp>
-    <speaker id="buֹ">
+   <sp who="buֹ">
+    <speaker>
      בּוֹ
     </speaker>
     <p>
@@ -6029,8 +6385,8 @@
      מֵטִיבֵנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ezil">
+   <sp who="ezil">
+    <speaker>
      עזיאל.
     </speaker>
    </sp>
@@ -6069,8 +6425,8 @@
      (כלם הולכים, והיריעה תשתרע על פני החדר)
     </p>
    </sp>
-   <sp>
-    <speaker id="smh merkhh shׁlishׁis, ubhּ nshׁlm hsfr">
+   <sp who="smh merkhh shׁlishׁis, ubhּ nshׁlm hsfr">
+    <speaker>
      תמה מערכה שׁלישׁית, וּבהּ נשׁלם הספר.
     </speaker>
    </sp>
@@ -6101,8 +6457,8 @@ doch eben so widersinnig als rechtŝwidrig ist
      אגרת פולוס הראשונה אל הקורינתיות י', ל"ב.
     </p>
    </sp>
-   <sp>
-    <speaker id="siehe">
+   <sp who="siehe">
+    <speaker>
      Siehe
     </speaker>
     Christilche Zeuegnisse gegen die Blutbeschuldigung der
@@ -6122,8 +6478,8 @@ doch eben so widersinnig als rechtŝwidrig ist
 חטאה גדולה נגד האמת ונגד העם החכם והנבון הזה!”
     </p>
    </sp>
-   <sp>
-    <speaker id="bergleiche">
+   <sp who="bergleiche">
+    <speaker>
      Bergleiche
     </speaker>
     Biblische Geschichte von L. Breuer. Wien 1870. II Th.

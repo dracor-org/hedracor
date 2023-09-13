@@ -46,6 +46,82 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="uְhַkhַg – khֲnֻkָh">
+      <persName>
+       וְהַחַג – חֲנֻכָּה
+      </persName>
+     </person>
+     <person xml:id="sbs">
+      <persName>
+       סבתא
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd d'">
+      <persName>
+       נֶכֶד ד'
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd d' uh'">
+      <persName>
+       נֶכֶד ד' וה'
+      </persName>
+     </person>
+     <person xml:id="kֻlָּm">
+      <persName>
+       כֻּלָּם
+      </persName>
+     </person>
+     <person xml:id="kֻlָm">
+      <persName>
+       כֻּלָם
+      </persName>
+     </person>
+     <person xml:id="nkhdim d' h'">
+      <persName>
+       נכדים ד' ה'
+      </persName>
+     </person>
+     <person xml:id="hַnְּkhָdִim">
+      <persName>
+       הַנְּכָדִים
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd '">
+      <persName>
+       נֶכֶד א'
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd h'">
+      <persName>
+       נֶכֶד ה'
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd g'">
+      <persName>
+       נֶכֶד ג'
+      </persName>
+     </person>
+     <person xml:id="nְkhָdִim d‘, h’">
+      <persName>
+       נְכָדִים ד‘, ה’
+      </persName>
+     </person>
+     <person xml:id="sַbְtָ">
+      <persName>
+       סַבְתָּא
+      </persName>
+     </person>
+     <person xml:id="nֶkhֶd b'">
+      <persName>
+       נֶכֶד ב'
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -113,8 +189,8 @@
      נֶכֶד ג' מַרְבֶּה לֶאֱכוֹל.
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא
     </speaker>
     <p>
@@ -123,8 +199,8 @@
 וַאֲנִי נֶחְמָדָה…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
@@ -137,112 +213,112 @@
 נֶחְמָדָה, נֶחְמֶדֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
      אַתֶּם אוֹהֲבִים אוֹתִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="hַnְּkhָdִim">
+   <sp who="hַnְּkhָdִim">
+    <speaker>
      הַנְּכָדִים:
     </speaker>
     <p>
      כֵּן, כֵּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="sbs">
+   <sp who="sbs">
+    <speaker>
      סבתא:
     </speaker>
     <p>
      מִשּׁוּם מָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      מִשּׁוּם שֶאַתְּ סַבְתָּא שֶׁלָּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב'
     </speaker>
     <p>
      : מִשּׁוּם –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      שֶׁאַתְּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד'
     </speaker>
     <p>
      : סַבְתָּא –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      שֶׁלָּנוּ! (צְחוֹק גָּדוֹל)
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      גַּם –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      מִשּׁוּם –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      שֶׁאַתּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      מְסַפֶּרֶת –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      סִפּוּרִים יָפִים (מוֹחֵא כָּף)!
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -250,88 +326,88 @@
 סִפּוּרִים נֶחְמָדִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      אִם כֵּן –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      סַבְתָּא –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      סַפְּרִי לָנוּ –
     </p>
    </sp>
-   <sp>
-    <speaker id="nְkhָdִim d‘, h’">
+   <sp who="nְkhָdִim d‘, h’">
+    <speaker>
      נְכָדִים ד‘, ה’:
     </speaker>
     <p>
      גַּם הַיּוֹם סִפּוּר יָפֶה! (מוֹחֲאִים כָּף)
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
      אֲסַפֵּר, אֲסַפֵּר, אִם…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      נִהְיֶה יְלָדִים טוֹבִים –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      וַחֲבִיבִים –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      וְאוֹכְלִים הַרְבֵּה (מְמַלֵּא פִּיו אֹכֶל) –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      וּמְשַׂחֲקִים הַרְבֵּה –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      וּמְזַמְּרִים יָפֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -339,8 +415,8 @@
 אֲסַפֵּר לָכֶם סִפּוּר יָפֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
@@ -348,8 +424,8 @@
 גַּם אַתְּ תּאֹכְלִי הַרְבֵּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -357,8 +433,8 @@
 בָנִים סִימָן לִזְקֵנִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
@@ -366,16 +442,16 @@
 סִימָּן לִ…זְקֵנִים, וּמַעֲשֵׂה בָנִים סִימָּן לְ…בָנִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      כֵּן, כֵּן. זְקֵנִים וּבָנִים, מַעֲשִׂים וְסִימָּנִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
@@ -442,8 +518,8 @@
      וְ…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
@@ -456,24 +532,24 @@
      (כֻּלָם חוֹזְרִים עַל הַבַּיִת הָאַחֲרוֹן)
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      עַתָּה, סַבְתָּא, סִפּוּר, סִפּוּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlָּm">
+   <sp who="kֻlָּm">
+    <speaker>
      כֻּלָּם:
     </speaker>
     <p>
      עַתָּה, סִפּוּר, סִפּוּר…
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -481,24 +557,24 @@
 סִפּוּר “עָצוּב” או סִפּוּר “שָׂמֵח”?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      סִפּוּר עָצוּב, עָצוּב.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      שֶׁיִּהְיוּ דְמָעוֹת בָּעֵינַיִם.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
@@ -506,16 +582,16 @@
 לֶאֱכֹל…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      לא, סַבְתָּא. לא עָצוּב. סִפּוּר שָׂמֵח.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
@@ -526,48 +602,48 @@
 שֶׁאוֹהֵב לִרְקֹד.
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
      אִם כֵּן, אֵיזֶה סִפּוּר אֲסַפֵּר לָכֶם?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      עָצוּב –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      עָצוּב –
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      עָצוּב – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="nkhdim d' h'">
+   <sp who="nkhdim d' h'">
+    <speaker>
      נכדים ד' ה':
     </speaker>
     <p>
      עַלִּיז, עַלִּיז, עַלִּיז, עַלִּיז – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -575,48 +651,48 @@
 מְבַקְשִׁים שָׂמֵח וְעַלִּיז…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      וְסַבְתָּא מָה תַעֲשֶׂה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      וְסַבְתָּא מָה תַעֲשֶׂה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      וְסַבְתָּא מָה תַעֲשֶׂה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      תְּסַפְּרִי לָנוּ סִפּוּר גַּם עָצוּב וְגַם שָׂמֵח…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      שֶׁנִבְכֶּה וְנִצְחַק, שֶׁנִבְכֶּה וְנִרְקֹד!…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
@@ -624,16 +700,16 @@
 וְצוֹחֲקִים, צוֹחֲקִים וּבוֹכִים…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      רֶגַע בּוֹכִים וְרֶגַע רוֹקְדִים…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג'
     </speaker>
     <p>
@@ -641,24 +717,24 @@
 טוֹבִים…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      בַּחֲצִי פָּנִים נִבְכֶּה וּבַחֲצִי פָּנִים נִצְחַק…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      עַיִן אַחַת תִּבְכֶּה וְעַיִן אַחַת תִּצְחַק…
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -666,24 +742,24 @@
 בַּתְּחִילָה עָצוּב וְאַחַר כָּךְ – שָׂמֵחַ…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      זֶה נֶחְמָד! הֶאָח! כֵּן!
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlָּm">
+   <sp who="kֻlָּm">
+    <speaker>
      כֻּלָּם:
     </speaker>
     <p>
      זֶה טוֹב, טוֹב מְאֹד.
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
@@ -691,8 +767,8 @@
 כָּךְ שְׂמֵחִים…
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -711,8 +787,8 @@
 פַ – נּוּס…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א'
     </speaker>
     <p>
@@ -720,8 +796,8 @@
 – אֶפִּי – פַ – נּוּס…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב'
     </speaker>
     <p>
@@ -729,8 +805,8 @@
 כוּס – אֶפִּי – פַ – נּוּס…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג'
     </speaker>
     <p>
@@ -738,8 +814,8 @@
 אֶפִּי – פַ – נּוּס…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d' uh'">
+   <sp who="nֶkhֶd d' uh'">
+    <speaker>
      נֶכֶד ד' וה'
     </speaker>
     <p>
@@ -747,8 +823,8 @@
 כוּס – אֶפִּי – פַ – נּוּס…
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -762,8 +838,8 @@
 צָרִיךְ לִבְכּוֹת מְעָט…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א'
     </speaker>
     <p>
@@ -778,16 +854,16 @@
      (שְׁאָר הַנְּכָדִים עוֹשִׂים כָּךְ זֶה אַחַר זֶה)
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      סַבְתָּא, וְאֵיפֹה הַ“שָּׂמֵחַ”?
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -800,8 +876,8 @@
      נְכָדַי, זֶה שָׂמֵחַ:
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א'
     </speaker>
     <p>
@@ -809,8 +885,8 @@
 הַחַשְׁמוֹנָאִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב'
     </speaker>
     <p>
@@ -818,8 +894,8 @@
 הַחַשְׁמוֹנָאִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג'
     </speaker>
     <p>
@@ -827,8 +903,8 @@
 הַחַשְׁמוֹנָאִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d' uh'">
+   <sp who="nֶkhֶd d' uh'">
+    <speaker>
      נֶכֶד ד' וה'
     </speaker>
     <p>
@@ -836,8 +912,8 @@
 הַחַשְׁמוֹנָאִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא
     </speaker>
     <p>
@@ -851,8 +927,8 @@
      זֶה שָׂמֵחַ, כָּאן צָרִיךְ לִשְׂמוֹחַ: וִיְהוּדָה הַמַּכַּבִּי!
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlָm">
+   <sp who="kֻlָm">
+    <speaker>
      כֻּלָם
     </speaker>
     <p>
@@ -860,8 +936,8 @@
 יוֹנָתָן וִיְהוּדָה הַמַּכַּבִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -870,64 +946,64 @@
 יִשְׂרָאֵל…
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlָm">
+   <sp who="kֻlָm">
+    <speaker>
      כֻּלָם:
     </speaker>
     <p>
      בְּאֱמֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
      בְּאֱמֶת! לֹא נִשְׁאַר אַף יְוָנִי אֶחָד!
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      אַף לֹא רֹאשׁ אֶחָד?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd b'">
+   <sp who="nֶkhֶd b'">
+    <speaker>
      נֶכֶד ב':
     </speaker>
     <p>
      אַף לֹא רֶגֶל אֶחָת?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd g'">
+   <sp who="nֶkhֶd g'">
+    <speaker>
      נֶכֶד ג':
     </speaker>
     <p>
      אַף לֹא פֶּה אֶחָד?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd d'">
+   <sp who="nֶkhֶd d'">
+    <speaker>
      נֶכֶד ד':
     </speaker>
     <p>
      אַף לֹא אֹזֶן אַחַת?
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd h'">
+   <sp who="nֶkhֶd h'">
+    <speaker>
      נֶכֶד ה':
     </speaker>
     <p>
      אַף לֹא אַף אֶחָד? (מַרְאֶה עַל הַחֹטֶם)
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -935,16 +1011,16 @@
 הָאֱלִילִים, אֶת הַכָּל, אֶת הַכָּל שָׁלְחוּ וְהִשְׁלִיכוּ”…
     </p>
    </sp>
-   <sp>
-    <speaker id="nֶkhֶd '">
+   <sp who="nֶkhֶd '">
+    <speaker>
      נֶכֶד א':
     </speaker>
     <p>
      וּמֶה הָיָה אָז אַחַר כָּךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="sַbְtָ">
+   <sp who="sַbְtָ">
+    <speaker>
      סַבְתָּא:
     </speaker>
     <p>
@@ -984,8 +1060,8 @@
      וְשִׂמְחָה – מְתֻקָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uְhַkhַg – khֲnֻkָh">
+   <sp who="uְhַkhַg – khֲnֻkָh">
+    <speaker>
      וְהַחַג – חֲנֻכָּה!
     </speaker>
    </sp>

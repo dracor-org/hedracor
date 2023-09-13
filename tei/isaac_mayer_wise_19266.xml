@@ -46,6 +46,312 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="khl hnsfim ikhd">
+      <persName>
+       כל הנאספים יחד
+      </persName>
+     </person>
+     <person xml:id="mrim shsu">
+      <persName>
+       מרים אשתו
+      </persName>
+     </person>
+     <person xml:id="mrim">
+      <persName>
+       מרים
+      </persName>
+     </person>
+     <person xml:id="tsufh">
+      <persName>
+       צופה
+      </persName>
+     </person>
+     <person xml:id="yukhnn">
+      <persName>
+       יוחנן
+      </persName>
+     </person>
+     <person xml:id="sisif">
+      <persName>
+       סיסיפ
+      </persName>
+     </person>
+     <person xml:id="rbkh">
+      <persName>
+       רבקה
+      </persName>
+     </person>
+     <person xml:id="sureym khureim ushrim">
+      <persName>
+       סוריים כורעים ושרים
+      </persName>
+     </person>
+     <person xml:id="ihudh hmkhbi">
+      <persName>
+       יהודה המכבי
+      </persName>
+     </person>
+     <person xml:id="sfzih">
+      <persName>
+       אספזיה
+      </persName>
+     </person>
+     <person xml:id="mֵnֵlַiְ hkhhn hgdul">
+      <persName>
+       מֵנֵלַיְ הכהן הגדול
+      </persName>
+     </person>
+     <person xml:id="hem">
+      <persName>
+       העם
+      </persName>
+     </person>
+     <person xml:id="lezr hkhurni">
+      <persName>
+       אלעזר החורני
+      </persName>
+     </person>
+     <person xml:id="hntsib">
+      <persName>
+       הנציב
+      </persName>
+     </person>
+     <person xml:id="apuֹluֹn">
+      <persName>
+       אַפּוֹלוֹן
+      </persName>
+     </person>
+     <person xml:id="eud khs mhem">
+      <persName>
+       עוד אחת מהעם
+      </persName>
+     </person>
+     <person xml:id="htsufh">
+      <persName>
+       הצופה
+      </persName>
+     </person>
+     <person xml:id="mssihu">
+      <persName>
+       מתתיהו
+      </persName>
+     </person>
+     <person xml:id="emrm">
+      <persName>
+       עמרם
+      </persName>
+     </person>
+     <person xml:id="mshrs">
+      <persName>
+       משרת
+      </persName>
+     </person>
+     <person xml:id="yukhnn hkdshi">
+      <persName>
+       יוחנן הקדשי
+      </persName>
+     </person>
+     <person xml:id="fulun">
+      <persName>
+       אפולון
+      </persName>
+     </person>
+     <person xml:id="kulus mbkhuts">
+      <persName>
+       קולות מבחוץ
+      </persName>
+     </person>
+     <person xml:id="hmshrs">
+      <persName>
+       המשרת
+      </persName>
+     </person>
+     <person xml:id="nbkhr khr">
+      <persName>
+       נבחר אחר
+      </persName>
+     </person>
+     <person xml:id="khd mkhubbi hkhrus">
+      <persName>
+       אחד מחובבי החרות
+      </persName>
+     </person>
+     <person xml:id="ntsib surih">
+      <persName>
+       נציב סוריה
+      </persName>
+     </person>
+     <person xml:id="mnli">
+      <persName>
+       מנלי
+      </persName>
+     </person>
+     <person xml:id="rbi yusi">
+      <persName>
+       רבי יוסי
+      </persName>
+     </person>
+     <person xml:id="khlm ikhd">
+      <persName>
+       כלם יחד
+      </persName>
+     </person>
+     <person xml:id="khd mhkhubbim">
+      <persName>
+       אחד מהחובבים
+      </persName>
+     </person>
+     <person xml:id="nshi htsb">
+      <persName>
+       אנשי הצבא
+      </persName>
+     </person>
+     <person xml:id="lyezr">
+      <persName>
+       אליעזר
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="khd mnbkhri khnss hem">
+      <persName>
+       אחד מנבחרי כנסת העם
+      </persName>
+     </person>
+     <person xml:id="yunsn hufsi">
+      <persName>
+       יונתן הופסי
+      </persName>
+     </person>
+     <person xml:id="hfkid">
+      <persName>
+       הפקיד
+      </persName>
+     </person>
+     <person xml:id="kul mkhuri hdls">
+      <persName>
+       קול מאחורי הדלת
+      </persName>
+     </person>
+     <person xml:id="khd hbim">
+      <persName>
+       אחד הבאים
+      </persName>
+     </person>
+     <person xml:id="hkudm">
+      <persName>
+       הקודם
+      </persName>
+     </person>
+     <person xml:id="fgnih bsu">
+      <persName>
+       אפגניה בתו
+      </persName>
+     </person>
+     <person xml:id="khd mhem">
+      <persName>
+       אחד מהעם
+      </persName>
+     </person>
+     <person xml:id="mssihu hkhshmuni">
+      <persName>
+       מתתיהו החשמונאי
+      </persName>
+     </person>
+     <person xml:id="alְkִim">
+      <persName>
+       אַלְקִים
+      </persName>
+     </person>
+     <person xml:id="sisip">
+      <persName>
+       סיסיפּ
+      </persName>
+     </person>
+     <person xml:id="shri hkhil">
+      <persName>
+       שרי החיל
+      </persName>
+     </person>
+     <person xml:id="yusi bn yukhnn ish irushlm">
+      <persName>
+       יוסי בן יוחנן איש ירושלם
+      </persName>
+     </person>
+     <person xml:id="mlkh">
+      <persName>
+       מלאך
+      </persName>
+     </person>
+     <person xml:id="yusi bn yuezr ish tsrdh">
+      <persName>
+       יוסי בן יועזר איש צרדה
+      </persName>
+     </person>
+     <person xml:id="lkim">
+      <persName>
+       אלקים
+      </persName>
+     </person>
+     <person xml:id="ihudh">
+      <persName>
+       יהודה
+      </persName>
+     </person>
+     <person xml:id="yunsn">
+      <persName>
+       יונתן
+      </persName>
+     </person>
+     <person xml:id="fgnih">
+      <persName>
+       אפגניה
+      </persName>
+     </person>
+     <person xml:id="rbkh bsu">
+      <persName>
+       רבקה בתו
+      </persName>
+     </person>
+     <person xml:id="hkhshmunim: drָmָh bels khmsh merkhus">
+      <persName>
+       החשמונאים: דרָמָה בעלת חמש מערכות
+      </persName>
+     </person>
+     <person xml:id="nַshָr">
+      <persName>
+       נַשָר
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="shmeun hsrsi">
+      <persName>
+       שמעון התרסי
+      </persName>
+     </person>
+     <person xml:id="fl">
+      <persName>
+       אפל
+      </persName>
+     </person>
+     <person xml:id="shmeun">
+      <persName>
+       שמעון
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,8 +369,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hkhshmunim: drָmָh bels khmsh merkhus">
+   <sp who="hkhshmunim: drָmָh bels khmsh merkhus">
+    <speaker>
      החשמונאים: דרָמָה בעלת חמש מערכות
     </speaker>
    </sp>
@@ -128,13 +434,13 @@
      –––––––––––––––
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu hkhshmuni">
+   <sp who="mssihu hkhshmuni">
+    <speaker>
      מתתיהו החשמונאי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mrim shsu">
+   <sp who="mrim shsu">
+    <speaker>
      מרים אשתו
     </speaker>
    </sp>
@@ -143,13 +449,13 @@
      בניו:
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn hkdshi">
+   <sp who="yukhnn hkdshi">
+    <speaker>
      יוחנן הקדשי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shmeun hsrsi">
+   <sp who="shmeun hsrsi">
+    <speaker>
      שמעון התרסי
     </speaker>
     <p>
@@ -160,105 +466,105 @@
      </a>
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh hmkhbi">
+   <sp who="ihudh hmkhbi">
+    <speaker>
      יהודה המכבי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="lezr hkhurni">
+   <sp who="lezr hkhurni">
+    <speaker>
      אלעזר החורני
     </speaker>
    </sp>
-   <sp>
-    <speaker id="yunsn hufsi">
+   <sp who="yunsn hufsi">
+    <speaker>
      יונתן הופסי
     </speaker>
     <p>
      אוהב אפגניה
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh bsu">
+   <sp who="rbkh bsu">
+    <speaker>
      רבקה בתו,
     </speaker>
     <p>
      אוהבת את עמרם.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
      בן איש עשיר משמרון, אוהב את רבקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mֵnֵlַiְ hkhhn hgdul">
+   <sp who="mֵnֵlַiְ hkhhn hgdul">
+    <speaker>
      מֵנֵלַיְ הכהן הגדול
     </speaker>
    </sp>
-   <sp>
-    <speaker id="fgnih bsu">
+   <sp who="fgnih bsu">
+    <speaker>
      אפגניה בתו,
     </speaker>
     <p>
      אוהבת את יונתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="alְkִim">
+   <sp who="alְkִim">
+    <speaker>
      אַלְקִים,
     </speaker>
     <p>
      חביב מנלי אוהב אפגניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
      , כהנת במקדש ונוס, אהבת את יונתן
     </p>
    </sp>
-   <sp>
-    <speaker id="yusi bn yuezr ish tsrdh">
+   <sp who="yusi bn yuezr ish tsrdh">
+    <speaker>
      יוסי בן יועזר איש צרדה.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="yusi bn yukhnn ish irushlm">
+   <sp who="yusi bn yukhnn ish irushlm">
+    <speaker>
      יוסי בן יוחנן איש ירושלם.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="apuֹluֹn">
+   <sp who="apuֹluֹn">
+    <speaker>
      אַפּוֹלוֹן
     </speaker>
     <p>
      נציב סוריה
     </p>
    </sp>
-   <sp>
-    <speaker id="sisip">
+   <sp who="sisip">
+    <speaker>
      סיסיפּ
     </speaker>
     <p>
      מלאך אנטיוך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ntsib surih">
+   <sp who="ntsib surih">
+    <speaker>
      נציב סוריה
     </speaker>
     <p>
      (תחת אפולון)
     </p>
    </sp>
-   <sp>
-    <speaker id="fl">
+   <sp who="fl">
+    <speaker>
      אפל
     </speaker>
     <p>
@@ -282,8 +588,8 @@
 עודנה אסורה בכבלים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -303,8 +609,8 @@
      הקודמים, יוחנן בא מדרך, בגדיו מלאים אבק.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן.
     </speaker>
    </sp>
@@ -320,8 +626,8 @@
 עמי ולנקום את חמסו. נקמה, אבי, נקמה! נקמת דם לעמי העשוק והרצוץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו
     </speaker>
     <p>
@@ -334,8 +640,8 @@
 בני, את אשר ידעת כי טרם אבין את דבריך לְמַדַי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן.
     </speaker>
    </sp>
@@ -368,8 +674,8 @@
 בניו, יקרא בתורה או יְקַיֵם את מצותיה, מות יומת בלי חמלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו
     </speaker>
     <p>
@@ -381,8 +687,8 @@
      רב לך, רב לך, בני.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -399,8 +705,8 @@
 מובנות, שפתיו תצלנה, דומיה עמוקה שוררת בחדר במשך רגעים אחדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -413,8 +719,8 @@
 כזה. אני יודע: הוא לא יוכל ולא יעיז לעשות זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו
     </speaker>
     <p>
@@ -429,8 +735,8 @@
 אותי לבית מנלי הבוגד!
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -443,8 +749,8 @@
 תרשיע, אבי, ולא ירשיעוך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו
     </speaker>
     <p>
@@ -457,8 +763,8 @@
 אחיך; לבך יהגה ידידות אָוֶן לאויבי ארצך, להבוגד הנבזה הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -472,8 +778,8 @@
 ללכת ירושלם ולחקור…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן.
     </speaker>
    </sp>
@@ -483,8 +789,8 @@
 מהנחשדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -498,8 +804,8 @@
 גדול, לא, זאת אי אפשר! אני הולך ירושלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -511,8 +817,8 @@
      נשקי לבנך, אמי, כי אם ילך ירושלם לא ישוב עוד משם לעולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -522,8 +828,8 @@
 למען עמך המתגולל בדמו, למען אמך הזקנה אל תלך ירושלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -542,8 +848,8 @@
 יכלו להשיב על דבריו, הוא פונה והולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -552,8 +858,8 @@
      עתה עלי ללכת אחריו, כי לא אוכל נשוא כי הוא לבדו יערה את נפשו למות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -567,8 +873,8 @@
      הקודמים, עמרם.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -583,8 +889,8 @@
 בפי להגיד לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -593,8 +899,8 @@
      דַבֵר, בני: יום חדשות מדאיבות הוא ועת צרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -618,8 +924,8 @@
 בקרבך, הלא יקרע סגור לבך על מעשים כאלה!.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -633,8 +939,8 @@
 בחברון.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -684,8 +990,8 @@
 לבך נגלד משבר, הלא תפחנה בך הגבורות האלה אומץ לב בעד אלהים וישראל!.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -705,8 +1011,8 @@
 עזרתו, אם הוא לא יעיר את רוח בניו?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -725,8 +1031,8 @@
 עֹז עם אשר הדביקו היאוש.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -739,8 +1045,8 @@
 החשמונאים לחום ילחמו, ימותו או ינצחו את אויבי ישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -755,8 +1061,8 @@
      עמרם רבקה באה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -774,8 +1080,8 @@
 לבי סחרחר, (נושק את ידיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -789,8 +1095,8 @@
 ידיד הלנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -799,8 +1105,8 @@
      הרגיעי את רוחך, אהובתי, אינני ידיד ההלנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -812,8 +1118,8 @@
      ברוך אלהים, איננו ידיד היונים!
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -822,8 +1128,8 @@
      אבי היה אוהב אנטיוך, ואני יורש רכֻשו היחיד ולא יורש דעותיו המדיניות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -842,8 +1148,8 @@
 חלמתי. עמרם, אז נהיה מאשרים!
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -855,8 +1161,8 @@
      רבקה לא אוכל הלחם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -865,8 +1171,8 @@
      הרך לבב אתה? הוי, חלומותי הנעימים!
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -879,8 +1185,8 @@
 שבועה נמרצת לבלתי הלחם את חיל אנטיוך, לכן לא אוכל לקחת חלק במלחמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -894,8 +1200,8 @@
 לארצו הנוזלת דם. לך לשלום, לך לשלום!
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -907,8 +1213,8 @@
      רבקה, נפש יקרה, אפגע בך לשנות את החלטתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -917,8 +1223,8 @@
      בת חשמונאים לא תנשא בלתי לגבור, (עוזבת את החדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -938,8 +1244,8 @@
 המלך, סוריים, מתתיהו והעם.
     </p>
    </sp>
-   <sp>
-    <speaker id="sureym khureim ushrim">
+   <sp who="sureym khureim ushrim">
+    <speaker>
      סוריים כורעים ושרים.
     </speaker>
    </sp>
@@ -968,8 +1274,8 @@
      בערב ובבקר באדום השמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nַshָr">
+   <sp who="nַshָr">
+    <speaker>
      נַשָר
     </speaker>
     <p>
@@ -982,8 +1288,8 @@
 (איש לא ישמע לקולו).
     </p>
    </sp>
-   <sp>
-    <speaker id="hfkid">
+   <sp who="hfkid">
+    <speaker>
      הפקיד
     </speaker>
     <p>
@@ -1004,8 +1310,8 @@
 אתם לקבל את הצעותי או למות?
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1015,8 +1321,8 @@
 ואנשים אחרים מה שיעשו, ואני וביתי נעריץ לנצח את אלהינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fl">
+   <sp who="fl">
+    <speaker>
      אפל.
     </speaker>
    </sp>
@@ -1030,8 +1336,8 @@
 ועשו כמצות המלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1044,8 +1350,8 @@
 לבו! סור ממנו, פקיד, סור ממנו אתה ומחנך, אין בוגד במודעים!
     </p>
    </sp>
-   <sp>
-    <speaker id="fl">
+   <sp who="fl">
+    <speaker>
      אפל.
     </speaker>
    </sp>
@@ -1059,8 +1365,8 @@
 יגש אל המזבח להשתחות לאליל).
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1077,8 +1383,8 @@
 יבוא לבדו להרוס את המזבח, אחריו עמרם, העם, בני מתתיהו, מרים ורבקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1087,8 +1393,8 @@
      פה מתגולל אפל אשר התהלל בגבורתו. אלהים השליכהו ארצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1098,8 +1404,8 @@
 ומתתיהו הוא המלאך המקֻדש של חרון אפו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו
     </speaker>
     <p>
@@ -1112,8 +1418,8 @@
 ואת חרבותינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1122,8 +1428,8 @@
      שבועה נוראה נשבעתי לאבי לפני מותו לבלתי הלחם את חיל אנטיוך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1134,8 +1440,8 @@
 אבד אבדת.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1144,8 +1450,8 @@
      לא אוכל ללכת מפה, כי נפשי קשורה באדמה הזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1166,8 +1472,8 @@
 ואלהים היה יהיה עמנו. הנכונים אתם כלכם להלחם על אלהים וישראל?.
     </p>
    </sp>
-   <sp>
-    <speaker id="hem">
+   <sp who="hem">
+    <speaker>
      העם.
     </speaker>
    </sp>
@@ -1176,8 +1482,8 @@
      כן, כן, על אלהים וישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1186,8 +1492,8 @@
      תודה לאל, אין בוגד במודיעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mhem">
+   <sp who="khd mhem">
+    <speaker>
      אחד מהעם.
     </speaker>
    </sp>
@@ -1196,8 +1502,8 @@
      יש!.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות.
     </speaker>
    </sp>
@@ -1206,8 +1512,8 @@
      הציגהו לפננו ונשלם לו כגמולו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkudm">
+   <sp who="hkudm">
+    <speaker>
      הקודם
     </speaker>
     <p>
@@ -1222,8 +1528,8 @@
 יגאל איש ממנו את חרבו בדם בעל נפש שפלה כזאת (קול פחדים נשמע מפי רבקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1234,8 +1540,8 @@
 אשר נשבע לאביו רגעים אחדים לפני מותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eud khs mhem">
+   <sp who="eud khs mhem">
+    <speaker>
      עוד אחת מהעם.
     </speaker>
    </sp>
@@ -1245,8 +1551,8 @@
 להציל את חייו הנבזים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1255,8 +1561,8 @@
      איככה ידעת כי הנער הזה היה למורה דרך להסוריים?.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkudm">
+   <sp who="hkudm">
+    <speaker>
      הקודם.
     </speaker>
    </sp>
@@ -1268,8 +1574,8 @@
 פניה בצעיף).
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1278,8 +1584,8 @@
      למען חייך, דבר, נער.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1289,8 +1595,8 @@
 איש מכם אל יתהלל כי עלה בידו להציל מפי את דבר סתרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות.
     </speaker>
    </sp>
@@ -1300,8 +1606,8 @@
 עמרם סוגר את עיניו מבלי התמרמר).
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -1314,8 +1620,8 @@
 ואת סתרי לבבו. (כלם מקשיבים כמשתאים ומפילים את חרבותיהם).
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1324,8 +1630,8 @@
      את בתי היחידה, תבקשי על נפש הזר הזה!.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -1335,8 +1641,8 @@
 דם נקי במודיעים!.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1348,8 +1654,8 @@
 ככוזב וכבוגד. אחת דברתי: אלהים והעלמה הזאת עֵדַי הם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -1358,8 +1664,8 @@
      אלהים ואני עדי תֻמתו הם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mssihu">
+   <sp who="mssihu">
+    <speaker>
      מתתיהו.
     </speaker>
    </sp>
@@ -1370,8 +1676,8 @@
 מערכות אחינו, אל יֵראו פניך על ההרים האלה. המלט על נפשך! (עמרם הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -1391,8 +1697,8 @@
 יושבים; אחריהם צופה ועמרם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1405,8 +1711,8 @@
 דבר אחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1420,8 +1726,8 @@
 אאמין במרד גלוי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1433,8 +1739,8 @@
 אפולון בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1446,8 +1752,8 @@
 הכנעה היא הטובה מכל הדרכים המדיניים בעת אשר קול התקף קורא (צופה יכנס).
     </p>
    </sp>
-   <sp>
-    <speaker id="htsufh">
+   <sp who="htsufh">
+    <speaker>
      הצופה.
     </speaker>
    </sp>
@@ -1456,8 +1762,8 @@
      אדוני אלקים. לכדנו איש הבא מההרים ואבוא להגיד לך כאשר צויתני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -1531,8 +1837,8 @@
      על הזמן להגן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1541,8 +1847,8 @@
      אם כן איפא משגע אתה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1551,8 +1857,8 @@
      כזאת אמרת, אבל שית לבך, אתה, להיות חכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1561,8 +1867,8 @@
      מה תאמר, משגע?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1574,8 +1880,8 @@
 במשגעים. זוג נפלא, האח! (יוסיף לרקוד ולשיר).
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1584,8 +1890,8 @@
      השמר לך, אדמה כי לא משגע אתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -1597,8 +1903,8 @@
      מה תתן לי במחירה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -1610,8 +1916,8 @@
      למה לי מגבעתך?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1623,8 +1929,8 @@
 למשוגע כבד מנשוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים
     </speaker>
     <p>
@@ -1636,8 +1942,8 @@
      אי מזה תבוא, משגע?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1651,8 +1957,8 @@
 ירקדו, יצעקו ויהרגו כאריות טרף.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1661,8 +1967,8 @@
      אם תגיד לי במלים ברורות איפה ילחמו על ההרים ונתתי לך שקל כסף.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1672,8 +1978,8 @@
 בכל המקומות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1682,8 +1988,8 @@
      איפה החלה המלחמה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1693,8 +1999,8 @@
 המלחמה, אל אשר רצתי – רצתי אל המלחמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1703,8 +2009,8 @@
      ההחלה במודיעים?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -1713,8 +2019,8 @@
      בהיותי במודיעים היתה במודיעים. בבואי לעיר אחרת או לכפר אחר היתה שם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים
     </speaker>
     <p>
@@ -1726,8 +2032,8 @@
      יודעים אנחנו דַיֵנו, אדוני, איש האלהים, ודאי הוא כי מרד פשט על ההרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1736,8 +2042,8 @@
      המשגע בעל הזיה הוא. וידיעותיו אינן נכונות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -1751,8 +2057,8 @@
      הקודמים, יונתן בן מתתיהו, משרת. יונתן נכנס מבוהל.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -1769,8 +2075,8 @@
      (אליקים מוליך את עמרם לחדר אחר).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1779,8 +2085,8 @@
      אדוני, היו ימים אשר היית אומר לי אהב אֹהבך מִבָנַי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1789,8 +2095,8 @@
      ואיככה יודע יונתן כי לא אוסיף לאהבהו?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1799,8 +2105,8 @@
      אפגניה היא הכהנת הגדולה לְוֵנוּס, ואתה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1809,8 +2115,8 @@
      הבאת לדרוש ממני חשבון מפעלותי?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1822,8 +2128,8 @@
 פני  בבית כִלאו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1832,8 +2138,8 @@
      צר ליונתן עלי, ומדוע צר לו?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1842,8 +2148,8 @@
      בפעם אחרת, אדוני, בפעם אחרת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1852,8 +2158,8 @@
      אפצר בך, דַבֵּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1868,8 +2174,8 @@
 ימי חיי. צר לי עליך, צר לי עלי! ואל אפגניה… מה אמר אליה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1886,8 +2192,8 @@
 ולאזרחים משמעת לצדקה תחשב.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1896,8 +2202,8 @@
      משמעת נוספת על צדקה – צדקה שנית היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1908,8 +2214,8 @@
 והמושל מוכרח לפעמים להעלות אלף לקרבן בעבור הצל רבבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1918,8 +2224,8 @@
      והיה בהבט רבבות הנצלים על דם האלפים הנקיים ונקמֻהו בחרות אפם בם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1928,8 +2234,8 @@
      גם זה אפשר, אבל אז עשה המושל את חובתו, ומשרת התלין תוחל.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1940,8 +2246,8 @@
 פלוסופיתך לא תעזבך גם אז, וידענו כי הנער יונתן טעה הרבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -1953,8 +2259,8 @@
 ועליהם להענות מפני חקותיה ולחכות לעתות אחרות.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1973,8 +2279,8 @@
 יונתן…
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -1988,8 +2294,8 @@
 לראותך, ומחר אצוה כי יתנו לך להראות את פני רבי יוסי בן יועזר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -1999,8 +2305,8 @@
 מעל. היו שלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -2009,8 +2315,8 @@
      ומבלי לראות את פני אפגניה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2019,8 +2325,8 @@
      ומבלי לראות את פני הכהנת הגדולה לְוֵנוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -2029,8 +2335,8 @@
      ולקחת חלק במלחמה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2039,8 +2345,8 @@
      כה יעזר לי אלהים! לקֹח אקח גם אם את נפשי אתן במחירו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -2051,8 +2357,8 @@
 אחרי. נער כפוי טובה!.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2064,8 +2370,8 @@
 חובותיו לאלהים ולעמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -2080,8 +2386,8 @@
 שמכם בישראל.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2098,8 +2404,8 @@
 יואל אלהים ולא נוסיף להתראות פנים עוד (יונתן יוצא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -2113,8 +2419,8 @@
 מהר ועשה כדברי פן תאחר את המועד (מנלי יוצא).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -2133,8 +2439,8 @@
 אספזיה ולהודיעה את מצב הדברים (אלקים יוצא, עמרם נכנס מפתח אחר).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -2155,8 +2461,8 @@
 להמתין מעט עד אשר תבא גברתו; אחריו אספזיה, אנשי חיל, אפגניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -2170,8 +2476,8 @@
 יונתן משתחוה לעמתה כמשתאה).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2186,8 +2492,8 @@
      שמעתי עליך כי איש ישר ונבון אתה המכשר לנהל בית גדול ולהגן על יושביו.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2196,8 +2502,8 @@
      תודה לך על התהלות האלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2209,8 +2515,8 @@
 עליך את המשרה הזאת, ונכונה אני לשלם לך ככל אשר תדרש ממני.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2219,8 +2525,8 @@
      כהן לאלהים אנכי ועבד ביתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2232,8 +2538,8 @@
 בביתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2244,8 +2550,8 @@
 לראות כהן נאמן לאלהיו בביתך! עתה אבין את הסוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2254,8 +2560,8 @@
      ומה הם התנאים אשר על פיהם תתרצה לקבל עליך את המשרה הזאת?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2264,8 +2570,8 @@
      לא דבר קל הוא לעשות חשמונאי למשרת, ואני חשמונאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2277,8 +2583,8 @@
 המלך, אני…
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -2291,8 +2597,8 @@
 בעיני איש ישר. צר לי עליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2301,8 +2607,8 @@
      השכח תשכח למי תדבר דבריך?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2312,8 +2618,8 @@
 ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -2325,8 +2631,8 @@
      אל תלך מפה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2335,8 +2641,8 @@
      איש לא יכול למנוע בן חורים מעשות את הישר בעיניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2345,8 +2651,8 @@
      יש לי עבדים יתר ממספר הדרוש לכבוש ארי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2355,8 +2661,8 @@
      אבל לא די עבדים לשנות דעת בן חורים (רוצה ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -2368,8 +2674,8 @@
      באלהי האהבה, אל תעזוב את הבית הזה! השאר פה פן אכריחך לזאת בחזקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2379,8 +2685,8 @@
 להתל ביונתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2396,8 +2702,8 @@
 אדותי, ואז… (משרת יכנס).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmshrs">
+   <sp who="hmshrs">
+    <speaker>
      המשרת.
     </speaker>
    </sp>
@@ -2406,8 +2712,8 @@
      הכהן הגדול עומד בחוץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2416,8 +2722,8 @@
      איש לא יוכל להכנס עתה (המשרת יוצא). ואז אולי נחליט להשאר יחד זמן רב…
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2427,8 +2733,8 @@
 אשאר פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2439,8 +2745,8 @@
 אסרֻהו (כלם יהותתו עליו ויאסרהו, אספזיה רומזת בידה, כלם יוצאים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2449,8 +2755,8 @@
      לאיזה צורך תעכבני פה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2461,8 +2767,8 @@
 אותך בכל עזוז חם אהבת אשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2473,8 +2779,8 @@
 הקדושה תחֻלל בצאתה מפי כהנת ונוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2484,8 +2790,8 @@
 תצדיקנה את קצפך; אבל הנני מפתחת אותן (תגש אל יונתן).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2495,8 +2801,8 @@
 ביד יונתן כהן אלהים.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2505,8 +2811,8 @@
      אל תשכח כי דתך להמית אם אֹמר כי חללת את מקדש האֵלָה הגדולה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2515,8 +2821,8 @@
      תעב אתעב אותך ואת המות.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2567,8 +2873,8 @@
 ימי חיי, תנני לחוטאת אם תרצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2578,8 +2884,8 @@
 לחיות חיי צדק, למדי להיתו מאֻשרה ושבעי רצון.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2588,8 +2894,8 @@
      עד אפסי תבל אלך אחריך ובאהבתך אשוב לתחיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2598,8 +2904,8 @@
      אהבתי לא לך היא, תורתנו אוסרת על כהן לקחת אשה גרושה וחללה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2608,8 +2914,8 @@
      הלא יוכל החוק הזה להשתנות?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2618,8 +2924,8 @@
      חקי אלהים קימים לעולמי עד.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2630,8 +2936,8 @@
 להשתנות?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2640,8 +2946,8 @@
      לא, אלף פעמים לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2650,8 +2956,8 @@
      כאשר אכה במצלה והיתה המות ענשך אשר לא ישנה, התוכל לשנות את החלטתך?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2661,8 +2967,8 @@
 שנית).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -2672,8 +2978,8 @@
 החיל נגשים אליו).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2682,8 +2988,8 @@
      ירושלם מערת רצח וזמה היא! (אפגניה נכנסת, פניה מכסים במסוה, אחריה אנשים מזֻינים).
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -2697,8 +3003,8 @@
 ומסירה את המסוה מעל פניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2707,8 +3013,8 @@
      אפגניה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2717,8 +3023,8 @@
      יונתן! (נופלת על חזהו, הוא מחבק אותה רגעים אחדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2727,8 +3033,8 @@
      ככה חפץ אלהים כי עוד נשוב להפגש, אפגניה אהובתי. אלהים שלחך הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2738,8 +3044,8 @@
 את נפשך, ואמהר ללכת להצילך.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -2751,8 +3057,8 @@
      הכהנת הגדולה לוֵנוס היא! אדני אלהי, חטאתי לפניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -2765,8 +3071,8 @@
 אהבת אפגניה שלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2778,8 +3084,8 @@
 אבל לא לי לאהוב את הכהנת הגדולה לונוס, לא אוכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2791,8 +3097,8 @@
 כֻלי שלך, לנצח שלך!
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2803,8 +3109,8 @@
 כי אוכל לקות ולחיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2815,8 +3121,8 @@
 יותר בלי המרגליות והאבנים היקרות האלה? אנא, דבר למען כי אבין לשכל מליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2826,8 +3132,8 @@
 עשרת הדברים האוסרים להשתחות לאלהי נכר?.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2845,8 +3151,8 @@
 לאלהי השמים והארץ לבד.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2862,8 +3168,8 @@
 אפגניה האהובה, הרכה והתמימה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2873,8 +3179,8 @@
 מפני המלך ולבלתי השגח בעניני דת בעתים כאלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2886,8 +3192,8 @@
 הזהירות הנבזה, עליו לפעל צדק מבלי דאוג לתוצאות.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2896,8 +3202,8 @@
      הן אין בדעתך לאמר כי אבי הוא מומר ובוגד!.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2908,8 +3214,8 @@
 ולהצילך מבירת התעבות והרשע הזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -2922,8 +3228,8 @@
 שחת; חזור בדבריך הנוראים!.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -2932,8 +3238,8 @@
      היוכל איש לשמוע את דברינו אשר נדבר עתה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -2942,8 +3248,8 @@
      לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -2958,8 +3264,8 @@
 להלחם את עבדי אנטיוך לאלהים ולעמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -2973,8 +3279,8 @@
 האיבה אשר ביניכם. השאר אתי, השאר, אל תעזוב את אפגניה הנאמנת לך!
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -2991,8 +3297,8 @@
 לבית אביך וחכי לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -3001,8 +3307,8 @@
      אנה תחפוץ ללכת?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3013,8 +3319,8 @@
 מקומי!.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -3035,8 +3341,8 @@
      בבית מנלי; ואלקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3056,8 +3362,8 @@
 של אנשי חיל לבלי תת לגדודים הנפרדים להתאחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3079,8 +3385,8 @@
      בבית מנלי; מנלי, אפגניה נכנסת, ואחר אפולון ומחנהו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -3094,8 +3400,8 @@
 ונוס, עון הוא לאלהים ותועבה לפני ישראל. אבי, קרא לי דרור!
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3107,8 +3413,8 @@
 ובמעלתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
     <p>
@@ -3125,8 +3431,8 @@
 הנתעבה להיות לראש לנערות החללות אשר היונים יקראו להן כהנות ונוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3138,8 +3444,8 @@
 בימים? קומי, אל תוסיפי לדבר לי עוד על הדבר הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -3153,8 +3459,8 @@
 הגדולה לונוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -3169,8 +3475,8 @@
 הוא (משרת נכנס).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmshrs">
+   <sp who="hmshrs">
+    <speaker>
      המשרת
     </speaker>
    </sp>
@@ -3179,8 +3485,8 @@
      אפולון ומחנהו (המשרת יוצא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3192,8 +3498,8 @@
 ושמרון מטעם אדוני המלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fulun">
+   <sp who="fulun">
+    <speaker>
      אפולון.
     </speaker>
    </sp>
@@ -3205,8 +3511,8 @@
 אלהים, מה משפט האיש אשר חרף אלהים ומקדשו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3215,8 +3521,8 @@
      מות!
     </p>
    </sp>
-   <sp>
-    <speaker id="fulun">
+   <sp who="fulun">
+    <speaker>
      אפולון.
     </speaker>
    </sp>
@@ -3225,8 +3531,8 @@
      ומה משפט האיש אשר מִלט מחרף אלהים מידי שופטיו?.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -3235,8 +3541,8 @@
      מות.
     </p>
    </sp>
-   <sp>
-    <speaker id="fulun">
+   <sp who="fulun">
+    <speaker>
      אפולון.
     </speaker>
    </sp>
@@ -3247,8 +3553,8 @@
 יש לך לך לאמר, גברתי, להצטדקותך?.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -3258,8 +3564,8 @@
 שלחתיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fulun">
+   <sp who="fulun">
+    <speaker>
      אפולון.
     </speaker>
    </sp>
@@ -3269,8 +3575,8 @@
 ואת הבגד הקדש וללכת אחרי האנשים האלה אל מקדש ונוס, שם תִכָלְאִי עד אשר הדבר יֵחָקר היטב.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -3283,8 +3589,8 @@
 אשר הסיר מעלי את עֹל סֻבָלִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
     <p>
@@ -3297,8 +3603,8 @@
 את כבודי לערובה כי בוא תבוא ביום הנועד לפני שופטיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fulun">
+   <sp who="fulun">
+    <speaker>
      אפולון.
     </speaker>
    </sp>
@@ -3313,8 +3619,8 @@
      במצפה, בבית יהודה המכבי. יונתן, צופה ואחר אלקים ושומרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -3331,8 +3637,8 @@
 יוצאים).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3348,8 +3654,8 @@
 הן החליפות היחידות בירושלים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3359,8 +3665,8 @@
 מצפרני הברזל של ממשלת הרשעה הזידונה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3374,8 +3680,8 @@
 עצמיותי היתר טובה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3385,8 +3691,8 @@
 איש את עצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3396,8 +3702,8 @@
 ועתה הבטיחני נא ראשנה כי לא תתן לי כל חנינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
    </sp>
@@ -3407,8 +3713,8 @@
 הבאתיך למצפה אל המקום אשר אחי הוא המושל בו, ועליו לחרץ משפט בנוגע אליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3437,8 +3743,8 @@
 נשיקות כסיתי את שפתיה, והיא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -3450,8 +3756,8 @@
      והיא השיבה לך אהבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3475,8 +3781,8 @@
      אהֹב אהב אותך, אותך לבדך ואותך לנצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -3488,8 +3794,8 @@
      הוי, האשה הבוגדת, כדברים האלה דברה לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3505,8 +3811,8 @@
 לשושנת חמד, …
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -3518,8 +3824,8 @@
      ואפגניה? למען ד׳, דבר, אדם נורא, דבר! ואפגניה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3528,8 +3834,8 @@
      נפלה מחֻללת. (יונתן תופש אותו ומנענעהו) מה עלה על דעתך, יונתן?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3538,8 +3844,8 @@
      דבת שטן הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3571,8 +3877,8 @@
 חדלתי, מהיות נפש אדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
     <p>
@@ -3584,8 +3890,8 @@
      והיא מביטה ומדברת כתֹם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3599,8 +3905,8 @@
 את היונק, להפשיט את עיר העולל בעודנו חי לעיני אמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3609,8 +3915,8 @@
      חדל לך, בן שטן, הנך משגע.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -3623,8 +3929,8 @@
 הוא עתה מְאהב האשה הנשחתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -3641,8 +3947,8 @@
      במקום המחזה הראשון. יונתן ואחר יהודה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -3655,8 +3961,8 @@
 מירושלם ומי נתן לך כלי זין להציל את הנשיא הנכבד?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3672,8 +3978,8 @@
 יוסי, ואת מְעַנּיו הולכנו שבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3682,8 +3988,8 @@
      ברכות אלהים על חובבי עמנו! אמר נא לי, אחי, האין למנלי כי אם בת יחידה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3692,8 +3998,8 @@
      רק בת יחידה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3703,8 +4009,8 @@
 רוצחים? הלא תוסיף לאהבה עוד? מדוע זה לא תזכר את שמה אף פעם אחת?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3713,8 +4019,8 @@
      אהבתיה, בכל לבי אהבתיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3723,8 +4029,8 @@
      אהבת? דבר נא דברים יתר ברורים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3742,8 +4048,8 @@
 ברורה בירושלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3752,8 +4058,8 @@
      אבל מה לכל זאת ולבת מנלי? מה לכל זאת ולאהבתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3786,8 +4092,8 @@
 לקראתו ומשתחוים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3796,8 +4102,8 @@
      ברוך אלהים אשר הציל היום את נשיאנו המפאר ראש הסנהדרין מכף אויבינו!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -3806,8 +4112,8 @@
      יברככם ד׳ וישמרכם, חשמונאים נדיבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3816,8 +4122,8 @@
      האוכל לדעת, רבנו, מדוע בקשו את נפשך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -3829,8 +4135,8 @@
 מעלו באלהי ישראל ועל זאת היה לי לסבול.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3839,8 +4145,8 @@
      מי דן אותך למיתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -3855,8 +4161,8 @@
 מרֻצים מהנֹגה, החזק יַחזיקו בשלום ויכנעו תחת יד המלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3865,8 +4171,8 @@
      מנלי יודע את עמנו ולו היה לְהַראות על דרך מדינית יתר אנושית.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -3887,8 +4193,8 @@
      יהודה, יונתן, צופה ואחר עמרם, פקידי החיל ואנשי צבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsufh">
+   <sp who="tsufh">
+    <speaker>
      צופה
     </speaker>
     <p>
@@ -3902,8 +4208,8 @@
 לנו לעשות בו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3912,8 +4218,8 @@
      הביאהו הנה. (הצופה יוצא ומביא את עמרם).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -3928,8 +4234,8 @@
 חובבי החרות.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3940,8 +4246,8 @@
 הבא לרגל.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -3950,8 +4256,8 @@
      הוא המשגע אשר טרח הרבה בשבילי בירושלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3960,8 +4266,8 @@
      איך בא הדברים האלה לאזניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -3970,8 +4276,8 @@
      אפולון בעצמו הודיע את מנלי את כל זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -3980,8 +4286,8 @@
      מה הוא מספר אנשי הצבא הולכים לקראתנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -3990,8 +4296,8 @@
      כאלף וחמש מאות וחמשה פילים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4008,8 +4314,8 @@
 לבז מתתיהו! (יונתן איננו יכול לדבר מהתרגשות. שולף את חרבו)
     </p>
    </sp>
-   <sp>
-    <speaker id="shri hkhil">
+   <sp who="shri hkhil">
+    <speaker>
      שרי החיל
     </speaker>
     <p>
@@ -4021,8 +4327,8 @@
      המערכות מוכנות ללכת. (כלם יוצאים).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -4041,8 +4347,8 @@
 המלחמה היו גבורים לאלהים ולישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="nshi htsb">
+   <sp who="nshi htsb">
+    <speaker>
      אנשי הצבא.
     </speaker>
    </sp>
@@ -4057,8 +4363,8 @@
 אנשי חיל ויונתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -4071,8 +4377,8 @@
 מתתיהו, והעלית לקרבן להאלהים אשר הוא חרף את מקדשו, והוא… הוא…
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -4084,8 +4390,8 @@
      מה יעשה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -4095,8 +4401,8 @@
 אפגניה הנקיה על מזבח הָאֵלָה הגדולה, והוא…
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -4105,8 +4411,8 @@
      הוא אהב יאהבני לנצח, מות אמות במקום הזה בעבור כי הוא יחיה ויאהבני.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -4123,8 +4429,8 @@
 חייו אציל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -4142,8 +4448,8 @@
 האחרונים על הארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -4158,8 +4464,8 @@
 הכוזב?.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -4169,8 +4475,8 @@
 עֹז לשאת את לעג הרשע של אשת השטן הזאת!.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -4185,8 +4491,8 @@
 ארץ החלומות ההיא. חיי, אפגניה, חיי והתענגי על תענגי החיים הודאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -4199,8 +4505,8 @@
 אותו. ועתה תני לי להכון לקראת השנוי הגדול.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -4210,8 +4516,8 @@
 כל אשר ביכלתי בעבור הצילך למען אביך ואלקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -4229,8 +4535,8 @@
 אפגניה, אין עונה, גם קול הכהנים לא נשמע עוד).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -4241,8 +4547,8 @@
 אפגניה ויוציאוה).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -4262,8 +4568,8 @@
      במצפה; יהודה וסביב לו כל אחיו חוץ מיונתן, רבקה עומדת לבושה בגדי איש צבא סורי ומזוינת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4273,8 +4579,8 @@
 עברת ממצות אלהים, ותעזבי את בית אמך ותלכי להתערב עם הלוחמים?.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -4288,8 +4594,8 @@
 התבוללתי בלוחמים ואלחם להבקיע אל אחי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4299,8 +4605,8 @@
 בסכנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -4317,8 +4623,8 @@
 מבלתי יכלת לדבר).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4327,8 +4633,8 @@
      ומה עשית אז?.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -4341,8 +4647,8 @@
 יונתן – אל המלחמה אחים!.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4354,8 +4660,8 @@
 הלך יונתן אחרי כן לא ידעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -4368,8 +4674,8 @@
 לירושלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="khl hnsfim ikhd">
+   <sp who="khl hnsfim ikhd">
+    <speaker>
      כל הנאספים יחד.
     </speaker>
    </sp>
@@ -4378,8 +4684,8 @@
      לירושלם!.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה.
     </speaker>
    </sp>
@@ -4389,8 +4695,8 @@
 פה (תקיעת שופרות תודיע בוא גדוד, יונתן לבוש בגדי סורי נכנס החדרה).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -4405,8 +4711,8 @@
 הכהנים ואהרגם, את הכהנות אסרתי ואוציא את אפגניה לחפשי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4416,8 +4722,8 @@
 הביא את נפשך בסכנה בלי כל חשבון.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -4426,8 +4732,8 @@
      לא אקבל עלי מאומה. החובה קראתני ללכת ירושלם ואלך שמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4436,8 +4742,8 @@
      ואיה אפגניה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -4447,8 +4753,8 @@
 שבה אליו בתשובה שלמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -4460,8 +4766,8 @@
      שאל לשלום רבקה אחותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -4476,8 +4782,8 @@
 לגאה יתר משהייתי בכל ימי חיי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -4496,8 +4802,8 @@
 עניני המלחמה, הדלת נעולה; צופה ואחר עמרם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון.
     </speaker>
    </sp>
@@ -4509,8 +4815,8 @@
 מלֻמדי מלחמה ורגילים בנצחון.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -4525,8 +4831,8 @@
 דרך פנקיה ופלשת, וצבא אחד יתקבץ בעבר הירדן תחת ראשות תימוֹטֵי ובכחיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4536,8 +4842,8 @@
 ואיש לא ימכור את בני ישראל לעבדים, ארצנו היא ולא תֵחלק לנכרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lyezr">
+   <sp who="lyezr">
+    <speaker>
      אליעזר.
     </speaker>
    </sp>
@@ -4546,8 +4852,8 @@
      מה הוא מספר האנשים אשר נוכל להעמיד במערכה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן.
     </speaker>
    </sp>
@@ -4560,8 +4866,8 @@
 לא נוכל להוליך אל המלחמה יתר מששת אלפים איש.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4570,8 +4876,8 @@
      יתר מדי הם, אם נחיש את פעולותינו בטרם יתאחדו כל צבאות אנטיוך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון.
     </speaker>
    </sp>
@@ -4586,8 +4892,8 @@
 אלהים, נלך לדרכנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -4598,8 +4904,8 @@
 לכל הפחות, ללא יועיל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -4612,8 +4918,8 @@
 מתכסיס מחֻכם. אלהים הוא עם הנלהב כי הוא מאמין ביוצרו יתר מבחכמתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lyezr">
+   <sp who="lyezr">
+    <speaker>
      אליעזר.
     </speaker>
    </sp>
@@ -4641,8 +4947,8 @@
 קול.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm ikhd">
+   <sp who="khlm ikhd">
+    <speaker>
      כלם יחד.
     </speaker>
    </sp>
@@ -4651,8 +4957,8 @@
      מסכימים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -4668,8 +4974,8 @@
 לכם (קמים; הדלת נפתחת, צופה נכנס).
     </p>
    </sp>
-   <sp>
-    <speaker id="htsufh">
+   <sp who="htsufh">
+    <speaker>
      הצופה.
     </speaker>
    </sp>
@@ -4678,8 +4984,8 @@
      איש צעיר שמרוני מפציר להראות פני שר הצבא, כי דבר נכבד לו אליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4690,8 +4996,8 @@
 עמדו ואיננו יכול לדבר, יונתן תופש בידי רבקה להוליכה אל חדר אחר).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -4703,8 +5009,8 @@
      השאר הנה, למען אלהים, השאר!.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4713,8 +5019,8 @@
      דבר שמרוני, או לך לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -4726,8 +5032,8 @@
      אשמע את דבריך אחרי כלותך לדבר אל שר הצבא (הוא ורבקה יוצאים).
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם
     </speaker>
     <p>
@@ -4744,8 +5050,8 @@
 לנכרים. סוחרים רבים באו אתם וכסף רב בידם לקנות את השבוים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4754,8 +5060,8 @@
      אודה לך על המגלה הזאת. ומה תוכל להודיעני עוד?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4769,8 +5075,8 @@
 מורי דרך היודעים את המעברים היתר טובים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4779,8 +5085,8 @@
      ובמה תוכל להוכיח לי כי, כבגדך, בנקנור לא באת לבגוד גם בי?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4789,8 +5095,8 @@
      בלתי בדברתי, דברת גבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4799,8 +5105,8 @@
      אם גבר הנך ואוהב ישראל חגור חרב אלהים על מתניך ולחום על חרות עמך.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4810,8 +5116,8 @@
 את יָדַי למרות חפץ לבבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4821,8 +5127,8 @@
 להכריע את הנצחון לצדנו, אני נוטה להאמין לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4832,8 +5138,8 @@
 לא תנצחהו, צבאו עתה היתר מעט משיוכל להיות בימים הבאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4842,8 +5148,8 @@
      אם ידיעותיך נכונות הן הרבה ארבה בשכרך.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4852,8 +5158,8 @@
      אינני דורש כל שכר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4862,8 +5168,8 @@
      ומה הוא אשר אתה מבקש?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4872,8 +5178,8 @@
      לפעול לטובת ישראל ולקנות את אמונתך בי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4882,8 +5188,8 @@
      השאר במצפה עד אשר אשוב והיה אם ידיעותיך תתאמתנה ובאת על שכרך.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4893,8 +5199,8 @@
 אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4903,8 +5209,8 @@
      הירא אתה להשאר עד אשר אוכל לחקור אם כנים הם דבריך?.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4914,8 +5220,8 @@
 אמלל הוא, ועלי להביא לו ידיעות על אודות בתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4924,8 +5230,8 @@
      אם כן איפא עלי לעצרך בחזקה. צריך לי לדעת אם ידיעותיך נכונות הן.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4935,8 +5241,8 @@
 לעצרני, וגם לא תוכל להוציא מזה כל תועלת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה.
     </speaker>
    </sp>
@@ -4946,8 +5252,8 @@
 כנים הם זכור אזכרך, ואם אין לא תמלט מנקם.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4962,8 +5268,8 @@
      רבקה, יושבת ובוכה; יונתן, עמרם נכנס.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4972,8 +5278,8 @@
      בוכה את אהובתי היקרה! (נגש אליה וחפץ לתפוש את ידה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -4987,8 +5293,8 @@
 עוד הפעם בתור צופה קר רוח ולא בתור גבור. לך מפה למען כי לא אוסיף לבכות.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -4998,8 +5304,8 @@
 אוכל להלחם, עשיתי הרבה לטובת המפעל הגדול בידיעות אשר המצאתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="rbkh">
+   <sp who="rbkh">
+    <speaker>
      רבקה
     </speaker>
     <p>
@@ -5013,8 +5319,8 @@
 עבודתם. לך הלאה, ושוב הנה בתור גבור או אל תוסיף להפריע את מנוחת לבבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5024,8 +5330,8 @@
 שלח אותי לשאלך אם אפגניה חיה היא ואיֶהָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5034,8 +5340,8 @@
      בבית רבי יוסי בן יועזר היא, במקום אשר לא אספזיה ולא מנלי יוכלו להשיגה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5045,8 +5351,8 @@
 מקום אחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5055,8 +5361,8 @@
      מי הגיד לך כי אספזיה יודעת זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5065,8 +5371,8 @@
      אחד מידידי הראה לי מכתב אשר שלח אַלקים בידו לאספזיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5075,8 +5381,8 @@
      האלְקים חי?
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5087,8 +5393,8 @@
 הצילה רבי יוסי בן יועזר מִמָוֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5098,8 +5404,8 @@
 יְקימו את דבריו (לעמרם) רבי יוסי יוסיף להיות לה למחסה.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5108,8 +5414,8 @@
      הקול האהבה הוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5118,8 +5424,8 @@
      לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
    </sp>
@@ -5128,8 +5434,8 @@
      ומדוע הצלת אותה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5138,8 +5444,8 @@
      לשלם את חובתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="emrm">
+   <sp who="emrm">
+    <speaker>
      עמרם.
     </speaker>
     <p>
@@ -5155,8 +5461,8 @@
 עתה ידעתי ולא אוסיף להתעצב. היו שלום (חפץ ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5173,8 +5479,8 @@
      בבית מנלי בירושלם; מנלי, שני משרתים, ואחר סיסיפ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5187,8 +5493,8 @@
 מעל בי, עבדי נלוו על אויבי לצחק בי את המשחק המכאיב, להמית את בתי היקרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshrs">
+   <sp who="mshrs">
+    <speaker>
      משרת.
     </speaker>
    </sp>
@@ -5197,8 +5503,8 @@
      איש לא נודע לי מפציר לדבר את אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
    </sp>
@@ -5209,8 +5515,8 @@
 ואמלל, שכול ועזוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="sisif">
+   <sp who="sisif">
+    <speaker>
      סיסיפ.
     </speaker>
    </sp>
@@ -5219,8 +5525,8 @@
      אבי אהב אותך במאד מאד. אדוני, איש אלהים, וגם אני מכבדך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -5231,8 +5537,8 @@
 למען כי לא אתעב את בן אוהבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="sisif">
+   <sp who="sisif">
+    <speaker>
      סיסיפ.
     </speaker>
    </sp>
@@ -5241,8 +5547,8 @@
      אתה שופט את נפשך משפט קשה יתר מדי, אדוני, איש אלהים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
     <p>
@@ -5254,8 +5560,8 @@
      שם השופט! לא אוכל לרמות שם איש. (שועל) השמעת על אדות בתי אפגניה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sisif">
+   <sp who="sisif">
+    <speaker>
      סיסיפ
     </speaker>
    </sp>
@@ -5264,8 +5570,8 @@
      לא, לא שמעתי מאומה (מנלי בוכה). אם היא מתה תמצאנה בשמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5282,8 +5588,8 @@
 לי את דבר בואך אלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="sisif">
+   <sp who="sisif">
+    <speaker>
      סיסיפ.
     </speaker>
    </sp>
@@ -5294,8 +5600,8 @@
 ליד הנציב אשר יבא הנה למלא את חובתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5308,8 +5614,8 @@
 זד כזה!.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshrs">
+   <sp who="mshrs">
+    <speaker>
      משרת
     </speaker>
     <p>
@@ -5326,8 +5632,8 @@
      הקודמים, מלאך ואחר הנציב, ומחנהו, אספזיה, צופה, סוריים חובבי החרות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mlkh">
+   <sp who="mlkh">
+    <speaker>
      מלאך
     </speaker>
     <p>
@@ -5339,8 +5645,8 @@
      הנציב ורבי העיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -5349,8 +5655,8 @@
      ברוך בואם! (הנציב ומחנהו נכנסים, מנלי משתחוה על מטתו).
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב
     </speaker>
     <p>
@@ -5364,8 +5670,8 @@
 מנלי הכהן הגדול״.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5379,8 +5685,8 @@
 מעלתי בו. (קול שאון נשמע מבחוץ).
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mkhuri hdls">
+   <sp who="kul mkhuri hdls">
+    <speaker>
      קול מאחורי הדלת.
     </speaker>
    </sp>
@@ -5391,8 +5697,8 @@
 אבי חי! (נופלת על מטת מנלי).
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5404,8 +5710,8 @@
      אפגניה, בתי האהובה! (נופל).
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -5414,8 +5720,8 @@
      הוא מתעלף אנא, הושיעו, הושיעו, הוא מתעלף! חיה, אבי אהובי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -5424,8 +5730,8 @@
      חי אני, בתי, שבתי לתחיה מאז חיותך את.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה
     </speaker>
     <p>
@@ -5438,8 +5744,8 @@
 מקדש ונוס, אל המקום אשר עשתה בו את התועבה, למען כי תקבל שם גם את ענשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5449,8 +5755,8 @@
 להתרצות לאלה הגדולה (סוריים אחדים חפצים להחזיק באפגניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -5461,8 +5767,8 @@
 פניו חורים כפני מת, ועוד מעט ואיננו. הלאה, אנשי דמים, פה מקומי!
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5473,8 +5779,8 @@
 מחרון אפם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5487,8 +5793,8 @@
 איש אל יערב את לבו להפרידנה מעלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5499,8 +5805,8 @@
 אדוני הנציב, נשמור לעשות כפי חקי סוריה ולא יחול עלינו קצף האלהים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -5514,8 +5820,8 @@
 היקרה, התמימה והנאמנה הזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5524,8 +5830,8 @@
      אינני יכול, עלי למלא אחרי החקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי.
     </speaker>
    </sp>
@@ -5535,8 +5841,8 @@
 וכבודי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5545,8 +5851,8 @@
      לא אוכל להרשות מאומה, אני בעצמי אחד העבדים היתר נשמעים לחקות סוריה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5556,8 +5862,8 @@
 אחדים מהם נגשים לתפשה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mnli">
+   <sp who="mnli">
+    <speaker>
      מנלי
     </speaker>
     <p>
@@ -5588,8 +5894,8 @@
 אפגניה נשענת על גוית המת, דומיה עמוקה שוררת בחדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5602,8 +5908,8 @@
 חרבותיהם).
     </p>
    </sp>
-   <sp>
-    <speaker id="sisif">
+   <sp who="sisif">
+    <speaker>
      סיסיפ
     </speaker>
     <p>
@@ -5617,8 +5923,8 @@
 המלך והסברתי לו את כל דברי הענין הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsufh">
+   <sp who="tsufh">
+    <speaker>
      צופה
     </speaker>
     <p>
@@ -5630,8 +5936,8 @@
      הנה אנשים הבאים מבית צור, מהמלחמה נסו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5641,8 +5947,8 @@
 ומשתחוים אפים ארצה). דברו סוריים!
     </p>
    </sp>
-   <sp>
-    <speaker id="khd hbim">
+   <sp who="khd hbim">
+    <speaker>
      אחד הבאים.
     </speaker>
    </sp>
@@ -5651,8 +5957,8 @@
      לִיזִיָה וחילו הכו במלחמה נוראה, המורדים הם אדונֵי שדֵה המערכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -5664,8 +5970,8 @@
      הקץ קרוב, שעת המשפט הולכת וקרבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5679,8 +5985,8 @@
 על החומה למול האויב כאשר זמם לעשות הנציב אשר היה לפני. הלאה!.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5690,8 +5996,8 @@
 אתי. שבויתי היא, היא חיבה את ראשה לאלהים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5700,8 +6006,8 @@
      אצוך ללכת מפה ולבלתי גשת אל הבית הזה במשך שלשת ימים.
     </p>
    </sp>
-   <sp>
-    <speaker id="sfzih">
+   <sp who="sfzih">
+    <speaker>
      אספזיה.
     </speaker>
    </sp>
@@ -5711,8 +6017,8 @@
 את רצון האלהים, רך לבב אתה הירא מפני דברי איש מת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5722,8 +6028,8 @@
 קול ההמולה הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus mbkhuts">
+   <sp who="kulus mbkhuts">
+    <speaker>
      קולות מבחוץ.
     </speaker>
    </sp>
@@ -5732,8 +6038,8 @@
      פה קן כלבים, הנה, חברים, הנה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -5746,8 +6052,8 @@
 שלופות).
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות.
     </speaker>
    </sp>
@@ -5756,8 +6062,8 @@
      מות לאויבי ישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mkhubbi hkhrus">
+   <sp who="khd mkhubbi hkhrus">
+    <speaker>
      אחד מחובבי החרות
     </speaker>
     <p>
@@ -5769,8 +6075,8 @@
      מי אתה אמלל?
     </p>
    </sp>
-   <sp>
-    <speaker id="hntsib">
+   <sp who="hntsib">
+    <speaker>
      הנציב.
     </speaker>
    </sp>
@@ -5779,8 +6085,8 @@
      הייתי נציב סוריה, ועתה שבויך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -5789,8 +6095,8 @@
      הוא עשה חסד עם אבי המת ועמדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -5802,8 +6108,8 @@
      מנלי מת!
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -5812,8 +6118,8 @@
      אבי מת מות יהודי נאמן לעמו ולדתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mhkhubbim">
+   <sp who="khd mhkhubbim">
+    <speaker>
      אחד מהחובבים
     </speaker>
     <p>
@@ -5831,8 +6137,8 @@
 אלקים ושני אנשי חיל. תהלוכה נהדרה עוברת לפני הבית, ואחריה המון אדם רב.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
     <p>
@@ -5844,8 +6150,8 @@
      למי עושים יְקָר כזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5854,8 +6160,8 @@
      למנלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5864,8 +6170,8 @@
      למנלי הנִדח והבוגד!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5876,8 +6182,8 @@
 בקבר אבותיו ולעשות לו את כל היקר הנהוג והיאות לכהן גדול.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -5890,8 +6196,8 @@
 יתר מכל בן תמותה. יואל אלהים ויסלח לו גם הוא כמונו. ומה שלום אפגניה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5900,8 +6206,8 @@
      היא נשארה גלמודה ונעזבה בארץ, ומחכה לך כי תבוא לנחמה בעניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5912,8 +6218,8 @@
 חובתי, ועתה ינחמוה אחרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5923,8 +6229,8 @@
 פעמים ממות.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5939,8 +6245,8 @@
 ממני!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5954,8 +6260,8 @@
 הגיד לה זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5964,8 +6270,8 @@
      והיא מכחדת את עונה?.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5975,8 +6281,8 @@
 יונתן היכול, ולו גם לרגע אחד, להטיל ספק בישרת אהבתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -5985,8 +6291,8 @@
      אל נא תוסף לדבר על אדותה, רבי; אל תוסיף לענני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi yusi">
+   <sp who="rbi yusi">
+    <speaker>
      רבי יוסי.
     </speaker>
    </sp>
@@ -5999,8 +6305,8 @@
 לאפגניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkim">
+   <sp who="lkim">
+    <speaker>
      אלקים.
     </speaker>
    </sp>
@@ -6010,8 +6316,8 @@
 עשתה כל זאת. סליחה!
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -6028,8 +6334,8 @@
      בבית מנלי, אפגניה ואחר יונתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה
     </speaker>
     <p>
@@ -6044,8 +6350,8 @@
 חולה עלי? (הדלת נפתחת, יונתן מתפרץ החדרה).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן
     </speaker>
     <p>
@@ -6060,8 +6366,8 @@
 אנכי פן יבקע את לבי. דברי כבת תמותה למען כי לא אתחנן אליך כלאלהים.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
    </sp>
@@ -6073,8 +6379,8 @@
 נוסיף להפרד.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunsn">
+   <sp who="yunsn">
+    <speaker>
      יונתן.
     </speaker>
    </sp>
@@ -6095,8 +6401,8 @@
 יהודה המכבי, אחיו, סנהדרין, העם; מרים, אפגניה בעזרת הנשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yusi bn yukhnn ish irushlm">
+   <sp who="yusi bn yukhnn ish irushlm">
+    <speaker>
      יוסי בן יוחנן איש ירושלם
     </speaker>
     <p>
@@ -6111,8 +6417,8 @@
 אותו את שמונת הבגדים ונותנים את נזר הקודש על מצנפתו).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudh">
+   <sp who="ihudh">
+    <speaker>
      יהודה
     </speaker>
     <p>
@@ -6130,8 +6436,8 @@
 לקחתן עד אשר ישראל יצוה (יוצא אל העזרה).
     </p>
    </sp>
-   <sp>
-    <speaker id="khd mnbkhri khnss hem">
+   <sp who="khd mnbkhri khnss hem">
+    <speaker>
      אחד מנבחרי כנסת העם
     </speaker>
     <p>
@@ -6148,8 +6454,8 @@
 ישוב להיות ראש הסנהדרין ורבי יוסי בן יוחנן סגנו. זה הוא רצון העם.
     </p>
    </sp>
-   <sp>
-    <speaker id="nbkhr khr">
+   <sp who="nbkhr khr">
+    <speaker>
      נבחר אחר.
     </speaker>
    </sp>
@@ -6163,8 +6469,8 @@
 ואחיו יגשו אל מרים העומדת על המעלות העולות לעזרת ישראל).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
    </sp>
@@ -6178,8 +6484,8 @@
 לי לבן, – והנה שלח לי אלהים את הבת החמודה הזאת (מראה אל אפגניה) לנחמנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fgnih">
+   <sp who="fgnih">
+    <speaker>
      אפגניה.
     </speaker>
     <p>
@@ -6191,8 +6497,8 @@
      ברכיני נא, אמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>

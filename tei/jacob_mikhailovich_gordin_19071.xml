@@ -46,6 +46,117 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="tubih">
+      <persName>
+       טוביה
+      </persName>
+     </person>
+     <person xml:id="rsh hishibh">
+      <persName>
+       ראש הישיבה
+      </persName>
+     </person>
+     <person xml:id="hihudi">
+      <persName>
+       היהודי
+      </persName>
+     </person>
+     <person xml:id="bsburis">
+      <persName>
+       בּתבורית
+      </persName>
+     </person>
+     <person xml:id="bnimus">
+      <persName>
+       אבנימוס
+      </persName>
+     </person>
+     <person xml:id="bsih">
+      <persName>
+       בתיה
+      </persName>
+     </person>
+     <person xml:id="mir">
+      <persName>
+       מאיר
+      </persName>
+     </person>
+     <person xml:id="hmskh yurd lt">
+      <persName>
+       המסך יורד לאט
+      </persName>
+     </person>
+     <person xml:id="bsburis">
+      <persName>
+       בתבּורית
+      </persName>
+     </person>
+     <person xml:id="mrimi">
+      <persName>
+       מרימי
+      </persName>
+     </person>
+     <person xml:id="ihudi">
+      <persName>
+       יהודי
+      </persName>
+     </person>
+     <person xml:id="hmukhsn">
+      <persName>
+       המוכסן
+      </persName>
+     </person>
+     <person xml:id="lishe">
+      <persName>
+       אלישע
+      </persName>
+     </person>
+     <person xml:id="bsburis">
+      <persName>
+       בתבורית
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="urkh khd">
+      <persName>
+       אורח אחד
+      </persName>
+     </person>
+     <person xml:id="nemi">
+      <persName>
+       נעמי
+      </persName>
+     </person>
+     <person xml:id="khl hihudim">
+      <persName>
+       כל היהודים
+      </persName>
+     </person>
+     <person xml:id="shmeun hnzir">
+      <persName>
+       שמעון הנזיר
+      </persName>
+     </person>
+     <person xml:id="r' mir">
+      <persName>
+       ר' מאיר
+      </persName>
+     </person>
+     <person xml:id="shmeun">
+      <persName>
+       שמעון
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -72,8 +183,8 @@
 השמימה. באמצעיתה של הקבוצה – שמעון הנזיר, טוביה האביוני, מרימי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun hnzir">
+   <sp who="shmeun hnzir">
+    <speaker>
      שמעון הנזיר
     </speaker>
     <p>
@@ -110,8 +221,8 @@
      (מרימי בוכה, והכל מזמרים חרש).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun hnzir">
+   <sp who="shmeun hnzir">
+    <speaker>
      שמעון הנזיר:
     </speaker>
    </sp>
@@ -145,8 +256,8 @@
      ֵ(כלם מכסים פניהם ומשוררים, בתבורית באה ומקשיבה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בּתבורית
     </speaker>
     <p>
@@ -157,24 +268,24 @@
 ועבודת אלילים תלכי לך למקום אחר, ולא כאן, בביתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      (לנפשו): רק מקום אחד יש לצדיקי עולם, והוא – אצל אבינו שבשמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : היום בא אלינו אורח חשוב כל כך – אחינו שמעון הנזיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -184,8 +295,8 @@
 אלינו. אתה, קבצן זקן, טול וצא מן הגן שלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -194,8 +305,8 @@
 ידך בכל אלה, הגן הזה גם לי גם לך הוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -203,56 +314,56 @@
 וגם אתה, עובד אלילים, טול וצא! אל יהי מקומך כאן!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : מקומי אינו כאן, אלא – אצל אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : מקום כלנו באשר מקומו של שמעון.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : הגם את שם, זקנה-גולם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : כן, כה אמר ה' אדוננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      (קם): מה שאת רואה בעיניך (מראה על עצמו) לא אני הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אתה אינך אתה, ומי איפא אתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -260,56 +371,56 @@
 טלטליהו שמה – מה איכפת לי? אני – אצל אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : משוגעים! אין אני רוצה לשמע דברי הבל! לכו מכאן! (מתחילה לגרשם).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      (במנוחה): גרשיני, הכיני, ואת אחותי את!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אנכי אחותך? כן תחיה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : כה אמר ה' אדוננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אם תאמרי כן ואם תאמרי לא, ואת אחותי את. אב אחד לנו בשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אבל לכו מכאן! לך גם אתה, שד זקן, לך! לך הביתה!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -319,16 +430,16 @@
 אני תופש מועט ותופש אנכי… מלוא העולם שלי הוא…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (מניעה בראשה): כה אמר ה' אדוננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -336,8 +447,8 @@
 אביך שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -346,8 +457,8 @@
 במנוחה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -355,8 +466,8 @@
 לא בדרכו של עולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -365,40 +476,40 @@
 הבאים!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אין בעולם ואינם צריכים להיות בעולם אנשים זרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אל תהיו איפא זרים. היו אורחי! כל הבא אצלי אורחי הוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אין אנו אצלך, אלא – אצל אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (בהתפעלות): אנשים מתמיהים וחשובים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -406,8 +517,8 @@
 אדם בסבר פנים. אכן תמיד קערתך הפוכה על פיה! (הולכת בכעס).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -416,16 +527,16 @@
 לשבור רעבונם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אני לא אטעם עתה מכל מאכל. אוכל אני רק פעם ביום, בעת שקיעת החמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -433,24 +544,24 @@
 משגיח בחמה כשאני אוכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (צוחק): כלל טוב אתה נוקט… רואה אני, שאתה זקן, חבר לאביונים אתה!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אמנם כן, אנחנו הננו האביונים העשירים בעולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -461,8 +572,8 @@
      אדם איך ישמח בחלקו?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -471,8 +582,8 @@
 לאכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון:
     </speaker>
     <p>
@@ -481,16 +592,16 @@
 לאדם, שרוצה למצא ספוקו פה על חשכת האדמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : כה אמר ה' אדוננו. מה אנוש כי יבקש דבר? (הולכים שלשתם).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -504,8 +615,8 @@
 עלי אדמות. (מתהלך בגן שקוע במחשבות).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -533,24 +644,24 @@
 אותם על גבי הספסלים והדרגשים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : זמירות ושמחה שם – ופה הידים מלאות עבודה. (עוסקת בעבודה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : למה הגברת טורחת כל כך? העבודה תעשה בלעדיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -559,16 +670,16 @@
 עורך אביך משתאות!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (כשהיא עסוקה): למה, למה הן השמחות הללו?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -578,32 +689,32 @@
 לראות בני אדם שסועים בפי נמרים…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : אך זוהי אמנם שמחה…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : כמה בשמים, דבש ויין אני מוציאה, ובשביל מי ולמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אמרי נא, אמא, יש לך תמר בשבילי? משמשי נא בכיסך.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -613,32 +724,32 @@
 טלי את הכדים ומלאי אותם יין..
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : היין דם השטן הוא, כה אמר ה' אדוננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : מרימי, הסי. התבונני נא אלי. יאה מלבושי? הרי אין להכיר, כי בת יהודי אנכי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : ה' רואה ומכיר את הכל. (אלישע בא ואין מרגישים בו).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -646,24 +757,24 @@
 להתחתן עמו?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אמא, איני רוצה שתדברי בענין שדוכים. מתבוששת אנכי…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי:
     </speaker>
     <p>
      האין היא צודקת? למה באמת כל ענין השדוכים? (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -671,8 +782,8 @@
 אלמלא זה מה היה עושה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -681,32 +792,32 @@
 מאד להבין את האדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      (בלחש): אלו הייתי אנכי אבא, הייתי משתיקה פי אמא…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : היה אדם ככל האדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : האדם החושב מתגאה במה שהוא אינו ככל האדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -716,32 +827,32 @@
 אוי ואבוי! בית המקדש חרב, לבת אין חתן, ואצלו אורחים ושמחה! (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (נאנח בחשאי): ואת, נעמי, הגם דעתך עלי כדעת אמא?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אמא בת הדור הישן היא. מה היא יודעת? הן היא חוששת לבוא בשיחה עם רומאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : צר לי בתי, שדוקא היום לבשת תלבושת רומאית… לא נאה כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -749,16 +860,16 @@
 פרשיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : דוקא מפני שיהיו אצלנו היום רומאים, היה עליך ללבוש תלבושת יהודית.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -766,8 +877,8 @@
 הוא מבין ביופי ובכיעור?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע:
     </speaker>
     <p>
@@ -777,8 +888,8 @@
 של זרים. ההבינות?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -786,40 +897,40 @@
 לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מה אמרת, בתי? גשי נא ואשמע. דומה אני שאינך אוהבת אותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : לבי פוחד בי לדבר אתך. קשה תמיד לנחש מה טוב בעיניך ומה רע בעיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא טוב לנחש. האדם צריך לחשב בהגיון…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : בעצמך לועג אתה ליהודים, ופתאום – בגדי יהודים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -827,8 +938,8 @@
 לועג אני רק למה שעושה את היהודים לנלעגים…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -836,16 +947,16 @@
 אחרים נוגע לך…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ומה דעתך את עלי? (בתבורית קוראת בקול: נעמי! אל הבית!).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -855,8 +966,8 @@
 לבנות על צואר לבן… (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -865,8 +976,8 @@
 מכח עשרה אבות. (מרימי באה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -874,24 +985,24 @@
 כיצד אפשר, שאיש נעלה כאדוני, שאיש מבין כמהו, אינו מאמין?…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : המבין אינו מאמין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : הוי, אדוני! ימלט נא את נפשו באמונתנו החדשה!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -899,8 +1010,8 @@
 חדשה – צרה חדשה. בתי, מה טוב מצאת באמונה החדשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -908,8 +1019,8 @@
 אדוננו. אין אנו מתגאים על שום איש. כלנו אחים ואחיות הננו – באהבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -919,16 +1030,16 @@
 מהרומאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : מה הוא סח? אחא שמעון, הכנס! (שמעון וטוביה באים. מרימי יוצאת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -936,16 +1047,16 @@
 להבין יותר מאחרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : דעתי היא, שתכלית הבינה היא להבין שאין אנו מבינים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -953,8 +1064,8 @@
 מה תסכן לאדם כל ידיעתו וכל הבנתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -962,8 +1073,8 @@
 ואחרי רגע – ורגליו עצמן מושכות אותו למטה, אל האם-האדמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -971,8 +1082,8 @@
 המרקיעות לשחקים…
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -980,40 +1091,40 @@
 להשקות את הפרחים. מה צמאים הם! (נוטל כד מים מן המזרקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אחינו, אלישע בן אבויה! אנכי באתי אליך בשם אבינו שבשמים. הוא שלחני אליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מהלך מרחקים! מתירא אני שאשלחך אליו בחזרה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : שמענו, כי אתה מבקר את היהודים שומרי הברית הישנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : איפכא מסתברא. אנכי מבקר את הברית הישנה של היהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -1021,8 +1132,8 @@
 את היהודים – וללכת בדרכנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1030,24 +1141,24 @@
 כך את נפשי. אחא, הדרך היחידה אל הגאולה היא דרך הבינה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : שם היהודים עתה בזוי ומנואץ. עם אומלל הם…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : העוזב את עמו מפני שהוא אומלל, בוגד הוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -1055,16 +1166,16 @@
 שבשמים. לך אתי, טוביה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      (שר): ברוכים הם האביונים, כי להם ממשלת השמים (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1076,8 +1187,8 @@
 ואנו מתענגים על רוב נחת…
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -1086,8 +1197,8 @@
 מכיסו ומחלל בו כצפור).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -1100,8 +1211,8 @@
      לנו, והם צורפים את נשמותינו… (טוביה פוסק מלחלל).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1110,24 +1221,24 @@
 באים (ר' מאיר בא). ידידי הצעיר התלמיד החכם, ר' מאיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : שלום עליך, רבי ומורי! (לוחץ את ידו, משתחוה לעומת שמעון וטוביה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : רואה אתה את הסבא הזה – תרמילו רק ומחו מלא רעיונות.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -1135,24 +1246,24 @@
 (אלישע ומאיר צוחקים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (לנפשו): סבור אתה שהוא גא מאד – וכמה רך לבו לכל בן אדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון:
     </speaker>
     <p>
      אבינו שבשמים, הריני נשאר כאן בתקוה להשמיע דברי קדשך לבעלי חטא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -1160,8 +1271,8 @@
 הפסוק “וה' ברך את אחרית איוב מראשיתו”?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1176,8 +1287,8 @@
 ההשגה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -1185,8 +1296,8 @@
 זמן והוא ישוב בתשובה לפניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1198,16 +1309,16 @@
 ומחפש חטאים? (לוחץ את ידו).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : ידידי, אלישע. היום אין אני יכול לעשות פה זמן רב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1217,8 +1328,8 @@
 קבוצות מסביב למזרקה, ממלאים את הכוסות) יין לכלם! (נותנים יין לכל אחד).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -1226,8 +1337,8 @@
 בגרונו מאשר ישתה כוס יין, ומוטב שתמקנה עיניו בחוריהן מאשר יביט אל אשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1236,40 +1347,40 @@
 שמים לאחד והארץ נתונה לשני.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : זקן-זקן! הרי יש בך די שכל לשתות כוס יין אחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אני שותה אך לצמאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : ספי הוא את כלם כתורא. ואם אביון זה לא ישתה, מה איכפת לו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ולמה היה יהיה האדם, אם לא יהנה מכל אשר תחת השמש!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1277,24 +1388,24 @@
 ויסורים. (כלם שותים יין).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : הביטי מרימי, האין רומאי גא זה דומה בקומה ובגבורה לאליל שיש אחד שלהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : דבר גדול הוא אליל של שיש!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1302,32 +1413,32 @@
 והיי שמחה כמונו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : הלואי וישתו זה בפעם האחרונה המלומדים הללו! (הולכת עם מרימי).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      (בלחש אל נעמי): את כל כך נאה בתלבושת זו, שאיש לא יאמר כי מילדות העברים את.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      (בהתרגשות): האמנם? אק מלים תדברה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1337,16 +1448,16 @@
      … (משפיל קולו יותר) נעמי אהובתי, אימתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : בכל עת אשר תצוה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1355,16 +1466,16 @@
 להתפאר.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : אני סובר, כי יהודיה צריכה לחשב כיהודיה. אלישע, אל נא נוציא זמן לבטלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1372,16 +1483,16 @@
 אני מעריצך! (לוקח ספר).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אבינו שבשמים, האדם נערץ בעיניו כאלהים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1389,8 +1500,8 @@
 הכונו! (בתבורית ומרימי מביאות עוד יין).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1399,8 +1510,8 @@
 דרכמוני זהב לזמן קצר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1410,8 +1521,8 @@
 נא…
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1419,16 +1530,16 @@
 צדק של חושב…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מסתפינא, שלא אוכל למלאות רצונך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1438,24 +1549,24 @@
 לראשינו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : הזהב נחוץ לך תיכף?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : כן, ידידי, אם רק אפשר הדבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1463,8 +1574,8 @@
 הזהב.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -1472,24 +1583,24 @@
 לחמנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : הרגעי, הסי. אחר כך אבאר לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : רוצח אתה! קמת עלינו ללסטם אותנו וליתן הכל לגוי, לרומאי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1501,16 +1612,16 @@
 נגש אל נעמי).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      (אל ר' מאיר, בבכי): ראה, מה שהמשוגע עושה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -1518,8 +1629,8 @@
 אדם גדול (הוא מרגיעה).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -1529,24 +1640,24 @@
 לא כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : כן, ידידתי, היהודית הרומאית היפה שלי! (מדברים בלחש).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      (קם): בנים כבדי-עון, בני תמותה, התקשיבו לקול אבינו שבשמים הקורא עתה אליכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -1554,8 +1665,8 @@
 האשה. (צחוק. אלישע בא. אחריו הולכים הרומאים ושק של עור אתם. יוצאים).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -1563,16 +1674,16 @@
 מחויבים אנו להשמע לגדולים המצוים עלינו. שלום לכם! (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : ידידי היקר והטוב, אלישע. מה לך היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1604,8 +1715,8 @@
      (נכנסים ראש הישיבה ות"ח אחדים)
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -1613,16 +1724,16 @@
 ידברו אתך!…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אורחים אשר לא פללתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -1630,24 +1741,24 @@
 בגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : וגם אתה, ר' מאיר, מצוי אצלו?
     </p>
    </sp>
-   <sp>
-    <speaker id="r' mir">
+   <sp who="r' mir">
+    <speaker>
      ר' מאיר
     </speaker>
     <p>
      : רבי, לומד אני אצלו. מוצא אני רמון, אוכל את תוכו וזורק את קלפתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -1655,40 +1766,40 @@
 הקורא בספרים חיצונים אין לו חלק לעולם הבא” מה תהא עליהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אלו היה עקיבא קורא ומבין ספרים חיצונים לא היה מוציא מפיו דבור אשר כזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (בחשאי, לבן אבויה): רבי ומורי, דרכך להרבות לך אויבים המדברים סרה בך, וכי למה לך זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בני, כל האומר אמת כמו שהיא, בורא לו אויבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      (לאחר שהסתכל וראה פסל השיש): רחמנא יצילנו! מה זה? פסל בביתו של יהודי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -1700,32 +1811,32 @@
      (המוכסן מתגנב לבין העצים ומקשיב).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : לאו דוקא אחרים, כי גם אשת בריתך קובלת עליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (בתמהון): אשתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבּורית
     </speaker>
     <p>
      : כלום היתה לי ברירה אחרת? הרי מרתי חשבה להתפקע!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -1735,32 +1846,32 @@
 בפרחים, ואתה יושב ספון בתמרים ופרחים ושותה יין אתם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אין תשועה בדמעות ואנחות.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      (לנפשו): יהודים! קבל תקבלו את ענשכם!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : מקצץ בנטיעות אתה! למה לו ליהודי חכמות חיצוניות, – המעט לו תורתנו הקדושה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1770,16 +1881,16 @@
 הן טפין שאבדו מכוס היהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : כסבור אתה, חלילה, להיות דומה אל המינים או המאמינים בנוצרי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1787,48 +1898,48 @@
 מאמין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (לראש הישיבה): אל תשכח מר, כי הוא מלומד גדול ואנו חיבים בכבודו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      (לנפשו): יהודים, על דברים אלו לא אותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (מתבונן לאשתו): אשתי קובלת עלי. היא אמא של בתי ודבריה לא אכזב.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אלישע בן אבויה, האם ברצונך לצאת נגד כלל ישראל?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ואלמלי הייתי מתנגד לכולא עלמא לא הייתי זז מדרכי כמלא נימא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -1838,8 +1949,8 @@
 אשה לך, בת לך, אחים לך – ועליך להשאר שלהם…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1847,8 +1958,8 @@
 מדינים ומרשיעים, ואני איני מרשיע.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -1861,8 +1972,8 @@
 פורצת מן הבית נבהלה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -1870,80 +1981,80 @@
 לכאן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : איש לא יהין לעשות לך רע בביתי. שבי, בתי, והרגעי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : אדם טוב, הן אינך יודעני מי אני ומה אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מי שבא בצל קורתי אורחי הוא וידידי הוא. (נותן לה מעט יין מן הכוס).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אבוי לי, אשה שכזו גם היא אורחתו וידידתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אחותנו, אין משסים כלב בשיה נדחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אבל בושה להסתכל בפני זו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אשה נדחת, שובי, שובי לאבינו שבשמים. הוא נושא עון ועובר על פשע.
     </p>
    </sp>
-   <sp>
-    <speaker id="urkh khd">
+   <sp who="urkh khd">
+    <speaker>
      אורח אחד
     </speaker>
     <p>
      : גויתה מחוטבת יפה מאד…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : לפנים היתה אשה כזו מוצאת להשרף, והיום מכניסים אותה כאורחת. מרא דאברהם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -1955,24 +2066,24 @@
 מלא… בעיני דומה את לכל האנשים הנמצאים כאן.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי:
     </speaker>
     <p>
      שומעת את, אמי? הוא משוה את זו לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : כלום מבחין הוא בדבריו?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -1982,8 +2093,8 @@
      הנך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -1992,8 +2103,8 @@
 ספרי גויים חסרי טעם, בשביל תאוות שפלות!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2004,8 +2115,8 @@
 אני לתת פרח חי זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2014,8 +2125,8 @@
 מתפלל. טוביה, מאושר. מראה לאבנימוס כמה גדולה מדת טובו של אלישע).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh yurd lt">
+   <sp who="hmskh yurd lt">
+    <speaker>
      המסך יורד לאט
     </speaker>
    </sp>
@@ -2027,8 +2138,8 @@
 רומאים, חמושים כידונים וחרבות. היהודים שרים “על נהרות בבל”. בוכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -2040,16 +2151,16 @@
 חילים).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : מוצץ דמינו הולך, כשם שאני יהודי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2057,8 +2168,8 @@
 מתעוררת אצלם רוח של התקוממות… יעבדו ואל ישעו בדברים!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -2066,8 +2177,8 @@
 עובדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2076,8 +2187,8 @@
 שבת. עבדו, והיתה לו קורת רוח.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -2085,8 +2196,8 @@
 יצאו.”
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2095,16 +2206,16 @@
 שבת. זוהי תורת רבותיכם. יודעים אנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      (בלחש): מהיכן יודע גוי זה סוד זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2112,32 +2223,32 @@
 יודעים, כיצד אתם עושין עקיפין לחוקי המלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אבי שבשמים! אלישע אינו רק כופר, אלא גם בוגד ומוסר למלכות!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : אני מצוה, כי רק שני יהודים ינסרו ורק אחד ישא גזר עץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : לעתיד לבוא יעבדונו הגויים אויבינו כשם שאני יהודי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2145,8 +2256,8 @@
 מתחת השמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -2156,16 +2267,16 @@
 מעל הארץ, וישראל חי וקים! גם רומא תפל וציון לא תחרב!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : זקן שוטה! ציון – חרבות היא!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -2173,16 +2284,16 @@
 בתוך לבבנו, והיא קימת לנצח במחשבות כל עם ישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      (לרומאי): הראה לו לחצוף זה, כיצד צריכים לעבד בדומיה. (הרומאי מכהו).
     </p>
    </sp>
-   <sp>
-    <speaker id="khl hihudim">
+   <sp who="khl hihudim">
+    <speaker>
      כל היהודים
     </speaker>
     <p>
@@ -2190,16 +2301,16 @@
 וטוביה עיפים מדרך רחוקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : הוי, מי ומי ההולכים?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2207,40 +2318,40 @@
 משלם שום מסים שבעולם, אבל כל העולם משלם לי…
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : למי אתה סח דברים אלו? שואלכם אני: מי ומי אתם, ולהיכן אתם אוחזים דרך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : בני אלהים אנחנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : ראוי היה לאלהים שיהיו לו בנים נאים מכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : ודברי אלהים נשואים על שפתינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2248,24 +2359,24 @@
 חילים! טלו אותם לעבודה! (החילים דוחפים אותם).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אין אנו מתיחשים על היהודים. בני אלהים אנחנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : בני אלהים – עבדו איפא פי שנים!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2274,24 +2385,24 @@
 נשמתי מרגישה קורת רוח, שוב אין שבתי מחוללת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : הרומאי, עז וגא אתה, ודבר אלהים חזק ממך, ובו אמשול עליך!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : חמור! מושלים רק בכחו של זה!… (מכה אותו באגרופו, שמעון נופל).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -2300,16 +2411,16 @@
 מכהו).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : הך, אחא, הך. אין בכך כלום. בני אב אחד אנחנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2317,16 +2428,16 @@
 למכים ומוכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : עד שקיעת החמה יעמדו ויעבדו בחריצות את עבודתם הכבדה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
@@ -2336,32 +2447,32 @@
      , רבש"ע!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : אני הולך (החילים מאיצים בעובדים. המוכסן הולך. אבנימוס בא כנגדו).
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : כאן אתה, אנטוניוס סרויוס, הרי אני מבקשך…
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : שמח אני לראות את אחד מידידי המכובדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -2369,24 +2480,24 @@
 דבריו אנסו את האי סבא ראש הישיבה ועוד כמה זקנים לעבד ביום השבת הקדוש.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : חיבים אנו לשמע בקול מפקדינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס:
     </speaker>
     <p>
      תן להם ליהודים שיוכלו, לפחות, לשמר את חקי דתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2394,40 +2505,40 @@
 אלישע בן אבויה כך היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : הוי, אלישע, כמה כבר פשעך לעמך!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : הבטחתי לו למצאך ולבקשך על שחרורם. הרף מהם ואל תעשה להם עול.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : ידידי, עניני ממלכה נעלים יותר מזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : מפני מה אתם שופכים זעמכם על היהודים יותר מאשר על עמים אחרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2437,8 +2548,8 @@
 מרוחם החפשי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -2448,8 +2559,8 @@
 תחת משאו. בשם ידידותנו אני מבקשך: שחררם!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2457,8 +2568,8 @@
 מרבה לדרש בדברי תורה ואינך נהנה מאילן נאה ומניר נאה. כן הוא גם כל עמך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -2467,72 +2578,72 @@
 (ראש הישיבה רומז לאבנימוס להשאר).
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : סלחה לי. סבא זה יש לו דבר אלי. רוצה אני לשמע את אשר בפיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : כדאי להתרחק קצת מהיהודים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : האין אתה ידידו של אלישע בן אבויה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : יהודי שהוא מתנגד לעמו, הרי הוא ידידה של רומא.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : אומרים שהוא יהיה בקרוב גם חותנך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אוי לנו! אלישע מתחתן עם בן אדום, עם צורר היהודים!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : יהודי יהיה חותני? אבנימוס, רומאי אביר אנכי!… להתראות! (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אבנמוס הגרדי, אתה משמש לנו בתור הוכחה, כי ישנם חסידי אומות העולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -2540,8 +2651,8 @@
 הצדה. הם הולכים ומדברים בלחש. אחריהם עוד כמה זקנים. הם נעלמים ביער).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -2550,8 +2661,8 @@
 שבשמים! (גם הוא נעלם ביער. אח"כ נעלמים אחריו עוד כמה אנשים).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2559,16 +2670,16 @@
 (מוציא חליל).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : כיצד מנגנים בשבת?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -2583,8 +2694,8 @@
 קולו של אלישע נשמע).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2593,8 +2704,8 @@
 מקום). מאיר, חזור בך! עד כאן תחום השבת!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -2602,24 +2713,24 @@
 הגענו לתחום?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : כך שערתי בטלפי סוסי (יורד מעל סוסו). מאיר, חזור בך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : רבי! ואף אתה חזור בך! חזור לעמך ולאלהיך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2628,16 +2739,16 @@
 (אוסר לעץ סוסו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : מה שמעת – איזו בת קול?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2647,32 +2758,32 @@
 אין אני יכול לחזור בלי אלישע…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : הוי, רבי. מי הוא בן לויתך בעולם הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אני הנני רק עם עצמי. אך האיש הפעוט מתירא מפני עצמו ובורח אל המון העם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : כלום אין זה דבר גדול ללכת עם העם ולחפש את האשר של העם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2683,16 +2794,16 @@
      העם, ובזה הוא שואף להביא אושר לעם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : מפני מה יש בזה גבורה יתרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2713,24 +2824,24 @@
 בזכותם של ישראל?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אלו ראיתי את מטטרון, הייתי אומר לו שהוא אינו ולא כלום…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : היאך? הרי מטטרון הוא חלק מהקב"ה!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2739,40 +2850,40 @@
 מטטרונים ואם גוף הוא, אלהים איננו!] (אבנימוס בא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : חוששני באמת ללכת עוד אתך. שלום עליך, רבי! (נוטה ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : שלום, מאיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : אתה, ידידי הצעיר, דרוש לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ולי, חברך הזקן, אינך צריך? מה לך, אבנימוס? מה נשתנו פניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -2780,8 +2891,8 @@
 על צפונותיהם. חושבני, שאתה נחוץ להם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -2791,8 +2902,8 @@
 כדי שתעלה על גבי ומעליו – על סוסך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2800,56 +2911,56 @@
 הוא אינו ראוי לרכיבה עליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : אם כך, שלום! (בלחש) מוטב שתלך מכאן קודם, כדי שלא יראוך פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : האיש כמוני יברח? לא, בני. מעודי לא ברחתי. (מאיר הולך אל היער).
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : שלום לך, ידידי מאיר! (הולך)
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אטו אלישע בן אבויה אינו עוד חבר לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : מי שמוכר את אחיו, בוגד בהם ומלשין עליהם, אינו יכול להיות חברי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : המכיר אתה במי שאתה מאשים? אפשר דעות היהודים לא יכלו להקלט במחך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -2857,8 +2968,8 @@
 איני מכיר אותך שוב! (הולך בזעם).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2868,8 +2979,8 @@
 מקומו. בתיה באה חרש).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2878,8 +2989,8 @@
 אותו… אנשים שכמותו אינם נשכחים. (בקול) אדם המעלה, ההכרתני?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -2887,8 +2998,8 @@
 לגזרים – והנה לנגד עיני איש חי. אין אני איפא לבדי?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2897,32 +3008,32 @@
 עין אחד, מצמיד אליו אנשים לנצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מצמיד? מי שהוא מוצמד עבד הנהו!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : יש כבלים שהם יקרים מן החפש. האדם העליון! יום יום ערגתי לראות פניך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתי, ומפני מה לא באת אלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2930,16 +3041,16 @@
 מתביש בי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : המתביש בחבריו אין הוא בגדר איש!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2954,16 +3065,16 @@
 אתה הראיתני כבוד וידידות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : תמהים על דבר פשוט, אם אדם מתיחס אל רעהו כמו אל אדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -2972,24 +3083,24 @@
 תסולאנה בפרחך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתי, בתי. הרי את הפרח היותר יפה שברא הטבע בעולמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      (בגעגועי תאוה): האדם העליון! היה שלי! היה ידידי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3000,8 +3111,8 @@
 ראש הישיבה, ר' מאיר, זקנים ועד יהודים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3009,16 +3120,16 @@
 העדינה, את היד שהגישה פרח לבתיה הזלה, הנדחת והנרדפת מכל. (נושקת לידו).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : רואים אתם עם מי אלישע בן אבויה מבלה את זמנו בשבת? עם נשים פרוצות!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3026,8 +3137,8 @@
 פרוצה אומללה בעולם! (נעלמת ביער).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3036,40 +3147,40 @@
 צרינו מחוץ, די חזקים אנו עוד להלחם באויבינו בפנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אמת, גם האדם החלש ביותר יש לו די כח לעשות עול…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אלישע, הכל מדבר כנגדך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא איכפת לי, כל זמן שאני מדבר בעדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : את היהדות אתה רומס ברגליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3078,24 +3189,24 @@
 הסובלים ומרגישים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : והרי בשביל זה לבד ראוי הוא לעשותו גל של עצמות, בי נשבעתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : בית ה' חרב, ואתה אינך שרוי בצער!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3103,16 +3214,16 @@
 האם עלי, בן אדם תולעה, לישב בצער על זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      (בחרון): סומא! האינך רואה כי עם חרבן בית המקדש נפלו תורת אלהינו ומצוותיו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע:
     </speaker>
     <p>
@@ -3128,24 +3239,24 @@
 להומם ולאבדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (לראש הישיבה): רואה אתה, רבי, כמה כואב לבו על שפך דמינו הנקיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : לא כן. אני רק רואה שהוא כופר באלהינו (רטון בין כלם).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3153,16 +3264,16 @@
 בחיי האיש עלי אדמות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : כלומר, אינך מאמין בשכר ועונש מן השמים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3174,24 +3285,24 @@
 אריכות ימיו של זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אללי לי, אוי לאזנים שכך שומעות!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : רבי, אפשר הוא מתרגם פסוק כצורתו, ואין אסון גדול כרוך בזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3199,8 +3310,8 @@
 בשעה שאנו צריכים לתת כל מחשבתנו לציון עיר קדשנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3221,16 +3332,16 @@
 רבים ואת האדם אתם רודפים. (מרננים בכעס. ראש הישיבה מתיעץ עם הזקנים).
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
      : רשע! רשע!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -3238,8 +3349,8 @@
 בפני כל אדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3247,8 +3358,8 @@
 בפני אלהים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -3256,8 +3367,8 @@
 (אלישע אינו עונה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -3279,8 +3390,8 @@
      (קול זמר המקהלה)
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3301,8 +3412,8 @@
 ברצח, בלעג ובשאט נפש…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3311,24 +3422,24 @@
 לנו אתה, כי אם למינים!
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
      : למינים! למינים הוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : למינים, בי נשבעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3338,8 +3449,8 @@
 להיות אשתו או פלגשו של המוכסן הרומאי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3347,8 +3458,8 @@
 לא! זה לא אמת. לא נכון!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3357,16 +3468,16 @@
 שלטוננו בעוונותינו הרבים ואין לנו הכח לדונך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ודאי, לפנים בישראל הייתם סוקלים אותי באבנים. אך מדוע? למי הרעותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3374,16 +3485,16 @@
 אחיו, ולכן…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : אולי, רבי, נועץ בינינו עוד פעם, נדבר טובות…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3399,16 +3510,16 @@
      ” ישאר שמך לקללה, לחרפה ולשמצה בישראל!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (סופק כפיו): הוי, אדם המעלה האומלל!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -3417,8 +3528,8 @@
 אחור) זר, אל הזרים לך! נכרת אתה מעמנו לעולם! (הולכים ברעש).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3427,16 +3538,16 @@
 כמה פעמים בין העצים, נגשת אליו בעז) את? (הוא קם).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : שמעתי הכל, ולבי שותת דם…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3444,8 +3555,8 @@
 לעשות בשבילך? היש לך בקשה אלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3457,8 +3568,8 @@
 ביסוריך…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3471,24 +3582,24 @@
 ואין משפט בעולם שיאמר לי: רשע אתה! (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : הוי, איש אמיץ וטוב! מה חלש ומה איום אתה! (סופקת כפיה בתמהון. פתאם נשמע קול חלילו של טוביה בנגון הקודם).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : שומעת את, בתי? לא רק קללה ובוז ישנם בעולם, הנה גם זמרה ואושר! (החליל מחלל, והם עומדים שניהם ומקשיבים).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh yurd lt">
+   <sp who="hmskh yurd lt">
+    <speaker>
      המסך יורד לאט.
     </speaker>
    </sp>
@@ -3497,8 +3608,8 @@
      אותו הגן אשר מסביב ביתו של אלישע בן אבויה, כמו במערכה הראשונה. יום.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
@@ -3517,8 +3628,8 @@
 המכשפה! מרימי באה במרוצה מן הרחוב אל הגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -3527,16 +3638,16 @@
 (בתבורית באה לבושה בגדי עוני) לא הבאתי דבר. לא שמן, לא זיתים ולא קמח.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : איך לא הבאת שום דבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -3545,8 +3656,8 @@
 בהקפה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3559,48 +3670,48 @@
 תלכי נא אליו, מרימי. (נעמי באה מן הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : היהודים מתגרים בי.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : הקנית לי תמרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אללי לי, בת יחידה – וכשהיא רוצה בתמר אין לי בשבילה (נאנחת).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : לא קנית – השמעת? ועוד מלים בפיה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : החנונים היהודים אינם רוצים למכר לנו תמרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -3608,24 +3719,24 @@
 הייתי מלמדת אותם פרק…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : ועוד דבר. הקונה צריך לשלם ממון.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : ממון! ומדוע לא תבקשי מאבא? קשה לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3633,8 +3744,8 @@
 על הפתחים. כל מה שהיה לו נתן לאחרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -3642,8 +3753,8 @@
 הכל תחתיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3651,8 +3762,8 @@
 הוא נמצא בודאי בבית המדרש. תאמרי לו, ש…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -3661,48 +3772,48 @@
 לעגילים חדשים באזני. (הולכת)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : אוי, גדלתם בת זו כך, שהיא אינה יודעת שום דבר ממה שנעשה בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : ואיך תגדל בת אצל אבא כזה. – מה היא חיבת אם אביה מתנהג כך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (בלכתה): הרי היום עשרים לחדש הוא. ודאי שיבואו אורחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אורחים! מי ומי יבואו עתה אליו, ובמה יכבדם – במכות ותחלואים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : ודאי שכך הוא רצונו של ה' אדוננו! (נאנחת ונכנסת אל הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3715,8 +3826,8 @@
 מבלים חיינו כמו על בית הקברות. בגללך הננו כלנו קבורים חיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3724,16 +3835,16 @@
 רודפים אותנו על חנם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : מעשה חכם עשית כי מסרת כל רכושך בידי אותו מנוול ואנו נהיה מזי רעב!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3742,8 +3853,8 @@
 ונוכחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3751,24 +3862,24 @@
 הישלם לך רבית קצוצה? או היטב ייטיב עמך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא דא ולא הא. היו סבות אחרות בדבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : מפני סבות אחרות דלונו ואומללנו. אויה, אויה לי, אללי לי! (בוכה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3776,16 +3887,16 @@
 לו את הזהב.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : כשאין רוצים, אין נותנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3794,8 +3905,8 @@
 חותכים אברים אברים, הם תוקעים את התפלין במח הראש.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3803,8 +3914,8 @@
 וחכמים ממך, יעשו הם הדבר!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3812,8 +3923,8 @@
 לו מיד ואת הטובים ההם היה צריך לחפש זמן רב…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -3827,16 +3938,16 @@
 מרימי באה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : והנה האדון. יאמר נא, היבואו היום אורחים אלינו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3845,16 +3956,16 @@
 הבית כהוגן. אתהלך לי ואחזר אח"כ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : אבל אין לנו אפילו טפה של יין.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -3864,8 +3975,8 @@
 לדאבוני, יש אנשים שמבינים רק את שפת המקל. (הולך דרך הגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -3873,8 +3984,8 @@
 להיכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -3882,16 +3993,16 @@
 אינם רשאים לדעת מזה. אל תגידי בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : הוי, נעמי. אסור להונות את אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -3900,8 +4011,8 @@
 הילים ופוסעת דרך הגן. מרימי מביאה כרים ושטיחים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -3909,8 +4020,8 @@
 החטא (פורשת את השטיחים על פני הספסלים. בתיה באה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3918,16 +4029,16 @@
 את ר' אלישע בן אבויה? הוא אמר לי לבוא אליו לכשארצה לראותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (עסוקה): ר' אלישע הלך זה עתה ויחזור מיד. אפשר לך להמתין פה, אם יש לך די פנאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3935,16 +4046,16 @@
 איך הוא מרגיש את עצמו? האינו חולה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : את הרגשותיו אין איש יודע. אך תניני לעבד. ממתינים אנו לאורחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3957,8 +4068,8 @@
 השטיח בעצומות תאוה. בקול) שקוע הוא תמיד בדאגות, בדאגות עצומות, הה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -3966,8 +4077,8 @@
 מתאונן על מצבו. גם בשעת חליו אין הוא מתאנח, אלא שותק…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3975,16 +4086,16 @@
 טובה לו, ומטפלת בו מתוך עדנה ורך. לא כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : ודאי, היא אוכלת אותו כעש.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -3992,8 +4103,8 @@
 מלא הכד וזורקת על הפרחים). כך… והבת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -4001,8 +4112,8 @@
 בת, אין איש בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4012,16 +4123,16 @@
 מקל ארוך בידו, חבילה על שכמו. הוא חור יותר מקודם ועיניו בוערות יותר).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (בשמחה רבה): אחינו! שמעון שלנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -4033,16 +4144,16 @@
 בצקו, שכמי דוי ממשא החבילה. אח! טוב מאד הוא אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      (נוטלת חבילתו מעל שכמו): אהא שמעון, לך לנוח קצת ולרחץ רגליך הכושלות.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -4050,16 +4161,16 @@
 בתיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : כבר נמצא איש אחר, יותר גדול ויותר חזק ממך, שהציל את נשמתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -4070,8 +4181,8 @@
 זכרי את יום המות!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4079,8 +4190,8 @@
 לחיות אני רוצה! להיות אוהבת ואהובה… לחיות ולהיות מאושרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -4088,8 +4199,8 @@
 דמעותיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4097,16 +4208,16 @@
 שאני כלי חיים? (רעש).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : בשביל חיי שעה בעולם הזה תאבדי חיי עולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -4114,16 +4225,16 @@
 ותשמעי לדברי שמעון ועל כרחך תעני אמן על דברי צדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : צדיק הוא רק אבינו שבשמים! (הולך הביתה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4133,16 +4244,16 @@
 קולות: מומר! אחר! אחר! קול טוביה. קול אלישע. אלישע וטוביה באים).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בוא נא, בוא נא. אורח יקר אתה אצלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -4152,8 +4263,8 @@
 ויושב).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4161,8 +4272,8 @@
 לבדו, רחוק מבריוני השוק, מדעות השוק, ומן הצדק של השוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -4179,8 +4290,8 @@
 אינך רוצה לצאת מעוגתך הצרה שלך אל פלטין המלך שלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4188,8 +4299,8 @@
 היא. כמה פעמים עלה זכרונך על לבבי, וטוב עשית כי באת אלי עכשו, אם אשתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -4199,8 +4310,8 @@
 נגש אל הגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4208,16 +4319,16 @@
 אבנימוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      (אינו נכנס): לא. לא באתי לשבת אצלך. דבר לי אליך לבדך. (מביט על טוביה).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -4225,24 +4336,24 @@
 הוי, פתחו שערים ויבא טוביה האביון! (נוטל חבילתו והולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : היום יוצאים לגיונות הרומאים אשר חנו כאן ובמקומם באים לגיונות חדשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ומה בכך? לגיונות, חילים, הולכים – הרי תדע, שהאדם אינו עוסק בכגון דא.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -4250,112 +4361,112 @@
 לך את חובו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מקוה אני, שיבא להפרד ממני ויפרע את חובו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : עצתי לפניך לעזב תקוה זו ולחשוב מה עליך לעשות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : תקותי היא, כי לא בכל ידידי טעיתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : וחוץ מן הזהב… הזהר… אומרים כי בתך…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : זה שמעתי מכבר ומצאתי כי זוהי רכילות בלבד. הרשני נא לדאג בעצמי לבתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : חובתי היתה להזהירך. ועכשיו, אחר אומלל, עוד דבור אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא אחר, אלישע בן אבויה שמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : העולם נוקב את שם האדם, ולא האדם בעצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : העולם? העולם קרא לסוקרטוס בוגד ופושע!
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      (מוציא כסף מכיסו): הבאתי לך את חובי אני…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מעולם לא הקפתי לך ואין אתה חיב לי כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
      : היאך? הרי אתה נתת לי…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מה שאני נותן במתנה איני מקבל חזרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bnimus">
+   <sp who="bnimus">
+    <speaker>
      אבנימוס
     </speaker>
     <p>
@@ -4363,8 +4474,8 @@
 גאה כל כך בעניני כסף (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4374,8 +4485,8 @@
 דופקת. אלישע מרגיש בה) נעמי, את? היכן היית?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -4383,8 +4494,8 @@
 אנשים רעים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4392,8 +4503,8 @@
 וצמוקים ושאר דברים טובים שאהבה נפשך.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -4402,24 +4513,24 @@
 ברמאות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : המתיני, נעמי. יש לי לשאלך דבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      הוא כבר פותח… (נאנחת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4429,16 +4540,16 @@
 ולכל בם חיי רוחי. זוהי השארת הנפש שאני מאמין בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : מה אני יודעת בזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4446,8 +4557,8 @@
 בנידון הרומאי..
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -4455,8 +4566,8 @@
 מבינה. הרי אתה אומר תמיד שיהודי ורומאי שוים בעיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4465,24 +4576,24 @@
 כבודו בפני רומאי ובפני שום איש שבעולם. ההבינות?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : כן, אני מבינה עכשו. (בלחש) צא והבן איש הפכפך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : היא תמה ופותה, אין להאמין עליה שום דבר רע. אח! בה בטוח אנכי.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -4490,40 +4601,40 @@
 (בלכתה) רק הוא רשאי לעשות כל דבר ולא אחרים… (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : (עצובה): הוא הכאיב לבבי והפחיד כל מחשבותי. אסור לשמע עוד את דבריו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתיה לסוף באת אלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : האם חכית לבואי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא. כיצד לומר – לא רציתי שתבאי וצר היה לי על שאינך באה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4531,8 +4642,8 @@
 אדם נעלה! אין איש רואה, אבל לבי לבי למכאוביו העמוקים עתה. גדולים יסוריך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4541,8 +4652,8 @@
 יכולה את לשער מה הם חיים ארוכים משמימים, מלאי בדידות וערירות? (קולו פועל עליה. מתפרץ ממנה קול בכי, ותיכף היא מבליגה על עצמה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4557,8 +4668,8 @@
 אותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4567,16 +4678,16 @@
 הפרח הענג! אני ארסק אותך, כאשר תרסק הסערה את צעיר האילנות!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : כך, כך! שרפני! רסקני! הוי, כמה מאושרה אני! (מכסה עיניה. דממה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4586,16 +4697,16 @@
 ממרחק ונאנח קשה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      (שומעים קולו מן הבית): התבל כפרוזדור עגומה עניה, החיים אבלים אך תהו ושאיה, אין שמחה לאדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4603,8 +4714,8 @@
 פניה. בתבורית באה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -4612,32 +4723,32 @@
 על אבנימוס? הוא פגשני ונתן לי כסף. (רואה את בתיה) מה? היא כאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : במטותא ממך, אל תפתחי ברעש ואל תעליבי אדם חנם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אדם? אשה שכמותה! חוצפה כזו – הגם לכבש את אישי אתי בבית!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : (מכינה עצמה ללכת): אל תשכחי, שאין הבית הזה רק שלך, גם שלו הוא. את זה את שוכחת תדיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -4645,8 +4756,8 @@
 אותה מן ההתנפלות).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4658,8 +4769,8 @@
 כגבוה שמים מעל הארץ. אם שלך הוא – מדוע את נכריה לו?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -4667,8 +4778,8 @@
 לכי מפה! לכי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4676,16 +4787,16 @@
 שהיא מבינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      (בוכה): המעטות הצרות שבאו עלי מידך והבאת עלי גם את זו!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -4696,16 +4807,16 @@
      רוצה בכך (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : לא אוכל לסבול עוד. בשר ודם אנכי. מררתי מתפקעת (הולכת אל הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -4713,56 +4824,56 @@
 התנאים הטובים לחיותה. אם לא – אחריתה מכאובים ויסורים בלבד (טוביה ושמעון באים מן הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : הרי כמעט אחינו אתה – יושב אתה כאן לבדך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אין איש מאתנו יושב לבדו, אלא נמצא תמיד בחברתו של אבינו שבשמים. (בתבורית באה ברעש).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : כך, הרי אומרים שהגוי, ידידך, הולך היום מכאן – מי ישיב לך את החוב?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : סבורני, שהוא יבוא היום וישיב את חובו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : ואם לא יבא – לא כלום?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ואם לא – אז בודאי לא כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -4771,16 +4882,16 @@
 זרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : יש ויש הכל – אצל אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -4795,8 +4906,8 @@
 ונהנה ונהרהר – ונשחק… (רעש).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -4804,16 +4915,16 @@
 ראה נא, הנה הוא הולך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : רואה את? – אסור לחשב רע על האדם. (המוכסן נכנס ברעש אל הגן).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4821,32 +4932,32 @@
 פרחים האלו בשבילה הם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      (בקול רם): נעמי! באי הנה, בתי! (נעמי באה, המוכסן הולך לקראתה).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : עלמה יקרה! (משתחוה באדיבות רבה ומושיט לה את הפרחים).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      (בלחש): הייתי אצלך ולא מצאתיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4855,64 +4966,64 @@
 היי על יד שלשת האילנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אם כן, אתה עוזב אותנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : היום, ומיד. אני באתי לברככם בשלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אשא את הפרחים אל חדרי (בלחש) אני פוחדת. אפשר יכירו בדבר… (שבה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : ואימתי יפרע את החוב? (אלישע רומז לה לשתוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : לכל אדם על כל תגמוליו ישלם אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
      : היאך – חושבים אתם חוב עלי? בעלך מבין יותר ממך, הוא אינו מזכיר לי מאומה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מה להזכיר – לא הייתי מסופק שאיש ישר ישמר את מוצא שפתיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4922,24 +5033,24 @@
 הגון ולקחתי מה שלקחתי ממנו בדרך הגונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : אוי לי, אסון ושבר!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (שנון): הוא חשב אותי לאדם הגון! זה נאה מאד מצדו!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4947,16 +5058,16 @@
 כבד בזהב ובכסף ובכל טוב, ועלי לנהוג שם מנהגי חיים של רומאי מגזע היחש.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ותורת הפילוסופיה מה תהא עליה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4966,16 +5077,16 @@
 מגע ומשא עמהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : חמס ושוד! איזה אסון!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmukhsn">
+   <sp who="hmukhsn">
+    <speaker>
      המוכסן
     </speaker>
     <p>
@@ -4983,24 +5094,24 @@
 (הולך). (אלישע נשאר מדוכא מאד).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : גזלן, רוצח! פרא אדם! למה אתה שותק?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : רק אנשים חלשים והדיוטים צועקים בזמן שאין תועלת בצעקתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -5008,16 +5119,16 @@
 מכאוביו עמק עמק בלבבו. הוא מחריש, כי כבדה עליו יד ה'.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : כל מכאובינו יוכל להקל רק אבינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -5026,16 +5137,16 @@
 יהודי ככל היהודים. אמרתי זה גם לנעמי, והיא פתאם רוצה להשאר על ידך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתי אהובתי… דבר‑מה ישאר לי עוד…
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -5048,16 +5159,16 @@
 שוקעת. יהודי אחד עובר על פני הגן, מציץ בו ונעלם מיד).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אחא – נע אתה? עמד איתן! אין נפילה אלא אצל מי שנופל בעיני עצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5067,16 +5178,16 @@
 ידידי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : הוי, בן אדם – מפני מה אינך רוצה לחסות בצל ידידך היחיד ומיוחד שבשמים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5086,8 +5197,8 @@
 אבל אין לך די הגיון להוכיחני את מציאותו של אב בשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -5095,8 +5206,8 @@
 היום. אבל הוא, שמעון, חלש הוא – שפך חמתך עלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5106,32 +5217,32 @@
 האדם הולך. (נעמי באה לבושה מעילה).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      (בתמימות): מותר לי ללכת לראות בחילים בלכתם? אני אעמד מרחוק. כאן, אצל ביתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתי הטובה והתמימה, מה תראי בהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : הכל רצים לראות, וגם אני רוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5139,24 +5250,24 @@
 בתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : כן, אבא. אני אהיה זהירה. (הולכת. נשארת לרגע) ואולי אין ברצונך שאלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מפני מה לא? הרי את הולכת לרגע.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -5164,8 +5275,8 @@
 האלך? רבו מאד יסוריך היום… אם רוצה אתה… נשקני…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5175,8 +5286,8 @@
 הזמרה מתקרב; גם החשך מתקרב).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -5186,8 +5297,8 @@
 מאושרים – אז היה יהיו טובים, וכשכל בני האדם יהיו טובים – ובלע הרע לנצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5195,8 +5306,8 @@
 אך לא בני אדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5205,8 +5316,8 @@
 הסהר. אלישע מכסה פניו. דממה).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -5214,8 +5325,8 @@
 לך דבר חדש? רוצה אתה לשמע – אחלל לך בחלילי (מוציא חלילו).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5224,8 +5335,8 @@
 הבאה בחפזון).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5234,8 +5345,8 @@
 אפשר עוד להציל! (הזמרה נשמעת במרחק רב).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5245,8 +5356,8 @@
 הרהיטים, עוקרים הפרחים ומבעירים את הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
@@ -5254,8 +5365,8 @@
 התזמרת נשמעת ממרחק רב).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5263,8 +5374,8 @@
 (התזמורת רחוקה מאד, כמעט שאינה נשמעת. האש מהבהבת ועולה יותר ויותר).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh yurd lt">
+   <sp who="hmskh yurd lt">
+    <speaker>
      המסך יורד לאט
     </speaker>
    </sp>
@@ -5273,8 +5384,8 @@
      אותו הגן. עץ אחד שבור באמצעיתו. השני – ענפיו אודים שרופים. המזרקה שבורה. ספה שבורה, שרפרפים הפוכים מוצלים מעט מאש. הבית חציו חרב ושרוף. הגן – שמם מפרחים. קול  בבית מזמר חרש. מרימי מביאה מן השוק שני כדי מים ומעמידתם. קול המקהלה פוסק.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -5283,16 +5394,16 @@
 אחד נושא טנא גדול מלא צרכי אוכל. אחריהם – סקרנים אחדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      : בקושי רב הבאתי, בי נשבעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5300,24 +5411,24 @@
 עושה עכשו? איך הוא מרגיש את עצמו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : יושב כל ימיו על ספרי היונים ועוסק בתורה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : מתאונן הוא לפניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -5326,8 +5437,8 @@
 כאריה בסוגר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5335,8 +5446,8 @@
 שהוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -5345,24 +5456,24 @@
 ואיננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : אין הפסד זה גדול כל כך. אביון אחד פחות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : הוא שואל אותי תדיר: מנין כל דבר בבית?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5370,24 +5481,24 @@
 הייתי כאן. אחר כך אבוא לראותו (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
      (קם): צריך לקום משום כבודו של ת"ח.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : עזריה, חם הרגש. אל תתגר מלחמה בשמרונית סבתא זו. (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
@@ -5406,8 +5517,8 @@
 (כלם הולכים. מרימי סוחבת את הטנא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -5416,16 +5527,16 @@
 בלי עדיים, בידה תיבת עץ קטנה) אחותנו, אחינו שמעון שאל עליך כבר פעמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : שלום עליך, מרימי. שמעון עכשו כאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
@@ -5433,24 +5544,24 @@
 קדושים! כלם בוכים בשברון לב. אחות אחת נתעלפה ובקושי השיבו רוחה במים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : מרימי, קראי לאחינו שמעון ויבוא הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : תיכף. ודאי שכך הוא רצון ה' אדוננו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5459,16 +5570,16 @@
 להכניעך עד גמירא! (שמעון בא), שלום עליך, אחא שמעון!
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : אקדמה פניך בשלום, אחותי, בשם אבינו שבשמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5476,8 +5587,8 @@
 ואחיותינו העניים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5485,8 +5596,8 @@
 לעצרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5494,8 +5605,8 @@
 אתו. קשה לי לנצח את עצמי בקרבתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5505,16 +5616,16 @@
 שליטה עלינו. כך רצונו הקדוש של אבינו שבשמים! (קול צעדים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      (נבהלת): אחא, שומעת אני קול צעדיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5523,8 +5634,8 @@
 פניו מפיקים עוד אצילות).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5532,24 +5643,24 @@
 יום שתבואי ולא באת (יושב).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
      : היא לא יכלה לבוא. היא היתה אצל אבינו שבשמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (בכעס): רצוני, שאתה תלך לזמן מה אל אביך שבשמים! עלי להשאר עם בתיה ביחידות.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5557,40 +5668,40 @@
 אבינו שבשמים. הולך אל הבית. שממה. שניהם מחרישים).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : בתיה, מפני מה את שותקת? (היא ממשיכה שתיקתה) מפני מה את שותקת, בתיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : אין הדבר בפי. דמעותי מחניקות אותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : כשהכל הלכו ממני עזבת אותי גם את. השכחת אותי, בתיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : אם אשכחך אלישע תשכח ימיני. לא! לשכח אותך – זה למעלה מכחותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5604,8 +5715,8 @@
 זכויות חיי האדם!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5614,8 +5725,8 @@
 לו לבדו אנכי היום.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5627,8 +5738,8 @@
 זמרת רפאים אדברה עמך דברי שמחה ואהבה בשפת הנשמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5637,8 +5748,8 @@
 שרפי מעל, המברכים ומשבחים לכסא כבוד אלהינו!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5646,8 +5757,8 @@
 – המות. אין בך עוד חיים ואין בך עוד אהבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5655,8 +5766,8 @@
 ואהבת נצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5664,8 +5775,8 @@
 אנחנו שנינו זה לזו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5683,8 +5794,8 @@
 בטוב! (הולכת, אלישע שוקע במחשבותיו).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5692,8 +5803,8 @@
 כי את אהובתך לקח ממך אלהינו שבשמים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5708,8 +5819,8 @@
 השמים. שר המתים! תנני להתיחד עם מחשבותי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -5717,8 +5828,8 @@
 סומא היה פוקח את עיניו, והוא אינו רואה… אומלל! (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5741,8 +5852,8 @@
 (נוטל הספר וקורא במנוחה. מאיר בא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5750,48 +5861,48 @@
 מעומד מרחוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מאיר? – אורח! כיצד אתה קורא לאחר בשם רבי ומורי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : נוקט אני כלל: אל תסתכל בקנקן אלא במה שיש בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ואין אתה חושש לבוא אלי, אל מוחרם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : אני אומר: הוי גולה למקום תורה ואל תאמר שהיא תבוא אחריך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : דבריך כנים ולקוחים מן הנסיון. איש בעל נסיון אתה, מאיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5800,8 +5911,8 @@
 מוכיחות לאויבך שגם אתה כאחד מהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5812,24 +5923,24 @@
 אני רודף כמוכם את האנשים נושאי‑הדעות. אוי! (שם ידו על חזהו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : מה לך, רבי? חורת מאד. האביא לך מים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא! לא! אין בכך כלום… שוב הוטב לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5837,8 +5948,8 @@
 ולא דעות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5849,16 +5960,16 @@
 בזה בסברא! למה יהיו למשא על העם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : במחילה ממך, רבי, כלום כל תלמידי החכמים עוסקים רק בפלפול וסברא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5867,8 +5978,8 @@
 שם ידו על לבו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5878,8 +5989,8 @@
 מטרה לעצמה, אלא אמצעי לשמר על קיומו של העם מכליון.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5887,16 +5998,16 @@
 מרגיש את עצמי ברע. לבי נבא לי שאמות מיד…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (נבהל): מה? אלהים עמך! נדמה לך כך…
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5904,8 +6015,8 @@
 מיד…
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5913,16 +6024,16 @@
 ורבי, מה לך, האשלח לקרא לרופא? (בתיה, מרימי ושמעון באים).
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
      : מה? מה אירע?
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -5930,8 +6041,8 @@
 ועוד יהודים באים מן הרחוב. מניחים את אלישע על המרבד).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5940,8 +6051,8 @@
 בהן ממש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -5949,40 +6060,40 @@
 מוחרם מאתנו והביאו מיד את אשתו לכאן!
     </p>
    </sp>
-   <sp>
-    <speaker id="hihudi">
+   <sp who="hihudi">
+    <speaker>
      היהודי
     </speaker>
     <p>
      : כהרף עין, אני חוזר לכאן, בי נשבעתי! (כל היהודים שבאו הולכים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : הוא אינו מגלה מעולם את מכאוביו, ומחסוריו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אין דבר חסר לי עכשו, מלבד בתי. רציתי לראות עוד פעם אחת את בתי ואמות (סוגר עיניו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : רבי חביבי, מפני מה אינך אומר מה לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -5992,24 +6103,24 @@
 נדבות (קול החליל מתקרב) מי יודע, אפשר הביא לי ברכה מנעמי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrimi">
+   <sp who="mrimi">
+    <speaker>
      מרימי
     </speaker>
     <p>
      : כן, הוא נעלם באותו לילה כשהלכו מכאן לגיונות הרומאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      (חרש): אין מי שיבין אהבתו לבתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -6017,16 +6128,16 @@
 באחרונה, את הכבוד ששללו ממנו בחייו. (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : אני רואה, שהוטב לך. אך חלי הוא ותשאנו. הוא יסור ממך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6034,8 +6145,8 @@
 הנצח שאינו מושג (קול החליל נפסק. טוביה בא לבוש קרעים).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -6044,16 +6155,16 @@
 פקח עיניך הגדולות והחודרות! הט אזניך ושמע – הבאתי בתרמילי דבר טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : ידידי, אל תאריך בשיחה. הזמן קצר והדרך מרובה… היכן נעמי בתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -6063,16 +6174,16 @@
 כך עזות!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : טוביה, היכן נעמי בתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -6091,16 +6202,16 @@
 סוקרת).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      : נעמי מסכנה. לב מי לא ישבר לראותך בכך.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -6116,8 +6227,8 @@
 טוביה!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -6125,8 +6236,8 @@
 כך אחים. כשיש מנגנים יש הולכים…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
@@ -6135,8 +6246,8 @@
 עוני מנשוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6146,32 +6257,32 @@
 מכאן לנצח…
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : להיכן? לא, איני רוצה! גם אני הולכת אתך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא, בתי, לך לא הגיעה עוד השעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : הביטו וראו מה נשתנה!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6179,16 +6290,16 @@
 סוגר עיניו ונשאר שוכב במנוחה. הכל בוכים).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אבא, וכי זה פללתי למצא בבית?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -6196,32 +6307,32 @@
 נשמתו החוטאת. (הולך אל הבית. ר' מאיר, ראש הישיבה, היהודי והזקנים באים).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : מי כאן, מאיר? אתה? קרב אלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      : אני כאן, רבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : חושב אתה עצמך לידידי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -6229,40 +6340,40 @@
 שאהבתי אותך וכשם שאני אוהב אותך עכשו. מי שהבין אותך לא יכל לא לאהב אותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אני מת ובתי נשארת יתומה לבדה בעולם הגדול. (בוכה) אל תעזבנה, מאיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
      (מגדיל את בכיו): רבי, אדאג לה כמו לאחותי, כמו לבתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אומלל! המרגיש אתה כי הגיעה שעתך האחרונה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : לא די שאני מרגיש… אני מבין… אני יודע זה…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -6272,24 +6383,24 @@
      לנו. מות כיהודי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : היהודי אינו חי ככל בני האדם, אבל מות ימות ככל בני האדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אל תדבר כך. אל תחטא עתה לאלהים… חזור בך עכשו לאלהיך ולתורתו הקדושה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6299,32 +6410,32 @@
 ושלחתיה לחפשי…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : והנה אתה נותן את נפשך בעד הצפור.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : טועה אתה גם בכך. מת אני כבן אדם חפשי…
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : חזור בך, כל עוד לא אחרת המועד. זכר את הצפוי לך בעולם הבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6333,8 +6444,8 @@
 היהודים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
@@ -6343,16 +6454,16 @@
 אתי שם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      (עיניו סגורות, קולו חלש מאד): שם – לא!
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
@@ -6360,8 +6471,8 @@
 יהא נצרך לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
@@ -6369,16 +6480,16 @@
 (נושקתה ובוכה) אוי לי, מה היה לך!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
      : אוי, עיני חשכות… נראה, שסופי מתקרב… (סוגר עיניו).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmeun">
+   <sp who="shmeun">
+    <speaker>
      שמעון
     </speaker>
     <p>
@@ -6400,8 +6511,8 @@
      (המקהלה שרה חרש עד ירידת המסך).
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6415,16 +6526,16 @@
 של יהודים (סוגר עיניו).
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
      : אומלל. הגיע הרגע האחרון שלך… חזור!
     </p>
    </sp>
-   <sp>
-    <speaker id="lishe">
+   <sp who="lishe">
+    <speaker>
      אלישע
     </speaker>
     <p>
@@ -6435,40 +6546,40 @@
 קללה… שלום! (מת. כל הנשים בוכות).
     </p>
    </sp>
-   <sp>
-    <speaker id="tubih">
+   <sp who="tubih">
+    <speaker>
      טוביה
     </speaker>
     <p>
      : אחא אלישע. עכשו נעשית לעשיר היותר גדול שבעולם! (מוחה דמעה אחת מעיניו).
     </p>
    </sp>
-   <sp>
-    <speaker id="nemi">
+   <sp who="nemi">
+    <speaker>
      נעמי
     </speaker>
     <p>
      : אבא! אבא! עכשו מצאתיך ועכשו אבדתיך!
     </p>
    </sp>
-   <sp>
-    <speaker id="bsih">
+   <sp who="bsih">
+    <speaker>
      בתיה
     </speaker>
     <p>
      (בלחש): אב הרחמן, תקותי לראותו שם אצל כסא כבודך.
     </p>
    </sp>
-   <sp>
-    <speaker id="bsburis">
+   <sp who="bsburis">
+    <speaker>
      בתבורית
     </speaker>
     <p>
      : ברוך דין האמת!
     </p>
    </sp>
-   <sp>
-    <speaker id="rsh hishibh">
+   <sp who="rsh hishibh">
+    <speaker>
      ראש הישיבה
     </speaker>
     <p>
@@ -6476,8 +6587,8 @@
 דין של מעלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudi">
+   <sp who="ihudi">
+    <speaker>
      יהודי
     </speaker>
     <p>
@@ -6485,8 +6596,8 @@
 המת, הזקנים אומרים ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="mir">
+   <sp who="mir">
+    <speaker>
      מאיר
     </speaker>
     <p>
@@ -6499,8 +6610,8 @@
 חרש‑חרש).
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh yurd lt">
+   <sp who="hmskh yurd lt">
+    <speaker>
      המסך יורד לאט
     </speaker>
    </sp>

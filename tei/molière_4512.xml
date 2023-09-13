@@ -46,6 +46,77 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="blt – hufeh rshunh">
+      <persName>
+       בלט – הופעה ראשונה
+      </persName>
+     </person>
+     <person xml:id="herh">
+      <persName>
+       הערה
+      </persName>
+     </person>
+     <person xml:id="blt rshun">
+      <persName>
+       בלט ראשון
+      </persName>
+     </person>
+     <person xml:id="hnfshus shbkumdih">
+      <persName>
+       הנפשות שבקומדיה
+      </persName>
+     </person>
+     <person xml:id="blt, hufeh shlishis">
+      <persName>
+       בלט, הופעה שלישית
+      </persName>
+     </person>
+     <person xml:id="bmerkhh rshunh">
+      <persName>
+       במערכה ראשונה
+      </persName>
+     </person>
+     <person xml:id="blt, hufeh rbyeis">
+      <persName>
+       בלט, הופעה רביעית
+      </persName>
+     </person>
+     <person xml:id="hnfshus bintֶrmdih">
+      <persName>
+       הנפשות באינטֶרמדיה
+      </persName>
+     </person>
+     <person xml:id="blt, mkhzh shni">
+      <persName>
+       בלט, מחזה שני
+      </persName>
+     </person>
+     <person xml:id="zֹs">
+      <persName>
+       זֹאת
+      </persName>
+     </person>
+     <person xml:id="bmerkhh shneyh">
+      <persName>
+       במערכה שנייה
+      </persName>
+     </person>
+     <person xml:id="bmerkhh shlishis">
+      <persName>
+       במערכה שלישית
+      </persName>
+     </person>
+     <person xml:id="blt hufeh shneyh">
+      <persName>
+       בלט הופעה שנייה
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,8 +133,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hnfshus shbkumdih">
+   <sp who="hnfshus shbkumdih">
+    <speaker>
      הנפשות שבקומדיה
     </speaker>
    </sp>
@@ -127,13 +198,13 @@
      טוּאַנֶטָה     שפחה
     </p>
    </sp>
-   <sp>
-    <speaker id="hnfshus bintֶrmdih">
+   <sp who="hnfshus bintֶrmdih">
+    <speaker>
      הנפשות באינטֶרמדיה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bmerkhh rshunh">
+   <sp who="bmerkhh rshunh">
+    <speaker>
      במערכה ראשונה
     </speaker>
    </sp>
@@ -157,8 +228,8 @@
      בַּלָּשִׁים     מזמרים ומרקדים
     </p>
    </sp>
-   <sp>
-    <speaker id="bmerkhh shneyh">
+   <sp who="bmerkhh shneyh">
+    <speaker>
      במערכה שנייה
     </speaker>
    </sp>
@@ -172,8 +243,8 @@
      צוֹעֲנִים וְצוֹעֲנִיוֹת      מזמרים ומרקדים
     </p>
    </sp>
-   <sp>
-    <speaker id="bmerkhh shlishis">
+   <sp who="bmerkhh shlishis">
+    <speaker>
      במערכה שלישית
     </speaker>
    </sp>
@@ -287,8 +358,8 @@
      הִנְנִי עַבְדְּךָ לְשָׁרְתֶךָ; הֲלֹא כְבָר אָמַרְתִּי לְךָ
     </p>
    </sp>
-   <sp>
-    <speaker id="zֹs">
+   <sp who="zֹs">
+    <speaker>
      זֹאת
     </speaker>
     בְּחֶשְׁבּוֹנוֹתֶיךָ הַקּוֹדְמִים לֹא הֶעֱלֵיתָ לִּי
@@ -6540,8 +6611,8 @@
      הַכָּבוֹד לְהַכִּירֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="herh">
+   <sp who="herh">
+    <speaker>
      הערה
     </speaker>
     במהדורה המודפסת אירעה תקלת דפוס, ועמוד אחד הודפס פעמיים במקום העמוד הבא בטקסט. למרבה הצער, לא מצאנו מהדורה בלי התקלה הזו, ולכן יש כאן קטיעה באורך עמוד אחד. [הערת פרויקט בן-יהודה]
@@ -7947,8 +8018,8 @@
      דְּעוּ חֶמְדַּת-אֲהָבִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="blt – hufeh rshunh">
+   <sp who="blt – hufeh rshunh">
+    <speaker>
      בלט – הופעה ראשונה
     </speaker>
    </sp>
@@ -8147,8 +8218,8 @@
      מַנְעַמֶּיהָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="blt hufeh shneyh">
+   <sp who="blt hufeh shneyh">
+    <speaker>
      בלט הופעה שנייה
     </speaker>
    </sp>
@@ -11818,8 +11889,8 @@
      ושניים מזמרים נכנסים ויושבים בסדר, איש לפי מעלתו]
     </p>
    </sp>
-   <sp>
-    <speaker id="blt rshun">
+   <sp who="blt rshun">
+    <speaker>
      בלט ראשון
     </speaker>
    </sp>
@@ -12549,8 +12620,8 @@ Postea dam hakisare,
      Impune per totam terram.
     </p>
    </sp>
-   <sp>
-    <speaker id="blt, mkhzh shni">
+   <sp who="blt, mkhzh shni">
+    <speaker>
      בלט, מחזה שני
     </speaker>
    </sp>
@@ -12684,8 +12755,8 @@ Postea dam hakisare,
      Dam jakisat et jahargath!
     </p>
    </sp>
-   <sp>
-    <speaker id="blt, hufeh shlishis">
+   <sp who="blt, hufeh shlishis">
+    <speaker>
      בלט, הופעה שלישית
     </speaker>
    </sp>
@@ -12784,8 +12855,8 @@ Postea dam hakisare,
      Et dam jakisath et jahargath!
     </p>
    </sp>
-   <sp>
-    <speaker id="blt, hufeh rbyeis">
+   <sp who="blt, hufeh rbyeis">
+    <speaker>
      בלט, הופעה רביעית
     </speaker>
    </sp>

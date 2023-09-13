@@ -46,6 +46,137 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="mrim">
+      <persName>
+       מרים
+      </persName>
+     </person>
+     <person xml:id="khnh">
+      <persName>
+       חנה
+      </persName>
+     </person>
+     <person xml:id="khulm">
+      <persName>
+       כולם
+      </persName>
+     </person>
+     <person xml:id="yukhnn">
+      <persName>
+       יוחנן
+      </persName>
+     </person>
+     <person xml:id="hzkn">
+      <persName>
+       הזקן
+      </persName>
+     </person>
+     <person xml:id="kul mlmth">
+      <persName>
+       קול מלמטה
+      </persName>
+     </person>
+     <person xml:id="shmul">
+      <persName>
+       שמואל
+      </persName>
+     </person>
+     <person xml:id="mbkhuts kurim">
+      <persName>
+       מבחוץ קוראים
+      </persName>
+     </person>
+     <person xml:id="dn">
+      <persName>
+       דן
+      </persName>
+     </person>
+     <person xml:id="merkhh shlishis">
+      <persName>
+       מערכה שלישית
+      </persName>
+     </person>
+     <person xml:id="shfrh">
+      <persName>
+       שפרה
+      </persName>
+     </person>
+     <person xml:id="htseir">
+      <persName>
+       הצעיר
+      </persName>
+     </person>
+     <person xml:id="shrh">
+      <persName>
+       שרה
+      </persName>
+     </person>
+     <person xml:id="bibh">
+      <persName>
+       אביבה
+      </persName>
+     </person>
+     <person xml:id="rubn">
+      <persName>
+       ראובן
+      </persName>
+     </person>
+     <person xml:id="hbim">
+      <persName>
+       הבאים
+      </persName>
+     </person>
+     <person xml:id="mskh">
+      <persName>
+       מסך
+      </persName>
+     </person>
+     <person xml:id="yunh">
+      <persName>
+       יונה
+      </persName>
+     </person>
+     <person xml:id="ihudis">
+      <persName>
+       יהודית
+      </persName>
+     </person>
+     <person xml:id="dub brzili">
+      <persName>
+       דוב ברזילי
+      </persName>
+     </person>
+     <person xml:id="hkhul">
+      <persName>
+       הכול
+      </persName>
+     </person>
+     <person xml:id="dub">
+      <persName>
+       דוב
+      </persName>
+     </person>
+     <person xml:id="b">
+      <persName>
+       אבא
+      </persName>
+     </person>
+     <person xml:id="kheym">
+      <persName>
+       חיים
+      </persName>
+     </person>
+     <person xml:id="shul">
+      <persName>
+       שאול
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,90 +194,90 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="dub brzili">
+   <sp who="dub brzili">
+    <speaker>
      דוב ברזילי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      – אשתו של ברזילי
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      – אחיה של שרה
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      – אשתו של שאול
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      – אשתו של אבא
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה
     </speaker>
    </sp>
@@ -157,8 +288,8 @@
 על שכמו ומקל בידו מטפס בכבדות ועולה בהר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -166,8 +297,8 @@
 התאמץ ועלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mlmth">
+   <sp who="kul mlmth">
+    <speaker>
      קול מלמטה
     </speaker>
     <p>
@@ -175,40 +306,40 @@
 מעט ואפול.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : אל תביט אחורנית. אל תביט לצדדים. ואל תחשוב שתפול, ולא תפול…
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mlmth">
+   <sp who="kul mlmth">
+    <speaker>
      קול מלמטה
     </speaker>
     <p>
      : הכוחות עוזבים אותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : אל תחשוב שהכוחות עוזבים אותך, ולא יעזבוך…
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mlmth">
+   <sp who="kul mlmth">
+    <speaker>
      קול מלמטה
     </speaker>
     <p>
      : כוחותי הולכים וכלים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -216,32 +347,32 @@
 יתגברו…
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mlmth">
+   <sp who="kul mlmth">
+    <speaker>
      קול מלמטה
     </speaker>
     <p>
      : לוא נתת לי רק רגע אחד לאסוף את כוחותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
      לא. שמע לעצתי. אל תנוח עד שתגיע אלי, להר. התחזק ועלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kul mlmth">
+   <sp who="kul mlmth">
+    <speaker>
      קול מלמטה
     </speaker>
     <p>
      : אני נופל.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -253,16 +384,16 @@
      נראה ראש של איש צעיר ואחר כך כולו.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : עליתי… א… עליתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -270,64 +401,64 @@
 הרוח.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ועכשיו גלה לי מי אתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : יהודי זקן אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : מאין תבוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : מצפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : מי אתה ומה תבקש בהרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : מלקט אני בהרים עשבי רפואה.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ואין אתה ירא יחידי בלילה על ההרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -335,48 +466,48 @@
 ההרים האלו, הרי ישראל…
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ומה שמה, ישוב?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : כן, ישוב. יהודים…
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : רוח. עוד מעט ואפל.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : התחזק. עוד מעט ועבר הלילה. יבוא היום ויכסה על סודו.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ונעשה דרכנו הלאה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -389,8 +520,8 @@
      הזקן פונה למערה שמצד שמאל, נכנס לתוכה, הצעיר אחריו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
@@ -416,8 +547,8 @@
 את הספרים אשר בארון.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -444,8 +575,8 @@
      אחד עשיר ואחד רש.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
@@ -454,8 +585,8 @@
 מות… משהו לא טוב תלוי כבר באויר על ראשינו…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
@@ -467,8 +598,8 @@
      לעשיר היה צאן ובקר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
@@ -491,8 +622,8 @@
      כבשה אחת קטנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
@@ -510,16 +641,16 @@
      כבשה אחת קטנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (פורצת בשחוק טוב).
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
@@ -527,8 +658,8 @@
 להתיחס למעשה זה שלה. לצחוק או להעלב).
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
@@ -536,16 +667,16 @@
 ביחידות.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : תמיד?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
@@ -553,72 +684,72 @@
 שמה מהאוכל שלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
      (בצחוק): גרשי אותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
      (ברצינות): תסדר אחר כך את הספרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : (בשקט): אוֹכל אחר כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
      (בכעס): אזרוק את האוכל החוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
      (בהתמרמרות): לא תשליכי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
      (בכעס): כן אשליך. ומי זה מחויב לחמם אחר־כך את האוכל שלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
      (בשקט): יש שמחויב.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
      (בהתפרצות): מי?… מי מחויב?… מי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -627,16 +758,16 @@
 אגרש את הזבובים. הכל בעצמי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
      : תראה, אזרוק את האוכל החוצה. (יוצאת למטבח).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
@@ -645,16 +776,16 @@
 (ברצינות מהולה בצחוק) ואתה תמיד מתקוטט עם שפרה… תמיד…
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
      (בתמימות וצער): אני?… הלא היא תמיד “ברוגז”…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -662,40 +793,40 @@
 ומתקוטטים…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (בצחוק): ואתה, שמואל?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
      (בהנאה קצת): אותי אין מביאים בחשבון… (לחיים) באמת לך לאכול.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : כמדומני שבחדרך יש ספרים אחדים, האם עוד נחוצים הם לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      (קם): לך, לך. בעצמי אביא את הספרים ואסדרם בארון.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים:
     </speaker>
     <p>
@@ -703,8 +834,8 @@
 (בדלת המטבח לשמואל) תביא את הספרים מחדרך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -716,8 +847,8 @@
      חיים נכנס למטבח ושמואל יוצא דרך הדלת המובילה החוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
@@ -726,40 +857,40 @@
 מעבירה בידה בלט על בטנה, כאילו מבקשת מה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mbkhuts kurim">
+   <sp who="mbkhuts kurim">
+    <speaker>
      מבחוץ קוראים
     </speaker>
     <p>
      : מרים, מרים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : (שוקעת בהרהורים).
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
      (כבת שלושים ושלוש, נראית מבחוץ אצל החלון): אַ, את פה, מרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (מתעוררת): מה, יהודית?…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
@@ -767,16 +898,16 @@
 בעיני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (נוטלת את התרנגולת): בפה ראית?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
@@ -784,40 +915,40 @@
 דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (בודקת את התרנגולת. מביטה בפיה): לא. כמדומני שאין כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : ובבוקר כשטפלת בלול, לא נראה לך דבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : לא. על כל פנים הפרישי אותה מהלול.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : גם אני סבורה כך. (הולכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
@@ -825,8 +956,8 @@
 צוחקת בקול מלא אור).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -834,40 +965,40 @@
 הצחוק הזה? הלא אין פה איש?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : סתם, ככה… (צוחקת שוב לעצמה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : לא, מרים, סתם אין מצחקים ככה… ספרי… מה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : (בהתעוררות): את יודעת, הרה, אני… אצלי… (צוחקת).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : כן?…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -875,8 +1006,8 @@
 בפנים… (על פניה משתפך עונג מלא אור).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -884,32 +1015,32 @@
 בקבוצה (שוקעת בהרהורים) ועולם חדש יתגלה לפניך, מרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : אני אשאר אותה מרים, כמקודם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (יושבת אצל השולחן. ברצינות): לא. אחרת לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : פה… בתוך חיינו אנו… בתוך חיי הקבוצה… מדוע?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -918,8 +1049,8 @@
 כעודם בבטני… אם…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -927,8 +1058,8 @@
 לרפת. (יוצאת החוצה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -937,8 +1068,8 @@
 את המפה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -946,16 +1077,16 @@
 החוצה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (בצחוק מלא חיבה): אוי, איזה זקן, מלא קש.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -963,32 +1094,32 @@
 היום. (מביט על הקש שבידו) היבול מבורך, כנראה, כל כך שגם זקני הצמיח.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : הזקן שלך גדול וגדול. פני פרא לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : זקנו של אבא היה ארוך יותר ולא היה פרא. יהודי היה ואף אני כמוהו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : בכל אתה רוצה לחקות את אבא שלך…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -997,16 +1128,16 @@
 אבא… סבל…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : סבל? שמש היה…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1015,24 +1146,24 @@
 ועיקר עבודתו ופרנסתו היתה הסבלות… וידי כמו ידיו… בי אבא שלי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : ואיפה בי, אבי שלי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (צוחק): איפה?… בכל, פניך, עיניך, וגם ידיך, רב מסלאווּטא…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1040,8 +1171,8 @@
 איפה בי האבא שלי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -1050,8 +1181,8 @@
 בהנאה. קצת מגושם) ובנו של יחיאל הסבל חטף לו את בת הרב מסלאווּטא…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1061,24 +1192,24 @@
      חטפתי אותך מידי חנה… אם כי בת מרא־דאתרא אני…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (ניגש לשולחן, נוטל פרוסה ואוכל)
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : מה, אתה רעב, זה לא כבר אכלנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1100,8 +1231,8 @@
      אל יבנה הגליל
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1133,8 +1264,8 @@
      אנחנו נבנה הגליל.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1161,8 +1292,8 @@
      אנחנו נבנה הגליל…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1170,40 +1301,40 @@
 שש ואמנון בן ארבע.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : נחמדים, בריאים. יגדלו חזקים, פה על ההר…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : בית־ספר אין לנו פה. עוד ילדים מלבדם אין. גדלים בחצר כפראים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : רבנים לא יהיו. אני מבטיחך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אבל פראים אינם צריכים להיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1215,8 +1346,8 @@
 גם בשבילנו וגם בשביל ילדינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1224,8 +1355,8 @@
 הילדים יתחנכו בסביבת ילדים, בקבוצה שיש בה בית ספר?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1234,8 +1365,8 @@
 מי יודע לאן… לא… לא… פה… בהר…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1243,8 +1374,8 @@
 אביאם לקבוצה שיש שם בית־ספר וסביבה של ילדים ואשאירם שם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1252,16 +1383,16 @@
 ואחזירכם הנה. הילדים ילדי והאשה אשתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (צוחקת): ומאימתי אתה בעד רכוש פרטי… אשתך שלך…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -1269,8 +1400,8 @@
 פרטי… על רכוש שכזה אין מוַתרים…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1278,8 +1409,8 @@
 עם הצאן מהחוּלה, כל כך מוקדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -1288,16 +1419,16 @@
 ולבוא עם הצאן מבעוד יום.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (במבוכה): המצב רציני?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -1305,40 +1436,40 @@
 הדישה לא כיסו… בלילות אלה טל כבד. צריך ללכת לכסותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      (נדהמת): והכל יודעים כי סכנה קרובה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : יודעים. הנשק בסדר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (במבוכה): לא ידעתי. מדוע לא ספרת לי?…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אמש שוחחנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1346,16 +1477,16 @@
 לאם שסכנה מרחפת על ילדיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שרה, פחד נפל עליך? אַת… מן הראשונות שהעיזו לעלות על ההר…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1363,32 +1494,32 @@
 לעזרה): אז לא הייתי אם… לא היו לנו ילדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שרה, כזרה את מדברת אתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : רוחה של חנה מדבר מתוך גרונך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      (בצער): שוב חנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1396,16 +1527,16 @@
 כזרה אני בעיניך…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : חנה כבר איננה בתוכנו על ההר. האמנם כה רחוקים אנחנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1415,48 +1546,48 @@
 ההר ואני אם… אם אני… ואני חושבת על ילדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
      (נכנס. בידו ספרים אחדים. לדוב): יונה מחפש אותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (יוצא)
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
      (נגש לארון, מתחיל לסדר את הספרים שהביא).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : (שקועה במחשבות. שתיקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (לשמואל): ובסביבה אי־שקט. סכנה מרחפת על ההר?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -1464,8 +1595,8 @@
 ידיעות…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1473,16 +1604,16 @@
 בעירנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : שמעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -1515,8 +1646,8 @@
      שתיקה
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1526,8 +1657,8 @@
 ושתים – ארבע, נעשות לך ספקות…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -1538,16 +1669,16 @@
 את ידינו ורגלינו בסבך המחשבות שלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אתה, שמואל, מדבר על סבך של מחשבות…אתה השמאלי… הקיצוני…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -1558,8 +1689,8 @@
 הגלילית, אחרת…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -1569,32 +1700,32 @@
 עצור) מה אתי?… האומנם רק אם אני?… רק אֵם… (קמה ובורחת החוצה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
      (נשאר יחידי. הולך הנה והנה בחדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (נכנסת – לשמואל): שאול עוד לא בא?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : מצפת מאחרים תמיד, יבוא עוד מעט.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1606,64 +1737,64 @@
      נכנסים אבא ויהודית.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : צריך להכין את הלוקס.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : (כבן ארבעים): למה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : שמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : מה שמא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : מה למה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : (צוחקת).
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : מה את מפטפטת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
@@ -1671,8 +1802,8 @@
 אותו, ואתה עם החסכונות שלך… למה?
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -1682,16 +1813,16 @@
 היא תורת המשק וחכמתו… וי וי, צריך עוד ללמד וללמד אתכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : המלמד שלנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -1702,16 +1833,16 @@
 (מסיר את המפה ומקפלה) השעוונית נקיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : באמת נעשית קמצן.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -1725,64 +1856,64 @@
      מרים, יהודית ואבא עם המפה שבידו נגשים לחלון.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : השמים בוערים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : איזה יופי.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : שמואל, ראה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      (נשאר יושב על מקומו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : ראו, החרמון בוער…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : והצללים מתפרקים על ההרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : (שם ידו על כתפה של יהודית): איזה עולם אחר…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
@@ -1790,8 +1921,8 @@
 על שכם ומביטים לשקיעה… והוא שר מזמורו תמיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1808,8 +1939,8 @@
      צאן ובקר הרבה מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1831,8 +1962,8 @@
      כבשה אחת קטנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -1840,16 +1971,16 @@
 במה־שהוא) מה זה שם? יונה עם כבשה על ידיו. ודוב אחריו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
      מה, המליטה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא:
     </speaker>
     <p>
@@ -1861,16 +1992,16 @@
      נכנס יונה כשכבשה בזרועותיו, אחריו דוב ואחריהם חיים ושפרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : מה קרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
     <p>
@@ -1883,8 +2014,8 @@
      כולם עומדים מסביב לכבשה. אבא מדליק את הלוקס.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -1892,16 +2023,16 @@
 על הספר (שם את הספר בארון ונחפז לכבשה).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : (נכנסת): מה קרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
     <p>
@@ -1909,16 +2040,16 @@
 ועזבתי את החוּלה בהקדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (מתבונן בפצע): לא עמוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה:
     </speaker>
     <p>
@@ -1929,24 +2060,24 @@
 הקומקום (כשהוא אוחז בידיו את מקום הפצע) צקו מים, הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
      (נוטלת את הקומקום, יוצקת מים. כולם עומדים מסביב ומביטים).
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
     <p>
      : (כשהוא רוחץ את הפצע): א, ימח שמם, אין אל אבוך…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
@@ -1959,16 +2090,16 @@
      צוחקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : משוררת, איזה חרוזים.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה:
     </speaker>
     <p>
@@ -1982,16 +2113,16 @@
      מתישבים ליד השולחן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (כשהיא מנקה את השולחן): והכבשה מה אשמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
     <p>
@@ -2000,16 +2131,16 @@
 סוד בלבם. כן. מה שהוא יתפרץ… יראים מאתנו. אבל…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : ושאול לא בא עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -2017,8 +2148,8 @@
 יום…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
@@ -2026,16 +2157,16 @@
 מצא שם קופצים על סחורה זו… ואולי ישאר ללון בצפת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : מי, שאול?… לא, דוקא. בזמן של אי־שקט לא יעזוב בלילה את ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -2043,40 +2174,40 @@
 לפגוש אותו. מי עבד היום בכביסה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אַת מרים, לא לרפת, ולא בכביסה.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : וכי מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : אומרים לך ודי. בנת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (מתאדמת): מדוע? עודני יכולה…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2085,16 +2216,16 @@
 אנשים, להסתכל במתרחש בסביבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : בשמירה אוכל גם אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -2104,8 +2235,8 @@
 שרה, שאול, שפרה וחיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2113,16 +2244,16 @@
 הספרים החדשים ששולחים לנו. איפה אשים אותם?
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
      : הוא כבר מתחיל עם התרבות שלו.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -2130,24 +2261,24 @@
 כלום אין כבר לנו שום שייכות לתרבות?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : ששא… חיים ושפרה מתקוטטים כבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (לשמואל): ואתה, שמואל?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -2155,32 +2286,32 @@
 על עצמי להרצות על דבר פעולתנו בגליל.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא:
     </speaker>
     <p>
      (בצחוק, באזנה של יהודית): מתכונן להבחר לועד הפועל…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (שמע את דברי אבא. מחייך בטוב לב): ובכן, חיים, אתה נחוץ לדישה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : אם נחוץ… אלא שאת עבודת התרבות מזניחים לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2188,16 +2319,16 @@
 החליל, בא שנינו… על סוסים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : עד אן תלכו?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -2210,72 +2341,72 @@
      מבחוץ נשמעת דפיקה חזקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : (צורחת, כשהיא חוטפת את ראשה בידיה): הילדים!
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (רץ לדלת, כשחצי גופו בחוץ): שאול?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : (מבחוץ): כן. אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      שאול בא… שאול בא…
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול:
     </speaker>
     <p>
      (נכנס. בידו שק ועל שכמו רובה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים:
     </speaker>
     <p>
      (אוחזת אותו בחיבה בזרועו): מדוע אחרת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : היו לי שם סידורים רבים ואחרתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : אבל בזמן כזה יחידי בלילה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -2283,80 +2414,80 @@
 בנסעי חזרה. תלוי משהו באויר…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : ומאין לך הרובה, הלא יצאת בלי נשק?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : הרגשתי ולקחתי בצפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : לא מסרו לך בצפת חבילת הספרים בשבילי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : איזה ספרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : אולי שלחו מירושלים דרך צפת… הספרים החדשים בשבילנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : לא, אינני יודע מאומה.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : כך הוא היחס שם לתרבות… בשבילנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : אבל לוא ראיתם איך התנפלו על תות־השדה שלנו. איך חטפו מידי…
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם:
     </speaker>
     <p>
      (בשמחה): כן? כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -2365,24 +2496,24 @@
 חלוץ”… ואני להכעיס: מדוע אחרת? מי יודע מתי יהיו עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : מדוע להכעיס? מתאוה לתות השדה, מסכנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : כרסנית כזו כמו ההר שלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2390,8 +2521,8 @@
 היטב. אבל לא שמרת. (מראה על מרים) התאדמה… ראו… (צוחק).
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול:
     </speaker>
     <p>
@@ -2399,8 +2530,8 @@
 נתקלקלו קצת בדרך. לא רציתי למכור. רציתי שהתות הראשון יהא כולו מובחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2414,8 +2545,8 @@
 ושמים בפה בתאבון).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2423,56 +2554,56 @@
 (לשאול) וכמה הבאת כסף?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : בעד תות השדה? שלוש לירות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     <p>
      : (בשמחה): כן? שלוש לירות?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : כשלושים לירות יכניס השנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : הנה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : וכמה לעגו לנו… על ההר תות השדה?!
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אוי, טפשים, מה יודעים הם מהברכה הטמונה בארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -2504,8 +2635,8 @@
 ושרה היושבת תפושה במחשבות.
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
@@ -2519,8 +2650,8 @@
      אנחנו נבנה הגליל…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -2586,24 +2717,24 @@
      פתאום היא צונחת על הספסל שעל יד השולחן כמתעלפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhul">
+   <sp who="hkhul">
+    <speaker>
      הכול:
     </speaker>
     <p>
      (נבהלים אליה): שרה, מה אתך?… שרה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (כמתוך תפילה, בפחד גדול): הילדים… דוב, הילדים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mskh">
+   <sp who="mskh">
+    <speaker>
      מסך.
     </speaker>
    </sp>
@@ -2612,8 +2743,8 @@
      לילה על ההר, כמו במערכה הראשונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
@@ -2621,48 +2752,48 @@
 לצעיר): רואה אתה, הסתכל בהם שתכירם. אלה המה עשבי רפואה לכאב־ראש.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : עוד מעט ויעבור הלילה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : כן. היום יכסה אותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ושוב נכנס למערה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : כן, שוב נכנס למערה.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : כמה נסתרות ללילה. מה עמוק סודו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -2670,64 +2801,64 @@
 עמוק סוד היום על הרי ישראל.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : עיני ראו רק אנשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : סוד הוא האיש עלי אדמות…
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : שרה חוששת לילדים… ככל אם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : הס, צעיר, ודום. של נעליך לפני פרפורי נפש האדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : למדני, זקן, ואל תקצוף עלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : תביט ליום, על בן־אדם כבשעת תפילה ועיניך נשואות לשמים, לשם.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : אני שומע לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -2739,8 +2870,8 @@
      הזקן נכנס למערה, אחריו הצעיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
@@ -2760,8 +2891,8 @@
 במכונה כאילו מחפשים דבר־מה. שרה יושבת אצל המכונה על אבן. לפנות ערב.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2769,8 +2900,8 @@
 ודאי משהו קטן. למראית עין הכל בסדר. (מתבונן במכונה).
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -2778,48 +2909,48 @@
 יודע, מה עלול להתרחש פה בכל יום.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (כלעצמה, בחיוך מר): הנה איש המשק. המכונה יקרה לו מהאנשים…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא:
     </speaker>
     <p>
      (ברצינות): המכונה היחידה בגליל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : אולי כדאי להכניסה ללילה לרפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : לאן? לרפת? לבהמות?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול:
     </speaker>
     <p>
      (בצחוק): אי, שכחתי, נגעתי בנשים, ברפת שלהן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -2836,40 +2967,40 @@
 לגדר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : עפים כאילו כנפים להם.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : חבל על הבהמות.
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
      : הלא הם חנה ודן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : מה קרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -2877,8 +3008,8 @@
 תחתיה… כיצד אין אלה יודעים לשמור על רכוש.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -2890,32 +3021,32 @@
      כולם מביטים, שותקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (מנפנף בידו לבאים): שלום, שלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbim">
+   <sp who="hbim">
+    <speaker>
      הבאים
     </speaker>
     <p>
      : שלום, שלום, הכל בסדר אצלכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     <p>
      : הכל בסדר. שלום, שלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -2927,24 +3058,24 @@
      באים לחצר חנה ודן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שלום, מה קרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : נטפלתם להם? כך בודאי… סתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
@@ -2952,16 +3083,16 @@
 בסכנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (כמקיצה ממחשבותיה): אכן… כן הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -2969,48 +3100,48 @@
 מתכוננים לעלות עליכם… ובאנו….
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : לא בנקל כל־כך יעלה להם הדבר הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן:
     </speaker>
     <p>
      (כבן שלושים וחמש): ויש חכמים כאלה האומרים שצריך לעזוב את ההר…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
      : כבר יראים? חשבון שלא בפני בעל־הבית…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : גם ראובן אומר שעל פי חכמת הסטראטיגיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן:
     </speaker>
     <p>
@@ -3020,48 +3151,48 @@
 או לא… הלא קראנו לו חכם האסטראטיגיה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : ראובן אומר, שצריך לעזוב את המחנה וההר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : מי חכם וירד לעומקה של חכמת הסטראטיגיה שלו…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ועוד הערב יש להתכונן?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : בדרך הרגשנו כי דבר מה תלוי באויר…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ומאין נודע לכם הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3069,8 +3200,8 @@
 כולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -3078,8 +3209,8 @@
 ארץ־ישראל.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3091,16 +3222,16 @@
 להחלטתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : יוחנן?… יוחנן?… לא ראיתיו כשש שנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
@@ -3108,8 +3239,8 @@
 הבאתי לך את התמונה שלו. הנה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -3117,8 +3248,8 @@
 המבט, ואותו הזקן… אבא…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3126,8 +3257,8 @@
 אני מכל הנעשה אצלכם. ההצליח הנסיון?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -3135,24 +3266,24 @@
 ראשונה. בכלל הלא דעתי שהפירות פה על ההר יהיה ענף מכניס חשוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : טוב, בני חיל… ומה הכבשים? איך נקלטו?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : מצוין.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3161,16 +3292,16 @@
 אצלכם… (לשפרה) ואת, עז, עודך מתקוטטת עם חיים? עוד?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה:
     </speaker>
     <p>
      (בצחוק של שובבה): לא אני, תמיד הוא…
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא:
     </speaker>
     <p>
@@ -3182,8 +3313,8 @@
      צוחקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -3191,16 +3322,16 @@
 לצריף הישן שאצל החצר, ואם יהיה צורך נאספם אל החצר, או גם אל הרפת.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
      : כן… צדקת…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -3213,40 +3344,40 @@
 אותם למחסן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן
     </speaker>
     <p>
      : אלך לסדר את הסוסים, (הולך).
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (לשרה): ומה, הילדים בריאים?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : עמרם קדח. עכשיו בריאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : קשה לך בודאי, גם בעבודה וגם עם הילדים. קשה בודאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -3256,32 +3387,32 @@
 וגם ילדינו פה… להיות עובדי אדמה או רועי צאן ילמדו גם פה”.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : אמת. הצדק אתו..
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : ואני איני בטוחה בצדקתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : ואני בטוחה… זאת היא האמת שלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -3289,40 +3420,40 @@
 למחסן).
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      (בא): א, חנה, שלום, מירושלים?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
      : לא מסרו לך חבילת ספרים בשבילנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : איזה ספרים? אינך יודע מה נעשה סביבך. הלא ההר בסכנה ובאתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -3332,16 +3463,16 @@
 באים, ואם אנחנו בהר, עלינו לחיות כפראים. איך זה מזניחים ציבור שלם…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (בצחוק): אבל אני מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -3349,8 +3480,8 @@
 תיאטרון, אספות, הרצאות – תרבות…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3358,8 +3489,8 @@
 אינה תרבות?
     </p>
    </sp>
-   <sp>
-    <speaker id="kheym">
+   <sp who="kheym">
+    <speaker>
      חיים
     </speaker>
     <p>
@@ -3372,8 +3503,8 @@
 יונה רץ אחריה, חוטף אותה בזרועותיו, אומר: “טיפשונת” ויוצא אתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -3381,16 +3512,16 @@
 לא החליטו עוד, אם לעזוב את ההר, או לא?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : לא, אני כבר החלטתי… וגם כל החברים שלנו כבר החליטו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -3398,16 +3529,16 @@
 צריך להתעמק ולהביט מנקודת השקפה של העתיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : ובכן דעתך נוטה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -3415,48 +3546,48 @@
 הלא אמרת שיוחנן יבוא. נשמע מה בפיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : אבל אתה, אתה מה דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : ודעתם של אחרים פה בהר, את יודעת כבר? דעתו של דוב, של שרה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : דוב?… בדוב אני בטוחה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : בטוחה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : הלא אתה אין לך דבר בעולם, שתהא בטוח בו…
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
@@ -3464,8 +3595,8 @@
 לא…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -3473,16 +3604,16 @@
 שואלת אותך, מה דעתך על עזיבת ההר?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : הלא אמרתי לך, את דעתי לא חויתי עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
@@ -3490,8 +3621,8 @@
 במטבח? אני רעבה כמאה כלבים רעבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן:
     </speaker>
     <p>
@@ -3503,24 +3634,24 @@
      חנה, דן וחיים נפנים לחדר האוכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : (פונה גם הוא ללכת).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (בדרך למכונה פוגש בשמואל): נו, ראית את חנה, מה דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -3528,48 +3659,48 @@
 יחליטו שם…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל דעתנו אנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : נשמע מה בפי יוחנן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ודעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל:
     </speaker>
     <p>
      (שותק).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ובכן דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
@@ -3586,40 +3717,40 @@
 במחשבות.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (מתחת למכונה): את פה, שרה, תני לי את המלקחיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      (בפיזור הנפש) מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : את המלקחיים תני לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (מגישה לו פטיש המונח על ידה): הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -3627,40 +3758,40 @@
 המלקחיים ביקשתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : את המלקחיים ביקשתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : איפה הם?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שם, בארגז המכשירים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -3668,8 +3799,8 @@
 ומגישה לו. יושבת שוב על מקומה על האבן. שמה ראשה בשתי כפות ידיה ובוכה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -3677,56 +3808,56 @@
 שמאל מתנועע?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      (יושבת דומם).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : הגלגל שמה, הקטן, בצד שמאל, מתנועע?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : איפה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      בצד שמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -3734,48 +3865,48 @@
 שׂמה פניה בין כפות ידיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : טוב. עכשיו, כמדומני, הכל בסדר. שרה, הא לך את הפטיש והמלקחיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : (שותקת).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (מוציא את ראשו מתחת המכונה. מביט על שרה בתמהון): שרה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : (יושבת דומם ואינה מרגישה בו).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (ניגש אליה): שרה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -3783,48 +3914,48 @@
 ומלאות תחנונים).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שרה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (איננה עוצרת ברוחה וצריחה מרה מתפרצת מפיה): דוב, הילדים!…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      כן, באה שעת הנסיון…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : דוב, איזה פחד משונה תוקף אותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : הלא תמיד היית לבלי חת. ראשונה לשמירה המסוכנה ביותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -3832,32 +3963,32 @@
 מוחי ולבי… הילדים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : באה שעת הנסיון…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : דוב אני מרגישה שגם בלבך כאב…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל הלא ידענו מה עומסים על עצמנו… וכי דעתך שנעזוב…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -3866,24 +3997,24 @@
 מקנאה אני בחנה, שפרה, יהודית… אין להם כל אחריות כלפי ילדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : הלא בשביל האחריות כלפי ילדינו באנו הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (בוכה מר).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -3891,32 +4022,32 @@
 הדרך עכשיו… אשה עם ילדים, מסוכן מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אני יודעת… לבדי עם הילדים אי־אפשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ואם אני אלך מכאן, הלא הכול ילכו… ולעזוב את ההר… ההר שלנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אינני יודעת… הילדים… אין לנו הזכות להקריב ילדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -3926,48 +4057,48 @@
 לנו הזכות?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אני רוצה שילדי יחיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל איך יחיו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : חיים, חיים לילדי…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל איזה חיים?….
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : דוב, האם לא נבין איש את שפת רעהו? דוב, אם אני… ילדי…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -3975,48 +4106,48 @@
 ואותה האחריות.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : יש חובה לגבי הילדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : בשבילם באנו הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : חובתך, דוב, לגבי הילדים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : וחובתי כלפי עצמי?
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : רק על עצמך אתה חושב?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4024,16 +4155,16 @@
 פה גבולין.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אם לעצמנו מותר לנו להתאכזר… אבל לילדים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4042,48 +4173,48 @@
 בלכתנו אל ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : גם בנוגע לילדים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : ואולי לא צריך היה להולידם?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : ואולי…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אבל הרי מולידים בנים גם בלי ההר…. ולא רק על ההר…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4092,8 +4223,8 @@
 הפחות לא היו מולידים ילדים… ילדים עבדים לאלתר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -4105,72 +4236,72 @@
      עוזבת את דוב והולכת כאובה כולה לבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (נשאר לבדו. עומד נשען על מכונת הדישה. תפוס מחשבות).
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (באה מהבית, נגשת לדוב): דוב…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : (שותק)
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : דוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : מה אתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : איזה פיזור נפש, מה אתך?…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4178,8 +4309,8 @@
 ירושלים שותקת?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4188,48 +4319,48 @@
 עומד לצאת מידינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל מדוע ירושלים שותקת?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : מה תחכה מירושלים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : לכל הפחות עידוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : ילד תמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : גם שמואל לא חיוה עדין את דעתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4237,32 +4368,32 @@
 ולו… דוב, אתה ילד.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (נעלב): רק את בגרת…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : דוב, יד שרה באמצע… היא…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (בכעס ובתוקף): אף לא מלה על שרה… חנה, אף לא מלה של גנאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4274,16 +4405,16 @@
 לארץ… ואם כאב, מה בכך…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל מה רצונך משרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4292,16 +4423,16 @@
 באחרים… ושרה מרפה את ידיך…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל מה הם הנימוקים בירושלים לעזיבה? מדוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4312,16 +4443,16 @@
 ההר… לא נתן אותו כל עוד בחיים אנחנו… דוב, מדוע אתה שותק?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (שותק).
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4335,8 +4466,8 @@
 מחשבות, נשען על המכונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה:
     </speaker>
     <p>
@@ -4350,16 +4481,16 @@
 רחוקות.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (צורחת מר): הילדים!…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -4372,8 +4503,8 @@
      נעלמים רגע ושבים, הגברים רובים בידיהם וביד הנשים אקדחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4387,8 +4518,8 @@
 דלת הבית. אצל מבוא החצר עומדים הכן חיים, שפרה ומרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -4402,8 +4533,8 @@
 כשהרובים בידיהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4415,80 +4546,80 @@
      מתישבים שוב בחצר, אחד על יד השני. יושבים דוממים. באים ראובן ואביבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה:
     </speaker>
     <p>
      (כבת עשרים): שלום!
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     <p>
      : מאין?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
      (כבן שלושים וחמש): שלום. מאַילת באנו. להיות אתכם מוכנים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : בלילה הלכתם רק שניכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : הסטראטיגיקן שלנו, איך הלכתם בלילה רק שניכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה:
     </speaker>
     <p>
      (מראה על החגורה עם האקדח על מתניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : אבל עכשיו בלילה עם אשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
      (מראה על אקדחו): וזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : ולא פגשתם בחבורה, בחושך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
@@ -4496,8 +4627,8 @@
 הדרך מזמן לזמן והסתכלתי מסביבנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -4505,8 +4636,8 @@
 עם אשה…
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה
     </speaker>
     <p>
@@ -4514,8 +4645,8 @@
 פעמים אחדות…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4528,8 +4659,8 @@
      ראובן ואביבה יושבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
@@ -4537,8 +4668,8 @@
 להם מאד להתגנב מבלי להרגיש בהם ולהתקיף פתאום.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4550,8 +4681,8 @@
      שתיקה
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      אבא
     </speaker>
     <p>
@@ -4563,16 +4694,16 @@
      שתיקה
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
      : בידי מי המפקדה פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -4584,16 +4715,16 @@
      שתיקה. כל אחד יושב תפוס מחשבות. שקט רווי סכנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (מתחילה לזמזם בלי מלים “מכורתי”).
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     <p>
@@ -4650,8 +4781,8 @@
      והרוח…
     </p>
    </sp>
-   <sp>
-    <speaker id="mskh">
+   <sp who="mskh">
+    <speaker>
      מסך.
     </speaker>
    </sp>
@@ -4660,8 +4791,8 @@
      לילה על ההר. הכל כמו בתמונה הראשונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
@@ -4669,96 +4800,96 @@
 עשבי רפואה. הסתכל בהם היטב שתכירם.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : הרוח כל כך חזק. עוד מעט ואפול.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : התחזק. עוד מעט יעבור הלילה ונכנס למערה.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : מה יתרחש שם לאור השמש הבא?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : זה סוד היום הבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : גורל עם… פרעות, פרעות, פרעות…
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : כאן נאבקים עם הגורל..
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : אולי נשחטו כבר כולם על ההר בלילה הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : לא. היינו שומעים את קול התאבקותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : זקן, גלה לי את מחשבותיך. עם מי לבך?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
      : דום, צעיר. הבט איך הם נאבקים עם הגורל ודום… נכנס.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseir">
+   <sp who="htseir">
+    <speaker>
      הצעיר
     </speaker>
     <p>
      : ואתה אינך ירא כי יתנפלו גם עליך ויהרגוך?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן:
     </speaker>
     <p>
@@ -4772,8 +4903,8 @@
      הזקן נכנס למערה ואחריו הצעיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzkn">
+   <sp who="hzkn">
+    <speaker>
      הזקן
     </speaker>
     <p>
@@ -4786,8 +4917,8 @@
      התמונה נעלמת.
     </p>
    </sp>
-   <sp>
-    <speaker id="merkhh shlishis">
+   <sp who="merkhh shlishis">
+    <speaker>
      מערכה שלישית
     </speaker>
    </sp>
@@ -4797,8 +4928,8 @@
 ידו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -4806,8 +4937,8 @@
 הויכוחים ואתה יושב פה ושותק.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -4815,8 +4946,8 @@
 יוחנן נתחור לי הרבה, הרבה…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -4824,32 +4955,32 @@
 עולים ילדים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (כלעצמו): כן. האלהים מתו בלבנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אסור להקריב ילדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : דרך גויתי יגיעו לילדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -4857,56 +4988,56 @@
 מקום שהוא… אבל חיים תחת השמים והשמש.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (עצמו): לא ראיתי שמים, לא החם לי השמש עד ההר הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אני נגד אלהים המבקשים קרבנות אדם… אני נגד הקרבן.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (שותק).
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : שוב אתה שותק… מדוע אתה שותק?…
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה:
     </speaker>
     <p>
      (באה ועוברת על פניהם עם שני דליים בידיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (לאביבה) מה? אל המעין הלכת?… יחידה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה:
     </speaker>
     <p>
@@ -4914,32 +5045,32 @@
 להכין מים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אין הולכים עכשיו אל המעין יחידה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה
     </speaker>
     <p>
      : (מראה על האקדח): יש לי… אינני פחדנית… (הולכת לה הלאה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (לעצמו): כפרפר זה הנמשך אל האש…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן:
     </speaker>
     <p>
@@ -4954,40 +5085,40 @@
 שאול, אבא, מרים, שפרה, יהודית, חיים, יונה ושמואל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : (חיוור, צועק): לאן הלכה לבדה?… לבדה למעין?…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (ממהרת לאביבה): מה קרה? (לשמואל) הנח! (לדן ולראובן) איפה נפצעה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dn">
+   <sp who="dn">
+    <speaker>
      דן
     </speaker>
     <p>
      : איננו יודעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : (נגש לאביבה, קורע את חולצתה): איפה נפצעת, אביבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה
     </speaker>
     <p>
@@ -4995,8 +5126,8 @@
 בידה על הצד השמאלי).
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
@@ -5004,24 +5135,24 @@
 התחבושת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית:
     </speaker>
     <p>
      (מושיטה לחנה תחבושת): הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
      (חובשת את מקום הפצע): פצע לא מסוכן.. איך קרה הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="bibh">
+   <sp who="bibh">
+    <speaker>
      אביבה
     </speaker>
     <p>
@@ -5029,16 +5160,16 @@
 תיכף עניתי… יריתי בו… והוא ברח שמה, שמה… ברח… יריתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : פרפר… פרפר נמשך אל האש…
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה:
     </speaker>
     <p>
@@ -5046,8 +5177,8 @@
 ובחיוך) רק אל תלכי לבדך אל המעין…
     </p>
    </sp>
-   <sp>
-    <speaker id="shul">
+   <sp who="shul">
+    <speaker>
      שאול
     </speaker>
     <p>
@@ -5059,24 +5190,24 @@
      כולם מפנים ראשיהם. מביטים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : לנשק! להראות להם שיש לנו נשק.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : לא… לא עלינו להתחיל.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5089,8 +5220,8 @@
      רצים ושבים מיד, איש איש ונשקו. גם יוחנן מוציא מחגורה שמתחת לבגדו אקדח.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5102,8 +5233,8 @@
      כולם יורים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -5116,8 +5247,8 @@
      יורים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5125,8 +5256,8 @@
 נשק. מרגלים…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן:
     </speaker>
     <p>
@@ -5136,72 +5267,72 @@
 נצעק על העוול שנעשה לנו… זאת הדרך שהלכנו בה תמיד ועלינו ללכת בה הלאה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : שקר חדש אתם באים ליצור פה בארצנו במקום השקר הישן שם בגולה…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : עליכם לעזוב את ההר. החלטנו. ועליכם למלאות את פקודתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : את ההר לא נעזוב… לא אתן… שלנו הוא…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : תפלו פה כאחד… השונא רב מכם פי כמה וכמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : נפול… אבל בעד ההר… ועל ההר… לא נעזוב…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : “התנועה” זקוקה לכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
      : בשביל מה? כדי שיהיה את מי לנהג? פחד נפל עליכם…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : נפל פחד עלינו? כן… האחריות עלינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -5210,8 +5341,8 @@
 המנהיגים מאז ומעולם, כי אם ההנהגה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -5219,24 +5350,24 @@
 נצליח… לא זאת היא דרכנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : דוב, למה אתה שותק?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (שותק).
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -5244,16 +5375,16 @@
 אחרת…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : איזו יהדות?
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן:
     </speaker>
     <p>
@@ -5261,16 +5392,16 @@
 על היהדות שלנו, המלמדת להרכין את הראש בשעת סכנה כאגמון זה על אפיקי מים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : דוב, מה אתה שותק?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5283,8 +5414,8 @@
 לא נעזוב את ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -5292,8 +5423,8 @@
 אותו… הדרך שלו – בה מהותנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5301,16 +5432,16 @@
 לא נמשיך ככה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : אבל זאת היא מהות תרבותנו. מהות היהדות.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5319,16 +5450,16 @@
 לעומת מבט אחד של עבדות בעיני בן אדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : אבל בכוח היהדות חיינו עד עכשיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -5338,32 +5469,32 @@
 אנחנו… נמרוד עד הסוף… לא נעזוב את ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אבל הילדים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : דרך גויתי יגיעו לילדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : כל קרבן־אדם אסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5372,16 +5503,16 @@
 דבר יותר נעלה מאתנו עצמנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : אסור להקריב קרבנות אדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
@@ -5390,8 +5521,8 @@
 עליו, מלבד ההר הזה…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5400,16 +5531,16 @@
 כל עוד בחיים אנחנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (מתרחקת אל מאחורי המכונה. מגישה את אקדחה עד לרקתה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -5417,48 +5548,48 @@
 שרה… מה רצית לעשות?…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
      (במנוחה): אסור… ואינני יכולה לשאת באחריות הקרבן של ילדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : רצית להקריב קרבן־אדם… להקריב את עצמך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : למען הילדים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אבל זה קרבן… קרבן אדם…
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
      : בשביל הילדים…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5468,8 +5599,8 @@
 לעזוב את ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -5477,16 +5608,16 @@
 אתה נשאר?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה:
     </speaker>
     <p>
@@ -5494,8 +5625,8 @@
 הילדים… זאת היא האמת שלי. אקחם מפה…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5505,32 +5636,32 @@
 כשם שאני מתגאה באבא שלי… אל תתמהמהי… ותני לנשארים להתבצר פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : אבל…
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : אף לא מלה אחת… (לכול) מי נשאר ומי הולך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shmul">
+   <sp who="shmul">
+    <speaker>
      שמואל
     </speaker>
     <p>
      : אשאר אתכם עם הקללה שבנשמתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
@@ -5538,16 +5669,16 @@
 הסלעים… וגם את המעין יסגרו עלינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן
     </speaker>
     <p>
      : ובכן, אתה אתנו?,
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן:
     </speaker>
     <p>
@@ -5555,32 +5686,32 @@
 האחרונה… בעד ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן:
     </speaker>
     <p>
      (לכולם): מי שומע לי ויוצא אתנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="khulm">
+   <sp who="khulm">
+    <speaker>
      כולם
     </speaker>
     <p>
      : לא… פה… לא נתן את ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : סעו מהר… תנו לנו להתבצר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shrh">
+   <sp who="shrh">
+    <speaker>
      שרה
     </speaker>
     <p>
@@ -5588,16 +5719,16 @@
 דוב): דוב… זאת האמת שלי… אתם מאשים אותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
      : לא… שרה… העתיד ידון בינינו… סעי… אל תאחרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yukhnn">
+   <sp who="yukhnn">
+    <speaker>
      יוחנן:
     </speaker>
     <p>
@@ -5605,8 +5736,8 @@
 הדרך של עם ישראל מאז ומעולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב
     </speaker>
     <p>
@@ -5619,8 +5750,8 @@
      יוחנן ושרה יוצאים מהחצר.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -5637,8 +5768,8 @@
      אבא ושאול סוגרים את השער.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
@@ -5651,56 +5782,56 @@
      הכול באים ויושבים ליד דוב ומביטים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dub">
+   <sp who="dub">
+    <speaker>
      דוב:
     </speaker>
     <p>
      (כשהוא מביט מלפניו): איזו שקיעה היום… ראו, השמים בוערים…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      : נהדר…
     </p>
    </sp>
-   <sp>
-    <speaker id="ihudis">
+   <sp who="ihudis">
+    <speaker>
      יהודית
     </speaker>
     <p>
      : כמה טוב בלב… נהדר…
     </p>
    </sp>
-   <sp>
-    <speaker id="shfrh">
+   <sp who="shfrh">
+    <speaker>
      שפרה
     </speaker>
     <p>
      : כן…
     </p>
    </sp>
-   <sp>
-    <speaker id="rubn">
+   <sp who="rubn">
+    <speaker>
      ראובן
     </speaker>
     <p>
      : כמה יפה ארצנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה
     </speaker>
     <p>
      : והחולה כולה מוזהבה… טובעת בזהב.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -5712,8 +5843,8 @@
      שתיקה. יושבים כולם על נשקם ושותקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khnh">
+   <sp who="khnh">
+    <speaker>
      חנה
     </speaker>
     <p>
@@ -5770,8 +5901,8 @@
      ורוח…
     </p>
    </sp>
-   <sp>
-    <speaker id="mskh">
+   <sp who="mskh">
+    <speaker>
      מסך.
     </speaker>
    </sp>

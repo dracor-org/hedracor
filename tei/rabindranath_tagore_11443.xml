@@ -46,6 +46,107 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="ryun">
+      <persName>
+       אריונא
+      </persName>
+     </person>
+     <person xml:id="khִitְrָ">
+      <persName>
+       חִיטְרָא
+      </persName>
+     </person>
+     <person xml:id="mַdַּn">
+      <persName>
+       מַדַּנא
+      </persName>
+     </person>
+     <person xml:id="nshi khfr">
+      <persName>
+       אנשי כפר
+      </persName>
+     </person>
+     <person xml:id="ֵlִim">
+      <persName>
+       אֵלִים
+      </persName>
+     </person>
+     <person xml:id="mַdַּnָּ">
+      <persName>
+       מַדַּנָּא
+      </persName>
+     </person>
+     <person xml:id="anְshֵׁi khְfָr">
+      <persName>
+       אַנְשֵׁי כְפָר
+      </persName>
+     </person>
+     <person xml:id="bni dm">
+      <persName>
+       בני אדם
+      </persName>
+     </person>
+     <person xml:id="ryun">
+      <persName>
+       אריוּנא
+      </persName>
+     </person>
+     <person xml:id="mַdַּnָּ uuַsַּnְtָ">
+      <persName>
+       מַדַּנָּא וּוַסַּנְטָא
+      </persName>
+     </person>
+     <person xml:id="usnt">
+      <persName>
+       וסנטא
+      </persName>
+     </person>
+     <person xml:id="khitr">
+      <persName>
+       חיטרא
+      </persName>
+     </person>
+     <person xml:id="mdn">
+      <persName>
+       מדנא
+      </persName>
+     </person>
+     <person xml:id="uַsַּnְtָ">
+      <persName>
+       וַסַּנְטָא
+      </persName>
+     </person>
+     <person xml:id="dud frishmn">
+      <persName>
+       דוד פרישמאן
+      </persName>
+     </person>
+     <person xml:id="arְyun">
+      <persName>
+       אַרְיוּנא
+      </persName>
+     </person>
+     <person xml:id="nshׁi khfr">
+      <persName>
+       אנשׁי כפר
+      </persName>
+     </person>
+     <person xml:id="uַsַּnt">
+      <persName>
+       וַסַּנטא
+      </persName>
+     </person>
+     <person xml:id="khn">
+      <persName>
+       כן
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -83,8 +184,8 @@
      על-ידי
     </p>
    </sp>
-   <sp>
-    <speaker id="dud frishmn">
+   <sp who="dud frishmn">
+    <speaker>
      דוד פרישמאן
     </speaker>
    </sp>
@@ -127,8 +228,8 @@
 וַיָּשב וַיִּצא בגוֹלה כבראשונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ֵlִim">
+   <sp who="ֵlִim">
+    <speaker>
      אֵלִים:
     </speaker>
    </sp>
@@ -142,8 +243,8 @@
      וַסַּנְטָא (לִיקוֹרִיס).
     </p>
    </sp>
-   <sp>
-    <speaker id="bni dm">
+   <sp who="bni dm">
+    <speaker>
      בני אדם
     </speaker>
    </sp>
@@ -158,8 +259,8 @@
      אַנְשֵׁי כְפָר מִנוֹף רחוק מִמַּנִּפּוּר.
     </p>
    </sp>
-   <sp>
-    <speaker id="khִitְrָ">
+   <sp who="khִitְrָ">
+    <speaker>
      חִיטְרָא
     </speaker>
    </sp>
@@ -168,8 +269,8 @@
      האַתּה הוא האלהים בַּעַל חמשת החִצִים – אֱלֹהִי האהבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ">
+   <sp who="mַdַּnָּ">
+    <speaker>
      מַדַּנָּא
     </speaker>
    </sp>
@@ -179,8 +280,8 @@
 בַּעֲבוֹתוֹת מכאוב וּבְתַעֲנֻגוֹת אאסור את חיי כל איש וכל אִשָּׁה!
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -190,8 +291,8 @@
 אדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="uַsַּnְtָ">
+   <sp who="uַsַּnְtָ">
+    <speaker>
      וַסַּנְטָא
     </speaker>
    </sp>
@@ -202,8 +303,8 @@
 עד-היסוֹד. אני הוא הַנֹעַר לָנֶצַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -212,8 +313,8 @@
      לֲךּ אֵלֹהַי וַסַּנטא, אכרע ואשתַּחֲוֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ">
+   <sp who="mַdַּnָּ">
+    <speaker>
      מַדַּנָּא
     </speaker>
    </sp>
@@ -224,8 +325,8 @@
 יֵרָצֶה לעבודת הקֹדש אשר לָאַהֲבָה. מי אַתּ וּבַקָּשָתֵךְ מה היא?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -238,8 +339,8 @@
 אף כי אינני בלתּי אם אשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -249,8 +350,8 @@
 לדרוֹך קשת ולעשות כל מלאכה אשר יעשה אותה מלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -262,8 +363,8 @@
 במו-עֵינַי לא למדתּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -274,8 +375,8 @@
 היטב כי כן הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -295,8 +396,8 @@
 לְפָנָי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -306,8 +407,8 @@
 אחיו. אבל מה נַעֲשָׂה אחר-כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -334,8 +435,8 @@
 לְשִיוָהּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -345,8 +446,8 @@
 הָלֵּב אשר לאלהים וּמִסְתְּרֵי מחשָׁבות כאלה אבין.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -369,8 +470,8 @@
 וְאַזְּרֵנִי את כלי הנשק אשר ליָד לא-מְיֻזָּנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -381,8 +482,8 @@
 מָרָד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -410,8 +511,8 @@
 עֲרֻבָּתִי על-דְבַר יתר הַיָּמים אשר יבואו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּn">
+   <sp who="mַdַּn">
+    <speaker>
      מַדַּנא
     </speaker>
    </sp>
@@ -420,8 +521,8 @@
      גְבִרְתִּי, הִנֵה שְׁאֵלָתֵּךְ תֵּעָשֶׂה.
     </p>
    </sp>
-   <sp>
-    <speaker id="uַsַּnְtָ">
+   <sp who="uַsַּnְtָ">
+    <speaker>
      וַסַּנְטָא
     </speaker>
    </sp>
@@ -431,8 +532,8 @@
 חֶמְדַּת פִּרחי האָביב לִיצֻרֵי בְשָׂרֵךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="arְyun">
+   <sp who="arְyun">
+    <speaker>
      אַרְיוּנא
     </speaker>
    </sp>
@@ -462,8 +563,8 @@
 וַתִּכְבֶּה… אבל מי-זה נוגע עַתּה אֵל דַּלתּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
     <p>
@@ -480,8 +581,8 @@
      גְבִרְתִּי! אַל לָךְ יְרֹא אותי: אחד מאנשי הַקְּשַׁטְרִיָּא אנכי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -491,8 +592,8 @@
 ידעתי בַּמֶּה אוּכל לקַדֵּם את פניך בְּבֹאֲךָ בְּצֵל קוֹרָתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריוּנא
     </speaker>
    </sp>
@@ -502,8 +603,8 @@
 גְּבִרְתִּי היפה. ועתה אם לא יֵרַע הדבר בעינַיִךְ, תני ואשאל אותך דבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -512,8 +613,8 @@
      עֲשֵׂה כְבַקָּשָׁתֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריוּנא
     </speaker>
    </sp>
@@ -523,8 +624,8 @@
 הזה וַיִּמנע מבּני אדם את הָעֹנֶג לראות את פּניך הנחמדים?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -534,8 +635,8 @@
 לְשִׁיוַהּ אלהים לבעבוּר יעשה אותה לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -549,8 +650,8 @@
 מְבַקֶּשֶׁת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -559,8 +660,8 @@
      זה אשר אֲבַקְשֶׁנּוּ נוֹדַע לכל איש.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -570,8 +671,8 @@
 שֶׁבִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -581,8 +682,8 @@
 הגִבּוֹרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -594,8 +695,8 @@
 הַנִשָּׂא הלָזה הגדול מִנֵּצֶר שרשי מלכים?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -606,8 +707,8 @@
 קוּרוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -616,8 +717,8 @@
      בֵּית מָלכֵי קוּרוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -627,8 +728,8 @@
 לְמֵרָחוֹק?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -637,8 +738,8 @@
      הואילי נא והשמיעיני את הַשֵּׁם הזה בעצם שְׂפָתָיִךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -651,8 +752,8 @@
 ולהשליך משם את עֲדִי השקר הלזה על-פני עֲפַר האדמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -663,8 +764,8 @@
 כורע עתה לְרַגְלָיִךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -673,8 +774,8 @@
      אתה הוא אריונא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -684,8 +785,8 @@
 דַּלְתֵּךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -695,8 +796,8 @@
 שתֵּים-עֶשְׂרה שנה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -706,8 +807,8 @@
 הלילה ויָפִיר את נֶדֶר חָשְׁכָתוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -723,8 +824,8 @@
 כמו-איש איננה בלתּי אם תהלת שקר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -737,8 +838,8 @@
 וְרָאָה ברגע ההוא את הַשְּׁלֵמוּת כֻּלָּהּ אשר לנצח נצחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -750,8 +851,8 @@
 מזְבַּח מִקְסַם-כָּזָב. לֶךְ-לְךָ מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -764,8 +865,8 @@
 הַיָּקָר לו מכֹּל, כאשר ישֻלּח העָני בפתח – לא, לא יתָּכן דבר אשר כזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ uuַsַּnְtָ">
+   <sp who="mַdַּnָּ uuַsַּnְtָ">
+    <speaker>
      מַדַּנָּא וּוַסַּנְטָא
     </speaker>
     <p>
@@ -778,8 +879,8 @@
 כֻלִּי ומַבעירה את כל אשר אגע בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ">
+   <sp who="mַdַּnָּ">
+    <speaker>
      מַדַּנָּא
     </speaker>
    </sp>
@@ -788,8 +889,8 @@
      חפצתי לדעת אחת לאחת את כל המוצאות אוֹתך בלילה האחרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -806,8 +907,8 @@
 הקטן אשר לרגע שָׁלֵם שאין לא עָבָר ואין לו עתיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="uַsַּnְtָ">
+   <sp who="uַsַּnְtָ">
+    <speaker>
      וַסַּנְטָא
     </speaker>
    </sp>
@@ -816,8 +917,8 @@
      יש אשר חיי תהִלה באין גבול יפרחו וגם יָסוּפוּ בִּן בֹּקֶר אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ">
+   <sp who="mַdַּnָּ">
+    <speaker>
      מַדַּנָּא
     </speaker>
    </sp>
@@ -826,8 +927,8 @@
      כמחשבה באֵין קץ אשר נמצא לפעמים בתוך מִדַּת זרת קטַנָּה אשר לשיר זמרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -865,8 +966,8 @@
 לתוך עֵינַי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -878,8 +979,8 @@
 זַעֲקָתֵךְ מן המכאוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
     <p>
@@ -898,8 +999,8 @@
 אשר נתנה לי האהבה – את כל הנשיקות אשר יערוג לבי אליהן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -909,8 +1010,8 @@
 אלַיִך מרחוק, ואולם הַגַּלים לא נתנו לה לְקָרְבָה אל החוף.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -923,8 +1024,8 @@
 שוב נא וקח לְךָ את הַמַּתָּנָה אשר נתת לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -936,8 +1037,8 @@
 עָלָיִךְ!
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -948,8 +1049,8 @@
 וְיֶהְדְּפֵנִי ברגליו ואת לבי ישַׁבּר – אז אֶשָּׂא ואסבּול וְאֶדּוֹם.
     </p>
    </sp>
-   <sp>
-    <speaker id="usnt">
+   <sp who="usnt">
+    <speaker>
      וסנטא
     </speaker>
    </sp>
@@ -962,8 +1063,8 @@
 בִּתִּי, וְשֹוּבִי אל חַגֵּךְ עִם משׁוּבָתוֹ הָרַבָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -972,8 +1073,8 @@
      למה אתה מתבונן בי ככה, הַלּוֹחֵם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -984,8 +1085,8 @@
 בשִׂמחה. מתבונן אני בָךְ וחושב מחשבות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -994,8 +1095,8 @@
      מָה אתה חושב, אדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1006,8 +1107,8 @@
 לביתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1016,8 +1117,8 @@
      לְבֵיתֶךָ! אבל האהבה הזאת לא תצלח לַבָּיִת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1026,8 +1127,8 @@
      לא תצלח לַבָּיִת?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1041,8 +1142,8 @@
 אֶל דבר הנכון לִגְוֹעַ וּלְהִשָּׁכֵחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1051,19 +1152,19 @@
      האם זה אֹרַח אהבתֵנוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
-   <sp>
-    <speaker id="khn">
+   <sp who="khn">
+    <speaker>
      כן
     </speaker>
     זה ולא אַחֵר! אך מה לנו התאונן? זה אשר טוב ליָמים סְפוּרִים, אל נא
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1074,8 +1175,8 @@
 העֵצים!
     </p>
    </sp>
-   <sp>
-    <speaker id="uַsַּnt">
+   <sp who="uַsַּnt">
+    <speaker>
      וַסַּנטא
     </speaker>
    </sp>
@@ -1088,8 +1189,8 @@
 הַיְגֵעָה. אבל דבר אשר כה לא יוכל לְהִמָּשֵׁךְ ימים רבּיּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּn">
+   <sp who="mַdַּn">
+    <speaker>
      מַדַּנא
     </speaker>
    </sp>
@@ -1102,8 +1203,8 @@
 והַשָּנה ההולכת לְקִצָּהּ עוברת בחדוָה לוקחת-לב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1122,8 +1223,8 @@
      חיטרא באה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1132,8 +1233,8 @@
      הַגִּידָה לי את מחשבותיך, אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1156,8 +1257,8 @@
 שוכן בקרבּי. עורגת נפשי אל הַצָּיִד.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1174,8 +1275,8 @@
 תָּרוּץ חָפְשִׁית לרוחה וְיָד לא תִגַּע אליה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1187,8 +1288,8 @@
 השמָמָה הזאת והנה כָבָה אורו?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1202,8 +1303,8 @@
 זאת אשר אָהַבְתָּ דוֹמָה אל פְּנִינַת-הַטַּל השלֵמה הזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1213,8 +1314,8 @@
 אחד האֵלים המתהוללים ביָדו והִפִּיל אותו ארצה מבּלתּי היותו נִזְהָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1223,8 +1324,8 @@
      כּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1238,8 +1339,8 @@
 שלום אשר לאהבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1249,8 +1350,8 @@
 ריח הפּרָחים ולהחזיק בם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1261,8 +1362,8 @@
 ואשר יעמוד הָכֵן גם לעת צרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1277,8 +1378,8 @@
 פרחי הקיץ רובצים על-פני האדמה נובלים כֻּלָּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mַdַּnָּ">
+   <sp who="mַdַּnָּ">
+    <speaker>
      מַדַּנָּא
     </speaker>
    </sp>
@@ -1287,8 +1388,8 @@
      הלילה הזה הוא לֵילֵךְ האחרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="uַsַּnt">
+   <sp who="uַsַּnt">
+    <speaker>
      וַסַּנטא
     </speaker>
    </sp>
@@ -1301,8 +1402,8 @@
 וְיִוָלֵד שנית בתוך מאות פרחי יַסְמִין נותני רֵיחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1313,8 +1414,8 @@
 לְלֶהָבָה גֹוָעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mdn">
+   <sp who="mdn">
+    <speaker>
      מדנא
     </speaker>
    </sp>
@@ -1323,8 +1424,8 @@
      הנֵּה שְׁאֵלָתֵךְ נתוּנה לְָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="anְshֵׁi khְfָr">
+   <sp who="anְshֵׁi khְfָr">
+    <speaker>
      אַנְשֵׁי כְפָר
     </speaker>
    </sp>
@@ -1333,8 +1434,8 @@
      מי יָגֵן עלֵינו עתּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1343,8 +1444,8 @@
      מה-זאת? מָה הרעה אשר נגד פניכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="nshׁi khfr">
+   <sp who="nshׁi khfr">
+    <speaker>
      אנשׁי כפר
     </speaker>
    </sp>
@@ -1354,8 +1455,8 @@
 ההר הבָּא להרוס את כְּפָרֵנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1364,8 +1465,8 @@
      האין לכם שוטרים ושומרים בַּמַּמְלָכָה הזאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="nshi khfr">
+   <sp who="nshi khfr">
+    <speaker>
      אנשי כפר
     </speaker>
    </sp>
@@ -1377,8 +1478,8 @@
 ואין איש יודע את מקומה למצֹא אותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1387,8 +1488,8 @@
      האם הַמִּשְׁמָר אשר על הארץ הזאת נָתוּן בּיַד אשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="nshi khfr">
+   <sp who="nshi khfr">
+    <speaker>
      אנשי כפר
     </speaker>
    </sp>
@@ -1407,8 +1508,8 @@
      חיטרא באה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1417,8 +1518,8 @@
      למה אתה יושב פֹּה בָדָד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1429,8 +1530,8 @@
 מִפִּי אנשים רבֹים ושונים למיניהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1440,8 +1541,8 @@
 בְּחִצֶּיהָ תִּקְלַע אל כל מטרה ולא תחטיא, ורק לא אל לֵב גִּבּוֹרֵנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1450,8 +1551,8 @@
      אוֹמרים כי איש היא לִגְבוּרָה ואִשָׁה להתעַנֵּג וּלְרֹךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1474,8 +1575,8 @@
 תִּשַּׁק למו-עיניך עד לְיַשֵּׁן אותך. תן לי וַאֲבִיאֲךָ שָׁמָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1484,8 +1585,8 @@
      לא. היום לא נלך שָֹמָה, אהובָתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1494,8 +1595,8 @@
      מדוע לא היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1505,8 +1606,8 @@
 הָגֵן על אנשי הכפר הנבהָלים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1516,8 +1617,8 @@
 משמָרות חזָקים על-יד מַעְבְּרוֹת כל הגבוּלים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1528,8 +1629,8 @@
 אחר-כן לכַר טוב להניח עליה את רֹאשֵׁךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1544,8 +1645,8 @@
 המרגיזוֹת המציקות לך. מה לָקח היום את לבך שֶׁבִי? האם חיטרא היא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1555,8 +1656,8 @@
 לדרך לדרֹש את אלהים. מַה תֶּחְסָר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1571,8 +1672,8 @@
 לְקוֹרוֹת חייה. אין הדברים ערֵבים לְאֹזֶן גֶּבֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1586,8 +1687,8 @@
 אותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1596,8 +1697,8 @@
      מה יש לי עוד לסַפּר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>
@@ -1615,8 +1716,8 @@
 הַמְשַׁכֵּר אותָנו בְרֵיחוֹ וּמְחַנֵּק לנשמת אַפֶּנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="khitr">
+   <sp who="khitr">
+    <speaker>
      חיטרא
     </speaker>
    </sp>
@@ -1643,8 +1744,8 @@
 היָד השמאלית לשאת גם-היא בסֵבל הַמַשָּׂא אשר לַיָד הימָנית הַגֵּאָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ryun">
+   <sp who="ryun">
+    <speaker>
      אריונא
     </speaker>
    </sp>

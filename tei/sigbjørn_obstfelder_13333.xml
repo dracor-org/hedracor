@@ -46,6 +46,277 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="hshni">
+      <persName>
+       השני
+      </persName>
+     </person>
+     <person xml:id="stin">
+      <persName>
+       סטין
+      </persName>
+     </person>
+     <person xml:id="ud">
+      <persName>
+       אוד
+      </persName>
+     </person>
+     <person xml:id="hnfshus">
+      <persName>
+       הנפשות
+      </persName>
+     </person>
+     <person xml:id="shsi hgbirus hkhrus">
+      <persName>
+       שתי הגבירות האחרות
+      </persName>
+     </person>
+     <person xml:id="bֶrg">
+      <persName>
+       בֶּרג
+      </persName>
+     </person>
+     <person xml:id="hmnhl hַnsn">
+      <persName>
+       המנהל הַנסן
+      </persName>
+     </person>
+     <person xml:id="khrus">
+      <persName>
+       אחרות
+      </persName>
+     </person>
+     <person xml:id="oylh">
+      <persName>
+       וילה
+      </persName>
+     </person>
+     <person xml:id="burgild">
+      <persName>
+       בורגילד
+      </persName>
+     </person>
+     <person xml:id="dnil">
+      <persName>
+       דניאל
+      </persName>
+     </person>
+     <person xml:id="hkhd">
+      <persName>
+       האחד
+      </persName>
+     </person>
+     <person xml:id="kulus tseirim">
+      <persName>
+       קולות צעירים
+      </persName>
+     </person>
+     <person xml:id="burghild">
+      <persName>
+       בּורגהילד
+      </persName>
+     </person>
+     <person xml:id="brg">
+      <persName>
+       בּרג
+      </persName>
+     </person>
+     <person xml:id="kulu shl hmnhl hnsn">
+      <persName>
+       קולו של המנהל הנסן
+      </persName>
+     </person>
+     <person xml:id="burgihld">
+      <persName>
+       בורגיהלד
+      </persName>
+     </person>
+     <person xml:id="nils">
+      <persName>
+       נילס
+      </persName>
+     </person>
+     <person xml:id="lili">
+      <persName>
+       לילי
+      </persName>
+     </person>
+     <person xml:id="uִilh">
+      <persName>
+       וִילה
+      </persName>
+     </person>
+     <person xml:id="uֹd">
+      <persName>
+       אוֹד
+      </persName>
+     </person>
+     <person xml:id="buֹrghild">
+      <persName>
+       בּוֹרגהילד
+      </persName>
+     </person>
+     <person xml:id="kulus bhmun">
+      <persName>
+       קולות בהמון
+      </persName>
+     </person>
+     <person xml:id="burghild">
+      <persName>
+       בורגהילד
+      </persName>
+     </person>
+     <person xml:id="mph lfh">
+      <persName>
+       מפּה לפה
+      </persName>
+     </person>
+     <person xml:id="ud mrh el burghild">
+      <persName>
+       אוד מראה על בורגהילד
+      </persName>
+     </person>
+     <person xml:id="hkrubus byusr">
+      <persName>
+       הקרובות ביותר
+      </persName>
+     </person>
+     <person xml:id="hgbirh stֵin">
+      <persName>
+       הגבירה סטֵין
+      </persName>
+     </person>
+     <person xml:id="khs">
+      <persName>
+       אחת
+      </persName>
+     </person>
+     <person xml:id="hrshunh">
+      <persName>
+       הראשונה
+      </persName>
+     </person>
+     <person xml:id="bin gbirh lgbirh">
+      <persName>
+       בין גבירה לגבירה
+      </persName>
+     </person>
+     <person xml:id="utu">
+      <persName>
+       אוטו
+      </persName>
+     </person>
+     <person xml:id="mkbutss mshukhkhim">
+      <persName>
+       מקבוצת משוחחים
+      </persName>
+     </person>
+     <person xml:id="brg">
+      <persName>
+       ברג
+      </persName>
+     </person>
+     <person xml:id="in">
+      <persName>
+       אין
+      </persName>
+     </person>
+     <person xml:id="kulus msfr">
+      <persName>
+       קולות מספר
+      </persName>
+     </person>
+     <person xml:id="hrukkh brg">
+      <persName>
+       הרוקח ברג
+      </persName>
+     </person>
+     <person xml:id="esh">
+      <persName>
+       עתה
+      </persName>
+     </person>
+     <person xml:id="kֻlm">
+      <persName>
+       כֻּלם
+      </persName>
+     </person>
+     <person xml:id='d"r utu'>
+      <persName>
+       ד"ר אוטו
+      </persName>
+     </person>
+     <person xml:id="khzyun">
+      <persName>
+       חזיון
+      </persName>
+     </person>
+     <person xml:id="buֹrghild">
+      <persName>
+       בוֹרגהילד
+      </persName>
+     </person>
+     <person xml:id="hmnhl hnsn">
+      <persName>
+       המנהל הנסן
+      </persName>
+     </person>
+     <person xml:id="hnsn">
+      <persName>
+       הנסן
+      </persName>
+     </person>
+     <person xml:id="mebrim shunim">
+      <persName>
+       מעברים שונים
+      </persName>
+     </person>
+     <person xml:id="hmskh">
+      <persName>
+       המסך
+      </persName>
+     </person>
+     <person xml:id="hgbirh stin">
+      <persName>
+       הגבירה סטין
+      </persName>
+     </person>
+     <person xml:id="ish dbr-mh khulni bkrb bni hdm">
+      <persName>
+       יש דבר-מה חולני בקרב בני האדם
+      </persName>
+     </person>
+     <person xml:id="ud uburghild">
+      <persName>
+       אוד ובורגהילד
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="hrukkh brg">
+      <persName>
+       הרוקח בּרג
+      </persName>
+     </person>
+     <person xml:id="uni">
+      <persName>
+       ואני
+      </persName>
+     </person>
+     <person xml:id="kulu shl ud">
+      <persName>
+       קולו של אוד
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,13 +334,13 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="khzyun">
+   <sp who="khzyun">
+    <speaker>
      חזיון
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hnfshus">
+   <sp who="hnfshus">
+    <speaker>
      הנפשות
     </speaker>
    </sp>
@@ -149,8 +420,8 @@
      ובוֹרגהילד.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -162,8 +433,8 @@
      בּורגהילד!
     </p>
    </sp>
-   <sp>
-    <speaker id="buֹrghild">
+   <sp who="buֹrghild">
+    <speaker>
      בּוֹרגהילד
     </speaker>
    </sp>
@@ -172,8 +443,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
    </sp>
@@ -202,8 +473,8 @@
      בקרוב ילכו כֻלם. ואז… אז…
     </p>
    </sp>
-   <sp>
-    <speaker id="buֹrghild">
+   <sp who="buֹrghild">
+    <speaker>
      בוֹרגהילד
     </speaker>
     <p>
@@ -215,8 +486,8 @@
      הו, הן עוד זמן רב לא ילכו. וחוץ מזה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
    </sp>
@@ -225,8 +496,8 @@
      אני מרגיש זאת בנפשי. את הולכת.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
    </sp>
@@ -237,8 +508,8 @@
 כֻּלי. כל נימי-לבי לך יהיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -252,8 +523,8 @@
 וגדל, שפתי פיך…
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -270,8 +541,8 @@
      היא נושאת את עיניה אל פניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -289,8 +560,8 @@
 אחריו, נוגעת בזרועו.
     </p>
    </sp>
-   <sp>
-    <speaker id="buֹrghild">
+   <sp who="buֹrghild">
+    <speaker>
      בוֹרגהילד
     </speaker>
     <p>
@@ -314,8 +585,8 @@
 איזו אשה, אשה אחרת. אני יודעת זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -328,8 +599,8 @@
 רחוקה כל-כך, והנך נעשית כה גדולה, כה אין-סופית, – אסור לי לנגוע בידך.
     </p>
    </sp>
-   <sp>
-    <speaker id="buֹrghild">
+   <sp who="buֹrghild">
+    <speaker>
      בוֹרגהילד
     </speaker>
    </sp>
@@ -343,8 +614,8 @@
      זאת ידעתי, היתה לך איזו פגישה.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -382,8 +653,8 @@
      בא, הנה הוא נוטל את הכוס. במורא הוא ינאם… אפשר לכבודי.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -399,8 +670,8 @@
 ביתר רֹך אצלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -461,8 +732,8 @@
 שש גבירות צעירות לבושות לבנים. הראשונה נושאת בידה זֵר שושנים אדֻמות
     </p>
    </sp>
-   <sp>
-    <speaker id="hrshunh">
+   <sp who="hrshunh">
+    <speaker>
      הראשונה
     </speaker>
    </sp>
@@ -479,8 +750,8 @@
 , היושבת אצלו. הנשים משתחוות והולכות. שתיקה שוררת בין  עד הֵעלמן. אחר-כך:
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
     <p>
@@ -492,8 +763,8 @@
      מה-יפית הערב!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -546,8 +817,8 @@
      מה זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -569,8 +840,8 @@
      – כלום ראית כמה יֹפי היה בקִָדָּתן, עת הלכו להן?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -579,8 +850,8 @@
      כן, האם אין זה ערב נעים? אומרת לתפשֹׁ את ידיו, הוא אוספן אליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -592,8 +863,8 @@
      כלום היית הולכת אחרַי לכל-מקום, בורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -602,16 +873,16 @@
      אלו הנחת ידך?… למה לך להניח ידך מזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      שותק.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -620,8 +891,8 @@
      למה לך להניח ידך מזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -637,8 +908,8 @@
 נושא את ראשו שחוק קצת.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -694,8 +965,8 @@
      נפטר מהם בצעדים מהירים ובראש מוּרם.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -704,8 +975,8 @@
      מה-נפלא היה זה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -731,8 +1002,8 @@
 מתוך קבוצת אנשים היושבים מאחוריהם לצד ימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stֵin">
+   <sp who="hgbirh stֵin">
+    <speaker>
      הגבירה סטֵין
     </speaker>
    </sp>
@@ -742,8 +1013,8 @@
 השם שקראו לזה, מר וִילה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uִilh">
+   <sp who="uִilh">
+    <speaker>
      וִילה
     </speaker>
    </sp>
@@ -752,8 +1023,8 @@
      הגוזל של סִיקַרִד, גברתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
    </sp>
@@ -763,8 +1034,8 @@
 להאמין, שאפשר להמציא דוגמתו. אותו הגוזל של… של…
     </p>
    </sp>
-   <sp>
-    <speaker id="oylh">
+   <sp who="oylh">
+    <speaker>
      וילה
     </speaker>
    </sp>
@@ -773,8 +1044,8 @@
      הגוזל של סיגרד, גברתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
    </sp>
@@ -783,8 +1054,8 @@
      הגוזל של סיקרד, הגוזל של סיקרד, הגוזל של סיקרד, הבלים, אומרת אני.
     </p>
    </sp>
-   <sp>
-    <speaker id='d"r utu'>
+   <sp who='d"r utu'>
+    <speaker>
      ד"ר אוטו
     </speaker>
    </sp>
@@ -793,8 +1064,8 @@
      כל-כך אין לה לאמר בודאיות כזו, הגבירה סטֵין!
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
    </sp>
@@ -803,8 +1074,8 @@
      אפס, מה הוא אפוא? מראהו מה הוא? כיצד בולעים אותו?
     </p>
    </sp>
-   <sp>
-    <speaker id='d"r utu'>
+   <sp who='d"r utu'>
+    <speaker>
      ד"ר אוטו
     </speaker>
     <p>
@@ -817,8 +1088,8 @@
 מנקֻדת-הראות המדעית, אורֵהו לה בעֹנג.
     </p>
    </sp>
-   <sp>
-    <speaker id="khs">
+   <sp who="khs">
+    <speaker>
      אחת
     </speaker>
     <p>
@@ -830,8 +1101,8 @@
      בבקשה, יַראהו לנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
     <p>
@@ -853,8 +1124,8 @@
      שרווּליה ארֻכּים יותר מִדַּי. יש להפשילם קצת.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -866,8 +1137,8 @@
      לא-הרבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
     <p>
@@ -884,8 +1155,8 @@
      שתי הגבירות האחרות מוחאות כף.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -897,8 +1168,8 @@
      אוף, כמה מתֹאב הוא! אינני יודעת, מה מתֹעב ביותר, חכמת הרפואה או הרופאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="shsi hgbirus hkhrus">
+   <sp who="shsi hgbirus hkhrus">
+    <speaker>
      שתי הגבירות האחרות
     </speaker>
    </sp>
@@ -907,8 +1178,8 @@
      השִׁמוּשׁ באלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -920,8 +1191,8 @@
      ובכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
     <p>
@@ -945,8 +1216,8 @@
 וככה שותים אותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -958,8 +1229,8 @@
      אדוני הרוקח, הוא אדם  מה היא דעתו על שקוי-העלומים? המאמין הוא בזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -976,16 +1247,16 @@
      השיחה נמשכת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud uburghild">
+   <sp who="ud uburghild">
+    <speaker>
      אוד ובורגהילד
     </speaker>
     <p>
      .
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -997,8 +1268,8 @@
      אף פעם אחת במשך הערב כֻּלו לא אמרת לי, כי אהבתּני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1054,8 +1325,8 @@
      ראֹה ראיתי דבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ish dbr-mh khulni bkrb bni hdm">
+   <sp who="ish dbr-mh khulni bkrb bni hdm">
+    <speaker>
      יש דבר-מה חולני בקרב בני האדם
     </speaker>
     <p>
@@ -1097,8 +1368,8 @@
      המֻלה. קוֹלות פורצים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmnhl hnsn">
+   <sp who="hmnhl hnsn">
+    <speaker>
      המנהל הנסן
     </speaker>
    </sp>
@@ -1107,8 +1378,8 @@
      אל הענין!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1128,8 +1399,8 @@
      ההתרגשות נהפכת לסער.
     </p>
    </sp>
-   <sp>
-    <speaker id="mebrim shunim">
+   <sp who="mebrim shunim">
+    <speaker>
      מעברים שונים
     </speaker>
    </sp>
@@ -1138,8 +1409,8 @@
      אל הענין! אל הענין!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1157,8 +1428,8 @@
      מתכנסים ונצפפים סביבו, הוא מתעלם בהמון, נשמעים קולות.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulu shl hmnhl hnsn">
+   <sp who="kulu shl hmnhl hnsn">
+    <speaker>
      קולו של המנהל הנסן
     </speaker>
    </sp>
@@ -1167,8 +1438,8 @@
      המתכַּון הוא אפוא למשֹׁך את ידו מן ההצעה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kulu shl ud">
+   <sp who="kulu shl ud">
+    <speaker>
      קולו של אוד
     </speaker>
    </sp>
@@ -1177,8 +1448,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus bhmun">
+   <sp who="kulus bhmun">
+    <speaker>
      קולות בהמון
     </speaker>
    </sp>
@@ -1187,8 +1458,8 @@
      חרפה! בושה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmnhl hnsn">
+   <sp who="hmnhl hnsn">
+    <speaker>
      המנהל הנסן
     </speaker>
     <p>
@@ -1200,8 +1471,8 @@
      וכלום העלה בדעתו דבָר – – –
     </p>
    </sp>
-   <sp>
-    <speaker id="hrukkh brg">
+   <sp who="hrukkh brg">
+    <speaker>
      הרוקח בּרג
     </speaker>
     <p>
@@ -1214,8 +1485,8 @@
      הִשמר לנפשך, אוֹד! פן תהיה למאֵרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1227,8 +1498,8 @@
      מה הנך מתכַּון לאמר?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -1247,8 +1518,8 @@
      שתיקה קצרת-נשימה. , שניהם אינם נראים מתוך ההמון.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -1260,8 +1531,8 @@
      אל תמשֹׁך ידך מזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1273,8 +1544,8 @@
      אינני יכול. אין אדם מצַוה לעצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -1283,8 +1554,8 @@
      חָשֹׁב בדבר עוד פעם אחת! – – – !
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1296,8 +1567,8 @@
      אינני יכול.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -1314,8 +1585,8 @@
      נחפז לצאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mph lfh">
+   <sp who="mph lfh">
+    <speaker>
      מפּה לפה
     </speaker>
    </sp>
@@ -1344,8 +1615,8 @@
      מה-זה? מה היה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hkrubus byusr">
+   <sp who="hkrubus byusr">
+    <speaker>
      הקרובות ביותר
     </speaker>
    </sp>
@@ -1354,8 +1625,8 @@
      אביו אָרר אותו, אומרים הם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bin gbirh lgbirh">
+   <sp who="bin gbirh lgbirh">
+    <speaker>
      בין גבירה לגבירה
     </speaker>
    </sp>
@@ -1364,8 +1635,8 @@
      אי-נעימות כזו! בֹאנה ונלכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khrus">
+   <sp who="khrus">
+    <speaker>
      אחרות
     </speaker>
    </sp>
@@ -1379,8 +1650,8 @@
      יוצאים דרך כל הפתחים, שואלים ומספרים מתוך התענינות ומבוכה.  עומד תחתיו, באמצע האולם, וכמו היה לאבן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -1397,8 +1668,8 @@
      אוֹד הוא לבדו, , אשר עמדה דומם בירכתי הבימה יוצאת ובאה אל מול הדלת שמימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1407,16 +1678,16 @@
      גם  הולכת?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
      אינה עונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1425,16 +1696,16 @@
      עד הרגע האחרון חכיתי, אולי מי-שהוא, אולי האחד או השני מבּין ההמון, – אחד בלבד, – יבינני. הם הלכו כֻּלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
     <p>
      עומדת דומם כמחכה לדבר-מה
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1444,16 +1715,16 @@
 בלבד, – יבינני. הם הלכו כֻלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
     <p>
      עומדת כמו קֹדם
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1465,8 +1736,8 @@
      הִשַׁאַרִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -1475,8 +1746,8 @@
      המרכבה מחכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1522,8 +1793,8 @@
 פתאם בדממה הַמָּחלטת שהשתררה, מסיר את כפּות ידיו מעל פניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1570,16 +1841,16 @@
      בכרך, לַבּוֹרטוֹריוֹן. בקבוקים, גביעים, שפופרות לבחינה, שלד, גלובּוס.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
      יושבת על עוֹר שטוח על הרצפה. לשמֹאל, וסורגת פוזמקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1591,8 +1862,8 @@
      שלחן-העבודה הגדול והַמָּאֳרָך עומד סמוך לכֹתל הימני ומקביל לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1616,8 +1887,8 @@
      – שמעתי אותך בא בשעה מאֻחרת. ואין אתה מפחד להַלך יחידי!
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹd">
+   <sp who="uֹd">
+    <speaker>
      אוֹד
     </speaker>
    </sp>
@@ -1626,8 +1897,8 @@
      אני לא הפרעתי את מנוחתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1652,8 +1923,8 @@
      אני אוהבת כל-כך את כוכב-כְּסִיל. הידעת. מדוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1665,8 +1936,8 @@
      מדוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1741,8 +2012,8 @@
      היא מוחאת כף.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1754,8 +2025,8 @@
      מה-זה לילי?  הדבר,שיהיה נהדר כה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1770,8 +2041,8 @@
 האין גם אתה מאמין, כי הX נכון הוא, דוקטור?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1780,8 +2051,8 @@
      הX
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1790,8 +2061,8 @@
      הX, כן! הX דוקא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1800,8 +2071,8 @@
      איזה X?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1811,8 +2082,8 @@
 לנַחש? למצֹא את .
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1824,8 +2095,8 @@
      אולם מה הוא אפוא הדבר. שאת קוראת לו בשם V?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1845,8 +2116,8 @@
      עתה אכין את החמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1857,8 +2128,8 @@
      מוצאת את הכד ומדליקה את מכונת-השמן, היא עסוקה מאד, אולם עושה הכּל בדממה ובחֵן. זּהר מיֻחד משתקף עתה עם שקיעת החמה מתוך בקבוק אחד עם נוזל אדֹם, העומד על מַדָּף.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1867,8 +2138,8 @@
      ראֵה אוד!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1877,8 +2148,8 @@
      מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1893,8 +2164,8 @@
 מעתה  בתוכו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1917,8 +2188,8 @@
      כמה נחפזים הם! לא ימצאו מנוח כלל. הם שכחו,כי בני-בנים הם למי שנפח נשמות-חיים באפיהם של אלפי-אלפים… שומעת את לילי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -1930,8 +2201,8 @@
      כן, אך זו רעה חוֹלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -1956,8 +2227,8 @@
      כמה אני אוהב אותם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -1981,8 +2252,8 @@
      היא עוברת עם שטיח-העור ויושבת לרגליו. החשכה מתגברת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -1995,8 +2266,8 @@
 תינוקות זעירים. הם היו יראים כל-כך, יראים כל-כך, שמא לא יספיקו לעשות כל אשר עליהם לעשות עד בוא הלילה. נדמה היה לי, שהם סובלים כל-כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2013,8 +2284,8 @@
      אבל  הנך מאֻשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2023,8 +2294,8 @@
      אנכי… הן גם אני אדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2033,8 +2304,8 @@
      כן, וַדאי שהנך… אבל אתה גם שונה מהם, אתה מהלך מלמעלה, מעל לכֻם, אתה רואה את כֻּלם, אתה עולה לקרַאת… לקראת כוכָב-כסיל!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2048,8 +2319,8 @@
      במה הנך מהרהרת עתה, לילי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2060,8 +2331,8 @@
 כאלו…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -2073,8 +2344,8 @@
      אל-נא תדברי על-אודותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2100,8 +2371,8 @@
      שתיקה קצרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2110,8 +2381,8 @@
      אולם אם אי-אפשר לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2140,8 +2411,8 @@
      במה הנך מהרהר? אתה מרבה בהרהורים כל-כך, עד שאני חשה אותם על גַּבִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2150,8 +2421,8 @@
      אה, לא-כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2168,8 +2439,8 @@
      הוא שָׂם סֻכּר בתוך הטה ונושאו אל אותו החלון, מקום שם הוא אוכל ושותה מעֻמד. אף היא עושה כך על-יד החלון שלשמאל הכֹתל האמצעי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -2181,8 +2452,8 @@
      כשאדם מעלה על דעתו, מעלה על דעתו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2194,8 +2465,8 @@
      אני מעלָה בדעתי, מעלָה בדעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2205,8 +2476,8 @@
 הקרובה, – כל המסעות הללו על-פני האדמה כֻלה, – כל האנשים האלה…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2215,8 +2486,8 @@
      כל הנוסע גם רץ גם מהַלך גם… גם רוכב על אופָנַּעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2225,8 +2496,8 @@
      והבּתים הכבדים הללו עם כל קומותיהם, כל התקרות והכתלים והחלונות וארבּות-העשן… וכל האוֹרות שברחוב…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2235,8 +2506,8 @@
      לאורות-האלקטרון הנך מתכַּון?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2245,8 +2516,8 @@
      האלקטרון ופנסי-הגַּז והחלונות… כשמעלה אדם על דעתו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2255,8 +2526,8 @@
      אני מעלָה בדעתי כל-כך הרבה, עד שעוד מעט ואתפּקע.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2266,8 +2537,8 @@
 ומעלים קיטור גם… כל-אלה… – שגדלו, נבנו והיו על-פי אותם החֻקים, שחקקו הראשונים!
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2284,8 +2555,8 @@
      מה הם החֻקים, דוקטור? אני מפחדת תמיד כשהנני שומעת מלה זו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2294,8 +2565,8 @@
      זהו דבר העובר מעולם לעולם ומיצוּר ליצוּר…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2307,8 +2578,8 @@
      ממש כחוטי-הטיליפון? היעבור רחש-לחש בהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2323,8 +2594,8 @@
      זה הוא גם דבַר החֻקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2333,8 +2604,8 @@
      אם הרחמים, אם-כן הלא יש בחֻקים מן הטוב. מה-נחמד!  הוא הדבר העובר בעולם כֻּלו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2343,8 +2614,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2354,8 +2625,8 @@
 לסמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2364,8 +2635,8 @@
      רשת של שפופרות-הַשְׁעָרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2374,16 +2645,16 @@
      האח, מה-נחמד! האם גם נשָׁמה יש בה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      אינו עונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2397,8 +2668,8 @@
      האח, מה-נעים! אז העולם כֻּלו דומה לאדם ממש… ואלה… אלה החֻקים, הלא הם העצָבים וכדומה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2407,8 +2678,8 @@
      אולם הניחי עתה, שיש חֹק יחיד ומיֻחד מעל לכל-זה ואפשר היה להגיע אליו, אלו נתּנה היכֹלת לאַחֵד את כל קשריו של החוט, אשר יַתוֶה את הדרך! או אפשר היה לאדם להתחיל.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2417,8 +2688,8 @@
      להתחיל?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2427,8 +2698,8 @@
      כן, אז אפשר היה לו לאדם להתחיל ולסַדֵּר מחדש.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2437,8 +2708,8 @@
      לסַדר? מה יש לסַדר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -2447,8 +2718,8 @@
      את האַטוֹמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2489,8 +2760,8 @@
 בבכי חרישי, הולך וגדֵל עד היותו ליבָבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -2502,8 +2773,8 @@
      מה לך? מה לך, יקירה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2522,8 +2793,8 @@
      הוי, הנני מפחדת כל-כך…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -2551,8 +2822,8 @@
 מבכיה. החשכה התגברה, הפנס רק-הוא נוסך אור קלוש. אז נשמע צלצול הפעמון.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2579,8 +2850,8 @@
      היא יוצאת. שבה עם בֶּרְג.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2594,8 +2865,8 @@
      היא מדליקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2604,8 +2875,8 @@
      כלום יָצא לזמן רב?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2614,8 +2885,8 @@
      לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -2627,8 +2898,8 @@
      האם מָזכירתו היא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2637,8 +2908,8 @@
      תלמידתו אנכי… בגאון ההולכת בדרכיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2647,8 +2918,8 @@
      ההולכת בדרכיו, כך… התרשֵׁני לשים עין על סביבי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2678,8 +2949,8 @@
      כלום סוברת גבִרתִּי, שימצא זה את הנוסחה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -2691,8 +2962,8 @@
      כן!
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -2704,8 +2975,8 @@
      לא!
     </p>
    </sp>
-   <sp>
-    <speaker id="in">
+   <sp who="in">
+    <speaker>
      אין
     </speaker>
     <p>
@@ -2722,8 +2993,8 @@
      חוזר מתוך הרהורים, ביתר נחת וביגון אין-סופי
     </p>
    </sp>
-   <sp>
-    <speaker id="in">
+   <sp who="in">
+    <speaker>
      אין
     </speaker>
     <p>
@@ -2765,8 +3036,8 @@
      מה שמֵך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2775,8 +3046,8 @@
      לילי.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2795,8 +3066,8 @@
      כלום עוזרת את לו, לילי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2805,8 +3076,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2815,8 +3086,8 @@
      מַשגחת על הַהַפְרָדוֹת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2825,8 +3096,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2835,8 +3106,8 @@
      מחזיקה את הכלים לפניו?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2845,8 +3116,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2855,8 +3126,8 @@
      מנקה אותם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2865,8 +3136,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2875,8 +3146,8 @@
      אולם היודעת את, ביסודו של דבר, למה הוא  כל-זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2885,8 +3156,8 @@
      כן! הוא רוצה למצֹא שוב את מי-הַחַיִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2895,8 +3166,8 @@
      דבר, המאריך את חיי האדם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2905,8 +3176,8 @@
      לא! דבר, שישלול את הצֹרך בחיים ארֻכּים.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -2918,8 +3189,8 @@
      ישלול את הצֹרך…ישלול את הצֹרך… בחיים ארֻכּים… מה היא כַונתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2928,16 +3199,16 @@
      היודע אתה, אַטוֹמִים מה הם?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
      מְחַיֵךְ
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2946,8 +3217,8 @@
      אין זה דבר מעורר צחוק כלל. אין לך בעולם דבר קשה מאשר להבין את ענין האַטוֹמִים כדבעי.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      בּרג
     </speaker>
    </sp>
@@ -2956,8 +3227,8 @@
      ניחא, מה הוא אפוא ענין האטומים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2967,8 +3238,8 @@
 ההנך מבין זאת עתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -2977,8 +3248,8 @@
      טוב! אולם מה ענין המים לכאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -2988,8 +3259,8 @@
 בני-האדם שכחו לשָׁמעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -3026,8 +3297,8 @@
      הלא יואיל אדוני לחכות? הוא יבוא בעוד רגע.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -3036,8 +3307,8 @@
      המ… מוטב שאלך ואשוב בפעם אחרת… אל-נא תגלי את דבָר היותי כאן. התבטיחי לי זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3064,8 +3335,8 @@
      הוא מרכּין את-עצמו, היא נושקת לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -3082,8 +3353,8 @@
      הוא הולך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3141,8 +3412,8 @@
 הוא מדבּר לעצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3179,8 +3450,8 @@
      מה היה לך, לילי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3190,8 +3461,8 @@
 מרֻבָּעים, מתחדשים לרגעים, והם עולים ויורדים. האם כך הוא לאחר הַמָּוֶת, לפי-דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3203,8 +3474,8 @@
      לפי-דעתי, אינו כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3223,16 +3494,16 @@
      אשה נחמדה הנך אוהב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      מחזיר פניו ומתבונן בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3246,16 +3517,16 @@
      פורצת בבכי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      נגש אליה, נוגע בכתפה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3265,16 +3536,16 @@
 שוכנת בלבבך…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      עומד דומם בהמון רגשותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3296,8 +3567,8 @@
      הָכֵן סלחתּ לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3309,8 +3580,8 @@
      הייתי עליז כה, נדמה לי, שראיתי את הדבר בעיני.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3322,8 +3593,8 @@
      הוי, אל-נא תאמין, שלא שמעתי כל זאת, בדבַר כוכבי-האלקטרון, בדבר… בדבר…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3335,16 +3606,16 @@
      … מדי קחתי בידי בקבוק… אַבִּיק…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
      עושה תנועה של יאוש, אחר היא קמה ומתגנבת מתוך בושה אל שלחן-העבודה. מתבוננת במה שהוּא מבשל, מתחמקת בחזרה, עומדת לפניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3366,8 +3637,8 @@
      דוקטור! עתה ודאי שתבוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3383,8 +3654,8 @@
      נכנסות
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3393,8 +3664,8 @@
      בורגהילד! אתּ כאן!
     </p>
    </sp>
-   <sp>
-    <speaker id="burgild">
+   <sp who="burgild">
+    <speaker>
      בורגילד
     </speaker>
    </sp>
@@ -3403,8 +3674,8 @@
      כן. הנה באתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3413,8 +3684,8 @@
      באמת! את הנה באת!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -3423,8 +3694,8 @@
      כן. עיניך הרואות.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3436,8 +3707,8 @@
      מה אתּ רוצה מאתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
     <p>
@@ -3449,8 +3720,8 @@
      אותה נַעָ.. גבירה זו..?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3460,8 +3731,8 @@
      ,שעמדה מרחוק, נגשת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3490,8 +3761,8 @@
      היא כורעת על ברכיה, נושקת את שולי שמלתה של בורגהילד, אחר היא ממהרת לקום, כשידה האחת שׂוּמה על עיניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3505,8 +3776,8 @@
      מה אתּ רוצה מאתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -3515,8 +3786,8 @@
      ההנך רואה אותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3525,8 +3796,8 @@
      הנני רואה אותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -3535,8 +3806,8 @@
      ההנך זוכר,שהיית מנשק לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3548,8 +3819,8 @@
      הנני זוכר זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -3558,8 +3829,8 @@
      ההנך זוכר כל מה שאמרת לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3568,8 +3839,8 @@
      שמעִיני, בורגהילד!…
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -3588,16 +3859,16 @@
      לילה בא ולילה חולף…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      בא לקראתה בזרועות פתוחות.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -3629,8 +3900,8 @@
      כאן, בורגהילד, הוא אור-החיים שהִדלקתּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -3644,8 +3915,8 @@
 רומה, שופכתּו אל קערת-המים הסמוכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -3657,16 +3928,16 @@
      לכי-לך!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
      עומדת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3675,8 +3946,8 @@
      אני שונא אותך!… לתועבה לי שָׁדַיך!… לתועבה לי עיניך!… לתועבה לי שׂערך!…
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -3700,8 +3971,8 @@
 לה. החלון הוא מימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3731,8 +4002,8 @@
      עדַין זאת שם!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3741,8 +4012,8 @@
      מה אתּ רואה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3807,8 +4078,8 @@
      היא מרימה ראשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3817,8 +4088,8 @@
      מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3827,8 +4098,8 @@
      האמנם לא שמעתּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3837,8 +4108,8 @@
      אין אני שומע כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3847,8 +4118,8 @@
      הם הולכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3857,8 +4128,8 @@
      מי הולך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3867,8 +4138,8 @@
      כֻּלם, כֻּלם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3877,8 +4148,8 @@
      מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3892,8 +4163,8 @@
      היא מתרוממת ומתבוננת בעיני  במבט מוזר וחולני
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3902,8 +4173,8 @@
      זאת אינני יודע.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -3935,8 +4206,8 @@
      הם צועקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -3945,8 +4216,8 @@
      מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -3991,8 +4262,8 @@
      ראשה נופל שוב על הכר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -4004,8 +4275,8 @@
      לילי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -4017,8 +4288,8 @@
      נדמה… לי… היה מי… הרחק-הרחק… שדבּר…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -4030,8 +4301,8 @@
      אנכי הייתי זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -4043,8 +4314,8 @@
      האתּה היית זה, דוקטור… שדבּרתּ, הלא אמרתּ… לילי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4053,8 +4324,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -4066,8 +4337,8 @@
      האמרת להגיד לי דבר-מה דוקטור?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4076,8 +4347,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -4086,8 +4357,8 @@
      הלא תוכל להגיד. אני שומעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -4099,8 +4370,8 @@
      גם אני עיפתּי לילי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -4112,8 +4383,8 @@
      אֱמֹר זאת עוד פעם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4127,16 +4398,16 @@
      מרֻדף… מקֻלָּל!…
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
      מתרוממת בקֹשי רב וסוקרת אותו ברצינות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -4145,8 +4416,8 @@
      דוקטור!… הרימֵני!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4155,8 +4426,8 @@
      מה אתּ רוצה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -4165,8 +4436,8 @@
      שָׂאֵנֳי מתוך הַמִטה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4175,8 +4446,8 @@
      אתּ יגֵעה יותר מדַּי, לילי היקרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -4195,8 +4466,8 @@
      שׂאֵני אל החלון!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4205,8 +4476,8 @@
      כאן רוח מוֹשכת. אתּ לא תעמדי בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
    </sp>
@@ -4215,8 +4486,8 @@
      אני רוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -4268,8 +4539,8 @@
      אוד! אני אהיה קופאת בקברי, אם אתה לא…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -4278,8 +4549,8 @@
      עתה עלינו לשוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lili">
+   <sp who="lili">
+    <speaker>
      לילי
     </speaker>
     <p>
@@ -4338,8 +4609,8 @@
 שליחים עירוניים מתעסקים בתלִיַת עששיות מגֻוָּנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus tseirim">
+   <sp who="kulus tseirim">
+    <speaker>
      קולות צעירים
     </speaker>
     <p>
@@ -4356,8 +4627,8 @@
      נֶאְגֹד זֶה בָזֶה וגו'.
     </p>
    </sp>
-   <sp>
-    <speaker id="hrukkh brg">
+   <sp who="hrukkh brg">
+    <speaker>
      הרוקח ברג
     </speaker>
     <p>
@@ -4379,8 +4650,8 @@
      עֶרב עֶרב. ואני לא ראיתיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4392,8 +4663,8 @@
      האמנם חזרה לו ילדותו, לברג הזקן?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -4460,8 +4731,8 @@
      ערב טוב, דניאל! ערב נחמד הוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4473,8 +4744,8 @@
      כפתור ופרח, אדוני הרוקח, כמאמר המשורר: אַרְגָמָן לְמַרְאֶה כַּכֶּתֶם הַטּוֹב.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4488,8 +4759,8 @@
      בא-בימים… שהקץ מתקרב ובא.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4501,8 +4772,8 @@
      וַדאי שאדם מהרהר בכך, אף בחזון יחזֶנה לפעמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4511,8 +4782,8 @@
      רעיון נורא! האם לא כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4521,8 +4792,8 @@
      אכן, באמֹר אדוני, כי נורא הוא כל-כך, “לא ירד בני עמכם”, אדוני הרוקח.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4546,8 +4817,8 @@
      ואם לא נתּנו לו קֹדם, הלא יקבלם במיתתו, בכל-אֹפן.
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
    </sp>
@@ -4556,8 +4827,8 @@
      רחמנא ליצלן! הס מלהזכיר דברים כאלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4583,8 +4854,8 @@
      ולמה לא תהיה לך הזכות ללבֹש בגדים כאלה? הלא יש נשמה בת-אלמָות גם-לך,נילס. או שמא תאמר, נשמה אין לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
    </sp>
@@ -4593,8 +4864,8 @@
      אמנם כן חושב אני, שבאמת…
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4613,8 +4884,8 @@
      אלו ראית אפשרות להַקנות לך אותה מגבעת-הפלוסין, נילס ההיית מסכּים?
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
    </sp>
@@ -4623,8 +4894,8 @@
      אני, –אמנם לא ידעתי, – אכן חושב אני, כי…
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4651,8 +4922,8 @@
      הֲצָדַקְתִּי, אדוני הרוקח?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4661,8 +4932,8 @@
      אכן קֻשיה חמוּרה היא, דניאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4711,8 +4982,8 @@
      אבל בֹּא וראה, כי מרֹב דברים שכחתי לברך את האדון הרוקח ביום-שמחתו זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4721,8 +4992,8 @@
      לברכני? על-מה ולמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4731,8 +5002,8 @@
      אכן זאת ייטיב הרוקח לדעת ממני.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4741,8 +5012,8 @@
      לא, באמת, לא ידעתי, דניאל. בזמן האחרון הִרבּיתי כל-כך להתיַחד בין כתלי ביתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4752,8 +5023,8 @@
 את כל העיר מעבָרים, בקולות נגינה ובברקים מתפוצצים, בתרועת חצוצרות ורעש התֻּפים?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4762,8 +5033,8 @@
      לכבוד בני, אמרתּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4772,8 +5043,8 @@
      אמנם כן, לכבוד הדוקטור.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -4782,8 +5053,8 @@
      לכבוד אוֹד?… כלום יש איזו סבּה מיֻחדה לכך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4802,8 +5073,8 @@
      בעיני ראיתי את דינר-הזהב, אדוני הרוקח! אף אין זו מָעָה של נחֹשת לכל-הרוחות!
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -4825,8 +5096,8 @@
      בשעת השיחה הבּאה נשמע שוב השיר מימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -4839,8 +5110,8 @@
 כּי אז… יש להאמין רבּות ושונות… ועד-כמה שאני מכּיר את לַרס,אין דרכּו לשַׁקר.
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
    </sp>
@@ -4849,8 +5120,8 @@
      מה אפוא היה הדבר, שספר לַרס?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4859,8 +5130,8 @@
      הדבר היה באחד הלילות, כשהמתין לַמַּסע האנגלי. בשעה השלישית עבר לפני בית-המרקחת. אז ראה אור בירכתי הבית. הוא טפּס ועלה בגדר והביט פנימה. ומה ראו עיניו, סובר אתה? את הרוקח העומד בכֻתָּנתו ומכנסיו התחתונים ורוקח ומבַשל. כמי שמתכונן לסעֻדת-חתֻנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
     <p>
@@ -4872,8 +5143,8 @@
      רחמנא ליצלן, האמת נכון הדבר, דניאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4887,8 +5158,8 @@
      אשה זקנה ולה זנב עָבֶה עָמדה ועָזרה על-ידו.
     </p>
    </sp>
-   <sp>
-    <speaker id="nils">
+   <sp who="nils">
+    <speaker>
      נילס
     </speaker>
     <p>
@@ -4900,8 +5171,8 @@
      מכשפה זקנה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4969,8 +5240,8 @@
      בֵּינתים
     </p>
    </sp>
-   <sp>
-    <speaker id="hmnhl hַnsn">
+   <sp who="hmnhl hַnsn">
+    <speaker>
      המנהל הַנסן
     </speaker>
     <p>
@@ -4982,8 +5253,8 @@
      עתה הדליקו את העששיות, דניאל. הרי כבר הָדלקו בכל-המקומות
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
    </sp>
@@ -4997,8 +5268,8 @@
      הם מדליקים את העששיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="dnil">
+   <sp who="dnil">
+    <speaker>
      דניאל
     </speaker>
     <p>
@@ -5020,8 +5291,8 @@
      אוד ובורגהילד באים שלובי-זרוע.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5041,8 +5312,8 @@
 קבוצות לשמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud uburghild">
+   <sp who="ud uburghild">
+    <speaker>
      אוד ובורגהילד
     </speaker>
     <p>
@@ -5054,8 +5325,8 @@
      השיחה הבאה בין אוד ובורגהילד נִשֵׂאת בנחת ובמתינות ברוח.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5065,8 +5336,8 @@
 ונושאים את חזי ומרימים אותו למעלה, למעלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5075,8 +5346,8 @@
      ההנך שמח עתה, אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5096,8 +5367,8 @@
 חזךְ עולה ומתנשא באויר… הוי, בורגהילד פעמים רבות נדמה לי, כאלו הנך יותר מבּת-חוה!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5109,8 +5380,8 @@
      ידעתי, כי שעה זו בוא תבוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5119,8 +5390,8 @@
      מה אמרתּ, בורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5159,8 +5430,8 @@
 אוד, היוצר את כל-אלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5169,8 +5440,8 @@
      הסוברת אתּ כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5179,8 +5450,8 @@
      אתה, אוד, אתה האיש!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5204,8 +5475,8 @@
      ואותו החג הגדול שבּלבּותינו, אותו נשוב ונריק. על בני-האדם על-פני האדמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5214,8 +5485,8 @@
      בכל בית שבָּעיר נִפַּח נשמה חגיגית, חגיגה יום-יומית!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5225,8 +5496,8 @@
 שהיא יורדת ונוקבת את לב האדמה, כה שחורה ומלאת-מסתורין.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5248,8 +5519,8 @@
      צֵא וַחשֹׁב, עתה יהיו כל ימי-חיינו כָּערב האחד הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5258,8 +5529,8 @@
      המאמינה אתּ, שכּן יהיה, בּורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5278,8 +5549,8 @@
      אני רוצה, שיהיה כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5291,8 +5562,8 @@
      היכן הייתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5304,8 +5575,8 @@
      שוב נהיה יוצאים לטיולינו כקדם. ערב ערב… ואתה תביע כל אותם הניבים המתוקים… ואתה תנאם לפני בני-האדם, ואנכי אהיה יושבת ומקשיבה
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5317,8 +5588,8 @@
      כן, אלה היו רק תעתועי הדמיון. הונאה עצמית, מכֻשף הייתי ונשבּיתי לבין ההרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5335,8 +5606,8 @@
      שומע אתה מה שאני אומרת, אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5345,8 +5616,8 @@
      כן, שומע אנכי. שכחתי, שאתּ היא זאת. כאלו דבר-מה חם באויר נשק לי על לחיי.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5355,8 +5626,8 @@
      מבין אתה, לְמָה אני מתכַּוֶּנת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5365,8 +5636,8 @@
      חזרי על הדברים.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
     <p>
@@ -5388,8 +5659,8 @@
      מבין אתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5403,16 +5674,16 @@
      בורגהילד מלטפת את חָזֵהָ בידה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bֶrg">
+   <sp who="bֶrg">
+    <speaker>
      בֶּרג
     </speaker>
     <p>
      נכנס מימין, עומד שעה קלה מנגד, אז יקרב אליהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -5421,8 +5692,8 @@
      ערב נחמד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5431,8 +5702,8 @@
      האם לא כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -5441,8 +5712,8 @@
      ואני זה עתה שמעתי בדבר החג… לכבודך יוּחג. אני לא ידעתי זאת. הייתי מתרחק מכּל-זה בזמן האחרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5451,8 +5722,8 @@
      ואנו לא חפצנו להגיד זאת. חפצנו להפתיע את אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -5461,8 +5732,8 @@
      אף זכית בפרס של התערוכה העולמית, כי הלא יש להודות,  הזוכה בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5471,8 +5742,8 @@
      כן, כלום אין מר ברג שמח עתה? כלום איננו מתגאה?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -5486,8 +5757,8 @@
      – אחת אמרּתּי להגיד לך, אוֹד. עת ארֻכּה הייתי מהרהר בה. אולם היה עלי לשקול כה הרבה בראשונה…. זוכר אתה, פעם אחת השתמשתי במבטאים עַזים…
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5496,8 +5767,8 @@
      וַדאי, שלך היתה הצדקה, אבּא.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -5506,8 +5777,8 @@
      אנכי לא צדקתּי, אוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5519,8 +5790,8 @@
      … לא צדקתּ….?
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -5547,8 +5818,8 @@
      בכַלותו את דבריו הוא מהר לצאת לשמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5562,8 +5833,8 @@
      הוא שָׂם ידו על מצחו.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5572,8 +5843,8 @@
      מה לך, אוד? במה הנך מהרהר?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5592,8 +5863,8 @@
      אני מֻכרח לדבר אתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5602,8 +5873,8 @@
      בֹּא אוד! זכֹר עוד לא יצאנו במחולות יחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5612,8 +5883,8 @@
      מחולות? תכף ומיד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -5625,8 +5896,8 @@
      האין זרועי גמישה למַדַּי, אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5640,8 +5911,8 @@
      – –דעי, עזביני לנפשי רגע אחד, בורגהילד, רק רגע אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5650,8 +5921,8 @@
      למה הנך רוצה להתיַחד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -5660,8 +5931,8 @@
      מֻכרח אני… מֻכרח אני להתכּוֹנן לקראת החג…
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -5670,8 +5941,8 @@
      בֹּא, אוד, ונלכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5688,8 +5959,8 @@
      בורגהילד הולכת-לה בנחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5716,8 +5987,8 @@
      היא יוצאת במתינות לשמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5734,8 +6005,8 @@
      מאותו הצד באים במרוצה שני נערים קטנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhd">
+   <sp who="hkhd">
+    <speaker>
      האחד
     </speaker>
    </sp>
@@ -5744,21 +6015,21 @@
      רַקַּיטוֹת זֶה שְׁמָן!
     </p>
    </sp>
-   <sp>
-    <speaker id="hshni">
+   <sp who="hshni">
+    <speaker>
      השני
     </speaker>
    </sp>
-   <sp>
-    <speaker id="uni">
+   <sp who="uni">
+    <speaker>
      ואני
     </speaker>
     <p>
      אומר, ששמָן הוא רַקֵּיטות.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhd">
+   <sp who="hkhd">
+    <speaker>
      האחד
     </speaker>
    </sp>
@@ -5767,8 +6038,8 @@
      כן, אבל אבּא אומר רַקִּיטוֹת,  היודע.
     </p>
    </sp>
-   <sp>
-    <speaker id="hshni">
+   <sp who="hshni">
+    <speaker>
      השני
     </speaker>
    </sp>
@@ -5777,8 +6048,8 @@
      כן, אבל אבּא שלי אומר רַקֵּיטות.
     </p>
    </sp>
-   <sp>
-    <speaker id="hkhd">
+   <sp who="hkhd">
+    <speaker>
      האחד
     </speaker>
    </sp>
@@ -5793,8 +6064,8 @@
      הנער  רץ אחריו להכותו, שניהם יוצאים במרוצתם לשמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -5831,8 +6102,8 @@
      מימין באים ארבעה גברים בבגדי-חג, שכורי יין-שמפַּניה, ומַרבּים בתנועות-ידיהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmnhl hַnsn">
+   <sp who="hmnhl hַnsn">
+    <speaker>
      המנהל הַנסן
     </speaker>
    </sp>
@@ -5846,8 +6117,8 @@
      מה דעתו הוא, וִילה?
     </p>
    </sp>
-   <sp>
-    <speaker id="oylh">
+   <sp who="oylh">
+    <speaker>
      וילה
     </speaker>
    </sp>
@@ -5856,8 +6127,8 @@
      אדוני המנהל צודק בהחלט.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnsn">
+   <sp who="hnsn">
+    <speaker>
      הנסן
     </speaker>
    </sp>
@@ -5866,8 +6137,8 @@
      אם מֻתּר לי לשאֹל, כלום יש בעולם דבר נפלא מזה של מחזור הַמָּמון והצדק האלהי אם יש לאמר כן, שמשפיעים עלינו חֻקיו המיֻחדים של מחזור זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="stin">
+   <sp who="stin">
+    <speaker>
      סטין
     </speaker>
    </sp>
@@ -5877,8 +6148,8 @@
 ואין ממון אלא עבודה, ומה יעשו אלה, שאינם יכולים למצֹא להם עבודה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hnsn">
+   <sp who="hnsn">
+    <speaker>
      הנסן
     </speaker>
    </sp>
@@ -5887,8 +6158,8 @@
      הכֹּל יכולים למצֹא עבודה. מעתה יוכלו הכּל למצֹא עבודה. כל אלה הרוצים בכך.
     </p>
    </sp>
-   <sp>
-    <speaker id="oylh">
+   <sp who="oylh">
+    <speaker>
      וילה
     </speaker>
    </sp>
@@ -5897,8 +6168,8 @@
      נָכוֹן כִּנְכוֹן היום.
     </p>
    </sp>
-   <sp>
-    <speaker id="hnsn">
+   <sp who="hnsn">
+    <speaker>
      הנסן
     </speaker>
    </sp>
@@ -5911,8 +6182,8 @@
 אף את הסוסים והכלבים?
     </p>
    </sp>
-   <sp>
-    <speaker id="stin">
+   <sp who="stin">
+    <speaker>
      סטין
     </speaker>
    </sp>
@@ -5935,8 +6206,8 @@
      ד"ר  והגבירה  באים, שלובי-זרוע, מימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
     <p>
@@ -5948,8 +6219,8 @@
      אני אומר, שהגבירה  את לבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
    </sp>
@@ -5958,8 +6229,8 @@
      אולם הרי אין איש פה
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
    </sp>
@@ -5968,8 +6239,8 @@
      אף לא נשמת-חיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hgbirh stin">
+   <sp who="hgbirh stin">
+    <speaker>
      הגבירה סטין
     </speaker>
     <p>
@@ -5991,8 +6262,8 @@
      מי מלל בשעת החגיגה האחרונה שחַגֹנו יחדו… בצחוק מרֻסס בשעה שהָראיתָ לי את שקוי-החיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
    </sp>
@@ -6016,8 +6287,8 @@
      השיר נשמע שעה קלה,  באים משמאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6056,16 +6327,16 @@
      לפעמים דחוקות כה יכול אני להסתכל בעיניך לכל-עָמקן, בורגהילד.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
      מושיטה לו את ידה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -6077,8 +6348,8 @@
      אתה לא מְשַׁכְתָּהּ בחזרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6087,8 +6358,8 @@
      מה אמרת?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6097,8 +6368,8 @@
      לפעמים הנך מושך את ידך ממני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6108,8 +6379,8 @@
 את-עצמו, בורגהילד.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6118,8 +6389,8 @@
      אני יודעת אחת, שתוכל ללָמדך להבין את-עצמך. אני יודעת אחת, שיכולה לתת לך גבוּרה אלהית.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6128,8 +6399,8 @@
      יודעת אתּ, בורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6138,8 +6409,8 @@
      שְׁמַע, הם קוראים הידד!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -6156,8 +6427,8 @@
      מה לך, אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6172,8 +6443,8 @@
 וצעירים, בתלבשוֹת-חג.
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlm">
+   <sp who="kֻlm">
+    <speaker>
      כֻּלם
     </speaker>
    </sp>
@@ -6182,8 +6453,8 @@
      הידד! יחי אוֹד בֶּרג!
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -6200,8 +6471,8 @@
      נוטלת את ידיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6215,8 +6486,8 @@
      הם שׁותקים שעה קלה בעוד הקריאות נשנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6230,8 +6501,8 @@
      הקריאות נמשכות. אז עולה אוד בשפוע ההר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6262,8 +6533,8 @@
      יסערו גלי החיים בתוכנו, רֵעַי! הבה נשלח את מִפרשׂינו ברוח על-פני יַם הַשָׁעות, בעוד הרוח מנשבת אל מול המטרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlm">
+   <sp who="kֻlm">
+    <speaker>
      כֻּלם
     </speaker>
    </sp>
@@ -6272,8 +6543,8 @@
      הידד! הידד!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6322,8 +6593,8 @@
      יחי אוד בֶּרג!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6332,16 +6603,16 @@
      אני אומר הללוּיה על המחול, על האשה, על האהבה!
     </p>
    </sp>
-   <sp>
-    <speaker id="kֻlm">
+   <sp who="kֻlm">
+    <speaker>
      כֻּלם
     </speaker>
     <p>
      מוחאים כף ושמחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6387,8 +6658,8 @@
      הוא נחפז תכף לצאת בפתח הימין בינות להמון, המריע לכבודו בלי-בטחה. מבטים תמהים מלַוים אותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -6400,16 +6671,16 @@
      הוא הלך… לבדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mkbutss mshukhkhim">
+   <sp who="mkbutss mshukhkhim">
+    <speaker>
      מקבוצת משוחחים
     </speaker>
     <p>
      :
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
    </sp>
@@ -6418,8 +6689,8 @@
      זה נגמר באֹפן מתמיה קצת…
     </p>
    </sp>
-   <sp>
-    <speaker id="hnsn">
+   <sp who="hnsn">
+    <speaker>
      הנסן
     </speaker>
    </sp>
@@ -6448,8 +6719,8 @@
      בֶּרג הזקן. בֶּרג הזקן.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -6473,8 +6744,8 @@
      האם איננו כאן? כלום אין אוֹד בזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus msfr">
+   <sp who="kulus msfr">
+    <speaker>
      קולות מספר
     </speaker>
    </sp>
@@ -6488,8 +6759,8 @@
      מביאים אותו. בינתים קמה דממה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -6550,8 +6821,8 @@
      כמה הייתי מתגעגע! על בני-האדם, על אהבתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="esh">
+   <sp who="esh">
+    <speaker>
      עתה
     </speaker>
     <p>
@@ -6583,8 +6854,8 @@
      אנשים חדשים יש ליצוֹר! חדשים מעִקָּרם מתּחילה! שיהיו בהם אִטּוֹמִים חדשים, אוד!
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות
     </speaker>
    </sp>
@@ -6593,8 +6864,8 @@
      הרי זה מָלַא. הוא שתה לשכרה. הקץ לדברי-רוח! הס! הס!
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -6617,8 +6888,8 @@
      שתיקה
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
     <p>
@@ -6686,32 +6957,32 @@
      אוד! התלך עמי? מכֻּלם והלאה. הרחק, הרחק.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      צועד מספּר צעדים לפניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
      באה אחריו ומחזיקה בזרועו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud mrh el burghild">
+   <sp who="ud mrh el burghild">
+    <speaker>
      אוד מראה על בורגהילד
     </speaker>
     <p>
      .
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -6720,16 +6991,16 @@
      התבוא אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
      מניחה את שתי זרועותיה על כתפי אוד ועוצרת בעדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brg">
+   <sp who="brg">
+    <speaker>
      ברג
     </speaker>
    </sp>
@@ -6743,8 +7014,8 @@
      הוא הולך-לו בתוך דומית פלאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="utu">
+   <sp who="utu">
+    <speaker>
      אוטו
     </speaker>
    </sp>
@@ -6804,8 +7075,8 @@
      הם יוצאים אגב משחקם לימין. השירה נאלמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -6817,8 +7088,8 @@
      אוד!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -6830,8 +7101,8 @@
      מה את , בורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6840,16 +7111,16 @@
      למה הנך עומד ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      אינו משיב.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6858,16 +7129,16 @@
      הבט אלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      עושה כמצוָתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -6879,16 +7150,16 @@
      אוד! בֹּא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      בא לקראתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burgihld">
+   <sp who="burgihld">
+    <speaker>
      בורגיהלד
     </speaker>
     <p>
@@ -6915,16 +7186,16 @@
      מי ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      מלטף את ידה ומסתכל בשרטוטיה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6933,8 +7204,8 @@
      מי , אוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6943,8 +7214,8 @@
      בורגהילד… בורגהילד שלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6953,8 +7224,8 @@
      האם אני אֵלָתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -6966,8 +7237,8 @@
      אֵלָתִ אתּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -6976,8 +7247,8 @@
      האם אני הדבר האחד עלי-אדמות?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -6986,8 +7257,8 @@
      כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
    </sp>
@@ -6996,16 +7267,16 @@
      הדבר האחד שבעולם כלו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
      אינו עונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
    </sp>
@@ -7019,8 +7290,8 @@
      הפסקה. היא מלטפת את שערותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -7032,8 +7303,8 @@
      אָנה זה הלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
     <p>
@@ -7050,8 +7321,8 @@
      היא מנשקת את שערו, מבלי שישים לב לכך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -7063,8 +7334,8 @@
      מה-זאת, בורגהילד?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -7073,8 +7344,8 @@
      אני נשקתי את שערך ואתה לא שמתּ לב לכך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -7087,8 +7358,8 @@
 גרמֵי לחייך אלה… החלק שלמעלה. ממשש באצבעו מבפנים שם היא הַקַּרְקֶפֶת… דומה לכל קרקפת שבעולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
     <p>
@@ -7125,8 +7396,8 @@
      היא נושקת לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -7148,8 +7419,8 @@
      מי ?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בורגהילד
     </speaker>
    </sp>
@@ -7173,8 +7444,8 @@
      כֵּן נֶאְגֹּד זֶה בָזֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
     <p>
@@ -7191,8 +7462,8 @@
      הראִית?
     </p>
    </sp>
-   <sp>
-    <speaker id="burghild">
+   <sp who="burghild">
+    <speaker>
      בּורגהילד
     </speaker>
    </sp>
@@ -7201,8 +7472,8 @@
      מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ud">
+   <sp who="ud">
+    <speaker>
      אוד
     </speaker>
    </sp>
@@ -7232,8 +7503,8 @@
      לילי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmskh">
+   <sp who="hmskh">
+    <speaker>
      המסך
     </speaker>
    </sp>

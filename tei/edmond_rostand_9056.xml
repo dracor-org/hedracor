@@ -46,6 +46,42 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="ֲnִi uֹhֵb uֹsָhּ – uֹsֵkh">
+      <persName>
+       אֲנִי אוֹהֵב אוֹתָהּ – אוֹתֵך
+      </persName>
+     </person>
+     <person xml:id="ruֹksnh">
+      <persName>
+       רוֹקסנה
+      </persName>
+     </person>
+     <person xml:id="ruksnh">
+      <persName>
+       רוקסנה
+      </persName>
+     </person>
+     <person xml:id="ִm ֶl pְnֵi khַmָּh nַbִit bִmluֹ-zִyuָn">
+      <persName>
+       אִם אֶל פְּנֵי חַמָּה נַבִּיט בִּמלוֹא-זִיוָן
+      </persName>
+     </person>
+     <person xml:id="khristin">
+      <persName>
+       כריסטין
+      </persName>
+     </person>
+     <person xml:id="sirnu">
+      <persName>
+       סירנו
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -72,8 +108,8 @@
      הפּעם מאן כּרִיסטיָן בּשעוּריו של סִירָנוֹ, דבּר מה שעלה על לבּו – ולא הצליח, נראה לה כּגַס וחסר-טעם, והיא עזבתהוּ בגן ונעלמה אל תּוֹך הבּית. בּצערוֹ התחנן כּריסטין לסירנוֹ שיצילנוּ; והסכּימוּ שיתחבּא סירנוֹ בצל תּחת הגזוֹזטרה וילחש את דבריו לצעיר שיאמר אוֹתם לרוֹקסָנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹksnh">
+   <sp who="ruֹksnh">
+    <speaker>
      רוֹקסנה
     </speaker>
     <p>
@@ -85,8 +121,8 @@
      מִי זֶה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -98,8 +134,8 @@
      אֲנִי, כּרִיסטיָן.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹksnh">
+   <sp who="ruֹksnh">
+    <speaker>
      רוֹקסנה
     </speaker>
     <p>
@@ -111,8 +147,8 @@
      מַה חֵפֶץ אֲדוֹנִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -124,8 +160,8 @@
      מִלָּה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -137,8 +173,8 @@
      מִלָּיו – תָּפֵל שֶׁאֵין תָּפֵל מִמֶּנּוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -150,8 +186,8 @@
      דַּבֵּר בְּקוֹל נָמוּך.
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -163,8 +199,8 @@
      תִּשׁמַע נָא…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -181,8 +217,8 @@
      אוֹהֵב אוֹתִי יוֹתֵר, דַּיֵּנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -199,8 +235,8 @@
      אוֹהֵב יוֹתֵר!…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -212,8 +248,8 @@
      לֹא רַע: מַתחִיל לְהִתעוֹרֵר?
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -230,8 +266,8 @@
      כִּי נְדוּדֶיהָ לוֹ… כְּעֶרֶשׂ רִעֲרוּעַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
    </sp>
@@ -245,8 +281,8 @@
      דַּעתִּי הִיא לְחַנֵּק אֶת אֶרוֹס בְּעַרשוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -263,8 +299,8 @@
      עֵינָיו… הִכַּרתִּי בוֹ… אֲחִי שִׁמשׁוֹן לַכֹּחַ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -276,8 +312,8 @@
      לֹא רָע!
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -294,8 +330,8 @@
      זוּג אֲרָיוֹת: גֵּאוּת… וָסֵפֶק!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -322,8 +358,8 @@
      מִלִּים? מָה עוֹד קָרָה, שֶׁדִּמיוֹנוֹ צוֹלֵעַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -340,8 +376,8 @@
      (הוא מחליף מקומות עם כריסטין)
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -358,8 +394,8 @@
      אֲשֶׁר קוֹלוֹ הַיּוֹם רוֹפֵף?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -376,8 +412,8 @@
      קוֹלִי יָמֵשׁ נְתִיב אָזנָהּ מִתּוֹך עַוֶּרֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -389,8 +425,8 @@
      אֵין קֹשִׁי לִדבָרַי: מַדּוּעַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -427,8 +463,8 @@
      אַך דְּבָרַי עוֹלִים: קָשֶׁה לָהֶם מַשׂאֵת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -440,8 +476,8 @@
      נִדמֶה שֶׁהֵם עוֹלִים יוֹתֵר מַהֵר כָּעֵת.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -453,8 +489,8 @@
      כִּי הָרגְּלוּ מְעַט בַּדֶּרֶך הַכַּרכֹּבָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -466,8 +502,8 @@
      אוּלַי יְצַו עָלַי לָרֶדֶת מִן הַגֹּבַהּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -484,8 +520,8 @@
      כִּי עַל לִבִּי מִשָּׁם יִפּוֹל דִּבּוּר קָשֶׁה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -497,8 +533,8 @@
      אֵרֵד.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -510,8 +546,8 @@
      הוֹ לֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -523,8 +559,8 @@
      סַפסָל לְמַטָּה, יַעֲלֶה-נָא.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -536,8 +572,8 @@
      לֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -549,8 +585,8 @@
      לָמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -572,8 +608,8 @@
      דַּבֵּר וְלֹא לִראוֹת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -585,8 +621,8 @@
      מַדּוּעַ לֹא לִראוֹת?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -623,8 +659,8 @@
      נָאֶה לָהּ לִפעָמִים שִׂיחִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -636,8 +672,8 @@
      הוֹ כֵן, נָאֶה לִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -654,8 +690,8 @@
      מֵעֹמֶק…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -667,8 +703,8 @@
      לָמָּה לֹא?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -685,8 +721,8 @@
      דִּבַּרתִּי דֶרֶך…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -698,8 +734,8 @@
      מַה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -721,8 +757,8 @@
      הַיּוֹם נִפגַּשׁנוּ פֹּה בְּפַעַם רִאשׁוֹנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -734,8 +770,8 @@
      אֱמֶת, קוֹלוֹ שׁוֹנֶה – גַּם שְׂפָתוֹ שׁוֹנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -767,8 +803,8 @@
      כִּי זֶה כָּל-כָּך עָרֵב – כִּי זֶה כָּל-כָּך… חָדָשׁ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -780,8 +816,8 @@
      חָדָשׁ?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -798,8 +834,8 @@
      עָצַרתִּי אֶת לִבִּי תָמִיד, וּצחוֹק יָרֵאתִי…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -811,8 +847,8 @@
      וּצחוֹק? עַל מָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -839,8 +875,8 @@
      וּפֶן אַצחִיק – עוֹמֵד לִלקוֹט בַּדֶּשֶׁא פֶרַח!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -852,8 +888,8 @@
      אַך גַּם פִּרחוֹ יָפֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -865,8 +901,8 @@
      הַיּוֹם אוֹתוֹ נִבזֶה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -878,8 +914,8 @@
      מוּזָר – הוּא עַד הַיּוֹם עוֹד לֹא דִבֵּר כָּזֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -916,8 +952,8 @@
      רָוִינוּ בִגמִיאָה מִתּוֹך גַּלֵּי הַפֶּלֶג!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -929,8 +965,8 @@
      סוֹף לְדִבּוּר צַחוֹת?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -987,8 +1023,8 @@
      וַחֲרִיפוּת שֶׁל קוֹץ תִּהיֶה חֶרפָּה שֶׁל קֵץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1000,8 +1036,8 @@
      גַּם סוֹף לַחֲרִיפוּת?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1038,8 +1074,8 @@
      וּמַר לוֹ כָל קִשּׁוּט כָּרַעַל – לֹא, כַּמָּעַל!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1056,8 +1092,8 @@
      מַה - מַה יֹּאמַר לִי אָז?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1079,8 +1115,8 @@
      אַשׁלִיך מִלָּי: אֲנִי צָמֵא, אֲנִי גוֹוֵעַ,
     </p>
    </sp>
-   <sp>
-    <speaker id="ֲnִi uֹhֵb uֹsָhּ – uֹsֵkh">
+   <sp who="ֲnִi uֹhֵb uֹsָhּ – uֹsֵkh">
+    <speaker>
      אֲנִי אוֹהֵב אוֹתָהּ – אוֹתֵך
     </speaker>
     <p>
@@ -1122,8 +1158,8 @@
      שֶׁל תַּלתַּלֵּי רֹאשֵׁך – הוּא לִי מָאוֹר וָזֹהַר;
     </p>
    </sp>
-   <sp>
-    <speaker id="ִm ֶl pְnֵi khַmָּh nַbִit bִmluֹ-zִyuָn">
+   <sp who="ִm ֶl pְnֵi khַmָּh nַbִit bִmluֹ-zִyuָn">
+    <speaker>
      אִם אֶל פְּנֵי חַמָּה נַבִּיט בִּמלוֹא-זִיוָן,
     </speaker>
    </sp>
@@ -1142,8 +1178,8 @@
      בַּכֹּל תָּשׁוּר עֵינִי כִתרֵי זָהָב מַגִּיהַּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1155,8 +1191,8 @@
      זֶה הוּא, סוֹד אַהֲבָה…
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1253,8 +1289,8 @@
      בָּרֶטֶט הַיּוֹרֵד בְּגֶפֶן חֲרֵדָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1271,8 +1307,8 @@
      הָרַעַד וְהַקּוֹל וְהַנּוֹאֵם!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1294,8 +1330,8 @@
      אֶל מָה אֶכסֹפָה עוֹד – זוּלַת אֶל…
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1307,8 +1343,8 @@
      נְשִׁיקָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1320,8 +1356,8 @@
      מָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1333,8 +1369,8 @@
      דֶּבֶר!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1346,8 +1382,8 @@
      הוּא דוֹרֵשׁ…?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1359,8 +1395,8 @@
      פָּזִיז!
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1377,8 +1413,8 @@
      אַל-תֵּלֶך לְאִבּוּד שָׁעָה כָזֹה שֶׁל כֹּשֶׁר!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1395,8 +1431,8 @@
      אֲבָל אֲנִי מֵבִין – בִּקַּשׁתִּי רַב מִדָּי…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1408,8 +1444,8 @@
      **לֵאמֹר – אֵינוֹ מַפצִיר?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1431,8 +1467,8 @@
      מַשׂאַת עֵינַי – אָז “לֹא”, וְהַדָּבָר מָחלָט.
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1444,8 +1480,8 @@
      מַדּוּעַ?!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1457,8 +1493,8 @@
      הַס, כּרִיסטיָן!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1470,8 +1506,8 @@
      מַה יֹאמֶר שָׁם בַּלָּט?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1528,8 +1564,8 @@
      (אחרי השיחה עם הקַפוצין. סירנו וכריסטיָן לבַדם בגן)
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1541,8 +1577,8 @@
      הַנְּשִׁיקָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1554,8 +1590,8 @@
      לֹא! לֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1567,8 +1603,8 @@
      אִם לֹא הַיּוֹם, מָחָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1600,8 +1636,8 @@
      (רוקסנה מופיעה על הגזוזטרה)
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1618,8 +1654,8 @@
      דִּבַּרנוּ עַל… עַל מָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1671,8 +1707,8 @@
      בֵּין דֶּמַע לִנשִׁיקָה הַגֶּשֶׁר הוּא נִיצוֹץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1684,8 +1720,8 @@
      הָס!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1737,8 +1773,8 @@
      וָקוּם בְּאֶרֶץ גִּיל, מֵעֵבֶר הַיַּרדֵּנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1750,8 +1786,8 @@
      הָס!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1773,8 +1809,8 @@
      הוֹפִיעָה בִנשִׁיקָה שֶׁל קֶרֶן אוֹר!
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1786,8 +1822,8 @@
      אִם כֵּן…
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1809,8 +1845,8 @@
      כָּמוֹהוּ מִתפַּלֵּל לָאוֹר שֶׁהַתִּיזֹות…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1822,8 +1858,8 @@
      כָּמוֹהוּ – גַם יָפֶה!
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1835,8 +1871,8 @@
      “יָפֶה” – שָׁכַחתִּי זֹאת…
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1848,8 +1884,8 @@
      אִם כֵּן, עֲלֶה-נָא, בּוֹא לַחתּוֹם חוֹתַם הַכֶּתֶר
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1861,8 +1897,8 @@
      עֲלֵה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1874,8 +1910,8 @@
      …לִלקוֹט נִדרִי בִלשׁוֹן זִמזוּם הַסֵּתֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>
@@ -1887,8 +1923,8 @@
      עֲלֵה!
     </p>
    </sp>
-   <sp>
-    <speaker id="khristin">
+   <sp who="khristin">
+    <speaker>
      כריסטין
     </speaker>
     <p>
@@ -1900,8 +1936,8 @@
      כָּל הָעִניָן קְצָת עָקוּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="ruksnh">
+   <sp who="ruksnh">
+    <speaker>
      רוקסנה
     </speaker>
     <p>
@@ -1913,8 +1949,8 @@
      כִּבנֵי אֵין-סוֹף, אֵין-סוֹף…
     </p>
    </sp>
-   <sp>
-    <speaker id="sirnu">
+   <sp who="sirnu">
+    <speaker>
      סירנו
     </speaker>
     <p>

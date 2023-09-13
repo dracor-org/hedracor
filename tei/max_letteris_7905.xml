@@ -46,6 +46,22 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="yush">
+      <persName>
+       יואש
+      </persName>
+     </person>
+     <person xml:id="khisufl">
+      <persName>
+       אחיתופל
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -77,8 +93,8 @@
      אישון לילה. הולכים שניהם יחדיו דומם בין סבכי היער.
     </p>
    </sp>
-   <sp>
-    <speaker id="yush">
+   <sp who="yush">
+    <speaker>
      יואש
     </speaker>
    </sp>
@@ -137,8 +153,8 @@
      אַל תִּמְשְׁכֵנִי הָלְאָה – לֹא אוֹסִיף לֶכֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khisufl">
+   <sp who="khisufl">
+    <speaker>
      אחיתופל
     </speaker>
    </sp>
@@ -147,8 +163,8 @@
      זֶה הַמָּקוֹם!
     </p>
    </sp>
-   <sp>
-    <speaker id="yush">
+   <sp who="yush">
+    <speaker>
      יואש
     </speaker>
    </sp>
@@ -162,8 +178,8 @@
      עֵת לְבַלַּע כָּל הַיְקוּם רָגְזָה מִתַּחַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khisufl">
+   <sp who="khisufl">
+    <speaker>
      אחיתופל
     </speaker>
    </sp>
@@ -237,8 +253,8 @@
      שָׁם תָּכִין לִבְּךָ וְאָנֹכִי אֲדַבֵּרָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yush">
+   <sp who="yush">
+    <speaker>
      יואש
     </speaker>
    </sp>
@@ -247,8 +263,8 @@
      הָהּ! מַה-זֶה אֶשְׁמָע! אָזְנַי תִּצַּלְנָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="khisufl">
+   <sp who="khisufl">
+    <speaker>
      אחיתופל
     </speaker>
    </sp>
@@ -322,8 +338,8 @@
      אָז שְׁמוֹעַ הַוָּתִי יִכּוֹן לִבֶּךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yush">
+   <sp who="yush">
+    <speaker>
      יואש
     </speaker>
    </sp>
@@ -332,8 +348,8 @@
      נָא דַבֵּר! לֹא אוּכַל נְשׂוֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khisufl">
+   <sp who="khisufl">
+    <speaker>
      אחיתופל
     </speaker>
    </sp>
@@ -347,8 +363,8 @@
      שְׁקָה לִי בְּנִי בְּטֶרֶם אֵלֵךְ – וְאֵינֶנִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="yush">
+   <sp who="yush">
+    <speaker>
      יואש
     </speaker>
    </sp>
@@ -357,8 +373,8 @@
      אוֹי לִי! הֻכָּה לִבִּי עַד מָוֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="khisufl">
+   <sp who="khisufl">
+    <speaker>
      אחיתופל
     </speaker>
    </sp>

@@ -46,6 +46,172 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="mְdִinָh">
+      <persName>
+       מְדִינָה
+      </persName>
+     </person>
+     <person xml:id="eֵtsָh">
+      <persName>
+       עֵצָה
+      </persName>
+     </person>
+     <person xml:id="bun">
+      <persName>
+       בּוּן
+      </persName>
+     </person>
+     <person xml:id="shׁuֹmֵr hַpֶsַkh">
+      <persName>
+       שׁוֹמֵר הַפֶּתַח
+      </persName>
+     </person>
+     <person xml:id="tsֶdֶk">
+      <persName>
+       צֶדֶק
+      </persName>
+     </person>
+     <person xml:id="smh hmerkhh hrshunh">
+      <persName>
+       תמה המערכה הראשונה
+      </persName>
+     </person>
+     <person xml:id="smh hmerkhh hshnih">
+      <persName>
+       תמה המערכה השניה
+      </persName>
+     </person>
+     <person xml:id="nֱֶsָfִim">
+      <persName>
+       נֶאֱסָפִים
+      </persName>
+     </person>
+     <person xml:id="hִi">
+      <persName>
+       הִיא
+      </persName>
+     </person>
+     <person xml:id="herh khllis">
+      <persName>
+       הערה כללית
+      </persName>
+     </person>
+     <person xml:id="hַmְshֵׁl">
+      <persName>
+       הַמְשֵׁל
+      </persName>
+     </person>
+     <person xml:id="lַhֲkַs mְshׁuֹrְrִim">
+      <persName>
+       לַהֲקַת מְשׁוֹרְרִים
+      </persName>
+     </person>
+     <person xml:id="btslm khi mdbr, eshh usm hmkhbr">
+      <persName>
+       בצלם חי מדבר, עשה אותם המחבר
+      </persName>
+     </person>
+     <person xml:id="ahֲbָh">
+      <persName>
+       אַהֲבָה
+      </persName>
+     </person>
+     <person xml:id="shir el drkh hkhzyun, bshlsh merkhus">
+      <persName>
+       שיר על דרך החזיון, בשלש מערכות
+      </persName>
+     </person>
+     <person xml:id="frnts izef hrshun">
+      <persName>
+       פראנץ יאזעף הראשון
+      </persName>
+     </person>
+     <person xml:id="lְuֹm">
+      <persName>
+       לְאוֹם
+      </persName>
+     </person>
+     <person xml:id="hu">
+      <persName>
+       הוּא
+      </persName>
+     </person>
+     <person xml:id="b">
+      <persName>
+       ב
+      </persName>
+     </person>
+     <person xml:id="*">
+      <persName>
+       *
+      </persName>
+     </person>
+     <person xml:id="ֵikhָh">
+      <persName>
+       אֵיכָה
+      </persName>
+     </person>
+     <person xml:id="hַmִluֹs">
+      <persName>
+       הַמִלוֹת
+      </persName>
+     </person>
+     <person xml:id="uֹmֶts">
+      <persName>
+       אוֹמֶץ
+      </persName>
+     </person>
+     <person xml:id="mְlukhָh">
+      <persName>
+       מְלוּכָה
+      </persName>
+     </person>
+     <person xml:id="hmdbrim ilidi reyuni hmshurr hmh">
+      <persName>
+       המדברים ילידי רעיוני המשורר המה
+      </persName>
+     </person>
+     <person xml:id="ֲkַu">
+      <persName>
+       אֲקַו
+      </persName>
+     </person>
+     <person xml:id="lְrַpְuֹs">
+      <persName>
+       לְרַפְּאוֹת
+      </persName>
+     </person>
+     <person xml:id="hn ltsdk imlkh mlkh. (isheih lb, .)">
+      <persName>
+       הן לצדק ימלך מלך. (ישעיה לב, א.)
+      </persName>
+     </person>
+     <person xml:id="ֱmֶs">
+      <persName>
+       אֱמֶת
+      </persName>
+     </person>
+     <person xml:id="gְburָh">
+      <persName>
+       גְבוּרָה
+      </persName>
+     </person>
+     <person xml:id="g">
+      <persName>
+       ג
+      </persName>
+     </person>
+     <person xml:id="">
+      <persName>
+       א
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -62,18 +228,18 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="shir el drkh hkhzyun, bshlsh merkhus">
+   <sp who="shir el drkh hkhzyun, bshlsh merkhus">
+    <speaker>
      שיר על דרך החזיון, בשלש מערכות.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="hmdbrim ilidi reyuni hmshurr hmh">
+   <sp who="hmdbrim ilidi reyuni hmshurr hmh">
+    <speaker>
      המדברים ילידי רעיוני המשורר המה,
     </speaker>
    </sp>
-   <sp>
-    <speaker id="btslm khi mdbr, eshh usm hmkhbr">
+   <sp who="btslm khi mdbr, eshh usm hmkhbr">
+    <speaker>
      בצלם חי מדבר, עשה אותם המחבר.
     </speaker>
    </sp>
@@ -82,8 +248,8 @@
      לכבוד מלכנו הקיסר האהוב צדיק ונשגב רם ונשא
     </p>
    </sp>
-   <sp>
-    <speaker id="frnts izef hrshun">
+   <sp who="frnts izef hrshun">
+    <speaker>
      פראנץ יאזעף הראשון
     </speaker>
     <p>
@@ -100,8 +266,8 @@
      שנת  לפ"ק
     </p>
    </sp>
-   <sp>
-    <speaker id="hn ltsdk imlkh mlkh. (isheih lb, .)">
+   <sp who="hn ltsdk imlkh mlkh. (isheih lb, .)">
+    <speaker>
      הן לצדק ימלך מלך. (ישעיה לב, א.)
     </speaker>
    </sp>
@@ -172,8 +338,8 @@
 יריתי אבני הפנה לבנין מחברתי. ואלה הם:
     </p>
    </sp>
-   <sp>
-    <speaker id="">
+   <sp who="">
+    <speaker>
      א
     </speaker>
     <p>
@@ -195,8 +361,8 @@
 ולכל העם מקצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="b">
+   <sp who="b">
+    <speaker>
      ב
     </speaker>
     <p>
@@ -225,8 +391,8 @@
 החקים והוא בהסכמתו לחוות דעתיהם יתן עוז למו.
     </p>
    </sp>
-   <sp>
-    <speaker id="g">
+   <sp who="g">
+    <speaker>
      ג
     </speaker>
     <p>
@@ -267,98 +433,98 @@
      המחבר
     </p>
    </sp>
-   <sp>
-    <speaker id="lְuֹm">
+   <sp who="lְuֹm">
+    <speaker>
      לְאוֹם
     </speaker>
     <p>
      עשיר נכבד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mְdִinָh">
+   <sp who="mְdִinָh">
+    <speaker>
      מְדִינָה
     </speaker>
     <p>
      אשתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mְlukhָh">
+   <sp who="mְlukhָh">
+    <speaker>
      מְלוּכָה
     </speaker>
     <p>
      בתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="bun">
+   <sp who="bun">
+    <speaker>
      בּוּן
     </speaker>
     <p>
      חכם ורופא בית לאום.
     </p>
    </sp>
-   <sp>
-    <speaker id="eֵtsָh">
+   <sp who="eֵtsָh">
+    <speaker>
      עֵצָה
     </speaker>
     <p>
      בתו רעית מלוכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsֶdֶk">
+   <sp who="tsֶdֶk">
+    <speaker>
      צֶדֶק
     </speaker>
     <p>
      תלמיד בון.
     </p>
    </sp>
-   <sp>
-    <speaker id="ֱmֶs">
+   <sp who="ֱmֶs">
+    <speaker>
      אֱמֶת
     </speaker>
     <p>
      נאמן בית לאום וְרֵעַ צדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹmֶts">
+   <sp who="uֹmֶts">
+    <speaker>
      אוֹמֶץ
     </speaker>
     <p>
      פקיד לאום על משרתי ביתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַmְshֵׁl">
+   <sp who="hַmְshֵׁl">
+    <speaker>
      הַמְשֵׁל
     </speaker>
     <p>
      בן אומץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="gְburָh">
+   <sp who="gְburָh">
+    <speaker>
      גְבוּרָה
     </speaker>
     <p>
      בת אומץ שפחת מלוכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁuֹmֵr hַpֶsַkh">
+   <sp who="shׁuֹmֵr hַpֶsַkh">
+    <speaker>
      שׁוֹמֵר הַפֶּתַח.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="nֱֶsָfִim">
+   <sp who="nֱֶsָfִim">
+    <speaker>
      נֶאֱסָפִים.
     </speaker>
    </sp>
-   <sp>
-    <speaker id="lַhֲkַs mְshׁuֹrְrִim">
+   <sp who="lַhֲkַs mְshׁuֹrְrִim">
+    <speaker>
      לַהֲקַת מְשׁוֹרְרִים.
     </speaker>
    </sp>
@@ -1257,8 +1423,8 @@
      אַחֲרֵי יָשִׁיבוּ חַרְבּוֹתָם אֶל נְדָנֵיהֶם. –
     </p>
    </sp>
-   <sp>
-    <speaker id="ahֲbָh">
+   <sp who="ahֲbָh">
+    <speaker>
      אַהֲבָה
     </speaker>
     <p>
@@ -1950,8 +2116,8 @@
      שָׁעוֹת אֵלֶה לְזֹאת בִּלְתִּי נְכוֹנוֹת הֵנָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="smh hmerkhh hrshunh">
+   <sp who="smh hmerkhh hrshunh">
+    <speaker>
      תמה המערכה הראשונה
     </speaker>
    </sp>
@@ -2935,8 +3101,8 @@
      בְּעֵת נֶחְלָשָׁה, עֵת בְּהִתְעַלְפָה הִתְנַמְנָמָה,
     </p>
    </sp>
-   <sp>
-    <speaker id="hַmִluֹs">
+   <sp who="hַmִluֹs">
+    <speaker>
      הַמִלוֹת
     </speaker>
     “הִתְוַכֵּחַ” עִם “נִצְחוֹן מִלְחָמָה”
@@ -4456,8 +4622,8 @@
      תִּכְבַּד עֲלֵיהֶם יָדִי, אוֹרִידָה נִצְחָמוֹ. –
     </p>
    </sp>
-   <sp>
-    <speaker id="smh hmerkhh hshnih">
+   <sp who="smh hmerkhh hshnih">
+    <speaker>
      תמה המערכה השניה
     </speaker>
    </sp>
@@ -4611,8 +4777,8 @@
      עוּצִי עֵצָה, מֵאַיִן יָבֹא ,
     </p>
    </sp>
-   <sp>
-    <speaker id="lְrַpְuֹs">
+   <sp who="lְrַpְuֹs">
+    <speaker>
      לְרַפְּאוֹת
     </speaker>
     <p>
@@ -5082,8 +5248,8 @@
      עֵצָה זֹאת הֲלֹא גַם מִמֶנִי לֹא נִפְלָאָה,
     </p>
    </sp>
-   <sp>
-    <speaker id="ֵikhָh">
+   <sp who="ֵikhָh">
+    <speaker>
      אֵיכָה
     </speaker>
     <p>
@@ -5610,8 +5776,8 @@
      מדינה
     </p>
    </sp>
-   <sp>
-    <speaker id="hִi">
+   <sp who="hִi">
+    <speaker>
      הִיא
     </speaker>
     <p>
@@ -5968,8 +6134,8 @@
      אֲחַלֶה אֶתְכֶם יַקִירַי: יְהִי רְצוֹנְכֶם לָשָׁבֶת!
     </p>
    </sp>
-   <sp>
-    <speaker id="ֲkַu">
+   <sp who="ֲkַu">
+    <speaker>
      אֲקַו
     </speaker>
     תִּכְבֶּה אֵשׁ חָלְיִי, תִּשְׁקַע הַלַהָבֶת!
@@ -6084,8 +6250,8 @@
      תִּתֵּךְ לְאִישׁ צוֹלֵחַ אַחַת הִיא עֲצָתָמוֹ,
     </p>
    </sp>
-   <sp>
-    <speaker id="hu">
+   <sp who="hu">
+    <speaker>
      הוּא
     </speaker>
     <p>
@@ -6921,8 +7087,8 @@
      אֵל אֱלֹהִים דִבֶּר בְּקָדְשׁוֹ "יְהִי אוֹר! וַיֶהִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="*">
+   <sp who="*">
+    <speaker>
      *
     </speaker>
     <p>
@@ -6930,8 +7096,8 @@
     <p>
     </p>
    </sp>
-   <sp>
-    <speaker id="herh khllis">
+   <sp who="herh khllis">
+    <speaker>
      הערה כללית
     </speaker>
    </sp>

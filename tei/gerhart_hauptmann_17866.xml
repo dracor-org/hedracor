@@ -46,6 +46,202 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="lizh bֶnsh">
+      <persName>
+       ליזה בֶנש
+      </persName>
+     </person>
+     <person xml:id="yekb rbinubits">
+      <persName>
+       יעקב רבינוביץ
+      </persName>
+     </person>
+     <person xml:id="rikhl tsin">
+      <persName>
+       אריכל צין
+      </persName>
+     </person>
+     <person xml:id="lizhbnshׁ">
+      <persName>
+       ליזהבנשׁ
+      </persName>
+     </person>
+     <person xml:id="mikhlnh">
+      <persName>
+       מיכאלנה
+      </persName>
+     </person>
+     <person xml:id="mrs krmr">
+      <persName>
+       מרת קרמר
+      </persName>
+     </person>
+     <person xml:id="kroyntmeyr">
+      <persName>
+       קרוינטמייר
+      </persName>
+     </person>
+     <person xml:id="mikhl krmr">
+      <persName>
+       מיכאל קרמר
+      </persName>
+     </person>
+     <person xml:id="loynh">
+      <persName>
+       אלוינה
+      </persName>
+     </person>
+     <person xml:id="lizh bֶnsh">
+      <persName>
+       ליזה בֶּנש
+      </persName>
+     </person>
+     <person xml:id="rnst lkhmn">
+      <persName>
+       ארנסט לחמן
+      </persName>
+     </person>
+     <person xml:id="koytmeyr">
+      <persName>
+       קויטמייר
+      </persName>
+     </person>
+     <person xml:id="kulus khrim">
+      <persName>
+       קולות אחרים
+      </persName>
+     </person>
+     <person xml:id="fritts">
+      <persName>
+       פריטץ
+      </persName>
+     </person>
+     <person xml:id="mrs lkhmn">
+      <persName>
+       מרת לחמן
+      </persName>
+     </person>
+     <person xml:id="ssur shnbl">
+      <persName>
+       אססור שנבל
+      </persName>
+     </person>
+     <person xml:id="drikhl tsin">
+      <persName>
+       אדריכל צין
+      </persName>
+     </person>
+     <person xml:id="mkhlinh">
+      <persName>
+       מכאלינה
+      </persName>
+     </person>
+     <person xml:id="kuntmeyr">
+      <persName>
+       קונטמייר
+      </persName>
+     </person>
+     <person xml:id="ssur shׁbl">
+      <persName>
+       אססור שׁבל
+      </persName>
+     </person>
+     <person xml:id="koyntmeyr">
+      <persName>
+       קוינטמייר
+      </persName>
+     </person>
+     <person xml:id="asֶsuֹr shְnַbl">
+      <persName>
+       אַסֶסוֹר שְנַבל
+      </persName>
+     </person>
+     <person xml:id="rnuld">
+      <persName>
+       ארנולד
+      </persName>
+     </person>
+     <person xml:id="ssur shׁnbl">
+      <persName>
+       אססור שׁנבל
+      </persName>
+     </person>
+     <person xml:id="kroyzh">
+      <persName>
+       קרויזה
+      </persName>
+     </person>
+     <person xml:id="lkhmn">
+      <persName>
+       לחמן
+      </persName>
+     </person>
+     <person xml:id="fun kroytheym">
+      <persName>
+       פון קרויטהיים
+      </persName>
+     </person>
+     <person xml:id="runld">
+      <persName>
+       ארונלד
+      </persName>
+     </person>
+     <person xml:id="llkhmn">
+      <persName>
+       ללחמן
+      </persName>
+     </person>
+     <person xml:id="brsh">
+      <persName>
+       ברתה
+      </persName>
+     </person>
+     <person xml:id="lizh bnsh">
+      <persName>
+       ליזה בנש
+      </persName>
+     </person>
+     <person xml:id="krmr">
+      <persName>
+       קרמר
+      </persName>
+     </person>
+     <person xml:id="lizh bnshׁ">
+      <persName>
+       ליזה בנשׁ
+      </persName>
+     </person>
+     <person xml:id="tsin">
+      <persName>
+       צין
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="shnbl">
+      <persName>
+       שנבל
+      </persName>
+     </person>
+     <person xml:id="mikhlinh">
+      <persName>
+       מיכאלינה
+      </persName>
+     </person>
+     <person xml:id="shׁnbl">
+      <persName>
+       שׁנבל
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -194,117 +390,117 @@
      פתח־‬תקוה שבט 1911.
     </p>
    </sp>
-   <sp>
-    <speaker id="yekb rbinubits">
+   <sp who="yekb rbinubits">
+    <speaker>
      יעקב רבינוביץ
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mikhl krmr">
+   <sp who="mikhl krmr">
+    <speaker>
      מיכאל קרמר,
     </speaker>
     <p>
      מורה בבית־‬ספר לאמנות מטעם הממשלה, צַיָר
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר,
     </speaker>
     <p>
      אשתו
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה,
     </speaker>
     <p>
      בתם, ציֶרת.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד,
     </speaker>
     <p>
      בנם, צַיָר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnst lkhmn">
+   <sp who="rnst lkhmn">
+    <speaker>
      ארנסט לחמן,
     </speaker>
     <p>
      ציר.
     </p>
    </sp>
-   <sp>
-    <speaker id="loynh">
+   <sp who="loynh">
+    <speaker>
      אלוינה,
     </speaker>
     <p>
      אשת לחמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bֶnsh">
+   <sp who="lizh bֶnsh">
+    <speaker>
      ליזה בֶּנש,
     </speaker>
     <p>
      בת בעל הריסטורן בֶנש.
     </p>
    </sp>
-   <sp>
-    <speaker id="asֶsuֹr shְnַbl">
+   <sp who="asֶsuֹr shְnַbl">
+    <speaker>
      אַסֶסוֹר שְנַבל
     </speaker>
     <p>
      אורח בריסטורן של בנש
     </p>
    </sp>
-   <sp>
-    <speaker id="rikhl tsin">
+   <sp who="rikhl tsin">
+    <speaker>
      אריכל צין
     </speaker>
     <p>
      אורח בריסטורן של בנש
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
      אורח בריסטורן של בנש
     </p>
    </sp>
-   <sp>
-    <speaker id="kuntmeyr">
+   <sp who="kuntmeyr">
+    <speaker>
      קונטמייר
     </speaker>
     <p>
      אורח בריסטורן של בנש
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה,
     </speaker>
     <p>
      משרת בבית־‬הספר לאמנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="brsh">
+   <sp who="brsh">
+    <speaker>
      ברתה,
     </speaker>
     <p>
      משרת בבית קרמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ,
     </speaker>
     <p>
@@ -332,16 +528,16 @@
 שערות־‬שיבה. כֻלה – ‬ טרדה ודאגה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . האם עדיין אַת פה, מיכאלינה? וכי לא הגיעה שעתך ללכת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -349,24 +545,24 @@
 גמורה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . נו, אם רק לא תאחרי, מיכאלינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . חלילה, אמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -374,40 +570,40 @@
 מחסור בדאגות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כן, אמא. ודאי! (מעשנת ומעינת בספר)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . וכי מה את קוראה שם? תמיד היא מחטטת בספרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אסור לי לקרא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . לדידי – ‬ קראי כאות נפשך. אני אך מתפלאה – ‬ שלוָתך מאין תמָצא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -415,32 +611,32 @@
 לאיזה דבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר.
     </speaker>
     <p>
      האם לא הגיד אבא עוד דבר־‬מה לפני לכתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . תמיד קשה ביותר כשהוא אינו מגיד כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -448,8 +644,8 @@
 ללשכת־‬עבודתו באחת עשרה בדיוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -457,8 +653,8 @@
 רבונו, רבונו של עולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -466,8 +662,8 @@
 יודעים אותו היטב: ארנולד כבר לא ישנה את דרכו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -476,8 +672,8 @@
 ממש יוריד אותו אל פי שאול.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -486,24 +682,24 @@
 אינך מכירה את זה, הרי זה רע מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . אַת, – ‬ בתו של אבא. את זה אני יודעת מכבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlnh">
+   <sp who="mikhlnh">
+    <speaker>
      מיכאלנה
     </speaker>
     <p>
      . של אבא ושל אמא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -511,8 +707,8 @@
 לא היית עומדת תמיד על צדו של אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -521,8 +717,8 @@
 כזה, יכולה את להאמן לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -530,16 +726,16 @@
 לעשות כרצונכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . איכה יעברו דברים כאלה על דל שפתיך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -547,8 +743,8 @@
 מיכאלינה! את מדברת כגבר! את חושבת כגבר! איזו תועלת יש לאשה מבת שכמותך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -556,16 +752,16 @@
 הן לא אוכל לשנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . בידך הדבר לשנותו, אלא שאינך רוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -573,32 +769,32 @@
 את, אל תרגזי. אין לבך כלל עם מה שהגדת זה עתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . נכון כנכון היום. כל מלה ומלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אז צר לי על כלנו, אמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר.
     </speaker>
     <p>
      מידו של אבא באה לנו כל הרעה הזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -607,16 +803,16 @@
 זה שקר נתעב, אלמלי…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . פוי, מיכאלינה, איזו דבורים גסים בפיך תמיד!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -624,16 +820,16 @@
 אסירת־‬תודה לאין שעור, כמו לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . גם לי לא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -642,16 +838,16 @@
 הכי־‬קרובים לאבא הם המה היותר רחוקים ממנו. אתכם לבד היה הוא אובד לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . כאילו איני יודעת, כמה פעמים בכית, כשאבא…
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -660,8 +856,8 @@
 בצדק. ותמיד היה לי הדבר ללקח טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -669,16 +865,16 @@
 אילו היתה לך הרוָחה שלך, בעל וילדים… וכל זה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כל זה הן לא גזל אבא ממני!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -686,8 +882,8 @@
 זה, מלבד דאבון־‬לב ומפח נפש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -696,16 +892,16 @@
 שהוא, כמה היה הוא מכיר תודה לאבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . בהיותו כבר בגיל של חמש עשרה עדיין קבל הכאות ממנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -715,32 +911,32 @@
 וזיף חתימת ידו של אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . משום עקת־‬הלב! משום יראה מפני אבא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . לא, אמא, זה עוד לא מבאר הכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . הנער הוא ברע, הוא אינו בריא. בשרו עליו יכאב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -751,8 +947,8 @@
 החורף צריך היה לקנות. ומשתי תלמידות לא קבלתי עדיין את השכר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -760,8 +956,8 @@
 ואחר כך הרי הן עוד עושקות את השכר העלוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -770,8 +966,8 @@
 הכניסה). צלצלו… מי זה יכול לבוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -779,48 +975,48 @@
 כמדומה, למקום שהפלפלין גדלים
     </p>
    </sp>
-   <sp>
-    <speaker id="brsh">
+   <sp who="brsh">
+    <speaker>
      ברתה
     </speaker>
     <p>
      (עוברת דרך החדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . שאלי נא מראש לשמו של הבא, ברתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . האם האדון הצעיר ישן עדיין?
     </p>
    </sp>
-   <sp>
-    <speaker id="brsh">
+   <sp who="brsh">
+    <speaker>
      ברתה
     </speaker>
     <p>
      . הוא לא שכב כל עיקר (יוצאת).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אבל מי זה יכול לבוא אמא?
     </p>
    </sp>
-   <sp>
-    <speaker id="brsh">
+   <sp who="brsh">
+    <speaker>
      ברתה
     </speaker>
     <p>
@@ -828,8 +1024,8 @@
 הפרופסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -837,8 +1033,8 @@
 לו פשוט: מר קרמר. (יוצאת אל הפרוזדור).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -853,40 +1049,40 @@
 מנוצות – ‬ וכיוצא בזה. בגדי שניהם קצת ישנים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מאין זה אתה בא? מה שלומך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (מציג). אלוינה – ‬ וזו: מיכאלינה קרמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      (בתמיה גדולה). אַ! האמנם? וכי אפשר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הבאמת זה מביאה לידי השתוממות כזו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -894,16 +1090,16 @@
 כאחרת לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhlinh">
+   <sp who="mkhlinh">
+    <speaker>
      מכאלינה
     </speaker>
     <p>
      . עוד יותר זקנה? בפנים עוד יותר מקומטים מכפי שהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -911,32 +1107,32 @@
 ולחמן מתפרצים בצחוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      יש לקוות להמשך מעַנְיֵן. ההתחלה לא רעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . כיצד? האם שוב עשיתי שלא כהוגן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מה שלום אביך, מיכאלינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -948,56 +1144,56 @@
 והיא, גברתי, אינה מעשנת? לא? והעשן אינו לה למורת־‬רוח?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      (מניעה ראשה בשלילה). ארנסט הרי מעלה עשן בבית כל היום.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (נוטל סיגרה משל מיכאלינה). תודה! – ‬ זה לא לפי הבנתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . מה יש פה להבין, ארנסט?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . הרבה, אלוינה חביבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . כיצד? כיצד?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . העשון נותן טעם מיוחד בשיחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1005,8 +1201,8 @@
 תשעה קבין.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1016,16 +1212,16 @@
      שמדברים
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . גם אתה אומר לפעמים דברי שטות, ארנסט חביבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1033,8 +1229,8 @@
 כן: ובכן שלומו של אביך הוא בטוב – ‬ זה משמח אותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1042,8 +1238,8 @@
 באת הנה בודאי לבקר את אמך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1052,16 +1248,16 @@
 במה לעסוק, גברתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . באיזה מובן? איני יודעת… אֶל מה היא מתכונת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1069,16 +1265,16 @@
 משכורת הגונה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . שמעי! כשתגמרי, הואילי להודיעני. כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1086,8 +1282,8 @@
 הדבר מתקים (ללחמן) יוכל היות, אתה רוצה לעשות התחרות בי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1097,24 +1293,24 @@
 לשתות, האין זאת? בעלי…
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בעלי… אינני בעלך! מבטא זה מרגיזני תמיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . נו, הנשמע כדבר הזה מעולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1122,24 +1318,24 @@
 קדרָתי, קצֻצתי המזויפה – ‬ אבל תו לא: העבדות נתבטלה בעולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . אבל קטנטי…
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כך קוראים גם לכלב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1148,16 +1344,16 @@
 מצבן יותר טוב לעין ערך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (צוחקת מקרב לב).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -1167,8 +1363,8 @@
 נכון אני אפילו לבוא ולקחתך משם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1176,40 +1372,40 @@
 תיכף ומיד: – ‬ צעקות וזועות!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . ואמנם לא נחוץ כלל, ש“תפצי פה”. הן יותר מדברי־‬שטות לא יצא מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
      . ודאי, שאין אני חכמה כמותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מְוַתֵר! על כל השאר אני מותר!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אבל בבקשה, מרת לחמן, תשאר נא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs lkhmn">
+   <sp who="mrs lkhmn">
+    <speaker>
      מרת לחמן
     </speaker>
     <p>
@@ -1218,16 +1414,16 @@
 ובכן, אלופי, מבין אתה? שם עליך להופיע (יוצאת מלווה ע"י מיכאלינה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . רק בל תאכלי שם שוב י"ג עוגות־‬דבש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1235,16 +1431,16 @@
 גלוית־‬לב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . היא מפטפטת הכל בערבוביה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1252,8 +1448,8 @@
 ידועה. לא כל אשה היתה מרשה לך יחס כזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1262,48 +1458,48 @@
 כיצד, בדרך אגב?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . תודה! טוב! ושלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      גם כן מגַוָן לבן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כן, כן, ככה גם אצלי. – ‬ ורקותיך הנה התחילו כבר מלבינות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . הכסילות – ‬ הרי זוהי שמתפרצת מבפנים (שניהם צוחקים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . ואתה רוצה להתישב פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1312,72 +1508,72 @@
 (הפסקה). ומה שלום אחיך?,
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . תודה, טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מצייר בהתמדה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . להפך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . במה הוא, איפוא, מבלה את עתותיו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . בהוללות, כמובן, בהוללות. כלום יש לו לעשות אחרת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מפני מה, איפוא, לא נשאר במינכן. שם בכל זאת, עשה דבר מה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . וכי אתה עדיין מקוה לדבר־‬מה מארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . איך? דבר זה אינו מחוור לי. הרי, כמדומה, שזה מעבר לכל פקפוק?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1387,8 +1583,8 @@
 בגלל אבא על ביאתך הנה. התחדשות – ‬ מה תהיה לו לא למותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1398,24 +1594,24 @@
 התמונה שלו הייתי רוצה לראות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מי הגיד לך דבר על אדות התמונה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . הרי מסיחים, כי הַגֵלְרָיה קנתה אותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1424,16 +1620,16 @@
 יאבה הוא להביאה מקודם לידי גמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . ואַת יודעת את התמונה? מובן שֶכֵן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1441,8 +1637,8 @@
 משפט נכון. אבא עסוק בציורה זה מזמן רב (הפסקה)
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1456,16 +1652,16 @@
 לשלוט בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . זה נכון, לחמן, כן, כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -1478,8 +1674,8 @@
 בחוץ, אך חולין שבחולין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1490,8 +1686,8 @@
 חושב: הנה בעצמה נבובה וריקה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -1499,8 +1695,8 @@
 זה ללא נעים ביחוד להתעסק עם אותן הגבירות הצעירות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1513,24 +1709,24 @@
 וקוראת אל החדרים הפנימיים) שלום, אמא, אנחנו הולכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (מעבר לבמה, מחקה). שלום, אמא, אנחנו הולכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מי זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1552,8 +1748,8 @@
      נכנסת .
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1561,8 +1757,8 @@
 אגב, יודע אתה? לחמן פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1570,56 +1766,56 @@
 שבע יריקות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אנא בַשֵם! וכי מה רעה עשה לך לחמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . – ‬ – ‬ פעם אחת שלח לי אצבע.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (מושכת בכתפותיה, בשֶקט). אל תשכח להיות באחת עשרה אצל אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (תוקע אצבעותיו לתוך אזניו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הגידה נא, ארנולד: כלום חושב אתה, שיפה אתה נוהג?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . כן. – ‬ מוטב שתלויני שקל כסף.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -1627,24 +1823,24 @@
 בעצמי על שאני…
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . גשי הלאה! סורי מעל פני, מיכאלינה! קמצנותכם ידועה למדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (רוצה להשיב דבר־‬מה, מושכת בכתפותיה, פונה עורף ויוצאת).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1652,8 +1848,8 @@
 מעיף מבט חולף על אמו, שנכנסה כרגע, וחוזר אל המראָה)
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1661,8 +1857,8 @@
 דאגה). אוי, רבונו, רבונו של עולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1674,8 +1870,8 @@
      ?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1683,8 +1879,8 @@
 לשחוק על תעלוליך. – ‬ מי פתח לך את הדלת בלילה הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1692,24 +1888,24 @@
 נלעגת). אבא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . הוא ירד למטה מעל הדיוטא השלישית.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (אינו פוסק ממצמץ בעיניו באופן מגוחך מעל למשקפיו) כן!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1717,8 +1913,8 @@
 למצער פעם אחת איש־‬בינות. חֲזור בך – ‬ וחֲכָם. ספר לי את אשר הגיד אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1726,40 +1922,40 @@
 מאד מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . האם גדול היה כעסו של אבא כשפתח לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (מסיר אזנו משמוע).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . וכי מה הגיד לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . לא כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1767,16 +1963,16 @@
 עשה את זאת למעני. התחיל לחיות חיים אחרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד.
     </speaker>
     <p>
      וכי איך אני חי כעת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1784,8 +1980,8 @@
 מחוץ לבית. מתנודד באיזו מקומות… הוי, אלי! חיים נוראים אתה חי, ארנולד!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1793,8 +1989,8 @@
 רוצה הייתי לדעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1802,8 +1998,8 @@
 לדבר עם אמך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1811,8 +2007,8 @@
 כי כלכם עלי תנבחו? הן באופן כזה אין לי דרך אחרת אלא לצאת מן הדעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1820,8 +2016,8 @@
 טובתך אתה? הגם לאמך אסור לבוא אליך בדברים? ארנולד, ארנולד! אל תחטא, בני!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1830,40 +2026,40 @@
 לאחר כן אראה מה עלי לעשות להלן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . כך? בכדי שתוכל ללכת לאבדון מבלי שוב? (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (נגש אל השלחן, נוטל גלוסקא בידו). גם זו גלוסקא! קשה כחלמיש!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . השכם לקום – ‬ ותאכל רכות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (מתוך פהוק). כמה ארוך ומשעמם יום שכזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1875,8 +2071,8 @@
 אנחותיך? הרי אתה אינך פוסק כלל מהאנח. אתה בעצמך שוב אינך חש באנחותיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1885,8 +2081,8 @@
 על הכתלים!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1895,8 +2091,8 @@
 מרוגז היית תמיד, אבל לא במדה כזו של עכשיו; זה אני יודעת היטב.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1908,8 +2104,8 @@
 באופן היותר טוב, הוא לצעק “חי וקים”!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1917,16 +2113,16 @@
 במרומים, ארנולד, בשם אלהים, הגידה לי: מה עשית?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . יהודי זקן אחד הרגתי, אמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1936,8 +2132,8 @@
 יעשו עוללת לנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1945,8 +2141,8 @@
 מזויף לא מכרתי, אף על פי שאיזה סכום נחוץ לי מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1956,8 +2152,8 @@
 מקודם מאסת גם במראה־‬שכר. הנך שותה בכדי לפכח את צערך, ארנולד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -1966,8 +2162,8 @@
 תָו במצחי, בזה תצדקי, אבל בזה, כמדומה, איני אשם כלל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1976,16 +2172,16 @@
 שאתה נהיית לכזה… עונש אלהים הוא, ועלינו לשאתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . ובכן! שאוהו, איפוא, במטותא! (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -1996,8 +2192,8 @@
 אתה, זה לא נכחד ממני…
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2007,8 +2203,8 @@
 לתקוע בחצוצרות? זה יכול רק לקלקל את הענין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2017,16 +2213,16 @@
 זה עדיין הוא המעשה באותה ריבה, ארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אמא, האמנם יצאת מדעתך לגמרי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2038,8 +2234,8 @@
 לקול אמך, אז תלכד גם אתה בפח. מעללי־‬הפשע הרי הם עתה מעשים בכל יום.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2047,24 +2243,24 @@
 כיס מכנסיו). בשביל מקרה כזה כבר התכוננתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . אל מה אתה מתכוין?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . לזה, שאני מוכן ומזומן לכל. כיום יש, ברוך השם, אמצעים לכל זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2074,8 +2270,8 @@
 לילותיך, אז טוב לי מותי מחיי, אז יקר לי לרקב בקבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2085,8 +2281,8 @@
 לכל אשר אלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2094,56 +2290,56 @@
 הבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . לא! יען אשר אני הולך מזה מיד, אמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . באחת עשרה אל אבא, ואחר כך נחזור הביתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . גם על דעתי לא יעלה לעשות כזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . אלא לאן תלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . את זה איני יודע עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . הרי שאין בדעתך לבוא הביתה לעת ארוחת הצהרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2151,24 +2347,24 @@
 חשק, אמא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . וגם בכל הערב אתה רוצה להיות שוב מחוץ לבית?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אני אעשה הכל כטוב בעיני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2178,16 +2374,16 @@
 בעוכריך, נשבעתי לך ושהדי במרומים: אני אמסרנה לידי הפוליציה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד.
     </speaker>
     <p>
      נו, אמא, מוטב לך לבלי לעשות כזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
@@ -2195,8 +2391,8 @@
 הגָלה לפניו בדבר־‬מה: הוא לא ידע כל מעצור!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2206,16 +2402,16 @@
 נעשיתם לי כל כך זרים… הגידי לי, בבקשה: מה לי פה ומי לי פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . כן?!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד.
     </speaker>
     <p>
@@ -2223,32 +2419,32 @@
 חפצים? איזו רשות יש לכם להתעמר בי? מה, באמת, לי ולכם, לכלכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . איך? מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . כן, מה? מה אתם חפצים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrs krmr">
+   <sp who="mrs krmr">
+    <speaker>
      מרת קרמר
     </speaker>
     <p>
      . איזו דבורים מרעימים!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -2291,8 +2487,8 @@
 , פנוי־‬עורף כלפי המסובים. הוא מחכה ומשקיף החוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2302,8 +2498,8 @@
 כך בהצפצפות שלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2311,32 +2507,32 @@
 ומישר את קומתו). יסלח נא.
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
      . שלום, אדון קרמר. שלום, אדון לחמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . שלום, אדון קרויזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ינצרך אלהים, (קרויזה יוצא).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2344,8 +2540,8 @@
 החלון הזה… ועיניו לא שבעו מראות, שמע נא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2354,16 +2550,16 @@
 ידיהן בית הספר עושה רושם של מקדש.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ושמע נא, טעות רְאִיה היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -2371,8 +2567,8 @@
 בקלין פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2381,16 +2577,16 @@
 היתה החטאה.
     </p>
    </sp>
-   <sp>
-    <speaker id="llkhmn">
+   <sp who="llkhmn">
+    <speaker>
      ללחמן
     </speaker>
     <p>
      . ביחס זה – ‬לאין גבול!
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2403,8 +2599,8 @@
 להכָנס לתוכו של הדבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2412,24 +2608,24 @@
 נסתלקתי מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ומה היה הדבר שעבדת בו, לחמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מראות־‬הטבע ותמונות, דא והא. הרבה לא יצא מזה, לדאבוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2439,16 +2635,16 @@
 מה שהוא מצייר – ‬ האדם כלו. שמע נא, עבודה וחיים חד הוא, לחמן!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אני עצמי מכיר בזה לחלוטין.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2456,40 +2652,40 @@
 מה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אצלי, לצערי, העת עוברת לבטלה, ואיזה דבר של ערך ממני והלאה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . שמע נא, אֵיכָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . יען אשר עלי לעסוק בדברים אחרים; בעבודה שאינה עבודה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . באיזה מובן נאמר זה, שמע נא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2497,32 +2693,32 @@
 שורות כתובות.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מהו פירוש המלות?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      אני עובד בעתונים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ככה?!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2530,8 +2726,8 @@
 היינו – ‬על פת לחם יבש; לחמאה אין אני מספיק. כשאדם עמוס בעול אשה ומשפחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2540,8 +2736,8 @@
 התבונה בשביל הנכון והממש; אתה יכול, איפוא, להביא תועלת בכמה צדדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2549,16 +2745,16 @@
 ומשתנה. רק יום יום אתה לבדך בא ומגולל אבנו של סיזיפוס…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . שמע נא, מה היינו אנו מבלעדי זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -2566,8 +2762,8 @@
 אין אני רואה שום סימן ברכה, הרי…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2575,16 +2771,16 @@
 היה ממלא את חובתו, לא הייתי מונע ממנו כבודו כערכו. ראה נא. לך יש בנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אחד. בן אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2593,16 +2789,16 @@
 נא, מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בזה דוקא לא אוכל להתפאר, אדוני קרמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2611,16 +2807,16 @@
 נא, יכולים להתעלות עליהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אבל זה לפעמים לגמרי לא קל.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2629,16 +2825,16 @@
 עלמא לבי־‬הלולא דמיא. האדם האמתי צריך להכיר בחובותיו, שמע נא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . ברם, הלא גם בחובותיו כלפי עצמו?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2646,16 +2842,16 @@
 יכיר בהם גם בנוגע לאחרים. כמה ימי שנות חיי בנך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בן שלש הוא, אדוני קרמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2672,16 +2868,16 @@
 פי כן – ‬תמיד ותדיר הייתי עושה כך מחדש.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      אדוני קרמר, בנו בטח איננו כאשר אמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2691,16 +2887,16 @@
 נניח לה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כל זה בטח עוד ישתנה לטובה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2718,24 +2914,24 @@
 מסתכל ברשמים ונסיונות. דופקים בדלת). יבוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (נכנסת בתלבושת־‬חוץ). אבא, אני רוצה רק לקחת את לחמן אתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      (מביט עליה מעל למשקפיו). שמעי, העזבת את בית הספר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2748,32 +2944,32 @@
      (לחמן ומיכאלינה צוחקים).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ומדוע לא הבאת את אשתך אתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . היא אינה מתאימה ביותר ללשכת־‬עבודה של אמנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . שטות. כלומר? תם אני ולא אדע.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2781,32 +2977,32 @@
 אליו). את הטחנה הזאת כאן שרטטתי גם אני פעם אחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מ… המ… אבל באופן אחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . שלא במתכוין.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . לא, לא, ודאי שלא. (לחמן צוחק).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2814,16 +3010,16 @@
 נו, הרי אז אין מה לדרוש ממנו יותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . בתי, אכן יודעת את, היכן החמור עומד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2831,8 +3027,8 @@
 כחוט השערה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2848,24 +3044,24 @@
 שעכשיו אני צריך עוד לבוא אל המחלקה, ולאחת עשרה צויתי לבני לבוא הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (בכבד ראש). אבא, האמנם לא תראה ללחמן את התמונה שלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      (במהירות ומן הצד). לא, מיכאלינה! קא סלקא אדעתך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2873,8 +3069,8 @@
 מאד לראותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2883,16 +3079,16 @@
 יכול להראות אותה לך, לחמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אדוני קרמר, אין אני, כמובן, בא בעקיפין.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2904,8 +3100,8 @@
 נשגב הדבר ממני, לא אוכל!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -2913,8 +3109,8 @@
 אינו אלא מעין חולשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2924,8 +3120,8 @@
 ככה! ועכשיו לכו לכם ותנו לי מנוחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה.
     </speaker>
     <p>
@@ -2935,8 +3131,8 @@
 ענה כי אם לא כן הוא. זה זעזע אותך דיֶך.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2955,16 +3151,16 @@
 אז חמק, הלך לו, ראה נא, הרחק, הרחק.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אדוני קרמר, עכשיו הריני מצטער מאד…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2976,16 +3172,16 @@
 היציאה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhlinh">
+   <sp who="mkhlinh">
+    <speaker>
      מכאלינה
     </speaker>
     <p>
      אבל הן אנו איננו חלפנים ותגרנים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -2999,112 +3195,112 @@
 יבוא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הן נעלת את הדלת, אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . אני? אימתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . זה עתה, לפני רגע. זה עתה ממש. בשעה שהתהלכת על פני החדר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . פתחי, איפוא, וראי מי שם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (פותחת קצת). אשה אחת, אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מוֹדֶל, בודאי. אין לי צורך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bֶnsh">
+   <sp who="lizh bֶnsh">
+    <speaker>
      ליזה בֶנש
     </speaker>
     <p>
      (מעבר לדלת). האם אפשר לדבר עם האדון הפרופסור?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . וכי מה דרוש לגברתי, הרשיני לשאול?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אני צריכה לדבר עם האדון הפרופסור בעצמו
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . עם איזה פרופיסור?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר.
     </speaker>
     <p>
      אמרי נא לה, אין כאן פרופיסור.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . וכי לא כאן היה דירתו של הפרופיסור קרמר?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . שמי קרמר, הכנסי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3112,8 +3308,8 @@
 נא מה שאני מרשה לעצמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3122,8 +3318,8 @@
 ומיכאלינה עד הדלת; אלה יוצאים). את מי אתכבד? – ‬ אני נכון לשמוע.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3131,16 +3327,16 @@
 ליזה בנש. באתי אליו בדבר ענין לא נעים כל כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . אבקש לשבת. אַת – ‬ הנך מודל?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -3148,8 +3344,8 @@
 השם, אין אני צריכה. ברוך השם, אדוני הפרופסור, אין אני מודל.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3157,8 +3353,8 @@
 לכבדני בבקורך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3167,16 +3363,16 @@
 על עקבי, אבל סוף כל סוף אמצתי את לבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . בבקשה! שאפי רוח כאות נפשך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3186,8 +3382,8 @@
 אני למודל?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3196,8 +3392,8 @@
 חרפה, אינך אלא טועה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3205,16 +3401,16 @@
 קרמר, אבל אני פחדתי ממנו פחד גדול.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ובכן, קצור הדברים, מהו הענין?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3222,8 +3418,8 @@
 איזה…. השם יודע מה, איזו מפלצת או בכיוצא בזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3231,16 +3427,16 @@
 משערות ראשך ארצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . ארנולד גם כן מפחד מפניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3248,8 +3444,8 @@
 האיש?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3257,16 +3453,16 @@
 למהר וללכת מפה. גם ארנולד לוטש תמיד עינים כאלה ו…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . – ‬ ארנולד? אני איני יודע את האיש הלז – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3275,8 +3471,8 @@
 שאמרתי, אינו מן הנעימים; ואם כן, מוטב לי שלא לדבר כלל מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3285,16 +3481,16 @@
 ואם דבריך יסבו על ארנולד קרמר…
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . מובן, שאני מדברת על ארנולד קרמר…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3308,16 +3504,16 @@
 מנוחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . המ… כך! באיזו מדה? באיזה מובן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3325,32 +3521,32 @@
 בשום אופן להביא בינה בלבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . כן? כן, זה קשה. זה ניתן להאמין.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אמרתי לו! לך לביתך, ארנולד. והוא? אינו מש ממקומו כל הלילה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ובכן אצלך ישב הוא כל הלילה הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3360,48 +3556,48 @@
 הבית, לא ינוע הוא ולא יזוז ממקומו.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר.
     </speaker>
     <p>
      אביך הוא פונדקאי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
      בעל ריסטורן.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר.
     </speaker>
     <p>
      ואורחיכם התמידיים – ‬מי המה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . האססוד שגבל, הארכיטקטור צין, ארוסי ועוד אחדים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . וגם הם לא חשכו כל עמל להראות לו, כלומר, את הדלת?[
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3410,8 +3606,8 @@
 קצת…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3419,8 +3615,8 @@
 מאד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3431,16 +3627,16 @@
 עד לבלי להשיגו מתחתו בשום ואפן. כל האולם רעם לקול הצחוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . וכאן יושב בני גם הוא אצל אותו שלחן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3451,16 +3647,16 @@
 על זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . על פי דעת אותם האדונים אסור לו לשרטט? מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3469,16 +3665,16 @@
 גדולים. זה היה כל כך שפל.. מאוס לגמרי!
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . האם משלם לכם ארנולד בעד כל מה שהוא לוקח אצלכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3486,8 +3682,8 @@
 היותר שלש כוסותיו שכר, ואלמלי היה הכל נגמר בזה, אדון קרמר…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3499,16 +3695,16 @@
 לביתכם – ‬ – ‬? – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      (בעגבנות). אבל, חי נפשי, כי אין זה כלל אשמתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3516,8 +3712,8 @@
 לעשות בנידון זה? – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3526,16 +3722,16 @@
 הרגש, עד אלהים, כאילו הוא נכון לעשות לי דבר־‬מה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . הם! האם אִיֵם עליך פעם באופן ישר?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -3546,40 +3742,40 @@
 כאלו… הו! ואחר כך, יודע כבודו, יעיף עלי מבט…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ובלבך אליו אין כל הרגה, מה? (נשמע צלצול פעמון).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
      – ‬ – ‬ – ‬ הוי, אלי שבשמים! כמובן, לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . טוב. רוצה את להפגש כאן בארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . בשם אלהים! בשום אופן!
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3597,32 +3793,32 @@
 פְרֶטֶנְזִיוֹת על תלבושת פרנית). אכן התקשטת כיום הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . איך?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . כונתי לזה הרביד האדום, שהענקת לצוארך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . כלומר?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3630,16 +3826,16 @@
 – ‬ומה, גמרת כבר את השרטוטים?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . איזו, אבא? הלא אני איני יודע מכלום? – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3647,16 +3843,16 @@
 אולי תואיל בטובך לזכור נשכחות?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אה, כן, לשרטוטים שבשביל הנגר אתה מתכון, ודאי?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3665,32 +3861,32 @@
 תבקש אחרי אמתלאות. במה, איפוא, אתה עסוק כל העת הזאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (מתחפש לתָמֵה). אני עובד, אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מה, למשל?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אני רושם, אני מציר, מכל הבא ליד.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3701,16 +3897,16 @@
 מבין אתה? במטותא, אַל תשכח את זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אבל אין דבר מעיק על לבי, אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3724,48 +3920,48 @@
 החרישה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד.
     </speaker>
     <p>
      טילתי בחוץ, בחברת אלפרד פרנקל.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . כך? באיזה מקום? בפירשם או היכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . לא, בשייטינג ובסביבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . שניכם בליתם שם כל הלילה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . לא, אחרי כך במעונו של פרנקל.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3777,8 +3973,8 @@
      ארנולד. כן, כמעט עד הרביעית. אחר כך הסתובבנו עוד מעט ברחובות.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3787,48 +3983,48 @@
 על מטותיהם?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אנחנו מעשנים ומשוחחים על האמנות.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ככה?! – ‬ ארנולד, הרי אתה איש אובד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . מדוע זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . אתה איש אובד! שֶחָתְך בך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . זה אמרת כבר יותר מפעם אחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3837,48 +4033,48 @@
 הוכח לי, כי עול בשפתי נגדך! את רגליך אנשק לך בעד זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אני יכול להגיד רק מה שברצוני, אני מאמין…
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מה? שאתה משחת מאיש?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (חור מאד, מושך בכתפותיו).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ומה יהיה, אם הדבר כך הוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (בקרירות ומשטמה). כן, אבא, זה איני יודע בעצמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3886,8 +4082,8 @@
 אצל החלון, ידיו על אחוריו, מולל ברגליו מרגז־‬עצבים).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -3895,16 +4091,16 @@
 ומכונן צעדיו לדלת. באותו רגע, שהוא אוחז בכפות המנעול, קרמר פונה אליו).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . יותר אין לך מה להגיד לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -3912,8 +4108,8 @@
 עקשנית).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3927,8 +4123,8 @@
 דברתי. או אולי דעתך הוא, שהצדק עמדי בכל?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -3936,8 +4132,8 @@
 שהצדק אתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3949,24 +4145,24 @@
 לטהר מסיעין לו. כן? אתה חפץ? הנך נכון להיטיב דרכך, ארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (מתחפש לבלתי מבין). כן, אבל איך? במה?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . בכל, כן – ‬? – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -3974,8 +4170,8 @@
 בחלקי.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -3992,8 +4188,8 @@
 היית כל הלילה הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4001,8 +4197,8 @@
 אבא, הלא הגדתי לך פעם.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -4011,32 +4207,32 @@
 – ‬ותו לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (בעקשנות וב“להכעיס”). אבל הלא הייתי אצל אלפרד פרנקל.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . כך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (שוב בהמעטת־‬הבטחון). אלא היכן הייתי יכול להיות?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -4044,8 +4240,8 @@
 לי! שקץ אשקצך!!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4067,8 +4263,8 @@
 לחוץ. מימין דלת לחדר אחר. בין ערבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4078,8 +4274,8 @@
 רקמתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4087,16 +4283,16 @@
 ואומר). ערב טוב!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      (נאנחת בהדגשה ומפנה ראשה לעבר אחר).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4105,80 +4301,80 @@
 פתחתם חנות – ‬ ומרעימים פנים לסרים אליה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
      איני מרעימה פנים. עזבני נא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . אני ברכתיך בשלום־‬ערב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . ואני עניתיך על זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד.
     </speaker>
     <p>
      זה לא אמת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . כך?! מילא! הדבר, אמנם, אינו נוגע לי כלל. (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . (מטיל בליזה ע"י קשת־‬של־‬גומי חץ־‬ניר).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . (מושכת בכתפותיה בהעוית גאה־‬מבטלת).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . שמא חושבת אַת, שזה עושה רושם עלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אני אהיה חושבת מה שרצוי לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4188,16 +4384,16 @@
 מפניהם? לעולם לא מפני הדיוטים שכמותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . (בהתראה). רק אל תגדיש את הסאה, אדון!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4205,32 +4401,32 @@
 הפעם! אם רק עוד תספיק לו השעה לזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . (צוחקת).
     </p>
    </sp>
-   <sp>
-    <speaker id="runld">
+   <sp who="runld">
+    <speaker>
      ארונלד
     </speaker>
     <p>
      . רק יגע בי מי שהוא – ‬ התביני? – ‬ ומיד אותו דבר ישמיע קול…
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . ארנולד, אני אמסור אותך לרשות, אם רק תוסיף לאַים בכמו אלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4238,16 +4434,16 @@
 גם מכות־‬לחי משמיעות קול.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אל תעיז להכלים את אורחינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4255,8 +4451,8 @@
 מה לי ולהדיוטות אלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4264,16 +4460,16 @@
 עשית אתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . זוהי הצרה, שדוקא את זה אין אַת מבינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4282,16 +4478,16 @@
 (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . ליזה, שמעי נא לי הפעם. אני חפץ לבאר לך זאת כראוי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4300,8 +4496,8 @@
 אלא שטות גמורה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4310,16 +4506,16 @@
 לבין אמנים, לא היה בעיניהם אלא כשוליא דבי סנדלר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אתה הנך אמן, כנראה? (בחמלה). אלהים גדולים!
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4327,16 +4523,16 @@
 ללשכת־‬עבודתי…
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . מזה אשָמר, בלי ספק, אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4344,16 +4540,16 @@
 אנשים ידועים בכל התבל, אנשי שם! – ‬שם תוכחי, אם הם לא יכרעו ברך לפני.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אתה מתהלל על שקר ולא האדון צין.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4362,8 +4558,8 @@
 אלפי מונים. ממתני כלם ועד אבי – ‬ ועד בכלל.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4371,24 +4567,24 @@
 ענקי, אזי בודאי היה גם מראך אחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . מה פירוש?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . מה פירוש? הן זה כל כך פשוט: אמנים מפורסמים משתכרים ממון.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4396,16 +4592,16 @@
 נא את מי שתחפצי. לכי נא ושאלי אפילו את אבי. לכי ושאלי; על דברתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . ואיפה זה אתה מאבד את הממון הרב
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4413,24 +4609,24 @@
 אב כילי כזה? – ‬ליזה, היטיבי פעם דרכך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . פריטץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
      (מתעורר מתנומתו). הנני!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4438,16 +4634,16 @@
 בשביל יין־‬שמפניה; אני חושבת, שהאדונים ישתו היום יין־‬שמפניה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
      . נכון! בעונג, העלמה בנש. (יוצא)
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4455,16 +4651,16 @@
 סכות אחדות משערותיה ועושה את מקלעותיה מחדש).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . באיזו חריצות נפלאה עשית זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4472,24 +4668,24 @@
 אליה במלוא־‬עיניו מעל למשקפיו). אי שבשמים! הנה הוא לוטש שוב את עיניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . ליזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . בשבילך אינני ליזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4497,16 +4693,16 @@
 הקטנה, הבלתי ראויה לכלום! נפשי כל כך מרה עלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . (צוחקת צחוק, שחציו בדיחות־‬הדעת וחציו לעג).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
@@ -4516,8 +4712,8 @@
 רק גל של עצמות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -4527,16 +4723,16 @@
 לתבונה, כן? אתה מצערני באמת. אבל מה אני יכולה לעשות?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . (גונח קשה). דמי מָרעל. – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -4547,16 +4743,16 @@
 עוד תמצא לך עשר תחת אחת, רחימא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . ליזה, מה עלי לעשות למענך? לשדוד, לרצוח, לגנוב? מה עוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -4566,32 +4762,32 @@
 נכנסה חבורה עליזה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . בבקשה: אני חפץ עוד כוס שכר. אבל אני עובר לחדר השני.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      (בהתנכרות מעושה). אדון קרמר, מה יחסר לך פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . כן. אולם שם עולה עבודת השרטוט יותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -4599,16 +4795,16 @@
 פקח והשאר פה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      . בשום מחיר שבעולם לא, הגברת בנש.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -4617,16 +4813,16 @@
 כבר כמעט מגעגועים. (רואה פתאם את ארנולד). חזיז ורעם, סליחה!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizhbnshׁ">
+   <sp who="lizhbnshׁ">
+    <speaker>
      ליזהבנשׁ
     </speaker>
     <p>
      . פריטץ! פריטץ! האדונים אורחים באו.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -4634,24 +4830,24 @@
 בכור שטן! – ‬(לליזה). מה שלום אביך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . לא כל כך מרנין; אנחנו קראנו היום פעמים לרופא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁbl">
+   <sp who="ssur shׁbl">
+    <speaker>
      אססור שׁבל
     </speaker>
     <p>
      (נכנס). אדוני הארכיטקטור, האם נשחק היום בסְקַט?
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין.
     </speaker>
     <p>
@@ -4659,8 +4855,8 @@
 של שמפניה.,
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4682,8 +4878,8 @@
      אל תתני איפוא, לרעך להתמוגג!
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -4691,8 +4887,8 @@
 הוא לקבל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4702,16 +4898,16 @@
 הבופט).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . מה צוית להגיש לארוחתך היום, האדון האססור?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4719,16 +4915,16 @@
 ליזכן החביבה. אני האיש האכל לחם לאין שעור!
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . אזי צריך היה לתלות למעלה ממך את סל־‬הלחם.
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
@@ -4736,16 +4932,16 @@
 אלהים, היכן עיקר העיקרים, פריטץ?
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
      . אדוני, חבית חדשה הכניסו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
@@ -4753,16 +4949,16 @@
 אויר, אויר; אויר – ‬ ותו לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rnuld">
+   <sp who="rnuld">
+    <speaker>
      ארנולד
     </speaker>
     <p>
      (נוטל את מגבעתו, קם ויוצא אל החדר השני).
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
@@ -4770,8 +4966,8 @@
 טהור!
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4793,8 +4989,8 @@
      יתברך הבורא, הוא בורח, הוא נמלט מפה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
@@ -4802,24 +4998,24 @@
 שהאדונים יושבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      (בהתיפות). אני מוצאת זה למגוחך ביותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . הבה, איפוא, ונעשה משכננו בחדר הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
@@ -4827,8 +5023,8 @@
 כל קוף.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -4837,8 +5033,8 @@
 פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4847,16 +5043,16 @@
 גמרו פה, הוא מתחיל את עלילותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
      . יקירתי, אמרי, הנך קוצפת עלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -4864,8 +5060,8 @@
 פפריקא־‬שניצל בשביל האססור.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shׁnbl">
+   <sp who="ssur shׁnbl">
+    <speaker>
      אססור שׁנבל
     </speaker>
     <p>
@@ -4873,8 +5069,8 @@
 שעור. (שחוק כללי).
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
@@ -4882,24 +5078,24 @@
 השני. אדריכל צין, אססור שנבל ופון קרויטהיים יוצאים אחריו. הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
      . הגידי, קטנה, למה את מתעברת על שוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizhbnshׁ">
+   <sp who="lizhbnshׁ">
+    <speaker>
      ליזהבנשׁ
     </speaker>
     <p>
      . אני? מתעברת? אני מתעברת על שוא? הוי, מה שאתה יכול להגיד!
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -4909,16 +5105,16 @@
 אז בבית, על דברתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      (עדיין משתמטת במקצת). אנחנו מאורשים או לא מאורשים?
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -4926,8 +5122,8 @@
 אני איש עומד ברשות עצמי. אני יכול לישא כל אשה שאני רוצה בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -4935,8 +5131,8 @@
 ומתחמקת ממנו). לך־‬לך, שוב אין אני מאמינה לך מאומה.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -4944,24 +5140,24 @@
 עזת־‬פנים? (דלת־‬הזכוכית נפתחה. מיכאלינה נכנסת).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . הססס!…
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
      . חזיז ורעם, מה לזו כאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -4969,8 +5165,8 @@
 אצל שלחן־‬הבופט ומסתכלת בה).
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -4978,32 +5174,32 @@
 אקם את נקמתי (יוצא אל החדר השני).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      (אחרי שתיקה קצרה). הנך מחפשת את מי־‬שהוא, גברתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה.
     </speaker>
     <p>
      כאן הריסטורן של בֶנש?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . בטח.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה.
     </speaker>
     <p>
@@ -5011,32 +5207,32 @@
 להכנס לחדר השני).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . שם יושבים רק האדונים האורחים התמידיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כך? אני מחכה לזוג צעיר אחד. אזי אשב נא פה באיזה מקום.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      . בבקשה, פה! ואולי כאן? או שמא במקום הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5044,8 +5240,8 @@
 ‬ כוס שכר קטנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5054,8 +5250,8 @@
 בענין רב; אח"כ היא מתחילה שוב). כנראה, בחוץ מזג־‬אויר רע למדי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5064,8 +5260,8 @@
 מתקנת את שערותיה ומנגבת את פניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5073,8 +5269,8 @@
 (נגשת ומושיטה למיכאלינה את המסרק שלה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5082,16 +5278,16 @@
 סדרים בתסרקתה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
      (מתקנת לה קוֻצה אחת). התרשיני להיות לך לעזר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5100,16 +5296,16 @@
 נוטל תיבת סיגרות ונושא אותה לחדר הסמוך. משם עולה קול שחוק אדיר).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . שם מבלים את הזמן בעליזות מרובה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5120,16 +5316,16 @@
 אני מוכרחת, איפוא, למלא מקומם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מובן מאליו, חובתך היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ.
     </speaker>
     <p>
@@ -5138,16 +5334,16 @@
 אם מעט או הרבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . ודאי! מובן מאליו! ודאי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5160,16 +5356,16 @@
 ויד איש תהיה בשערות רעהו.
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus">
+   <sp who="kulus">
+    <speaker>
      קולות
     </speaker>
     <p>
      (מן החדר השני). ליזה, ליזה, אַיֶך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5179,16 +5375,16 @@
 אפשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אכן ארוסך אינו צריך גם לדרוש זאת ממך.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5197,8 +5393,8 @@
 לבוא במגע ומשא עם מְאַהֲבִים.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5207,16 +5403,16 @@
 אנחנו אכן זקנו ושַבנו כדבעי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (בבדיחות הדעת). נו, נו, כגון דא אתה אומר לי ישר בפני?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5224,16 +5420,16 @@
 ‬ (יושב).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . למה זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5242,16 +5438,16 @@
 לאחור.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . איככה? השאלה עמדת במקומה: איככה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5260,24 +5456,24 @@
 ועכשיו? – ‬ עכשיו פשיטת־‬רגל גמורה כמעט.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . איזו פשיטת רגל? באיזה מובן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בהרבה מובנים, בהרבה יחסים. בנוגע לאילוזיות, למשל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5285,8 +5481,8 @@
 באמת אתה נותן ערך גדול לכגון דא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5294,8 +5490,8 @@
 הקנין היותר חשוב בעולם. בטוח אני, שאם רק תהגי בדבר, ודאי תמצאהו לנכון.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5303,16 +5499,16 @@
 שום אמן יכול לעמוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      כן. הדמיון – ‬והאמונה בו. – ‬צלוחית יין אדום, בבקשה, כדאתמול.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnshׁ">
+   <sp who="lizh bnshׁ">
+    <speaker>
      ליזה בנשׁ
     </speaker>
     <p>
@@ -5320,8 +5516,8 @@
 (מציגה לפני לחמן את הצלוחית עם כוס).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5329,16 +5525,16 @@
 שמפניה. (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הנך עובר מקיצוניות אחת לשניה. כיצד זה עולה בקנה אחד, לחמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -5352,16 +5548,16 @@
 רצון ועוברת שמה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הנך באיזה מצב מיוחד של הזדעזעות.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5370,24 +5566,24 @@
 מיתה אטית, אטית.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אני איני סבורה כלל, שזקנת כל כך, לחמן היקר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . יד לפה, מיכאלינה! שאם כן – ‬ הנשאי לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5396,24 +5592,24 @@
 יכול להתל, אין מעמדך עדיין מסוכן מכל וכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כן. – ‬ ובכל זאת! בכל זאת! בכל זאת! – ‬ ברם נניח לזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הגד נא, מה העכיר את רוחך היום כל כך, אַ?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5421,16 +5617,16 @@
 הנפש ויצא, שחיי אינם כבר חיים כלל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה.
     </speaker>
     <p>
      איכה? כאן הרי אני שוב שואלת: איכה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5440,8 +5636,8 @@
 עצמך, ובכלל שוב אין אתך יודע ע מה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5449,8 +5645,8 @@
 בבדידותי שלרצוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5463,16 +5659,16 @@
 כשנכנסתי אז לבית הספר, באביב אז..
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . זה היה בבציר.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5481,8 +5677,8 @@
 ביום הזה – ‬ הושבתי אחור. חנוט בחיי הבית והנשואין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5492,8 +5688,8 @@
 כבר נשכח הדבר ממך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5504,8 +5700,8 @@
 אבירים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5513,8 +5709,8 @@
 מדותיו של אבא לחצו אותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -5528,80 +5724,80 @@
 (פריטץ מגיש זה בחפזון, ואחר הוא יוצא עם השמפניה לחדר הסמוך).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מה הדבר הבלתי־‬רגיל אשר קרה לך היום,לחמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (מוזג לו כוס). ראיתי את התמונה משל אביך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כך? מאת אבא הנך בא כעת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כן. זה עתה. ישר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . נו, וזו עשתה עליך רושם כזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . רושם שאין לעומק הימנו. כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . בכל לבך הנך אומר זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בכל לב. בכל לב. ודאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . ותוחלתך לא נכזבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5613,16 +5809,16 @@
 מעלה – ‬ עמוק עמוק לתוך הנשגב והכביר – ‬ מן כל אותם הדברים שהצליחו מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . ומה היה מצב־‬רוחו של אבא בכלל?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5639,8 +5835,8 @@
 נשמע ומתגלה הוא לכל. בחדר השני שחוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5648,8 +5844,8 @@
 ‬ מה בכך? הדבר מתחיל לשעשעני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
@@ -5657,8 +5853,8 @@
 תושבחתא.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5667,16 +5863,16 @@
 מחבבות זה. (עושה העויות ורומז בעיניו כלפי מיכאלינה).
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל.
     </speaker>
     <p>
      פריטץ, האם הצירקוס של רגץ עוד הפעם פה?
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
@@ -5684,24 +5880,24 @@
 לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
      . מה? מה? הלא הריח נדף ממש. האם לא יעלה באפך ריח סוסים?
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . הידד קלי־‬המרוץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
@@ -5709,8 +5905,8 @@
 הוא אומר). מה זה? זכר או נקבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5718,24 +5914,24 @@
 ‬מהו? הבאמת הוא יוריסט? קשה לתהות על קנקנו. מהיכן ירק זה חי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
      (מושך בכתפותיו). מובן, מכסף.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . כן, אבל מי הוא הנותן?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
@@ -5743,24 +5939,24 @@
 ותקילין.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . נו, וענין האירוסין – ‬יש לך אמונה בזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
      . צין! עצם נתקע לך בגרונך.
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5769,8 +5965,8 @@
 באזנו, שניהם מתפרצים בצחוק של מטורפים ומעלים אח"כ עשן הרבה).
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5787,16 +5983,16 @@
 לידי שגעון.
     </p>
    </sp>
-   <sp>
-    <speaker id="ssur shnbl">
+   <sp who="ssur shnbl">
+    <speaker>
      אססור שנבל
     </speaker>
     <p>
      (מושך בכתפותיו).
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
@@ -5804,8 +6000,8 @@
 מיכאלינה ולחמן שולחים איש לרעהו מבטים של מַשְמָעות רבה. הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5813,32 +6009,32 @@
 ‬ התרשי לי לעשן פורתא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (באיזו חוסר־‬מנוחה) כמובן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . ואַת
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . לא. תודה. כאן לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5846,16 +6042,16 @@
 ‬או, אמרי נא… את מפקפקת בה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . – ‬ אני חשה עצמי כאן לא בטוב לגמרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -5870,40 +6066,40 @@
 דא והא נראה קצת יותר מלבלב.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . יודע אתה מהו לפעמים קשה ביותר?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . בין רעים?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מה, איפוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5911,8 +6107,8 @@
 הפעם: זה היה לפנים. (מגיעה כוסה בכוס לחמן במשמעות רבה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -5921,24 +6117,24 @@
 מצדי. (בחדר הסמוך חוכא־‬אטלולא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . (נעשית חורת, קופצת ממקומה). לחמן… מה? השמעת?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כן, האמנם זה מרגיזך כל כך, מיכאלינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5946,16 +6142,16 @@
 שארנולד הוא ביחסים מתוחים עם אבא, מה שגרה את עצבי במקצת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . כן, כן. אבל כיצד? מה ענין לכאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -5963,16 +6159,16 @@
 כן נמתין עוד. אבל באמת הנני חשה עצמי כאן לא בטוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אל נא תשימי לב להנבזים האלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -5983,16 +6179,16 @@
 באמת למרת־‬רוח).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . בודאי אין האדונים מתנהגים לגמרי כשורה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
@@ -6001,16 +6197,16 @@
 הכרה, ועושה תנועות במהירות בידה). תמיד… נו, איני יודעת! – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . זה, בודאי, ארוסך?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6023,8 +6219,8 @@
 מקום אחר. (יושבת בפנה היותר מרוחקת של הבופט. הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6035,8 +6231,8 @@
 במינו – ‬ – ‬ – ‬ אני שמח, שפלג־‬גופי אינו כאן, אני יראתי מפני זה תחילה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6044,8 +6240,8 @@
 עצמך בטוב – ‬? – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6055,8 +6251,8 @@
 מתפוצץ רעם־‬צחוק ואחריו מתחילה השיחה הזאת, ההולכת הלוך והתרומם).
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6066,16 +6262,16 @@
 פיך? – ‬אתה! אתה! אתה! אתה – ‬משוגע! משוגע אתה! – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="kulus khrim">
+   <sp who="kulus khrim">
+    <speaker>
      קולות אחרים
     </speaker>
     <p>
      (מתך צחוק). אמבטאות, אמבטאות, אמבטאות קרות!
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6083,16 +6279,16 @@
 עניות דעתך, אין אני רשאי? (צחוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      חברה נאה, כפי הנראה.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6101,8 +6297,8 @@
 (צחוק).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6110,8 +6306,8 @@
 להיות לארוסי, שקרן שכזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6121,8 +6317,8 @@
 – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6131,16 +6327,16 @@
 ארוסי בָסַם פורתא והתחיל למלוק אותי בזרועי, והנה עלה על דעתם להקניאו…
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . להקניא את מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6149,16 +6345,16 @@
 דרכו עד הביאו לידי זה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מה הוא עושה, בעיקר הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
@@ -6168,8 +6364,8 @@
 באמת הריני אובדת עצות.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6179,8 +6375,8 @@
 מזה. – ‬ כך. – ‬ נו, הגד נא מלה אחת – ‬ וכרגע הרי אתה בחוץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6193,72 +6389,72 @@
      (פתאם נשמעת צעקה כללית ואחריה – ‬ אלו המלים):
     </p>
    </sp>
-   <sp>
-    <speaker id="drikhl tsin">
+   <sp who="drikhl tsin">
+    <speaker>
      אדריכל צין
     </speaker>
     <p>
      . הרף, נערי, חדל! זה שָמֵן יותר מדאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shnbl">
+   <sp who="shnbl">
+    <speaker>
      שנבל
     </speaker>
     <p>
      . מה? מה? אל הפוליציה! הבורָה הדיוט שכזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fun kroytheym">
+   <sp who="fun kroytheym">
+    <speaker>
      פון קרויטהיים
     </speaker>
     <p>
      . להוציא מידו, קוינטמייר! בלי דבורים יתירים!
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
      . העיז נא! נעיז נא! בריה חרוצה!
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צין
     </speaker>
     <p>
      . להוציא מידו!
     </p>
    </sp>
-   <sp>
-    <speaker id="shnbl">
+   <sp who="shnbl">
+    <speaker>
      שנבל
     </speaker>
     <p>
      . להוציא! אחת, שתים, שלש.
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
      . חדל מזה! שומע אתה! חדל! חדל!
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צין.
     </speaker>
     <p>
      התחדול מזה או לא?
     </p>
    </sp>
-   <sp>
-    <speaker id="shnbl">
+   <sp who="shnbl">
+    <speaker>
      שנבל
     </speaker>
     <p>
@@ -6270,8 +6466,8 @@
      (בחדר הסמוך מתחילה התאבקות קצרה, אלמת).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6279,16 +6475,16 @@
 את חפציה). לחמן, אני מבקשתך, בוא… נצא מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="tsin">
+   <sp who="tsin">
+    <speaker>
      צין
     </speaker>
     <p>
      . ככה, ילדים, הדבר בידי. עתה הנך בידנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁnbl">
+   <sp who="shׁnbl">
+    <speaker>
      שׁנבל
     </speaker>
     <p>
@@ -6302,24 +6498,24 @@
 עד אבדן־‬במרחק).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (כהלומת־‬רעם). ארנולד! האם לא היה זה ארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . החרישי! (נכנסים קוינטמייר ופריטץ).
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6328,16 +6524,16 @@
 כדי להרע.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש.
     </speaker>
     <p>
      אבל, בבקשה, תן לי מנוחה הפעם!
     </p>
    </sp>
-   <sp>
-    <speaker id="fritts">
+   <sp who="fritts">
+    <speaker>
      פריטץ
     </speaker>
     <p>
@@ -6346,24 +6542,24 @@
 לשרת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
      . אם אינך רוצה, אל תשרת.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (לפריטץ) אותו האדון אִיֵם עליך באקדח?
     </p>
    </sp>
-   <sp>
-    <speaker id="koyntmeyr">
+   <sp who="koyntmeyr">
+    <speaker>
      קוינטמייר
     </speaker>
     <p>
@@ -6375,16 +6571,16 @@
      עוד נצטרך להצטדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      אני רק הרשיתי לעצמי לשאול את המשרת! לא אותך.
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyntmeyr">
+   <sp who="kroyntmeyr">
+    <speaker>
      קרוינטמייר
     </speaker>
     <p>
@@ -6394,8 +6590,8 @@
 הזה לא ישכח במהרה! – ‬ אבל האם חושבת אַת, שהפחדן הלז הגין על עצמו…
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6403,16 +6599,16 @@
 ארנולד!! – ‬ האם לא היה זה ארנולד?!
     </p>
    </sp>
-   <sp>
-    <speaker id="koytmeyr">
+   <sp who="koytmeyr">
+    <speaker>
      קויטמייר
     </speaker>
     <p>
      . מה?
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -6421,8 +6617,8 @@
 הנני וקראתי לאבא כרגע.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6430,8 +6626,8 @@
 את ארנולד למקומו). ארנולד!!! – ‬ האם לא היה זה ארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6452,8 +6648,8 @@
  מוציא מן הסל אשר הביא צרורות כחולים של סטיארין.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6461,8 +6657,8 @@
 מאחוריהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6470,16 +6666,16 @@
 כך הוא מוציא מכתב מכיסו ומחזיקו בידו). וחוץ מזה לא כלום, אדוני הפרופסור?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . הפרופסור? כלומר?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6487,8 +6683,8 @@
 המכתב לפני קרמר על שלחן הפתוח).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6496,8 +6692,8 @@
 החתום ומוסיף לעבוד).
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6505,8 +6701,8 @@
 להיות עֵר כאן בלילה הזה? עליך באמת לנוח קמעא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6515,8 +6711,8 @@
 יודע את לחמן מלפנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6524,24 +6720,24 @@
 לא תפקד עלי כלום?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . הדירקטור בחדרו?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
      . כן, האדון קרמר.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6549,8 +6745,8 @@
 היה זה? היכן נפגשה אז אשתך בארנולד?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6558,16 +6754,16 @@
 במקום שמשכיר־‬הסירות מחזיק את סירותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . במסלה הצרה העוברת למטה? ממש אצל האוֹדר?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6579,8 +6775,8 @@
      קרמר. היא באה עמו בדברים או הוא אתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6589,32 +6785,32 @@
 להם תפוחי־אדמה בערב על הרפסודה. תמהה האשה על הדבר וברכתו בברכת הערב.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . ומה הוסיפה לדבר אתו אחר כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
      . היא אמרה: קר. הוא עוד יצטנן.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . המ. ומה ענה הוא על זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6623,8 +6819,8 @@
 איני יודע כלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6633,8 +6829,8 @@
 אמנם היה כבר לאחר זמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="kroyzh">
+   <sp who="kroyzh">
+    <speaker>
      קרויזה
     </speaker>
     <p>
@@ -6644,8 +6840,8 @@
 חצות הלילה.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6660,8 +6856,8 @@
 נופלים ועקבות דמעות עליהם).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6678,8 +6874,8 @@
 בינתים לא תלכו מפה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6687,8 +6883,8 @@
 דברים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -6696,8 +6892,8 @@
 אתמהמה. אני שב הנה מיד. (מתעטף בטלית, מניע ראש לשניהם ויוצא).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6705,24 +6901,24 @@
 עיניה במטפחתה. לחמן מסיר מעליו את המגבעת עם המנטול ומעמיד את מקלו בפנה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . איך אתה מוצא: נשתנה אבא?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . נשתנה? – ‬ לא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6734,16 +6930,16 @@
 ארנולד, וארנולד לא ידע מאומה מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . האם זוהי אותה הגִבנת־‬קצת, שראיתי בלשכת עבודתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6752,8 +6948,8 @@
 שלשה שבועות בתֵה ולחם בלבד.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6761,32 +6957,32 @@
 ומי עוד ישלח זר־‬דפנים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . ליזה בנש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . זה לא היתה צריכה לעשות. (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6794,16 +6990,16 @@
 אפשר שזה היה מביא לו, בכל זאת, איזו תועלת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . לא, לחמן, טועה אתה. אני איני מאמינה בזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6814,24 +7010,24 @@
 אכחד? – ‬ מצבי נעשה על ידי זה הרבה יותר קשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . הנסיון אינו נמסר מאיש לחברו, למצער, במובן העמוק של המלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      אפשר, אבל בכל זאת: – ‬אני כבר יודע טיבו של דבר. (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6840,24 +7036,24 @@
 לשלחן הפתוח). ראה נא מה שאבא חקק כאן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אביר הלל לבוש־‬שריון.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . מ.. המ!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6874,8 +7070,8 @@
      הַמָוֶת הָיָה לְנוֹשֵא־‬כֵלִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6883,16 +7079,16 @@
 אבא בוכה, והנה, ראה נא, על זה בכה אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (אוחז מבלי משים בידה). מיכאלינה, אנו נבליג על עצמנו, לא כך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6901,8 +7097,8 @@
 הוא זָקן בעשר שנים בודאי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -6911,24 +7107,24 @@
 הוא… אניחו שלו תעבוד ביתר שקט, ביתר שלוה, עם מתיו שם בתחתיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אבל להתחזק ולעבור על זה, הן זהו הכי־‬קשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אני אמנם מעולם לא פללתי, שיארע כך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6937,16 +7133,16 @@
 נאסף ונערם בו, וכשהוברר לי כל הענין, ידעתי, כי מצבו מסוכן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      אנחנו הלא יצאנו תיכף אחריו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6957,16 +7153,16 @@
 התרגשות).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . הלא מכל זה לא היה יוצא שום רע. מה אם שחק קצת באקדח…
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6975,16 +7171,16 @@
 מחוסר נסיון וילדותי. – ‬אני ידעתי אפילו כי הוא נושא אצלו את כלי הזין.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . הוא הראה לי את האקדח עוד בהיותו במינכן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -6994,8 +7190,8 @@
 את צפרניהם ואזניהם, ואם לא אזהר רגע, יקיץ קצי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -7004,8 +7200,8 @@
 בדבר: מנקודת גורלו הוא בודאי שצדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -7013,24 +7209,24 @@
 אף כשנגשו אליו בכונה היותר רצויה, היה הוא דוחף מעליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . מה כתב לאביך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אבא לא הראה עוד את המכתב לשום אדם שבעולם. – ‬ – ‬
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -7039,8 +7235,8 @@
 מנשוא; הוא אינו מכשר לחיות עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -7056,48 +7252,48 @@
 ונשאתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . לפני אביך הייתי יכול להתודות על הכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . גם הוא נשא וסבל בכיוצא בזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . זה מורגש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . כן, אני יודעת זאת בבירור. והוא היה בטח מבין את ארנולד.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אבל מי, מי יודע את המלה הגואלת?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -7106,24 +7302,24 @@
 באופן הזה… מה השפיעה!.. או, למצער, לְמַה סִיְעָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      (שב, תולה את טליתו). הנה שבתי! – ‬ מה שלום אמא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . היא בקשה לבל תתיגע יותר מדאי. הלילה הזה תישן בבית או לא?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7132,16 +7328,16 @@
 היו לו – ‬ ואנחנו לא ידענו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . בבית היו גם כן היום הרבה מבקרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7149,16 +7345,16 @@
 לטובה, ברי, שלא צריך למנעם מזה. – ‬ את הולכת שוב?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . אני נאלצה. – ‬החכוכים והנמוסים הנוראים הללו!
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7166,16 +7362,16 @@
 הדורשת מאתנו פשרה אחרונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . שלום, אבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7185,16 +7381,16 @@
 לבכות). אבל שמעי, השמרי לנפשך, בתי. עכשיו עלינו להראות את כח סבלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      (מבליגה על עצמה בהחלט, לוחצת כף אביה וגם של לחמן ויוצאת).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7204,16 +7400,16 @@
 (מושיט ללחמן פמוט אחד, שתקע בו נר). כן, שא נא את זה לנער שלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      (נכנס עם הפמוט לאחורי הפרגוד).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7232,8 +7428,8 @@
 לחמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
@@ -7241,8 +7437,8 @@
 עצמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7262,16 +7458,16 @@
 והכל הולך לאבוד מאתנו, הכל בא וחולף!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . אף אני עמדתי על זה מפי הנסיון.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7290,8 +7486,8 @@
 נוטלים את הקלפה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -7299,24 +7495,24 @@
 מחכה ליזה בנש. היא הביאה זר־‬פרחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
      . מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
      . ליזה בנש. היא רוצה לדבר אתך. רשאית היא לבוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7331,16 +7527,16 @@
 להפחידני, אין עוד שוב כל הטלת־‬אימה בשבילי!
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן
     </speaker>
     <p>
      . שמא אלך ואדליק את הנרות?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7354,8 +7550,8 @@
 הוד־‬רוממות הוא! מה יש עוד לכהן להעיר על זה. (הם שותים. הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
@@ -7365,8 +7561,8 @@
 מימי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mikhlinh">
+   <sp who="mikhlinh">
+    <speaker>
      מיכאלינה
     </speaker>
     <p>
@@ -7374,8 +7570,8 @@
 הנשים נשארות עומדות אצל הדלת. ליזה מחזיקה את מטפחתה סמוך לפיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7412,8 +7608,8 @@
 קרמר מרים עיניו ומביט ישר בפניה).
     </p>
    </sp>
-   <sp>
-    <speaker id="lizh bnsh">
+   <sp who="lizh bnsh">
+    <speaker>
      ליזה בנש
     </speaker>
     <p>
@@ -7421,8 +7617,8 @@
 הבריות – ‬ מורים – ‬ עלי באצבע… (הפסקה).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7432,8 +7628,8 @@
 בנש יוצאות).
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>
@@ -7442,16 +7638,16 @@
 זהו אור אחר!! – ‬ האין אני מטיל עליך קצת פחד, לחמן?
     </p>
    </sp>
-   <sp>
-    <speaker id="lkhmn">
+   <sp who="lkhmn">
+    <speaker>
      לחמן.
     </speaker>
     <p>
      לא, וכי ממה אפחד?
     </p>
    </sp>
-   <sp>
-    <speaker id="krmr">
+   <sp who="krmr">
+    <speaker>
      קרמר
     </speaker>
     <p>

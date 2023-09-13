@@ -46,6 +46,47 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="lֵmׁr">
+      <persName>
+       לֵאמׁר
+      </persName>
+     </person>
+     <person xml:id="hַgְּburָh">
+      <persName>
+       הַגְּבוּרָה
+      </persName>
+     </person>
+     <person xml:id="hַshֹּׁkhַd">
+      <persName>
+       הַשֹּׁחַד
+      </persName>
+     </person>
+     <person xml:id="hַmִּrְmָh">
+      <persName>
+       הַמִּרְמָה
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="uְhֵikhָluֹ">
+      <persName>
+       וְהֵיכָלוֹ
+      </persName>
+     </person>
+     <person xml:id="hַkhֵshֶׁk">
+      <persName>
+       הַחֵשֶׁק
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -142,32 +183,32 @@
      הַנַּעַר המחזיק בידי שמשון
     </p>
    </sp>
-   <sp>
-    <speaker id="hַgְּburָh">
+   <sp who="hַgְּburָh">
+    <speaker>
      הַגְּבוּרָה
     </speaker>
     <p>
      – תדמה אשה לבושה שריון קשקשים וכובע בראשה, בימינה תאחז חרב חדה ובשמאלה אגֻדַּת לפידים בוערים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַkhֵshֶׁk">
+   <sp who="hַkhֵshֶׁk">
+    <speaker>
      הַחֵשֶׁק
     </speaker>
     <p>
      – נער רובה קשת ולו כנפיים ככנפי הנשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַmִּrְmָh">
+   <sp who="hַmִּrְmָh">
+    <speaker>
      הַמִּרְמָה
     </speaker>
     <p>
      – נערה יפה, ממשבצות זהב לבושה, ובידה האחת כוס מלאה נֹפת צופים ובידה האחרת – שָׂרָף מעופף.
     </p>
    </sp>
-   <sp>
-    <speaker id="hַshֹּׁkhַd">
+   <sp who="hַshֹּׁkhַd">
+    <speaker>
      הַשֹּׁחַד
     </speaker>
     <p>
@@ -177,8 +218,8 @@
      והוא עִוֵר, ופיו רחב ופתוח. בידו האחת – לב נטוי, ובידו האחרת – מֹאזנים יכריעו אל צד ימין.
     </p>
    </sp>
-   <sp>
-    <speaker id="uְhֵikhָluֹ">
+   <sp who="uְhֵikhָluֹ">
+    <speaker>
      וְהֵיכָלוֹ
     </speaker>
     <p>
@@ -1511,8 +1552,8 @@
      הֵן נוֹסְדוּ כֻלָּם וְאֵלַי בָאוּ
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     פַּתִּי אִישֵׁךְ וְיַגֶּד-לָנוּ
@@ -2587,8 +2628,8 @@
      פֶּן תִּתְפָּאֵר עָלֵינוּ
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmׁr">
+   <sp who="lֵmׁr">
+    <speaker>
      לֵאמׁר
     </speaker>
     עָבַר זְמָן וּמוֹעֵד שַׂמְתִּי.
@@ -3533,8 +3574,8 @@
      הוֹמִים בְּעֶבְרָתָם, אֲחוּזֵי חֶרֶב
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     אוֹ כִי שִׁמְשׁוֹן תִּתְּנוּ לָנוּ,
@@ -4674,8 +4715,8 @@
      אוּלָם מְאֹד שׁגִיתִי
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     אֲהַבְתִּיךָ,

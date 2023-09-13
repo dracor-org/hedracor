@@ -46,6 +46,147 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="mkhls mshurrim">
+      <persName>
+       מקהלת משוררים
+      </persName>
+     </person>
+     <person xml:id="zָkֵn">
+      <persName>
+       זָקֵן
+      </persName>
+     </person>
+     <person xml:id="f. smlenskin">
+      <persName>
+       פ. סמאלענסקין
+      </persName>
+     </person>
+     <person xml:id="tubַl">
+      <persName>
+       תּוּבַל
+      </persName>
+     </person>
+     <person xml:id="iָeֵl">
+      <persName>
+       יָעֵל
+      </persName>
+     </person>
+     <person xml:id="ֲbִyeֵl">
+      <persName>
+       אֲבִיעֵל
+      </persName>
+     </person>
+     <person xml:id="rָm">
+      <persName>
+       רָם
+      </persName>
+     </person>
+     <person xml:id="pָrִiz">
+      <persName>
+       פָּרִיז
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="uֹmֶnֶs">
+      <persName>
+       אוֹמֶנֶת
+      </persName>
+     </person>
+     <person xml:id="rָtsִin">
+      <persName>
+       רָצִין
+      </persName>
+     </person>
+     <person xml:id='"rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi'>
+      <persName>
+       "רָם רֵעִי רֹעִי — רָם רֵעִי רֹעִי
+      </persName>
+     </person>
+     <person xml:id="khָnָn">
+      <persName>
+       חָנָן
+      </persName>
+     </person>
+     <person xml:id="shni nerim mshrsim lfriz">
+      <persName>
+       שני נערים משרתים לפריז
+      </persName>
+     </person>
+     <person xml:id="mְrַyuֹs">
+      <persName>
+       מְרַיוֹת
+      </persName>
+     </person>
+     <person xml:id="bְnָiָh">
+      <persName>
+       בְּנָיָה
+      </persName>
+     </person>
+     <person xml:id="gֵּrָ">
+      <persName>
+       גֵּרָא
+      </persName>
+     </person>
+     <person xml:id="bַlְtַzֶr">
+      <persName>
+       בַּלְטַאזֶר
+      </persName>
+     </person>
+     <person xml:id="ruֹkֵkhַ">
+      <persName>
+       רוֹקֵחַ
+      </persName>
+     </person>
+     <person xml:id="shs birm">
+      <persName>
+       אשת אבירם
+      </persName>
+     </person>
+     <person xml:id="ֶshְׁkֹl">
+      <persName>
+       אֶשְׁכֹּל
+      </persName>
+     </person>
+     <person xml:id="shִׁmְshַׁi">
+      <persName>
+       שִׁמְשַׁי
+      </persName>
+     </person>
+     <person xml:id="ididi hnkhbd">
+      <persName>
+       ידידי הנכבד
+      </persName>
+     </person>
+     <person xml:id="bֶrַe">
+      <persName>
+       בֶּרַע
+      </persName>
+     </person>
+     <person xml:id="ֳbִirָm">
+      <persName>
+       אֳבִירָם
+      </persName>
+     </person>
+     <person xml:id="shׁs byel">
+      <persName>
+       אשׁת אביעל
+      </persName>
+     </person>
+     <person xml:id="mngnim">
+      <persName>
+       מנגנים
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -67,8 +208,8 @@
      וויען חמשה עשר באב תרל"ח.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididi hnkhbd">
+   <sp who="ididi hnkhbd">
+    <speaker>
      ידידי הנכבד!
     </speaker>
    </sp>
@@ -93,8 +234,8 @@
      אוהבך הנאמן
     </p>
    </sp>
-   <sp>
-    <speaker id="f. smlenskin">
+   <sp who="f. smlenskin">
+    <speaker>
      פ. סמאלענסקין.
     </speaker>
    </sp>
@@ -113,112 +254,112 @@
      על דבר יקרת ערך הספר, אין לי לדבר דבר, כי קרוב ומודע אני לו, ואם נמצא בו דבר חפץ, יהללנו זר ולא פי. אך לקדם פני הקורא חפצתי כי ישאלני לאמר: הטוב לנערי בני ישראל להגות בספר כזה, אשר ראשיתו הוללות וענבים ואחריתו רצח הרג ואבדן? ועל זאת הנני משיב לדעתי טוב הספר מאד לנערי בני ישראל להועיל למו בדרכי חייהם, כי בו יראו, לא לבד מה פרי שנאה ומדנים אשר רבים חללים הפילו, כי אם גם מה רבו חללי האהבה ומה עצמו הרוגיה. הציגה נא קורא יקר לעיניך את בן אבירם, הוא בחור נחמד ונעים, אשר לו עשר גבורה ותפארת, אך תוכו רצוף אהבה בבלי מצרים. בתחלה נשא עיניו על נערה אחת ויתדבק נפשו בה, אך באשר היא לא שתה אליו לבה, הלך כל היום קודר בלחץ לבו ובלילה שנה בעיניו לא ראה. אחרי ימי יגון ואנחה, ימי חשך אשר קץ בחייו, פגש בנערה אחרת טובה מן הראשנה ותבער בו עוד אש אהבתו כשלהבת יה, וגם היא באה עמו במסרת הברית, אך אבותיה שנואי נפשו נכונו לדקור גם אותו גם את בתם, מתת ידם להקים את הברית הזאת. ובמסבות מתהפכות הצליח לראותה פעם אחת במסתר באישון לילה, וינשק לה בהפרדו ממנה במר נפש, בנשיקה הזאת מכר את כל עולמו, כי זה היה חלקו מכל עמלו, ומעת הזאת ומעלה, לא מצא מנוח לכף רגלו, עד אשר שלח יד בנפשו וגם בת ברית נעוריו עשתה כמוהו, ותאכל אש האהבה גם את שניהם. וזה הוא הדבר אשר אמרתי, כי תורה ודרך ארץ ומוסר טוב ישים הספר הזה לפני הנער ההוגה בו, כי ידע להזהר לשים עין פקוחה על כל דרכיו, ואם באה עתו עת דודים, יבוא רק ברית האהבה אשר יחיה בה ולא יתמכר לבת חן אשר ימות בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ֶshְׁkֹl">
+   <sp who="ֶshְׁkֹl">
+    <speaker>
      אֶשְׁכֹּל
     </speaker>
     <p>
      הנסיך בוֵירוֹנַה Verona …………………………… Escalus..
     </p>
    </sp>
-   <sp>
-    <speaker id="pָrִiz">
+   <sp who="pָrִiz">
+    <speaker>
      פָּרִיז
     </speaker>
     <p>
      בן נדיב נער ומודע לנסיך……………………………. Paris
     </p>
    </sp>
-   <sp>
-    <speaker id="ֳbִirָm">
+   <sp who="ֳbִirָm">
+    <speaker>
      אֳבִירָם
     </speaker>
     <p>
      |……………………………………………….Montague
     </p>
    </sp>
-   <sp>
-    <speaker id="ֲbִyeֵl">
+   <sp who="ֲbִyeֵl">
+    <speaker>
      אֲבִיעֵל
     </speaker>
     <p>
      | שני ראשי בתי אבות אשר ריב ומלחמה ביניהם ………Capulet
     </p>
    </sp>
-   <sp>
-    <speaker id="zָkֵn">
+   <sp who="zָkֵn">
+    <speaker>
      זָקֵן
     </speaker>
     <p>
      דוד אביעל…………………………………… Uncle to Capulet
     </p>
    </sp>
-   <sp>
-    <speaker id="rָm">
+   <sp who="rָm">
+    <speaker>
      רָם
     </speaker>
     <p>
      בן אבירם…………………………………………………..Romeo
     </p>
    </sp>
-   <sp>
-    <speaker id="mְrַyuֹs">
+   <sp who="mְrַyuֹs">
+    <speaker>
      מְרַיוֹת
     </speaker>
     <p>
      מודע לנסיך ואוהב לרם…………………………….Mercutio
     </p>
    </sp>
-   <sp>
-    <speaker id="bְnָiָh">
+   <sp who="bְnָiָh">
+    <speaker>
      בְּנָיָה
     </speaker>
     <p>
      בן אחי אבירם ואוהב לרם………………………………..Benvolio
     </p>
    </sp>
-   <sp>
-    <speaker id="tubַl">
+   <sp who="tubַl">
+    <speaker>
      תּוּבַל
     </speaker>
     <p>
      בן אחי אשת אביעל……………………………………Tybalt
     </p>
    </sp>
-   <sp>
-    <speaker id="rָtsִin">
+   <sp who="rָtsִin">
+    <speaker>
      רָצִין
     </speaker>
     <p>
      | …………………………………………………..Friar Laurence
     </p>
    </sp>
-   <sp>
-    <speaker id="khָnָn">
+   <sp who="khָnָn">
+    <speaker>
      חָנָן
     </speaker>
     <p>
      |………………………שני כהנים נוצרים…………..  Friar John
     </p>
    </sp>
-   <sp>
-    <speaker id="bַlְtַzֶr">
+   <sp who="bַlְtַzֶr">
+    <speaker>
      בַּלְטַאזֶר
     </speaker>
     <p>
      עבד לרם……………………………………………Balthasar
     </p>
    </sp>
-   <sp>
-    <speaker id="shִׁmְshַׁi">
+   <sp who="shִׁmְshַׁi">
+    <speaker>
      שִׁמְשַׁי
     </speaker>
     <p>
      |……………………………………………..   Sampson
     </p>
    </sp>
-   <sp>
-    <speaker id="gֵּrָ">
+   <sp who="gֵּrָ">
+    <speaker>
      גֵּרָא
     </speaker>
     <p>
@@ -230,72 +371,72 @@
      ָָ עבד לאומנת יעל…………………………………. Peter
     </p>
    </sp>
-   <sp>
-    <speaker id="bֶrַe">
+   <sp who="bֶrַe">
+    <speaker>
      בֶּרַע
     </speaker>
     <p>
      עבד לאבירם………………………………………………Abram
     </p>
    </sp>
-   <sp>
-    <speaker id="ruֹkֵkhַ">
+   <sp who="ruֹkֵkhַ">
+    <speaker>
      רוֹקֵחַ
     </speaker>
     <p>
      בסמי הרפואה……………………… An Apothecary
     </p>
    </sp>
-   <sp>
-    <speaker id="mngnim">
+   <sp who="mngnim">
+    <speaker>
      מנגנים
     </speaker>
     <p>
      ……………………………………..Musicians
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhls mshurrim">
+   <sp who="mkhls mshurrim">
+    <speaker>
      מקהלת משוררים
     </speaker>
     <p>
      ……………………………….Chorns
     </p>
    </sp>
-   <sp>
-    <speaker id="shni nerim mshrsim lfriz">
+   <sp who="shni nerim mshrsim lfriz">
+    <speaker>
      שני נערים משרתים לפריז
     </speaker>
     <p>
      …………………..Two Pages
     </p>
    </sp>
-   <sp>
-    <speaker id="shs birm">
+   <sp who="shs birm">
+    <speaker>
      אשת אבירם
     </speaker>
     <p>
      ………………………………Lady Montague
     </p>
    </sp>
-   <sp>
-    <speaker id="shׁs byel">
+   <sp who="shׁs byel">
+    <speaker>
      אשׁת אביעל
     </speaker>
     <p>
      …………………………………Lady Capulet
     </p>
    </sp>
-   <sp>
-    <speaker id="iָeֵl">
+   <sp who="iָeֵl">
+    <speaker>
      יָעֵל
     </speaker>
     <p>
      בת אביעל………………………………….. Juliet
     </p>
    </sp>
-   <sp>
-    <speaker id="uֹmֶnֶs">
+   <sp who="uֹmֶnֶs">
+    <speaker>
      אוֹמֶנֶת
     </speaker>
     <p>
@@ -6407,8 +6548,8 @@
      לוּ שָׁמַעְתָּ בְּאָזְנֶיךָ עֵת תָּשִׁיר גְּבִרְתִי
     </p>
    </sp>
-   <sp>
-    <speaker id='"rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi'>
+   <sp who='"rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi'>
+    <speaker>
      "רָם רֵעִי רֹעִי — רָם רֵעִי רֹעִי
     </speaker>
     <p>
@@ -12081,8 +12222,8 @@
      וְהִנְנִי נֹפֶלֶת עַל אַפִּי כַּאֲשֶׁר צִוַּנִי אִישׁ הָאֱלֹהִים
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     אָנָּא שָׂא נָא אֵת חַטָּאתִי אַךְ הַפָּעַם

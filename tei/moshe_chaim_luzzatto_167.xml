@@ -46,6 +46,187 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id='rkhl di-oyig inrkish its"u'>
+      <persName>
+       רחל די-וייגא אינרקיש יצ"ו
+      </persName>
+     </person>
+     <person xml:id="yushr">
+      <persName>
+       יושר
+      </persName>
+     </person>
+     <person xml:id="sufr">
+      <persName>
+       סופר
+      </persName>
+     </person>
+     <person xml:id="shikhh ">
+      <persName>
+       שיחה א
+      </persName>
+     </person>
+     <person xml:id="shikhh u'">
+      <persName>
+       שיחה ו'
+      </persName>
+     </person>
+     <person xml:id="hmshl mdbr">
+      <persName>
+       המשל מדבר
+      </persName>
+     </person>
+     <person xml:id="shlh">
+      <persName>
+       תהלה
+      </persName>
+     </person>
+     <person xml:id="shikhh '">
+      <persName>
+       שיחה א'
+      </persName>
+     </person>
+     <person xml:id="mkhkr">
+      <persName>
+       מחקר
+      </persName>
+     </person>
+     <person xml:id="srmis">
+      <persName>
+       תרמית
+      </persName>
+     </person>
+     <person xml:id="shikhh u">
+      <persName>
+       שיחה ו
+      </persName>
+     </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="shikhh h'">
+      <persName>
+       שיחה ה'
+      </persName>
+     </person>
+     <person xml:id="hmun">
+      <persName>
+       המון
+      </persName>
+     </person>
+     <person xml:id="shikhh g'">
+      <persName>
+       שיחה ג'
+      </persName>
+     </person>
+     <person xml:id="skhlus">
+      <persName>
+       סכלות
+      </persName>
+     </person>
+     <person xml:id="zkn">
+      <persName>
+       זקן
+      </persName>
+     </person>
+     <person xml:id='b"h'>
+      <persName>
+       ב"ה
+      </persName>
+     </person>
+     <person xml:id="shikhh d'">
+      <persName>
+       שיחה ד'
+      </persName>
+     </person>
+     <person xml:id="shikhh b'">
+      <persName>
+       שיחה ב'
+      </persName>
+     </person>
+     <person xml:id="rhb">
+      <persName>
+       רהב
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="sblnus">
+      <persName>
+       סבלנות
+      </persName>
+     </person>
+     <person xml:id="shikhh b">
+      <persName>
+       שיחה ב
+      </persName>
+     </person>
+     <person xml:id="shikhh h">
+      <persName>
+       שיחה ה
+      </persName>
+     </person>
+     <person xml:id='yekb d-goysh its"u'>
+      <persName>
+       יעקב דא-גאויש יצ"ו
+      </persName>
+     </person>
+     <person xml:id="mshurrim">
+      <persName>
+       משוררים
+      </persName>
+     </person>
+     <person xml:id="sm">
+      <persName>
+       תם
+      </persName>
+     </person>
+     <person xml:id="shikhh g">
+      <persName>
+       שיחה ג
+      </persName>
+     </person>
+     <person xml:id="mshl">
+      <persName>
+       משל
+      </persName>
+     </person>
+     <person xml:id="kruim">
+      <persName>
+       קרואים
+      </persName>
+     </person>
+     <person xml:id="mshft">
+      <persName>
+       משפט
+      </persName>
+     </person>
+     <person xml:id="shkhl">
+      <persName>
+       שכל
+      </persName>
+     </person>
+     <person xml:id="ebd">
+      <persName>
+       עבד
+      </persName>
+     </person>
+     <person xml:id="shikhh d">
+      <persName>
+       שיחה ד
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -72,8 +253,8 @@
      ליום חתונת החכם והנבון כהר"ר
     </p>
    </sp>
-   <sp>
-    <speaker id='yekb d-goysh its"u'>
+   <sp who='yekb d-goysh its"u'>
+    <speaker>
      יעקב דא-גאויש יצ"ו
     </speaker>
    </sp>
@@ -82,8 +263,8 @@
      עם הכלה הבתולה המהוללה הצנועה מרת
     </p>
    </sp>
-   <sp>
-    <speaker id='rkhl di-oyig inrkish its"u'>
+   <sp who='rkhl di-oyig inrkish its"u'>
+    <speaker>
      רחל די-וייגא אינרקיש יצ"ו
     </speaker>
    </sp>
@@ -92,8 +273,8 @@
      מאתי הצעיר  בכמ“ר  ז”ל.
     </p>
    </sp>
-   <sp>
-    <speaker id='b"h'>
+   <sp who='b"h'>
+    <speaker>
      ב"ה
     </speaker>
    </sp>
@@ -162,120 +343,120 @@
      לפי סדרי החלקים ודבוריהם, כל מדבר לפי ענינו במליצת שירו ירמוז על הענינים ההוים ומתילדים בעולם, ועל דעת בני האדם וסברותיהם ומדותיהם, הטובים והרעים איש איש כדרכיו:
     </p>
    </sp>
-   <sp>
-    <speaker id="hmshl mdbr">
+   <sp who="hmshl mdbr">
+    <speaker>
      המשל מדבר
     </speaker>
     <p>
      ירמוז על ענין המשל ותועלתו, ויבאר שבח החתן והכלה, שעליהם נוסד המשל הזה, ויחס המשל הזה להם:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh ">
+   <sp who="shikhh ">
+    <speaker>
      שיחה א
     </speaker>
     <p>
      ירמוז על חמס בני האדם שחומסים את חק האמת והראוי, במה שזונים אחרי ההבל ומגדילים ומהללים את הרהב:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b">
+   <sp who="shikhh b">
+    <speaker>
      שיחה ב
     </speaker>
     <p>
      על הכח אשר לתרמית על ההמון נגד השכל ומופתי ראיותיו:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g">
+   <sp who="shikhh g">
+    <speaker>
      שיחה ג
     </speaker>
     <p>
      על הפסד המנהגים הנוהגים, להגדיל הרשע והסכלות ולהשפיל הישרים והתמימים ומיאון ההמון לקבל המוסר, ויראה שבח ההתבודדות וגנות החברה הבלתי טובה, ויבאר הבטחון ואמונת הלב הראוי לאיש הישר:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d">
+   <sp who="shikhh d">
+    <speaker>
      שיחה ד
     </speaker>
     <p>
      ירמוז על גנות החכמים והלומדים בעיני הסכלים, ועל אומץ לב הסכלים ועליצותם:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh ">
+   <sp who="shikhh ">
+    <speaker>
      שיחה א
     </speaker>
     <p>
      ירמוז על התקוה הראויה לאדם בעת צרותיו, ויבאר גנות הסכלים והרמאים ומעשיהם המקולקלים. ויבאר טעות העין והראות:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b">
+   <sp who="shikhh b">
+    <speaker>
      שיחה ב
     </speaker>
     <p>
      ירמוז היות ראוי לאיש המשכיל להסיח הדאגה מלבו, וישתמש לזה התכלית במנוחת השדה והמים, ובחפוש קצת מדברי הטבע, שבהם יסיר מחשבות עצב מלבבו, ובם יכיר את גדולת הבורא ית"ש וישבחהו על נפלאות מעשיו; ויבאר צורת הצמחים וצמיחתם וחלקיהם והדבש והשעוה הנלקחים מהם ושאר עניניהם:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g">
+   <sp who="shikhh g">
+    <speaker>
      שיחה ג
     </speaker>
     <p>
      ירמוז היות ראוי לאדם לשום בטחונו בה' ולהתפלל לו בצרותיו, וגם לכבוש את כעסו שלא לדחוק את השעה:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d">
+   <sp who="shikhh d">
+    <speaker>
      שיחה ד
     </speaker>
     <p>
      ירמוז שלפעמים אע"פ שאין אדם רואה, מזלו רואה:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh ">
+   <sp who="shikhh ">
+    <speaker>
      שיחה א
     </speaker>
     <p>
      על אמתת ההשגחה, ועל מה שהיצר מפתה את בני האדם ליחס הכל לטבע ולמקרה, ויבאר מציאות הרעמים והברקים והזועות, ויראה הלעג שלועגים הלצים על יראי החטא, ועצת הזקנים והחכמים נגד פתוי היצר:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b">
+   <sp who="shikhh b">
+    <speaker>
      שיחה ב
     </speaker>
     <p>
      ירמוז איך הסכלים מוכרחים בסוף לבקש את החכמים ולדפוק על דלתותיהם כשתתגלה חרפת הדמיון:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g">
+   <sp who="shikhh g">
+    <speaker>
      שיחה ג
     </speaker>
     <p>
      בגילוי שקר הרהב וכזב ההבל בכח המשפט:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d">
+   <sp who="shikhh d">
+    <speaker>
      שיחה ד
     </speaker>
     <p>
      חרטת בני האדם על שלא הלכו אחר השכל, כשמגעת להם הרעה:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh h">
+   <sp who="shikhh h">
+    <speaker>
      שיחה ה
     </speaker>
     <p>
      גילוי ערך היושר וחשיבותו באמת והיות התהלה נאוה לו לבדו:
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh u">
+   <sp who="shikhh u">
+    <speaker>
      שיחה ו
     </speaker>
     <p>
@@ -287,113 +468,113 @@
      לאמת יולד בן, ויאמר להמון לאמר: אם יש את נפשך תהי נא תהלה בתך יעודה לבני לאשה, וישמע המון לאמת ויכרתו שניהם ברית. בעת ההיא ילדה תאוה שפחת אמת גם היא בן ותהי היא ובנה אתו בבית. ויבא צבא המבוכה ויבוזו העיר ואת הילדים לקחו וינהגו וילכו, וירא אמת כי נשבה בנו ויעל למשפט השערה ויכתוב בספר ויחתום לפני משפט כדברים האלה: בני ועבדי שדדו השודדים, ועתה למען לא יתחלף בני בעבדי בהאריך הימים, הנני מפרש סימניו, ויפרש אותו לפני משפט. וימת אמת, ויעברו הימים ובן התאוה לוקח ביתה דמיון ויגדלהו ויקרא את שמו רהב, ויאמר תרמית לרהב אלכה נא ואגידה אל המון לאמר: הנה בן אמת עומד בבית דמיון, הלא כי נפתה הוא ונתן לך תהלה יעודת אדוניך לאשה. וילך תרמית ויאמר להמון: יתבשר נא אדוני אשר נמצא בן אמת, הנה הוא עומד בבית דמיון. וילך המון ויקח את רהב מבית דמיון ויאמר לו: הנה לך תהלה בתי אשר דברתי אל אמת אביך לתתה לך לאשה, קחנה ותהי לך לאשה כאשר דברתי לך. בימים ההם ויושר בן אמת יוצא ובא בתוך העם ולא יכירוהו, ויהי הנער הולך וגדל וטוב, ותראהו תהלה ותאהבהו בלבה, אך דבר המון היה חזק על בתו לתתה אל רהב כאשר דבר. וימלאו הימים ויאמר רהב להמון: הבה את אשתי כי מלאו ימי. ויקם המון ויאסוף את כל אנשי העיר ויעש משתה, ויהי הם אוכלים ושותים והנה רעש גדול ורוח גדולה וחזק ויגע בארבע פנות הבית, והקירות נטו לנפול והעמודים חשבו להשבר וינתץ עמוד התוך. ויראו האנשים וייראו מאד ויבהלו איש אל רעהו, ויקם אחד מן הזקנים ויאמר: שמעוני אחי! חרדת אלהים עלינו; ועתה כי זוכר אני, אשר קצף ה' על העיר הזאת ויביא עליה את הגוי המר והנמהר חיל המבוכה וישללוה, ולאמת אחינו היה בן ובן אמתו בביתו ויגדלו הנערים ויתערבו, ויכתוב אמת את סימני בנו לפני משפט אדוננו להיות לו לעד עד עולם. עתה נדרשה נא ויבוקש בספר זכרונות משפט, וימצא, אולי אין רהב בן אמת ולא לו תנתן תהלה, כי לבן אמת תהיה. ויבקשו את הדבר ויחקרו היטב, ולא נמצאו ברהב הסימנים ההמה, וידעו כי לא בן אמת הוא וישלחוהו. וישמע שכל ריע יושר ויבא וישתחו ארצה לפניהם ויאמר: ברוך ה' אלהי אמת, הנני אבא ואציג בן אמת לפניכם ולו תהיה תהלה לאשה. ויביא לפניהם את יושר ויעמידהו לפני משפט, וימצאו בו את סימני אביו ויכירוהו. ויאמר משפט להמון: זה בן אמת אשר יעדת לו בתך, אליו תתננה. ויקח יושר את תהלה ורוחה היתה. וישמחו כל העם מאד ויברכו את ה':
     </p>
    </sp>
-   <sp>
-    <speaker id="mshl">
+   <sp who="mshl">
+    <speaker>
      משל
     </speaker>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      בת המון
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      אבי תהלה
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
      בן אמת, חתן תהלה
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      בן תאוה, נחשב לבן אמת בטעות
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
      ריע רהב
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      ריע יושר
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
      שפחת המון
     </p>
    </sp>
-   <sp>
-    <speaker id="sblnus">
+   <sp who="sblnus">
+    <speaker>
      סבלנות
     </speaker>
     <p>
      מינקת יושר
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhkr">
+   <sp who="mkhkr">
+    <speaker>
      מחקר
     </speaker>
     <p>
      מתבודד
     </p>
    </sp>
-   <sp>
-    <speaker id="ebd">
+   <sp who="ebd">
+    <speaker>
      עבד
     </speaker>
    </sp>
-   <sp>
-    <speaker id="kruim">
+   <sp who="kruim">
+    <speaker>
      קרואים
     </speaker>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="sufr">
+   <sp who="sufr">
+    <speaker>
      סופר
     </speaker>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
      מלך
     </p>
    </sp>
-   <sp>
-    <speaker id="mshurrim">
+   <sp who="mshurrim">
+    <speaker>
      משוררים
     </speaker>
    </sp>
@@ -752,8 +933,8 @@
      שָׁלוֹם יְהִי לָכֶם, שִׂישׂוּ וָגִילוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh '">
+   <sp who="shikhh '">
+    <speaker>
      שיחה א'
     </speaker>
    </sp>
@@ -867,8 +1048,8 @@
      תּוֹךְ אַרְמְנוֹת עֻזֵּךְ וּבְטִירוֹתָיִךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b'">
+   <sp who="shikhh b'">
+    <speaker>
      שיחה ב'
     </speaker>
    </sp>
@@ -877,8 +1058,8 @@
      רהב ותרמית
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
@@ -915,8 +1096,8 @@
      כִּי כָל־יְכָלְתִּי לֹא אֶמְנַע מִמֶּךָּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -993,8 +1174,8 @@
      מִנַּחֲלָתוֹ זֶה לָעַד גֹּרָשְׁתָּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
@@ -1011,8 +1192,8 @@
      כִּי כֵן לְעֶזְרָתִי צֵאת הִתְחַזָּקְתָּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -1079,8 +1260,8 @@
      חֵן טוֹב לְמָאוֹס, אַף כָּבוֹד לַדֹּפִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g'">
+   <sp who="shikhh g'">
+    <speaker>
      שיחה ג'
     </speaker>
    </sp>
@@ -1089,8 +1270,8 @@
      שכל יושר וסבלנות
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -1372,8 +1553,8 @@
      עוֹכֵר שְׁאֵרוֹ הוּא אַף חוֹמֵס דָּעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -1675,8 +1856,8 @@
      אוֹתָם, הֲלֹא הֶבֶל וָרִיק יַעְזֹרוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sblnus">
+   <sp who="sblnus">
+    <speaker>
      סבלנות
     </speaker>
     <p>
@@ -1853,8 +2034,8 @@
      אֶל־רֹאשׁ שְׁחָקִים אֵיךְ יָעוּף תּוֹלָעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d'">
+   <sp who="shikhh d'">
+    <speaker>
      שיחה ד'
     </speaker>
    </sp>
@@ -1863,24 +2044,24 @@
      המון וסכלות, אח"כ ילך המון ונשארה סכלות לבדה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   קוּמִי אֲמָתִי, נָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
      :      אָדוֹן, הִנֵּנִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -1917,8 +2098,8 @@
      הוֹלֵךְ אֲנִי, אַף אַתְּ חִישִׁי וָלֵכִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -2170,8 +2351,8 @@
      שִׂמְחוּ בְּנֵי תֵבֵל, גִּילוּ וּשְׂמָחוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh '">
+   <sp who="shikhh '">
+    <speaker>
      שיחה א'
     </speaker>
    </sp>
@@ -2180,8 +2361,8 @@
      שכל ויושר בשדה, אח"כ הולך שכל ונשאר יושר לבדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -2273,8 +2454,8 @@
      מֹשֵׁל בְּעֹז עוֹלָם מִצָּרָה רֶוַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -2301,8 +2482,8 @@
      אִם יֵשׁ בְּשׂוֹרָה לָךְ אַל תִּמְנַע מֶנִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -2414,8 +2595,8 @@
      כָּל עֵת אֲשֶׁר נִזְכָּרוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -2557,8 +2738,8 @@
      עוֹשֶׂה וְגַם־מַצְלִיחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -2800,8 +2981,8 @@
      הוּא לֵב אֲשֶׁר־יִשְׁקוֹט, הוּא לֵב יָנוּחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b'">
+   <sp who="shikhh b'">
+    <speaker>
      שיחה ב'
     </speaker>
    </sp>
@@ -2810,8 +2991,8 @@
      יושר נשאר לבדו ומוצא מחקר מתבודד בהר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -2903,8 +3084,8 @@
      בֵּין הַרְרֵי בָדָד וּנְחָלִים אֵלֶּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mkhkr">
+   <sp who="mkhkr">
+    <speaker>
      מחקר
     </speaker>
     <p>
@@ -3386,8 +3567,8 @@
      אַשְׁרֵי מְדַבֵּר עַל־אֹזֶן שׁוֹמָעַת!
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -3434,8 +3615,8 @@
      עָנָק לְצַוָּאר, אַף אֶל־רֹאשׁ מִגְבָּעַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g'">
+   <sp who="shikhh g'">
+    <speaker>
      שיחה ג'
     </speaker>
    </sp>
@@ -3444,8 +3625,8 @@
      תהלה באה בשדה לבדה, אח"כ רואה את יושר מרחוק ובורחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -3662,8 +3843,8 @@
      עַד־בֹּא אֲמָתִי, כִּי שָׁם צִוִּיתִיהָ
     </p>
    </sp>
-   <sp>
-    <speaker id="lֵmֹr">
+   <sp who="lֵmֹr">
+    <speaker>
      לֵאמֹר
     </speaker>
     מְהֵרָה לֵכִי,
@@ -3848,8 +4029,8 @@
      לֹא נוֹאֲשָׁה נַפְשִׁי אַף לֹא נוֹחָלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d'">
+   <sp who="shikhh d'">
+    <speaker>
      שיחה ד'
     </speaker>
    </sp>
@@ -3858,8 +4039,8 @@
      סכלות ותהלה
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -3871,16 +4052,16 @@
      כִּי לֹא מְצָאתִיךְ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      :       אַךְ הֵנָּה הָיִיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -3897,8 +4078,8 @@
      אַךְ לֹא מְצָאתִיךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -3910,8 +4091,8 @@
      אָבִי וּמַה צִּוָּה עָלָי?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -3923,24 +4104,24 @@
      שִׂמְחָה לְבַשֵּׂר לָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      :       מִי יִתֵּן יֶהִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
      :  אָמְנָם הֲלֹא כֵן הוּא.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -3952,8 +4133,8 @@
      אַךְ אֶת־אֲשֶׁר אִתָּךְ אִמְרִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -3975,16 +4156,16 @@
      הוּשָׂם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      :       וְעִם מִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -3996,8 +4177,8 @@
      מִי הוּא חֲתָנֵךְ, לֹא רַהַב?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4009,8 +4190,8 @@
      לֹא אֶת־שְׁמוֹ הִזְכַּרְתְּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -4022,8 +4203,8 @@
      מִי בַּשְּׁעָרִים אִישׁ נוֹדַע מִמֶּנּוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4040,8 +4221,8 @@
      מָצָאת בְּבוֹאֵךְ שָׁמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -4058,8 +4239,8 @@
      אַךְ מוֹצְאוֹתָם לֹא אוֹתָם שָׁאָלְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4076,16 +4257,16 @@
      טֶרֶם עֲרוֹב הַיּוֹם וּדְעִי מָה־אֵלֶּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
      :  כֵּן אֶעֱשֶׂה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4262,8 +4443,8 @@
      יוֹצִיא בְּרָב־כֹּחוֹ לָאוֹר צִדְקֵנוּ.  (כֵּן הוּא)
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -4305,24 +4486,24 @@
      אוֹתָם כְּשֶׂה אֶחָד לִטְרוֹף גַּם־יָחַד.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      :  וַיִּטְרְפוּ אוֹתָם?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
      :      לֹא, כִּי נִצּוֹלוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4334,8 +4515,8 @@
      אל :          אַךְ אֵיכָכָה נִצּוֹלוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -4362,8 +4543,8 @@
      וַיְמַהֲרוּ וַיָּשׁוּבוּ הָעִירָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
@@ -4460,8 +4641,8 @@
      אוֹחִיל וְאוֹחִיל עוֹד, אוּלַי אָגִילָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh '">
+   <sp who="shikhh '">
+    <speaker>
      שיחה א'
     </speaker>
    </sp>
@@ -4470,8 +4651,8 @@
      המון, תהלה, רהב, תרמית ושאר קרואים במשתה בבקר קודם החופה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4493,8 +4674,8 @@
      בָּנַי, בְּשִׂמְחָה עוֹד נָשׁוּב נָגִילָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -4516,8 +4697,8 @@
      עוֹד רַעֲנָן, דָּשֵׁן וּשְׂבַע כָּל־נָחַת.
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
@@ -4549,8 +4730,8 @@
      כַּדָּם אֲדֻמָּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4572,8 +4753,8 @@
      כָּזֹאת תְּאֻנֶּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -4615,8 +4796,8 @@
      אִתִּי שְׁתֵה וּלְךָ יִנְעַם לָנֶצַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4628,64 +4809,64 @@
      מָה הַסְּעָרָה זֹאת מִתֵּימָן בָּאָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      :   חָרֵד לְבָבִי בִּי מִקּוֹל הָרָעַם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlh">
+   <sp who="shlh">
+    <speaker>
      תהלה
     </speaker>
     <p>
      :  אֵיךְ תִּהֲלַךְ כָּזֹאת (אָבִי!) אֵשׁ אָרְצָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      :   הַקִּיר, רְאֵה, נוֹטֶה לִנְפּוֹל הִנֵּהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="kruim">
+   <sp who="kruim">
+    <speaker>
      קרואים
     </speaker>
     <p>
      : מִנִּי שְׁמֵי מָרוֹם נִלְחָמִים בָּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   סַעַר אֲשֶׁר כָּזֶה עוֹד לֹא רָאִיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      :   שׁוֹמֵם אֲנִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="kruim">
+   <sp who="kruim">
+    <speaker>
      קרואים
     </speaker>
     <p>
      :     אָנָה נָנוּסָה, אָנָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -4807,8 +4988,8 @@
      יַחְדָּו שְׁפַנֵּי סָלַע!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4825,8 +5006,8 @@
      לֹא אֵדְעָה, אָכֵן יָרֵא אָנֹכִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -4863,8 +5044,8 @@
      סוּס רִכְבְּךָ הֵן תִּתְחַבֵּא נַפְשֶׁךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4881,8 +5062,8 @@
      לֹא אֵדְעָה שַׁלָּמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -4894,8 +5075,8 @@
      הָמוֹן, חֲדַל, כִּי אֵין דָּבָר, הַרְגִּיעָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -4912,8 +5093,8 @@
      בֹּא כָּל־דְּמָמָה מִתְגַּבֵּר הַסָּעַר.
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -5100,8 +5281,8 @@
      כִּי גַם בְּזִקְנָתוֹ עוֹדֶנּוּ נָעַר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -5113,8 +5294,8 @@
      תַּרְמִית, בְּדָבָר זֶה, לֹא, לֹא!
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -5141,16 +5322,16 @@
      לֶב־אִישׁ מְאֹד תִּמְשׁוֹל גַּם כִּי־כּוֹזָבֶת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ebd">
+   <sp who="ebd">
+    <speaker>
      עבד
     </speaker>
     <p>
      :   אָדוֹן, כְּבָר נִשְׁבַּר עַמּוּד הַתָּוֶךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
     <p>
@@ -5287,8 +5468,8 @@
      לֹא יָדְעוּ שַׁחְרָם, אוֹר לֹא יַשִּׂיגוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -5310,8 +5491,8 @@
      פִּשְׁעִי וְחַטָּאתִי, כִּי־אָסוּר מֶנּוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
     <p>
@@ -5438,32 +5619,32 @@
      רַהַב, כְּמוֹ דִּמִּינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   אוֹי, מַה־מְּנָת חֶלְקִי! מַה זֶּה יִקְרֵנִי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      :   אוֹי, מַה יְּהִי זֶה לָנוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
      : נָמֵס לְבָבִי בִּי, בִּרְכַּי כָּשָׁלוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
     <p>
@@ -5480,8 +5661,8 @@
      מַה נַּעֲשֶׂה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -5498,8 +5679,8 @@
      אֵיךְ כֹּה לְכַזֵּב בִּי זַדְתֶּם, אֵיכָכָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="srmis">
+   <sp who="srmis">
+    <speaker>
      תרמית
     </speaker>
     <p>
@@ -5516,8 +5697,8 @@
      זֶרַע אֱמֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -5554,8 +5735,8 @@
      חֵרֵשׁ אֱהִי טֶרֶם לָכֶם שָמָעְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
     <p>
@@ -5597,8 +5778,8 @@
      דַּע כִּי לְבַד לִכְסִיל תִּקְוָה מִמֶּנּוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh b'">
+   <sp who="shikhh b'">
+    <speaker>
      שיחה ב'
     </speaker>
    </sp>
@@ -5607,8 +5788,8 @@
      סכלות הולכת לבקש שכל. אח "כ תמצא אותו עם יושר .
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5690,8 +5871,8 @@
      לִרְאוֹת דְּמוּתָךְ מֵרָחוֹק דִּמִּיתִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -5703,8 +5884,8 @@
      אוֹתִי תְּבַקְשִׁי? מַה יֵּשׁ אִתָּךְ לָנוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5726,16 +5907,16 @@
      לֹא אַאֲמִין לוּלֵי עֵינַי רָאוּהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   מַה־זֶּה אֲשֶׁר קָרָה? אִמְרִי, הַגִּידִי!
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5752,16 +5933,16 @@
      אִם רָאֲתָה עֵינִי אוֹ אִם־חָלָמְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   אַךְ מָה אֲשֶׁר נִהְיָה אִמְרִי, סַפֵּרִי.
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5773,8 +5954,8 @@
      מִהְיוֹת חֲתַן הָמוֹן.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -5786,8 +5967,8 @@
      סִכְלוּת לְצַחֶק בִּי?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5804,24 +5985,24 @@
      אוֹתוֹ וְכֵן נִבְהָלְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   אֵיךְ נִהְיְתָה זֹאת? נָא!
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
      :       צוּרִי, מָה אֵלֶּה
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5853,8 +6034,8 @@
      עוֹד אַחֲרִית כָּל־אֵלֶּה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -5871,8 +6052,8 @@
      זֹאת הַהֲמֻלָּה? לֹא הָיִית אַתְּ שָׁמָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="skhlus">
+   <sp who="skhlus">
+    <speaker>
      סכלות
     </speaker>
     <p>
@@ -5914,8 +6095,8 @@
      כֻּלָּם נְבוּכִים אֶל־בֵּית מִשְׁפָּט יָחַד.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -5952,8 +6133,8 @@
      הַיּוֹם לְנַפְשׁוֹתֵינוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -5975,8 +6156,8 @@
      כִּי כָל־מְזִמּוֹתָם כֹּה תִּתְהַפַּכְנָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6058,8 +6239,8 @@
      רֶגַע הֲלֹא יֶשְׁנוֹ, אַךְ לֹא מִשְׁנֵהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh g'">
+   <sp who="shikhh g'">
+    <speaker>
      שיחה ג'
     </speaker>
    </sp>
@@ -6068,8 +6249,8 @@
      המון ורהב והזקן ושאר קרואים לפני משפט מלכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6131,8 +6312,8 @@
      וּתְנַחֲמֵנוּ שֵׁבֶט מַלְכוּתֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     בָּנַי! תְּשׁוּעַתְכֶם נַפְשִׁי דּוֹרֶשֶׁת
@@ -6147,8 +6328,8 @@
      אַךְ מָה אֲשֶׁר אֶתְכֶם לוֹחֵץ הוּא עָתָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6215,8 +6396,8 @@
      אוֹתוֹת בְּנוֹ בָּאֵר לִפְנֵי כִסְאֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -6233,16 +6414,16 @@
      מַהֵר הֲלוֹם הַסֵּפֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   מַלְכִּי, יְחִי לָעַד שֵׁם מַלְכוּתֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sufr">
+   <sp who="sufr">
+    <speaker>
      סופר
     </speaker>
     <p>
@@ -6254,16 +6435,16 @@
      כִּדְבָרְךָ פֹּה הַסֵּפֶר הִנֵּהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
      :  עַתָּה קְרָא אֶת־הָרָשׁוּם.
     </p>
    </sp>
-   <sp>
-    <speaker id="sufr">
+   <sp who="sufr">
+    <speaker>
      סופר
     </speaker>
     <p>
@@ -6315,8 +6496,8 @@
      "כִּדְמוּת עֲדָשָׁה וּכְמוֹ תַבְנִית כֶּתֶר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -6328,16 +6509,16 @@
      רַהַב, גְּשָׁה וּפְשׁוֹט אֶת־כֻּתָּנְתֶּךָ!
     </p>
    </sp>
-   <sp>
-    <speaker id="rhb">
+   <sp who="rhb">
+    <speaker>
      רהב
     </speaker>
     <p>
      לעצמו:     אוֹי, כִּי כְּבָר אָבָדְתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -6394,16 +6575,16 @@
      הַבֵּן אֲשֶׁר תַּחְמוֹד וּבְטוּבוֹ תָגֶל.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   מַלְכוּתְךָ תָרוּם, מַלְכִּי, לָנֶצַח.
     </p>
    </sp>
-   <sp>
-    <speaker id="zkn">
+   <sp who="zkn">
+    <speaker>
      זקן
     </speaker>
     <p>
@@ -6415,8 +6596,8 @@
      תִּרְעֶה לְעוֹלָמִים שָׁלוֹם צֹאנֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6438,8 +6619,8 @@
      אֶל־קוֹל נְהִי תַּקְשִׁיב אוֹ תֹּף וָנֶבֶל?
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh d'">
+   <sp who="shikhh d'">
+    <speaker>
      שיחה ד'
     </speaker>
    </sp>
@@ -6448,8 +6629,8 @@
      שכל ויושר הולכים אל בית המשפט והמון ושאר העם שם.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6461,8 +6642,8 @@
      יָדוֹ אֱלֵי מִצְחוֹ, מֻטֶּה הַקִּירָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="yushr">
+   <sp who="yushr">
+    <speaker>
      יושר
     </speaker>
     <p>
@@ -6474,8 +6655,8 @@
      הֵן עַל־מְרִי שִׂיחוֹ פָּנָיו יָעִידוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6497,8 +6678,8 @@
      הָמוֹן, כְּמוֹ זָעֵף? מַה־לָּךְ הִגִּיעַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6545,16 +6726,16 @@
      בָּם שַׂעֲרוֹת זִקְנַת בָּשְׁתִּי אַסְתִּירָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   מַה־קָּרְךָ כֹּה רָע?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6696,8 +6877,8 @@
      יָכוֹל אֲנִי, וּכְבָר הוֹדִי שִׁחַתִּי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6714,8 +6895,8 @@
      בָּאוּ לְךָ הַיּוֹם הַזֶּה כָּל־אֵלֶּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6737,8 +6918,8 @@
      כֹּה אַלְמְנוּת חַיּוּת שׁוֹמֵמָה סֶלָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6750,8 +6931,8 @@
      תִּהְיֶה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6763,8 +6944,8 @@
      אָן בֶּן אֱמֶת עַתָּה תִּמְצָא נָא? אָנָה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6781,8 +6962,8 @@
      קָרוֹב לְךָ יִהְיֶה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6794,8 +6975,8 @@
      כָּזֹאת תְּדַבֵּר עָתָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -6812,8 +6993,8 @@
      כִּי בֶּן אֱמֶת רַהַב אֵינֶַנּוּ?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6865,16 +7046,16 @@
      רַהַב וְהֵן אֵין בּוֹ אֶחָד מֵהֵמָּה
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   אַךְ תֵּדְעָה הַגִּיד סִימָּנִים אֵלֶּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6911,48 +7092,48 @@
      תַּבְנִית עֲדָשָׁה וּשְׂעָרָהּ צִמֵּחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :   עַל־הַיְּמָנִית הוּא?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :       כֵּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :        וּדְמוּת נֶזֶר?
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
      :   כֵּן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :        אַף שְׂעָרָהּ כַּזָּהָב.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -6964,8 +7145,8 @@
      נוֹדַע לְךָ כָּל־זֹאת? מִתְנַבֵּא אַתָּה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7117,8 +7298,8 @@
      דָּבָר בְּעִתּוֹ מַה־מָּתוֹק הוּא סֶלָה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh h'">
+   <sp who="shikhh h'">
+    <speaker>
      שיחה ה'
     </speaker>
    </sp>
@@ -7127,8 +7308,8 @@
      שכל המון ותהלה ויושר ושאר קרואים לפני משפט.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -7145,8 +7326,8 @@
      בַּקֵּשׁ וְיֻתַּן לָךְ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7228,8 +7409,8 @@
      לִפְנֵי בְּנֵי־עַוְלָה מָט וַיָּשֹׁחַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -7241,8 +7422,8 @@
      אֶת־בֶּן אֱמֶת, בַּל־תִּשְׁגֶּה־בּוֹ?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7264,8 +7445,8 @@
      הַיּוֹם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -7282,8 +7463,8 @@
      יֻכַּר וְיִבָּחֵן.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7295,16 +7476,16 @@
      כִּי זֶה יְהִי הַיּוֹם שֶׁיַּכִּירוּהוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
      :  אָן הוּא? קְרָא־נָא לוֹ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7316,24 +7497,24 @@
      הִשְׁתַּחֲוֶה אֶל־מוּל הַדְרַת מַלְכֵּנוּ!
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
      :  זֶה בֶּן אֱמֶת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
      :        זֶה הוּא!
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -7385,8 +7566,8 @@
      לִרְאוֹת כְּמִנְהָגֶךָ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7438,8 +7619,8 @@
      מִטּוּב פְּרִי תֻמּוֹ הַיּוֹם תַּשְׂבִּיעַ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshft">
+   <sp who="mshft">
+    <speaker>
      משפט
     </speaker>
     <p>
@@ -7626,8 +7807,8 @@
      עִירִי הֲלֹא נִחַמְתָּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="khlm">
+   <sp who="khlm">
+    <speaker>
      כלם
     </speaker>
     <p>
@@ -7669,8 +7850,8 @@
      עֵין שׁוֹפְטָם אוֹתָם יַשְׁלִים מִפָּחַד.
     </p>
    </sp>
-   <sp>
-    <speaker id="shikhh u'">
+   <sp who="shikhh u'">
+    <speaker>
      שיחה ו'
     </speaker>
    </sp>
@@ -7679,8 +7860,8 @@
      חברת משוררים, יושר ותהלה, המון ושכל ושאר קרואים בבית המון אחר החופה
     </p>
    </sp>
-   <sp>
-    <speaker id="mshurrim">
+   <sp who="mshurrim">
+    <speaker>
      משוררים
     </speaker>
     <p>
@@ -7712,8 +7893,8 @@
      נָפַל לְיִשְׁרֵי לֵב הוֹד תִּפְאַרְתֵּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="shkhl">
+   <sp who="shkhl">
+    <speaker>
      שכל
     </speaker>
     <p>
@@ -7775,8 +7956,8 @@
      נָאוָה תְהִלָּה וּתְמִימִים יָשֹׂרוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshurrim">
+   <sp who="mshurrim">
+    <speaker>
      משוררים
     </speaker>
     <p>
@@ -7808,8 +7989,8 @@
      נָפַל לְיִשְׁרֵי לֵב הוֹד תִּפְאַרְתֵּנוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hmun">
+   <sp who="hmun">
+    <speaker>
      המון
     </speaker>
     <p>
@@ -7841,8 +8022,8 @@
      לִוְיַת תְּהִלָּה, חֵן כָּבוֹד וָעֹשֶׁר.
     </p>
    </sp>
-   <sp>
-    <speaker id="mshurrim">
+   <sp who="mshurrim">
+    <speaker>
      משוררים
     </speaker>
     <p>
@@ -7904,8 +8085,8 @@
      יִרְאוּ יְשָׁרִים אַף־יַחְדָּו יִשְׂמָחוּ.
     </p>
    </sp>
-   <sp>
-    <speaker id="sm">
+   <sp who="sm">
+    <speaker>
      תם
     </speaker>
    </sp>

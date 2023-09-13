@@ -46,6 +46,132 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="uril (eumd bfskh hgzuztrh, mbit l hkhr hiruk shlmulu)">
+      <persName>
+       אוריאל (עומד בפתח הגזוזטרה, מביט אל הכר הירוק שלמולו)
+      </persName>
+     </person>
+     <person xml:id="uril">
+      <persName>
+       אוריאל
+      </persName>
+     </person>
+     <person xml:id="bkhurh b'">
+      <persName>
+       בחורה ב'
+      </persName>
+     </person>
+     <person xml:id="mrim">
+      <persName>
+       מרים
+      </persName>
+     </person>
+     <person xml:id="khuh">
+      <persName>
+       חוה
+      </persName>
+     </person>
+     <person xml:id="bkhurh h'">
+      <persName>
+       בחורה ה'
+      </persName>
+     </person>
+     <person xml:id="itskhk">
+      <persName>
+       יצחק
+      </persName>
+     </person>
+     <person xml:id="uri">
+      <persName>
+       אוריא
+      </persName>
+     </person>
+     <person xml:id="bkhurh d'">
+      <persName>
+       בחורה ד'
+      </persName>
+     </person>
+     <person xml:id="bkhurim ubkhurus">
+      <persName>
+       בחורים ובחורות
+      </persName>
+     </person>
+     <person xml:id="bkhurh g'">
+      <persName>
+       בחורה ג'
+      </persName>
+     </person>
+     <person xml:id="shlshsm">
+      <persName>
+       שלשתם
+      </persName>
+     </person>
+     <person xml:id="bkhurh u'">
+      <persName>
+       בחורה ו'
+      </persName>
+     </person>
+     <person xml:id="hbkhurus">
+      <persName>
+       הבחורות
+      </persName>
+     </person>
+     <person xml:id="hbkhur">
+      <persName>
+       הבחור
+      </persName>
+     </person>
+     <person xml:id="dinh">
+      <persName>
+       דינה
+      </persName>
+     </person>
+     <person xml:id="bkhurh '">
+      <persName>
+       בחורה א'
+      </persName>
+     </person>
+     <person xml:id="bkhur b'">
+      <persName>
+       בחור ב'
+      </persName>
+     </person>
+     <person xml:id="hzknh">
+      <persName>
+       הזקנה
+      </persName>
+     </person>
+     <person xml:id="htseirh">
+      <persName>
+       הצעירה
+      </persName>
+     </person>
+     <person xml:id="bkhurh ">
+      <persName>
+       בחורה א
+      </persName>
+     </person>
+     <person xml:id="bkhur '">
+      <persName>
+       בחור א'
+      </persName>
+     </person>
+     <person xml:id="hmkum">
+      <persName>
+       המקום
+      </persName>
+     </person>
+     <person xml:id="rus">
+      <persName>
+       רות
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -108,8 +234,8 @@
      משרתות
     </p>
    </sp>
-   <sp>
-    <speaker id="hmkum">
+   <sp who="hmkum">
+    <speaker>
      המקום
     </speaker>
     <p>
@@ -158,8 +284,8 @@
 בשערו השחור, המסֻפר, זרקה שיבה. הוא לבוש כתונת-מלחים לבנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril (eumd bfskh hgzuztrh, mbit l hkhr hiruk shlmulu)">
+   <sp who="uril (eumd bfskh hgzuztrh, mbit l hkhr hiruk shlmulu)">
+    <speaker>
      אוריאל (עומד בפתח הגזוזטרה, מביט אל הכר הירוק שלמולו).
     </speaker>
     <p>
@@ -168,8 +294,8 @@
 חלמתי הלילה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -177,8 +303,8 @@
 עולצת לקראת האור). חלום חלמת, אחי, ולי לא הגדת!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -186,24 +312,24 @@
 תישני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
     <p>
      לישון – בבוקר זה, שעה שכל בני הכפר פשטו בשדות, ללקט אדמומיות!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ותחת כל מדרך-כף-רגל נגר דם הגרגרים האדמונים…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
     <p>
@@ -211,16 +337,16 @@
 לי את חלומך טרם אלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ילדה שכמוך שמא לא תבין דברי חלומות?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -228,8 +354,8 @@
 (חובקת אותו). הלא תספר?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -238,16 +364,16 @@
 וגדולות, ירקרקות ואדומות…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . כשדה אשר למולנו, ממש!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל.
     </speaker>
     <p>
@@ -255,16 +381,16 @@
 פי, עד כי אדמו שפתי מדם-עסיסן, ואיעף מלקט…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . מִלקֻט עיפת! מִלקט אדמומיות!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -280,40 +406,40 @@
 ככתר-מלכים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (מדלגת). אח, יודעת אנכי את הסוף: הכתר בודאי ששמת בראשך?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (נוגה). לא… כאשר קרבתי אליה – ותמוג כענן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . (ברוגז). וזה מקלקל את כל החלום הנאה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . כן, אחותי. “זה מקלקל את כל החלום הנאה”.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -323,8 +449,8 @@
 פשוטים ונקיים, המעידים על אמידות של אכרים).
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -333,24 +459,24 @@
 אדמומיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . טעית הפעם. יקירי. אין אוריאל מתרועע עם בחורי הכפר.
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
      זאת ידעתי. אלא שבתנו גם היא במלקטים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -358,8 +484,8 @@
 עלינו לדבר בה אל אוריאל!
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -367,32 +493,32 @@
 אחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . הן לא דוב שכול הוא – והוא אוהב את רות!
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
      . בלחישה אגלה לך, חוה, כי אין נפשי נוחה מכל הענין.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . מאיזה ענין?
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -400,8 +526,8 @@
 בא.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -409,16 +535,16 @@
 בן-עשירים?
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
      . זאת לא זאת, אבל… (לתוך אזנה). לי נדמה, כי אין ברוחו נכונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -426,8 +552,8 @@
 טועה, אין ברוחך אתה נכונה!
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -435,16 +561,16 @@
 בזה, שאינו נוהג כדרך בני-אדם מן הישוב?
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . אלא כיצד הוא נוהג?
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -452,16 +578,16 @@
 הוא קונה לו אחוזה בכפרנו, סתם. לשם גידול פרחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . ומה בכך? מדוע לא יעשה כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -473,8 +599,8 @@
 אז מצא לו בתולה נאה ומלומדת בכרך. בת-אכרים למה לו?
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -482,8 +608,8 @@
 המועד, בעלי הטוב רות שלנו הרי היא כצל נהלכת מיום שהכירה את אוריאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -491,8 +617,8 @@
 אוריאל, פתיות שכמותן.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -501,8 +627,8 @@
 שתלתליך היו קונים את לבן…
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -513,8 +639,8 @@
 עיני יצחק מלוות את תנועות הזרה בהתענינות מרובה). תמהני מי זאת, חוה?
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -524,8 +650,8 @@
 דרכה, חוזרת במהירת על עקבה ונעלמת).
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -534,8 +660,8 @@
 שערות עוד נשארו בראשי? (קול צעדים מפנים הבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -548,8 +674,8 @@
 האורחים העומדים מן הצד, מתבונן בכר האדמומיות. יצחק משתעל).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -559,8 +685,8 @@
 ראיתי את רות הקטנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -569,16 +695,16 @@
 הדבור על כלתי. אשתי זו במשמעות.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (בשחוק). בטוח אני כי גם דבר אהבתך לא גלית לפניה מעולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -586,8 +712,8 @@
 ואינו יודע לדבר כן. (לאשתו). את יודעת למה אני מתכוין.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -596,8 +722,8 @@
 אוריאל,על… על… (מביטה בתחנונים אל בעלה).
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -607,24 +733,24 @@
 במקצת.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . ודאי, מחותנים. (לבעלה, חרש). גמור, יש לקבוע יום החתונה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ודאי, מחותנים אנו. ומה הוא איפוא הענין?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -632,16 +758,16 @@
 קומקומה, סנטרה משוח אדום בעסיסן). קוּקו!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . אי שובבה! גשי הנה. (יצחק נושם ברווחה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -651,32 +777,32 @@
 הנה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (בהתעוררות). הראית אותה בכר? (יצחק וחוה מתלחשים).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . כן, הרי היא מלקטת שם.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . היכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -684,8 +810,8 @@
 היא רות. שם גם דינה. דינה העליזה. אח, היא יודעת לשיר כה יפה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -693,16 +819,16 @@
 אומרת?
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      . האמנם לא ספרה לך רות עדיין? בת אחי היא, שבאה מן הכרך לבקרנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -710,8 +836,8 @@
 אם לא יגרשנה דודה קודם, היא אומרת.
     </p>
    </sp>
-   <sp>
-    <speaker id="itskhk">
+   <sp who="itskhk">
+    <speaker>
      יצחק
     </speaker>
     <p>
@@ -719,8 +845,8 @@
 היינו מסיחים, אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -729,8 +855,8 @@
 האורחים ונועל הדלת אחריו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -782,8 +908,8 @@
      (המלקטים מתקבצים ובאים אחד אחד אל הגדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
@@ -791,56 +917,56 @@
 אמרי כי נרדמת, השלום לאוריאל אחיך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . שלום לו. הדבר לך אליו?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur b'">
+   <sp who="bkhur b'">
+    <speaker>
      בחור ב'
     </speaker>
     <p>
      . מה לו, כי יחבא בחדרים? האדמומיות כה רבו!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh ">
+   <sp who="bkhurh ">
+    <speaker>
      בחורה א
     </speaker>
     <p>
      . אילו ידע אוריאל כי רות אתנו…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . החרישי, פטפטנית.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh g'">
+   <sp who="bkhurh g'">
+    <speaker>
      בחורה ג'
     </speaker>
     <p>
      (בלחש). מה הקולות האלה? הלא רות מאחרינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . (בלחש). וכי מתביישת היא?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh d'">
+   <sp who="bkhurh d'">
+    <speaker>
      בחורה ד'
     </speaker>
     <p>
@@ -848,16 +974,16 @@
 מתביישת… לא הייתי מעלימה את אשרי מאיש!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . (באנחה). אילו במקום רות היינו!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
@@ -866,16 +992,16 @@
 מול פתח הבית. בתוך החצר נותרו שתים).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
      . רות. דינה, למה תפגרנה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -887,8 +1013,8 @@
 בואי, רות ונעבורה: נפשי יוצאת להכיר את אוריאל שלך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -896,8 +1022,8 @@
 החצי…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurim ubkhurus">
+   <sp who="bkhurim ubkhurus">
+    <speaker>
      בחורים ובחורות
     </speaker>
     <p>
@@ -935,8 +1061,8 @@
      אַחַר הֵן תִּכְלֶינָה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -947,8 +1073,8 @@
 נשתנתה דינה? (אל רות). הזאת בת-דודך אשר אמרת?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -956,16 +1082,16 @@
 הלומה). אתה זה!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . כן, זהו. למה כה חרדת? (צוחקת). האמנם כה נורא הוא בעיניך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -975,32 +1101,32 @@
      זה, אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (מביט לתוך עיניה). אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . ואותך זה אהבה קרובתי הקטנה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (צוחק). כאשר תראינה עיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1008,8 +1134,8 @@
 לעצמך. אף קרן-זוית קטנה לא הואלת להשאיר לי בלבבה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -1017,8 +1143,8 @@
 את מתקוטטת עמו!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1026,8 +1152,8 @@
 וגוזל משלי, ואחרישה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1036,8 +1162,8 @@
 את השתים תנופה אחת ומעמידן מעבר לגדר).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1047,8 +1173,8 @@
 הם חיי כפר…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1057,16 +1183,16 @@
 הן ידע אוריאל, שאני מכינה טה בשבילכם!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (בצחוק). עמדתי למשפט, אחותי, ואחר עד עתה..
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1074,24 +1200,24 @@
 הרי הבטחת לי להראות את ביתכם ואת הגן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . לאחר שתית הטה.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . דרך אגב, היכן הם אבא ואמא של רותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1099,16 +1225,16 @@
 למרים). אני הולכת לראות את הגן.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (יושב עם רות על כסא-נדנדה). הלא תשובנה מיד?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1116,56 +1242,56 @@
 בצחוק לפנים הבית, מרים אחריה).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . הן יש חדשה, רותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נושאת עיניה אליו). חדשה? (נבוכה). הורי היו כאן…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . רצונם לקבוע יום חתונתנו – לחודש הבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (חרדה). לחודש הבא? (מורידה עיניה). הם מפחדים מפניך, אוריאל שלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . יודע אני. על כן יש ברצונם לאסור את שנינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נלחצת עליו. חרש). אני רוצה… להאסר, אורי.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1174,24 +1300,24 @@
 דינה בוקע מעבר לבית).
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . דינה… היא כה עליזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ידעתי. דמה נסער תמיד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -1199,8 +1325,8 @@
 מתלוצצת… הוי, אוריאל, האמנם היום הוא העיקר, ללא אתמול ולא מחר?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1210,40 +1336,40 @@
 ולמה תשאלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות.
     </speaker>
     <p>
      אין דבר…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל.
     </speaker>
     <p>
      “אין דבר”? אין דרכך לענות כך… וגם לא לשאול כך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . לבי חרד, אוריאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (מלטף שערותיה). לבך חרד, רותי. – למה לבך חרד?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -1252,8 +1378,8 @@
 האיש לפניה. כלום אפשר לאהוב פעמַים, אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1263,16 +1389,16 @@
 יצאתי גם אני מתוכו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . ברחת, אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1284,16 +1410,16 @@
 היה… (לנפשו) אך למאי נפקא מינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (חרש). אה הגדת לי הכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1302,40 +1428,40 @@
 רותי!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נלחצת אליו). אוריאל שלי!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ולמה תחרדי, צפורי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . איני יכולה לברר לעצמי… הן לא תכעס, אוריאל, אם אומר דבר הבאי?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (צוחק). מובן.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -1343,16 +1469,16 @@
 אשר במרומים! יבוא יום, ואתה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uri">
+   <sp who="uri">
+    <speaker>
      אוריא
     </speaker>
     <p>
      ל (קם. אינו נותן לה לגמור). מי נתן רעיון זה בלבך?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -1360,16 +1486,16 @@
 אין לך מלבדי עוד. (נקישה בדלת, בלוית צחוק עצור).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . לבוא! (מרים ודינה באות, שתיהן צוחקות).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -1378,8 +1504,8 @@
 באוריאל ורות חליפות). מה היה, מר אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1387,24 +1513,24 @@
 תפחדי, רותי? (רות נלחצת אליו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (קופצת). ראו, ראו, הנה הופיעה שוב!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlshsm">
+   <sp who="shlshsm">
+    <speaker>
      שלשתם
     </speaker>
     <p>
      . מי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1412,48 +1538,48 @@
 הראיתם דמות נחמדה כזו מימיכם? וראו פניה, לוטים בצעיף!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (לאחר הסתכלות רגע). ברי, איננה מבנות הכפר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . היא הולכת הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . לא, היא עומדת על מקום אחד
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . כמדומה אני, שהיא קוראת לנו… האם לא קראה לנו בתנועת-ידה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . לא, זו כנף הצעיף, שמתנפנף ברוח.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1461,40 +1587,40 @@
 הגזוזטרה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . שובה, אוריאל, הרי כבר נעלמה שוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (עומד בחצי דרכו). נעלמה, ואני הן חפצתי לראותה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . היא כבר הופיעה פעם הבוקר. גם אז רק לרגע קל – ונעלמה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (כהד). ונעלמה…
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1502,8 +1628,8 @@
 קרוב. לעולם לא תקרב!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1529,8 +1655,8 @@
 מרגריתות. פניה לשמאל הבימה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1570,40 +1696,40 @@
 באוריאל, קופצת בצווחה). אוריאל! (משוה רגליה לברוח).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (חוסם את דרכה). חכי רגע..
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אתה היית כאן!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . זה עתה באתי..
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אתה שמעת הכל!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1616,8 +1742,8 @@
      שפכת את תפלתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1625,8 +1751,8 @@
 העץ, ויושב חציו שכוב על העשב אצלה). כה טוב אתה, אוריאל, ואני רעה – רעה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1634,24 +1760,24 @@
 בעולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . חטאה אני, אריאל!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . את – חטאה? אכן צחוק תעשי לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1660,8 +1786,8 @@
 אל לבה), גם אז – רק תשק לי.. ותצחק.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1671,16 +1797,16 @@
 קשובה, אחותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אני מתביישת לספר, אוריאל. כה מתביישת!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1688,8 +1814,8 @@
 הספור עליך. מי הוא אותו המאושר, כי אדע?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1697,80 +1823,80 @@
 ועומדת עליו, שמה אצבעה הקטנה על שפתה התחתונה). אבל עתה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . מה מכביד על לבך, אחותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . הן אתה מלומד, אוריאל, וקראת הרבה בספרי חכמה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . נניח כי כן הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . ובספרים יש תשובות על הכל, האם לא כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ואולם מה היא שאלתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (מהססת). לא תצחק?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . לא אצחק.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . ראה: אם תצחק, לא אוסיף לספר לך עוד מאומה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . לא אצחק, אחותי. מעולם עוד לא הייתי רציני כמו בשעה זו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1779,8 +1905,8 @@
 על צוארה. בדמעות). אין אני יודעת לומר את מחשבותי!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1788,8 +1914,8 @@
 המינים, כך קוראים לשאלתך “ספרי החכמה”.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
     <p>
@@ -1797,32 +1923,32 @@
 שמע: האם אתה שונא בחורות?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (תמה). לא. למה אשנאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . והלא אני – שונאת את הבחורים!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . האמנם? ואותי בכללם?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1834,48 +1960,48 @@
 אמנו, עליה השלום?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (חרש). כן.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . האמת היא, כי פני דומים לפניה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (ברוך). אמת, וביחוד – העינים, כה תכולות ועמוקות, ורום המצח.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אני אינני זוכרת אותה כלל. הן היא היתה טהורה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . היא היתה חנונה כל כך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1887,8 +2013,8 @@
 נופלת על ברכיה).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -1896,8 +2022,8 @@
 למה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1907,16 +2033,16 @@
 ואת פני רוצה אני לשרוט עד שפך-דם, ובל ידמו עוד לפני אמא!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ומאימתי… הכרת את הרוחות הרעים?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1926,16 +2052,16 @@
 לאחד מהם נקשרה נפשי, וכה אחרד מדי ראותי אותו. נער טוב הוא. אלא…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . אלא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים.
     </speaker>
     <p>
@@ -1947,16 +2073,16 @@
 אהבתיהו, אוריאל! כאשר לא אהבתי אדם מעולם – ואף לא אותך – ואף לא את אמא!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . והוא – אותך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -1965,40 +2091,40 @@
 לי זאת… האין יש ממש בחלומות, אחי?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . האין יש ממש בחלומות? כל זמן שאדם חולם, ודאי יש ממש בחלומו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . כל זמן שהוא חולם…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . רק אוי לו אם ייקץ וחדל לחלום!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (נושאת אליו עינים חרדות). אינני מבינה…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -2008,8 +2134,8 @@
 וכברכות-בוקר מעולם רחוק ובהיר, הופעתן לי גם אתן, שתי אחיותי התמות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -2017,8 +2143,8 @@
 אוהבה אותך! (רצינית). גם היא תמות, אם לא תאהבנה, אוריאל!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -2026,8 +2152,8 @@
 הזעיר. (נושק לה נשיקה ארוכה ועזה).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -2035,16 +2161,16 @@
 טובות!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . מדוע?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -2057,16 +2183,16 @@
 לך, אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (מתנודד, נשען אל מצבת העץ). רות – רותי… מתי היה הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -2074,16 +2200,16 @@
 למחרתו לקטו רות עם דינה יחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . רות עם דינה… רק שלשה שבועות עברו מאז?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -2091,40 +2217,40 @@
 אוריאל! (מהססת). האם… האם תאהב עוד את רות?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . מה זאת עלתה על דעתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אולי… (משחררת אותו מידיה). דינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . דינה? אח, לא! (מהרהר רגע). דינה היא היפוכה של רותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . כן, רות היא חבצלת, ודינה – משובת הקדים!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -2132,32 +2258,32 @@
 החבצלת עם עוז-הסער. הן רות ודינה גם שתיהן רק מחציות הן!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . הרהורים מוזרים לך, אוריאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . כל הימים האלה הם מענים את נפשי. על כן שנתי נדדה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      (מתבוננת בו בחמלה ודאגה). אמנם דלו פניך מאד, אחי. האם לא חלית?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -2172,8 +2298,8 @@
      (שניהם נעלמים בין הערמות. הבימה נשארת ריקה רגע).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurim ubkhurus">
+   <sp who="bkhurim ubkhurus">
+    <speaker>
      בחורים ובחורות
     </speaker>
     <p>
@@ -2186,24 +2312,24 @@
      בין הנערות התפושות. רות – בין הנמלטות).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      (אל הבחור האוחזה בזרועותיו). הרף ממני!
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhur">
+   <sp who="hbkhur">
+    <speaker>
      הבחור
     </speaker>
     <p>
      (נושם בכבדות). לא, כי שללי את.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2213,32 +2339,32 @@
 מהן משום בושה ולא ברצון).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur b'">
+   <sp who="bkhur b'">
+    <speaker>
      בחור ב'
     </speaker>
     <p>
      (מוחה בשרוולו את הזיעה מעל מצחו) ועתה – משחָקים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . משחקים חסרים לך! אוף – אני כה יגעתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . קודם ננוח קצת ממרוצתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2247,8 +2373,8 @@
 לעצמם). לא, רבותי. אתם תואילו לשבת לרגלינו על העשב.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
@@ -2256,56 +2382,56 @@
 (הבחורים יושבים על העשב בחצי עיגול). ועתה שירו לנו שיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . אני הייתי רוצה בספורי-מעשיות.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . האח, ובלבד שיהא בהן משום רוגז-עצבים!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . שיהא סופן משמח!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . המעשיות המובחרות – סופן מעציב, ידידתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
      . אני הייתי אומר, שדינה עצמה תספר לנו דבר-מה מן הנעשה בכרך.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
      . אנו רוצות בשיר. דינה, הלא תשירי לנו מזמירות הכרך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2313,40 +2439,40 @@
 רגע). מעשי-שטן מלוא הכרך.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . מעשי שטן ידענו גם בכפר…
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . בכפר רוגע זה שלכם? אתמהה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . הלא שמעתן, בחורות, שיחות זקנינו בדבר ה“רחוקה”?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . שמענו. ובכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2354,40 +2480,40 @@
 זו היא לילית עצמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
      . האמיני לכל מה שסבתא מספרת, כאילו יש “רחוקה” בעולם!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      (בהתענינות, לרות). מי היא זו “הרחוקה”?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . גם אני שמעתי מעשה מעין זה בילדותי, ואינני זוכרת מה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      (לבחורה א'). הלא תגידי לי מה הענין?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2396,16 +2522,16 @@
 (מצטדקת). מובן, שאין זו אלא אגדה…
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . המשיכי, המשיכי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2414,16 +2540,16 @@
 האדם. על כן “הרחוקה” קראו לה.. (מתבוננת סביבה, כמהססת).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . ספרי עוד, ספרי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2431,8 +2557,8 @@
 וחתנים מתחת חופתם יברחו לרדוף אחריה…
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -2440,16 +2566,16 @@
 מתחננת). הן זאת רק אגדה…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
      (מתאפק מצחוק). הרי היא חרדה כבר לאוריאל שלה…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2457,16 +2583,16 @@
 יום כלולותיך זה ממשמש ובא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נבוכה). כמובן, כמובן. הן זאת היא רק אגדה?…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur b'">
+   <sp who="bkhur b'">
+    <speaker>
      בחור ב'
     </speaker>
     <p>
@@ -2474,8 +2600,8 @@
 ממין אחר כעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
@@ -2483,16 +2609,16 @@
 אחרינו?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . לא, אנחנו נלך מעבר מזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhur '">
+   <sp who="bkhur '">
+    <speaker>
      בחור א'
     </speaker>
     <p>
@@ -2500,24 +2626,24 @@
 אצבעותיה אחת אל אחת. החבורה שמה פעמיה לשמאל הבימה, נעלמה).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . ומה נוחיל אנחנו, כי נשב כאן? האם אוריאל בביתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (בעצב). גם את דינה, באה להקניטני?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2525,32 +2651,32 @@
 מתגעגעת עליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (במאור פנים). האח, גם את אוהבת אותו!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      (צוחקת). יודעת את, רות: הן אני התחלתי יראה אותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . את אוריאל? הן לב-זהב לו!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2558,16 +2684,16 @@
 אותו, רות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נושאת אליה עינים חרדות). ככה סבורה את, דינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2575,16 +2701,16 @@
 קרבת…
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      (נפעמת). מה כוונתך, דינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2596,16 +2722,16 @@
 הרכה והענוגה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . הוי, דינה, למה כה תכאיבי לי? הן הוא אוהבני!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2613,8 +2739,8 @@
 לעוף אתו, לעוף אחריו?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -2624,8 +2750,8 @@
 הקולות).
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -2663,8 +2789,8 @@
 הזקנה מקפלת את השטיח למדרגותיו והצעירה מחזקת את הקפולים בפטיש ובמסמרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2673,16 +2799,16 @@
 רבודות דוקא?
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . זה רצונו של החתן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2690,32 +2816,32 @@
 על גבי המדרגות.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      (ברשע). ולך לא חתן, ולא נדוניא, ולא מצבה על קברך…
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
      . בהמה! מי אמר לך, כי אין לי חתן?
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . חה-חה, אותו חייט צולע, שכבר קבר שתי נשים?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2724,16 +2850,16 @@
 נאה זה…
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . למי את מתכוונת, גל-עצמות?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2742,16 +2868,16 @@
 אותי לא תרמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . אל תפשקי שפתיך, גל-עצמות! למה לא יתהלך עם קרובתה של הכלה?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה.
     </speaker>
     <p>
@@ -2763,16 +2889,16 @@
 ביתו… ממני לא יעלם דבר…
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . בידוע, צפור-ליל שכמותך!
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2780,16 +2906,16 @@
 הנחמד. אני תחתיה את פניו הייתי משרטת!
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      . חה-חה! זה לאוריאל? הן באצבעו הקטנה יטילך בקצה הארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2797,16 +2923,16 @@
 לאסור את הבחור שלה על ידיו ועל רגליו ואז כעגל תמים הרי הוא כרוך אחריה.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
      (בזהירות). האם מן הנסיון את אומרת זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2814,8 +2940,8 @@
 ראיתי כבר. והריני אומרת לך שוב: אוי לרות, אם לא תשים לב אל תהלוכותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
@@ -2824,8 +2950,8 @@
 חולצת עצמותיה. מתבוננת אל השטיח). אמנם ככה נאה יותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
@@ -2833,8 +2959,8 @@
 ועתה הנבוא למטבח, ונטעם פורתא?
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
@@ -2843,16 +2969,16 @@
 מהרי, עוד דבר לא הוכן!
     </p>
    </sp>
-   <sp>
-    <speaker id="hzknh">
+   <sp who="hzknh">
+    <speaker>
      הזקנה
     </speaker>
     <p>
      . מזלה של בתולה..
     </p>
    </sp>
-   <sp>
-    <speaker id="htseirh">
+   <sp who="htseirh">
+    <speaker>
      הצעירה
     </speaker>
     <p>
@@ -2860,8 +2986,8 @@
 (נעלמת בזריזות באחד הפתחים שבכותל האולם הפנימי. הזקנה אחריה).
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -2877,8 +3003,8 @@
 במלבושי חג, מרים בתוכן. רואות את רות בפתח רצות אליה בגילה).
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
@@ -2886,16 +3012,16 @@
 לסירוגין). מזל טוב. מזל טוב! מה יפית, הכלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . לאט לכן, בחורות, הן עוד מעט ונחנקה בזרועותיכן!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
@@ -2903,8 +3029,8 @@
 (נושקת שוב לכלה).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
@@ -2912,8 +3038,8 @@
 נוטלות!
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -2921,48 +3047,48 @@
 בסערה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . רות המסכנה! כל אחת מכן נושקת רק אותה האחת ועליה להשיב לכולכן..
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh g'">
+   <sp who="bkhurh g'">
+    <speaker>
      בחורה ג'
     </speaker>
     <p>
      . ולי עוד אחת מגעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh d'">
+   <sp who="bkhurh d'">
+    <speaker>
      בחורה ד'
     </speaker>
     <p>
      . ולי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh h'">
+   <sp who="bkhurh h'">
+    <speaker>
      בחורה ה'
     </speaker>
     <p>
      . ולי!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . טרם נתנך לאוריאל, פרעי חובותיך!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh u'">
+   <sp who="bkhurh u'">
+    <speaker>
      בחורה ו'
     </speaker>
     <p>
@@ -2970,16 +3096,16 @@
 הגואל…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . ומה נחמד גואלך, רותי המאושרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
@@ -2987,8 +3113,8 @@
 קרבן בעיניו לא ייקר למענך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -2997,56 +3123,56 @@
 בחורות ב' וג' קורצות בעיניהן זו לזו).
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
      . אכן לא היתה דינה אתנו, ואני אמרתי, כי בביתך היא, רותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      (משתעלת). לא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . מה קרה? (אותות אי-מנוחה על פני הבחורות).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh g'">
+   <sp who="bkhurh g'">
+    <speaker>
      בחורה ג'
     </speaker>
     <p>
      (מסמיקה). כלום לא קרה, אלא… (כלפי בחורה ב') היא יודעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . דינה… אם אין אני טועה, נסעה מכאן.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
      . נסעה – ביום חתונתה של רות?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -3059,16 +3185,16 @@
      אין מענה!… (רצה לעבר הבית השמאלי, מרים אחריה).
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
      (עוטרות את ב' וג'). מה קרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
@@ -3076,88 +3202,88 @@
 בית-הנתיבות. נראה, שנפלה קטטה בין השתים.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh d'">
+   <sp who="bkhurh d'">
+    <speaker>
      בחורה ד'
     </speaker>
     <p>
      . קטטה, בין דינה לרות?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh g'">
+   <sp who="bkhurh g'">
+    <speaker>
      בחורה ג'
     </speaker>
     <p>
      . כן. (בלחש). בגלל אוריאל.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh h'">
+   <sp who="bkhurh h'">
+    <speaker>
      בחורה ה'
     </speaker>
     <p>
      . בעבור אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh u'">
+   <sp who="bkhurh u'">
+    <speaker>
      בחורה ו'
     </speaker>
     <p>
      . זה מנין לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh g'">
+   <sp who="bkhurh g'">
+    <speaker>
      בחורה ג'
     </speaker>
     <p>
      . פתיות, וכי לא ראיתן כי אהבה דינה את אוריאל?
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
      . עד מות!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh u'">
+   <sp who="bkhurh u'">
+    <speaker>
      בחורה ו'
     </speaker>
     <p>
      . (בחמלה). ועתה אבדה תקותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      . פתיה שכמותה! כאילו אין בחורים עוד.
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'.
     </speaker>
     <p>
      יש עוד בחורים, אך לא משבט אוריאל!
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh d'">
+   <sp who="bkhurh d'">
+    <speaker>
      בחורה ד'
     </speaker>
     <p>
      . תמהה אני עליך, שבאת גם את לחג חתונתו של אוריאל…
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh b'">
+   <sp who="bkhurh b'">
+    <speaker>
      בחורה ב'
     </speaker>
     <p>
@@ -3165,8 +3291,8 @@
 רות איננה, ולמה נעמוד אנחנו כאן? נלך להחזירה.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
@@ -3175,8 +3301,8 @@
 אוריאל, לבוש שחורים, פניו רעים ועיניו תועות).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3186,32 +3312,32 @@
 הרואים היושבים בצד שמאל נראית חוה, חגורה סנור-בד, ופניה להבים(.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ערבא טבא, אמא!
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      (נבהלת). החתן – כאן?
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . אל תבהלי, אמא. רצוני לראות את רות לרגע.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -3221,8 +3347,8 @@
 אוריאל, אסור היה לעזוב את ביתך כעת!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3230,16 +3356,16 @@
 שום תקלה לא תארע חלילה! תסמכי עלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
      (בטחונו של אוריאל מרגיע אותה כמעט). אמור לה לרות, כי…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3247,8 +3373,8 @@
 לאפי..
     </p>
    </sp>
-   <sp>
-    <speaker id="khuh">
+   <sp who="khuh">
+    <speaker>
      חוה
     </speaker>
     <p>
@@ -3257,8 +3383,8 @@
 בדלת הפנימית, הנסגרת אחריה).
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3267,24 +3393,24 @@
 בגדי דרך ומלתחת קטנה בידה. הוא תמה). עדיין את כאן, דינה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
      . כן!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . הן הבטחת לעזוב את הכפר היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -3292,16 +3418,16 @@
 לפניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . ומה את רוצה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -3310,16 +3436,16 @@
 (בתחנונים). אני רוצה לגזול אותך מרות הלילה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (קרב אליה מאד. בקולו נשמע איום). דינה!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -3329,16 +3455,16 @@
 מאז – – קרן-זוית זו רות לא תכבוש לעולם…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . השטן מדבר מתוך גרונך!
     </p>
    </sp>
-   <sp>
-    <speaker id="dinh">
+   <sp who="dinh">
+    <speaker>
      דינה
     </speaker>
     <p>
@@ -3347,8 +3473,8 @@
 היחידי, שאני מחננת קולי לפניו…
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3361,24 +3487,24 @@
 הסירה. חלומי בא, חלומי הנה יקום. לסוף! (שם פעמיו אל הנהר).
     </p>
    </sp>
-   <sp>
-    <speaker id="bkhurh '">
+   <sp who="bkhurh '">
+    <speaker>
      בחורה א'
     </speaker>
     <p>
      (חרש). בחורות, דעתו נטרפת עליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
      (מפה לאוזן). אוריאל יצא מדעתו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mrim">
+   <sp who="mrim">
+    <speaker>
      מרים
     </speaker>
     <p>
@@ -3386,8 +3512,8 @@
 והולכת. מִרְמָה היא. אל תלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
@@ -3395,8 +3521,8 @@
 הנהר).
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
@@ -3404,48 +3530,48 @@
 כקדם – אין הסירה ואין הדמות!
     </p>
    </sp>
-   <sp>
-    <speaker id="hbkhurus">
+   <sp who="hbkhurus">
+    <speaker>
      הבחורות
     </speaker>
     <p>
      . תודה לאל עליון!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      (מתוך טירוף). אין הסירה – ואין הדמות.. מי הגידה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . אני, אני, אוריאל, הגדתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>
      . נסתלקה הדמות מעבר לאופק…
     </p>
    </sp>
-   <sp>
-    <speaker id="rus">
+   <sp who="rus">
+    <speaker>
      רות
     </speaker>
     <p>
      . החמה היא שנסתלקה!
     </p>
    </sp>
-   <sp>
-    <speaker id="uril">
+   <sp who="uril">
+    <speaker>
      אוריאל
     </speaker>
     <p>

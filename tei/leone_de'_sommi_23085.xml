@@ -46,6 +46,147 @@
     </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="dburh">
+      <persName>
+       דבורה
+      </persName>
+     </person>
+     <person xml:id="brurih">
+      <persName>
+       ברוריה
+      </persName>
+     </person>
+     <person xml:id="rb khmdn">
+      <persName>
+       רב חמדן
+      </persName>
+     </person>
+     <person xml:id="rb msi">
+      <persName>
+       רב אמתי
+      </persName>
+     </person>
+     <person xml:id="ikrh">
+      <persName>
+       יקרה
+      </persName>
+     </person>
+     <person xml:id="efrun">
+      <persName>
+       עפרון
+      </persName>
+     </person>
+     <person xml:id="iir">
+      <persName>
+       יאיר
+      </persName>
+     </person>
+     <person xml:id="eubd shubl fshkhur ididih mngnim rb khmdn">
+      <persName>
+       עובד שובל פשחור ידידיה מנגנים רב חמדן
+      </persName>
+     </person>
+     <person xml:id="sm khlk rshun">
+      <persName>
+       תם חלק ראשון
+      </persName>
+     </person>
+     <person xml:id="ididh">
+      <persName>
+       ידידה
+      </persName>
+     </person>
+     <person xml:id="mun">
+      <persName>
+       אמון
+      </persName>
+     </person>
+     <person xml:id="sm khlk shni">
+      <persName>
+       תם חלק שני
+      </persName>
+     </person>
+     <person xml:id="sm khlk shlishi">
+      <persName>
+       תם חלק שלישי
+      </persName>
+     </person>
+     <person xml:id="sm unshlm">
+      <persName>
+       תם ונשלם
+      </persName>
+     </person>
+     <person xml:id="shlikh">
+      <persName>
+       שליח
+      </persName>
+     </person>
+     <person xml:id="rb khmdun">
+      <persName>
+       רב חמדון
+      </persName>
+     </person>
+     <person xml:id="eshhl">
+      <persName>
+       עשהאל
+      </persName>
+     </person>
+     <person xml:id="rbi msi">
+      <persName>
+       רבי אמתי
+      </persName>
+     </person>
+     <person xml:id="ididih">
+      <persName>
+       ידידיה
+      </persName>
+     </person>
+     <person xml:id="shubl">
+      <persName>
+       שובל
+      </persName>
+     </person>
+     <person xml:id="iktn">
+      <persName>
+       יקטן
+      </persName>
+     </person>
+     <person xml:id="yunh">
+      <persName>
+       יונה
+      </persName>
+     </person>
+     <person xml:id="sm khlk rbyei">
+      <persName>
+       תם חלק רביעי
+      </persName>
+     </person>
+     <person xml:id="hmkhzh hebri hrshun">
+      <persName>
+       המחזה העברי הראשון
+      </persName>
+     </person>
+     <person xml:id="eubd">
+      <persName>
+       עובד
+      </persName>
+     </person>
+     <person xml:id="mngnim">
+      <persName>
+       מנגנים
+      </persName>
+     </person>
+     <person xml:id="fshkhur">
+      <persName>
+       פשחור
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
  </teiHeader>
  <standOff>
   <listEvent>
@@ -63,8 +204,8 @@
  </standOff>
  <text>
   <body>
-   <sp>
-    <speaker id="hmkhzh hebri hrshun">
+   <sp who="hmkhzh hebri hrshun">
+    <speaker>
      המחזה העברי הראשון
     </speaker>
    </sp>
@@ -143,8 +284,8 @@
      רבי אמתי הזקן
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -155,8 +296,8 @@
 הנישואין בשמחה ולחבר את האהל להיות אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -166,8 +307,8 @@
 לעת לכתנה אשה בית אישה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -176,8 +317,8 @@
 לעזר ולא להועיל.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -189,8 +330,8 @@
 ואיש תואר, אשר למראה עיני אין כמוהו בכל הארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -199,8 +340,8 @@
 ושיבחתי את כל אשר עשית להנאתו ולתועלתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -213,8 +354,8 @@
 שמחת לבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -223,16 +364,16 @@
 יושת עלינו להטריפהו לחם חוקו דבר יום ביומו אחרי כן. אללי לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
      על מה ככה רבו אנחותיך ולבך דוה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -240,8 +381,8 @@
 כי למען לא יכנסו באזני ברוריה בתנו קראתי אותך החוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -250,8 +391,8 @@
 בריתנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -259,8 +400,8 @@
 עמיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -270,8 +411,8 @@
 ועל כל רכושו כי רב הוא, להכין אותו ולסעדו כטוב וכישר בעיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -280,16 +421,16 @@
 לזרים?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
      מה הדבר הרע הזה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -297,16 +438,16 @@
 והוא אך אמת וברור!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
      מה השמועה המבוהלת הזאת? למה תחריש?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -314,8 +455,8 @@
 אור בעדני וכתב את כל נכסיו אל שובל אשר היה עמו בדמשק!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -323,8 +464,8 @@
 הניח ירושה אל בנו ידידיה חתננו?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -334,8 +475,8 @@
 לזולתם.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -344,8 +485,8 @@
 ולקחנו את בתנו והלכנו למצא לה מנוח כאשר ייטב לה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -353,8 +494,8 @@
 שלום!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -362,8 +503,8 @@
 כי נקית משבועתך זו, יען אביו התל בו ויחשבהו לנכרי והוא לא בנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -371,8 +512,8 @@
 ואשר נדרתי אשלמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -381,16 +522,16 @@
 תצלח! ובטרם תתי אותה לו, בכח ידי אחנקנה או אטביענה במצולות.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      אנה תלכי מפני?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -398,8 +539,8 @@
 הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -407,8 +548,8 @@
 תרגיש ברוריה על רעתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -416,8 +557,8 @@
 הגיד לה דבר עד אשר נימצא עזר כנגדה ונקדים רפואה למכתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -425,8 +566,8 @@
 ותחשבהו לאויב?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -435,16 +576,16 @@
 ראות פניו כי אם בעין רעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      מה פשעו ומה חטאתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -452,16 +593,16 @@
 כי אחרי דברי לא אשנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      אם כן הוא, למה זה אנכי? האהיה כלא אהיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -471,8 +612,8 @@
 אין כל מאומה בידו, ותשתפך ברעב בראש כל חוצות?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -480,8 +621,8 @@
 בחכמה ובתבונה, והוא על נדיבות יקום באשר בתחלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -489,32 +630,32 @@
 שלשום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      מה לחכמה ולנדיבות עם העושר השמור?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
      מה לנפש עם הגויה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      הנפש נותנת חיים ובלעדה הגוף אפס ואין.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -524,8 +665,8 @@
 ובכן בזאת אבא הביתה ואשר דברתי הוא יקום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -549,8 +690,8 @@
 יוכל להלחם בה?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -558,8 +699,8 @@
 מספר, אשר עשה עמך היום החכם רבי אמתי ראש הישיבה בטרם הפרדך מעליו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -568,8 +709,8 @@
 ללכת אל דמשק ברוב עוז הפקידני בידו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -580,8 +721,8 @@
 הליל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -593,8 +734,8 @@
 מתורתו!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -602,8 +743,8 @@
 ומכאוב?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -612,8 +753,8 @@
 תורת אמת ופירושיה והכרת טבעי היצורים למיניהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -623,16 +764,16 @@
 מחלצות ולהסתופף בהיכלי הנדיבים, ותחת שלש אלה נחה שקטה כל הארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      איכה תעית כשה אובד, מוכה בסנוורים!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -642,8 +783,8 @@
 העולם חל מלפניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -657,8 +798,8 @@
 יעצני להיות עמה ולהדבק בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -667,16 +808,16 @@
 היום.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      כי אלף ימים בעיני אשר לא ראיתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -688,8 +829,8 @@
 אדירים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -699,24 +840,24 @@
 וביד חזקה. (ודופק)
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      מי הוא הדופק על הדלת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      פתחי לי אחותי היקרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -724,48 +865,48 @@
 חולת אהבה היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ואנכי, יקרה הנעימה, הלעולם אעמוד בחוץ?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      ראה הפתח פתוח לרוחה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הביאיני אל גן עדנך!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      הגן נעול והמעין חתום.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אל תעצריני כי אפתחנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -773,8 +914,8 @@
 בכישור ובפלך אנקרה את שתי עיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -782,56 +923,56 @@
 לך? מששי גם את כל כלי, וגעי בכל אשר לי! כי לא אומר לך: מה תעשי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      יככה שוכן רום בשחפת, כסיל שונה באולתו!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      לא אעזבך, כי אם ברכתיני חלף קללתך זאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      גם ברוך תהיה… הניחה לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      גם בזאת לא ינוח לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      מה אתן לך, רובץ בין המשפתים?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הזרוע והלחיים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -843,8 +984,8 @@
 דעתי אותך!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -852,24 +993,24 @@
 אנה תנוסי מפני?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      כי נקרא נקראתי בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ואני אבא אחריך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -879,16 +1020,16 @@
 כטוב וכישר בעיניו. אנכי אקרה כה עד בואך עם תשובתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      כן אעשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -906,8 +1047,8 @@
 מתן… אך הנה הנער יוצא – הדברת אל האיש?
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -916,8 +1057,8 @@
 בחצר התיכונה מצפה בואך אליו ושם ידבר עמך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -926,16 +1067,16 @@
 בעסקים עקריים. ואל תתלוצצו, פן יחזקו מוסריכם!
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      כדבר מעלתך כן אעשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -957,13 +1098,13 @@
 ארוץ על המערכה לקנות לי כדור אחד טוב ויפה, כי זה איננו שוה לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="sm khlk rshun">
+   <sp who="sm khlk rshun">
+    <speaker>
      תם חלק ראשון
     </speaker>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור
     </speaker>
     <p>
@@ -973,8 +1114,8 @@
 של זעם; רק נאלמו דומיה והנם זועפים כאשר בתחלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה
     </speaker>
     <p>
@@ -986,8 +1127,8 @@
 יחדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור
     </speaker>
     <p>
@@ -997,8 +1138,8 @@
 עד בשר יכלה כל מחשבת עצבון ותוגה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה
     </speaker>
     <p>
@@ -1006,16 +1147,16 @@
 רע יוסיף מכאוב על מכאובו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור
     </speaker>
     <p>
      : אם כן – נתהלך בארץ לארכה ורחבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1024,8 +1165,8 @@
 לא מלבי אמאס בטוב – להשליך מעם פני הבחור הזה הנחמד והנעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה
     </speaker>
     <p>
@@ -1034,8 +1175,8 @@
 ואביון. ומי לא ידע בכל אלה כי העניות והדלות לא יניחו מדה טובה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1047,8 +1188,8 @@
 נגד עקשותך עם רום גאותך ורוע תכונתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1056,8 +1197,8 @@
 מרים, כי ראיתיך נעצב אל לבך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1066,8 +1207,8 @@
 בעת אפר בריתי עם ידידיה, כי אבדה האמונה ונכרתה מפי.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה
     </speaker>
     <p>
@@ -1078,8 +1219,8 @@
 ואם הוא לא בנו, גם אתה לא תהיה חותנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1087,8 +1228,8 @@
 כף, אשר באתי עם כל אלה במסורת הברית הזה בלי ערמה ותחבולה!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1098,16 +1239,16 @@
 ולהפר נדרים כאלה בלי שום עון ואשמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      בסודם אל תבא נפשי!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1117,8 +1258,8 @@
 בחריצותו והשתדלותו!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1128,8 +1269,8 @@
 כעצתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה
     </speaker>
     <p>
@@ -1138,16 +1279,16 @@
 אל כרם אחותי ותהיה שמה עם נערותיה ימים או עשור.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון
     </speaker>
     <p>
      : ומדוע ככה עלה במחשבתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה
     </speaker>
     <p>
@@ -1155,8 +1296,8 @@
 שלשום, אחרי אשר הסכמנו לבלתי הגיד לו את רעתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון
     </speaker>
     <p>
@@ -1165,8 +1306,8 @@
 משפרה בת שלום אחות ידידיה המסתופפת בביתנו? התוליכינה עמכן החוצה?
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1181,8 +1322,8 @@
 והוא בלי ספק יתעשת אליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1190,8 +1331,8 @@
 אמצאנו ושם אדבר עמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1200,16 +1341,16 @@
 נא, אדוני, אל תתרשל ושמחת, כי יש תקוה לטוב לנו כל הימים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      הן לו יהי כדברך!
     </p>
    </sp>
-   <sp>
-    <speaker id="dburh">
+   <sp who="dburh">
+    <speaker>
      דבורה:
     </speaker>
     <p>
@@ -1217,8 +1358,8 @@
 רע.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1235,8 +1376,8 @@
 אתו. וכל זה להראות העמים והשרים, כי גם השועלים נתפסים בפח יוקשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1245,8 +1386,8 @@
 והנה הוא בא לפעמים אל בית ועד חכמים.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1262,8 +1403,8 @@
 למשל ולשנינה!
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1271,8 +1412,8 @@
 יעשה פרי למינו, ונראה אות לטובה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1280,8 +1421,8 @@
 ושבת אל העיר בטרם יבא החרסה, וכי תרכב על סוסך – מרכבותיך ישועה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1289,8 +1430,8 @@
 לאט ואמצאנו אל דרך השוק ושם אדבר עמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1300,8 +1441,8 @@
 אשלמה. היליך חמשת הסלעים אשר תקני מהם את העכסיס כרצונך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1309,8 +1450,8 @@
 כל הטובה אשר גמלתני דבר יום ביומו?
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1321,8 +1462,8 @@
 הקטן, נדפס מחדש לתפארת הנשים, אשר אמרת כי נכספה נפש שפרה לראותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1331,16 +1472,16 @@
 ולא תשמע אלי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      מה ועל מה זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1348,16 +1489,16 @@
 המליץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      וכי לא שמעה ולא הבינה מדוע ככה עשינו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1365,8 +1506,8 @@
 מאסת להיות לך לאשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1376,8 +1517,8 @@
 ממני; כי סתם קדשתי אחת מהנה – ושתיהן אסורות לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1386,8 +1527,8 @@
 הבשורה הזאת אצילה ממצוקתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -1397,8 +1538,8 @@
 שפרה בעת הזה כאשר ייטב לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -1406,8 +1547,8 @@
 רגלי עבדי אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1415,8 +1556,8 @@
 שמעני, יקטן אחי?
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -1424,16 +1565,16 @@
 השעה דחוקה מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      ולמה ככה תרוץ ותיגע?
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -1442,8 +1583,8 @@
 לעגבותי!
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1451,16 +1592,16 @@
 איחור ועיכוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      והלא כבר עברה שעה שלישית.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1468,8 +1609,8 @@
 רק שנים מהחרובין אשר בידך, תשמע ממני בשורה טובה ותעלוזנה כליותיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -1477,8 +1618,8 @@
 בפיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1487,16 +1628,16 @@
 הכוכבים.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      אם תהתל בי אך הפעם, אדעה מה אעשה לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1504,16 +1645,16 @@
 עתה אם תאבה לצחק עמי, הנה נא לי עשרה כסף ואצחקם אחד לאחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      אללי לי באיזה צחוק אצחק עוד?
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1521,8 +1662,8 @@
 במשפטם שמנה וארבעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -1532,8 +1673,8 @@
 כח.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -1543,8 +1684,8 @@
 מפתן הדלת הזה מקום מוכן ומתוקן.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -1555,16 +1696,16 @@
 את פרקי הלכותנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      טוב ויפה כעת דברת. נלכה ונפילה גורלות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1595,8 +1736,8 @@
 עפרון מיודעי מדבר עם אמון. הן מפניו אסתר ואשמעה במה ידברו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1606,8 +1747,8 @@
 אשתי לבלתי תת לו את בתי לאשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1616,8 +1757,8 @@
 כונת המת אשר דחה אותו בשתי ידים למען לא יבחר איש לקרבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1625,8 +1766,8 @@
 אליהם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1637,8 +1778,8 @@
 הלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1648,16 +1789,16 @@
 הוא יסכים עמנו לטובה להריק עלינו את ברכתו ויאמר לדבק “טוב הוא!”
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      נבהלתי משמוע…
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1668,24 +1809,24 @@
 בתחלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      כדבריך כן אעשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      מי שמע כזאת!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1695,8 +1836,8 @@
 ידידיה יקח לו את הרשות מעצמו ולא יכירנו עוד מקומו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -1704,32 +1845,32 @@
 שומע.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      ואני אל תוך ביתי אצפה עד בואו אלינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      עתה יבא ולא יאחר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      מי ראה כאלה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1737,8 +1878,8 @@
 פתאום בהיסח הדעת הן הם דברי נבואות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1746,8 +1887,8 @@
 מה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -1758,8 +1899,8 @@
 אוחיל לו כי אשקטה והביטה במעוני שמחות וגיל, כי לא כעס אשתי אגור.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1773,8 +1914,8 @@
 לידידיה בן שלום… ואך הנה הוא יוצא ונעצב על לבו; אסורה נא ואשמע.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -1782,8 +1923,8 @@
 האנשים הנכנסים עתה בביתו דרך שער הגן, הנה אני מת.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -1791,8 +1932,8 @@
 אבדנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -1800,8 +1941,8 @@
 נסתר מנגד עיני, על כן ראיתי היום את פני דבורה והנם זועפים.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -1812,8 +1953,8 @@
 בערמה את כל מחמד עיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1821,8 +1962,8 @@
 וירוח לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -1836,8 +1977,8 @@
      חמדן יוצא ממחבואו
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1845,8 +1986,8 @@
 ידידיה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididh">
+   <sp who="ididh">
+    <speaker>
      ידידה:
     </speaker>
     <p>
@@ -1855,8 +1996,8 @@
 מראות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1869,16 +2010,16 @@
 מיד עושקו, ואיכה תהיה כמחריש? צא גם אתה והלחם בו!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הוא הדבר אשר דברתי גם אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1886,16 +2027,16 @@
 ולערום משפטיך לפני אדוני הארץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      ולמה נכזבה תוחלתי זאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1905,16 +2046,16 @@
 הענק תעניק להם בכסף משנה ובנפש רחבה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ראה זה יועץ לתועלת עצמו דורש לקבל שכר!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdun">
+   <sp who="rb khmdun">
+    <speaker>
      רב חמדון:
     </speaker>
     <p>
@@ -1923,16 +2064,16 @@
 ומקובל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      טוב ויפה הדבר הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -1941,8 +2082,8 @@
 עשתונותיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1952,16 +2093,16 @@
 לבדי שאת כל טורח העול הכבד הזה, ואם על כתף אסבלנו, ארבץ תחת משא!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      יגדיל חסדו ויאדיר!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -1971,24 +2112,24 @@
 תסתיר פניך ממני ואל דמעתי אל תחריש, כי הצרה קרובה ואין מציל!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      לא אוכל להתאפק, כי נכמרו רחמי עליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ראו רחמן בן רחמן!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -1999,16 +2140,16 @@
 ונחת, ודבר מה יראני הדין והאמת – והגדתי לך ולא תשוב ריקם מלפני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אמצא חן בעיני אדוני, כי נחמתני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -2016,16 +2157,16 @@
 לעשות לך את הדבר הרע הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      כדבר מעלתך כן אעשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2033,8 +2174,8 @@
 שומע, ולא ירוץ רק עם גולת הזהב. ואתה עתה מה תעשה והיום באפס דמים?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2042,16 +2183,16 @@
 לפני מעלתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אין הקומץ משביע את הארי ואת הדוב!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2059,8 +2200,8 @@
 אשתדל באיזה דרך אחר לתת לכסף מוצא, כי הרבה דרכים יש לפני.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2069,8 +2210,8 @@
 בדרך זו תלך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2092,32 +2233,32 @@
      יקרה מופיעה בחלון.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      מי הוא הדופק על הדלת?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididh">
+   <sp who="ididh">
+    <speaker>
      ידידה:
     </speaker>
     <p>
      פתחו לנו, יקרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      ומי אתה אדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2125,16 +2266,16 @@
 ופשחור עבדו?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      ומה לכם פה לעת עתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2142,8 +2283,8 @@
 בפעם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2151,16 +2292,16 @@
 חותני אמון גבירך!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      כתר לי זעיר ואשאלנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2170,32 +2311,32 @@
 בקיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      שאלתי והשיב לי, כי עבר בשוק אצל פנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididh">
+   <sp who="ididh">
+    <speaker>
      ידידה:
     </speaker>
     <p>
      מי שאלת ומי השיב אליך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      אנכי ראיתיו בעיני, כי איננו בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2203,8 +2344,8 @@
 לנו!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -2212,8 +2353,8 @@
 מלבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2221,32 +2362,32 @@
 אחותי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      לא אוכל כבדך, מחול לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ומי הוא המוחה בידך?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      אמון וגברתי אשר אינם בבית.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2254,8 +2395,8 @@
 למשל!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2263,13 +2404,13 @@
 ומאשתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="sm khlk shni">
+   <sp who="sm khlk shni">
+    <speaker>
      תם חלק שני
     </speaker>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2280,8 +2421,8 @@
 נשים מכל אשר יבחרו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -2292,40 +2433,40 @@
 הובא עד הנה להיות עמך ותהיו לבשר אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
      מעולם לא אוכל כבדהו, כי לבי בל עמו…
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      הנה ברוריה על הפתח.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
      …ואוהב את ידידיה וואת עשהאל שנאתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      גם לה עוד לבב כמוך.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2333,16 +2474,16 @@
 הרע הזה והיא מתנכרה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      לך ודבר על לבה, כי יכול תוכל לה.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2350,8 +2491,8 @@
 שברי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2362,40 +2503,40 @@
 ולמה אמות לעיניכם?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ברוריה, למה תבכי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      מדוע תתכסי בצעיף?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ולמה לא תעני?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
      אוי לי, אמי, כי ילידתיני!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2403,8 +2544,8 @@
 לתועלתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2413,8 +2554,8 @@
 חטאתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2425,8 +2566,8 @@
 או יגדיל חסדו עמדי להמיתני ולא אראה ברע אשר ימצאני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2434,8 +2575,8 @@
 אחר?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2443,8 +2584,8 @@
 עלי?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2452,8 +2593,8 @@
 אותי?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2463,8 +2604,8 @@
 בכורי אהבתי ואליך תשוקתיי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2475,8 +2616,8 @@
 הבשר אדיחנה למדחפות.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2484,8 +2625,8 @@
 ולא אבוש ואכלם?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2496,8 +2637,8 @@
 את נפשך לקחתה, לא תוכלי להפוך לבבך לאהבה זולתו!
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2509,16 +2650,16 @@
 עצרתי כח להרים קולי ונטיתי עיני אל ארץ בתמהון לבב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אוי לי ואבוי לי מפה ומפה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2526,16 +2667,16 @@
 הכסות פנים להסכמת הקדושין.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      אין ספק כי כן חשבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2543,32 +2684,32 @@
 נשארתי לבדי תוהה על העבר ונבהלת על העתיד לבא עלי. ברוריה יוצאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      השמעת, ברוריה, את קול הקורא?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
      לא שמעתי דבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      לפי דעתי הגברת מבקשת אותך. אכנס ואשמע.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2576,8 +2717,8 @@
 ואדברה!
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2585,16 +2726,16 @@
 עמך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      חכי לי עד שוב יקרה!
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2602,16 +2743,16 @@
 ולהיות מוכנה בעוד חצי שעה לצאת עמה אל השדה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      למה זה ואנה תלכי?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2620,8 +2761,8 @@
 יומים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2629,8 +2770,8 @@
 תבא עמכן?
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2642,8 +2783,8 @@
 על יושיענו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2653,8 +2794,8 @@
 בקרבי!
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2662,8 +2803,8 @@
 הורתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2671,8 +2812,8 @@
 זולתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="brurih">
+   <sp who="brurih">
+    <speaker>
      ברוריה:
     </speaker>
     <p>
@@ -2682,8 +2823,8 @@
 זכור ואל תשכח את אמתך!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2692,8 +2833,8 @@
 הגידה לי, מה אעשה, אנה אפנה או במי אבחר?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2701,8 +2842,8 @@
 ותתנקם מן הרעה אשר הוא עושה לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2712,8 +2853,8 @@
 והורדתי את נבלתו בדם שאולה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2726,8 +2867,8 @@
 במסתרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2735,8 +2876,8 @@
 חרמי?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2750,8 +2891,8 @@
 תבורך; כי תלקט שושנת לחייה וכי תרוה דודים במתק צוף אהבתה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2760,8 +2901,8 @@
 אלך בה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2769,8 +2910,8 @@
 כי גם הוא לא יתן לך עצה נכונה יותר מזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -2779,8 +2920,8 @@
 ותסדר על גג היציע.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -2790,8 +2931,8 @@
 מבלי לאות ועמל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -2803,8 +2944,8 @@
 הארץ הזאת ואציליה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -2812,8 +2953,8 @@
 זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -2824,16 +2965,16 @@
 בעיני, ואקח אותה לי לאשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      ומי היא העלמה הזאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -2841,8 +2982,8 @@
 ממערבא.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -2850,8 +2991,8 @@
 ולהודע?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -2870,8 +3011,8 @@
      שובל יוצא
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -2894,8 +3035,8 @@
 הארץ להשתרר על עביו ולהתגדל על מריעיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -2912,8 +3053,8 @@
 ורגליו לא תכוינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -2926,24 +3067,24 @@
 מדינה של גהינם.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אם תתן ערבות עד בואך שמה!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      זה כלל גדול בגופא דעובדא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -2953,8 +3094,8 @@
 כאנוסה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -2962,8 +3103,8 @@
 חרפה.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -2971,8 +3112,8 @@
 עצמי, אם חס ושלום יודע הדבר?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -2982,24 +3123,24 @@
 בערב פסח, יראו מה כופר יושת על זה – ונתת פדיום נפשך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      והנה טוב מאד!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אין כמוהו מורה!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3007,16 +3148,16 @@
 ובשבועה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הכל יודעים; כלה היא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -3027,8 +3168,8 @@
 נתחדשו?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3040,8 +3181,8 @@
 עד אשר הביאך עד הלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3049,8 +3190,8 @@
 תכשל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -3058,16 +3199,16 @@
 ולהצילני כאשר ככה הבטחתני?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      אנכי אהיה מגן לך כאשר אמרתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -3075,8 +3216,8 @@
 למעלת כבוד תפארתך בבית יהיה מעשר מן המעשר.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3084,16 +3225,16 @@
 עד הנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      ולמה תבקשני?
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3101,8 +3242,8 @@
 ידעתי שמו, הדורש ומבקש את מעלתך על עסק עקרי מאד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3110,8 +3251,8 @@
 לבבך, כי אנכי אהיה לך מעיר לעזור.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -3119,8 +3260,8 @@
 עבדי, מה לעשות?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3129,29 +3270,29 @@
 השדה, ואנכי אדריכך בדרך זו תלך, עד אשר תבא אל תכלית החפץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      בא תבא ברינה.
     </p>
    </sp>
-   <sp>
-    <speaker id="sm khlk shlishi">
+   <sp who="sm khlk shlishi">
+    <speaker>
      תם חלק שלישי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      אני יגעתי ולא מצאתי ציר נאמן.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -3159,8 +3300,8 @@
 כזאת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -3168,24 +3309,24 @@
 עשהאל רוזני!
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      אוי יקרה כאחות לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
      מדוע אתה ככה נאנח ועיף?
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -3198,8 +3339,8 @@
 הדרך לנגדי כאיש צר ואויב, אם באולי לא שמע, כי חשקה נפשי באחותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -3211,8 +3352,8 @@
 צוויתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -3220,8 +3361,8 @@
 עגלה אחת מכוסה, המלאה לה נשים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -3229,8 +3370,8 @@
 הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3239,8 +3380,8 @@
 אל שר נעלה משובח ומפואר כזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -3248,8 +3389,8 @@
 יחד?
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3258,8 +3399,8 @@
 עלינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -3269,8 +3410,8 @@
 למדנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3280,8 +3421,8 @@
 הנשמרים מכל רע את נבלת התלוי ההוא ואל הכלב לא ישליכו אותה?
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -3291,16 +3432,16 @@
 בשמן וזהו שאמר אחרי כן “וטעמו כצפיחית בדבש”.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      יפה פירש בן ביבי זכור לטוב!
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -3310,8 +3451,8 @@
 הנישואין, ויהיו עינינו רואות וכלות אל המטעמים ומהם לא נאכל.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3319,24 +3460,24 @@
 מצאתי פתאום דרך נכון לפני להנצל מן הפחד הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      מאין יבא עזרנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      אומרה כי חליתי את ראשי ואפול למשכב.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
@@ -3346,8 +3487,8 @@
 מטובה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
@@ -3356,40 +3497,40 @@
 הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      הנה הרב יוצא החוצה.
     </p>
    </sp>
-   <sp>
-    <speaker id="iir">
+   <sp who="iir">
+    <speaker>
      יאיר:
     </speaker>
     <p>
      ברוח אברח מפניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="iktn">
+   <sp who="iktn">
+    <speaker>
      יקטן:
     </speaker>
     <p>
      גם אנכי מפניו אסתר.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      …וכבוד מעלתך לא הכירני מאז.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3398,8 +3539,8 @@
 הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3407,32 +3548,32 @@
 חסדי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      כה תעשו וכה תוסיפו לעלות במעלות מעולות!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      אנה פנית, עובד?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הנני, אדוני המרומם והמהולל!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3443,8 +3584,8 @@
 בעיני כבוד תפארתכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3452,8 +3593,8 @@
 כאלה, אך לשמך אתן תודה על חסדך אשר הגדלת עלינו!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3461,8 +3602,8 @@
 מכל אשר דברתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3470,8 +3611,8 @@
 תעשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3486,8 +3627,8 @@
      מכאן ואילך מדבר עובד הצידה
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3495,8 +3636,8 @@
 מקנתם, לא תבהל ברוחך לבזבזם כזאת וכזאת!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3504,16 +3645,16 @@
 לי כל הימים ויאושר בארץ חלקי, כי ברכני אלקים לרגלו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      ראו איך ירחיב צעדיו תחתיו כמלך בגדוד!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3521,16 +3662,16 @@
 כבדך? שאל מה אתן לך!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      יש לי רב, אדוני, אם אמצא חן בעיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3538,16 +3679,16 @@
 והנה כל כחותי נתונים המה לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      תרבו תדברו גבוה גבוה!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3556,8 +3697,8 @@
 נועדנו יחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3565,8 +3706,8 @@
 ושכני אשר יבואו לתת כבוד לשמך ולשמוח בשמחת לבנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3574,8 +3715,8 @@
 בגדולות ונפלאות עם אנשים אשר לא ידעתי, ודי לנו בשני עדים כשרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3583,8 +3724,8 @@
 ריעיו!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3592,8 +3733,8 @@
 ונשמחה יחד ואין לזרים אתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3601,8 +3742,8 @@
 בביתינו ימים רבים ונאכל ונשבע ונותיר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3610,8 +3751,8 @@
 ובכן אבא הביתה עד בא אדוני לשמחתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3619,16 +3760,16 @@
 פנית עובד?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הנני. – מה תתן לי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -3638,8 +3779,8 @@
 יצאתי לרגלו מיגון לשמחה ומאפלה לאור גדול.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3647,24 +3788,24 @@
 משם מכל טוב מעדניו המשובחים ושמת בטנא והבאת אותם אל בית חותני.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      לא אגרע מעבודתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      ועשית בחכמתך לבחור בטוב ובנעים.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3672,8 +3813,8 @@
 עיני איננו כשקל המלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3685,8 +3826,8 @@
 שובל עבד לאדוני!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3694,22 +3835,22 @@
 ולסדר כל הסעודות, תמידין כסדרן ומוספין כטוב וכישר בעיניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אשתומם על המראה!
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד
     </speaker>
     לא אחליף את כל הכבוד הזה לתהלה ולשם ולתפארת עם כל
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3719,8 +3860,8 @@
 דרך צחוק וקלות ראש. אקראנו ויענה. שובל, או שובל!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3728,16 +3869,16 @@
 הייתי אהיה, ועל כן לא עלה במעלות בקראו שמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      שובל, כרע כאח לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3745,8 +3886,8 @@
 אך בחכמה ומזימה משפטים אדבר אתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3756,8 +3897,8 @@
 שלום אדונינו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3765,8 +3906,8 @@
 יצא עתק מפיך, אדעה מה אעשה לך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3774,8 +3915,8 @@
 אנחנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3784,8 +3925,8 @@
 לזכרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3793,8 +3934,8 @@
 אדונינו שלום? הורד עדיך מעליך, נבל ולא חכם!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3802,8 +3943,8 @@
 כמוני היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3811,40 +3952,40 @@
 לאיש אשר כמוך!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      אוי לי, אבוי לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הלא זה קול אדוני! ומי הוא המכה אותו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      קומה עזרתה לי!
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      למה תעשה כה לאדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -3852,16 +3993,16 @@
 בקרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      אוי כי נעימים נפלו לי בחבלים!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3869,32 +4010,32 @@
 אתה תהיה בעוזרי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      שנים שנים תבואו אלי, כלבים עזי נפש!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      גם אלפי אלפים אביא עליך.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      ורבי רבבות יקדמו פניך!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3902,64 +4043,64 @@
 ידך?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הן אתה הכית אותי אל השל!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      ואיו?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      אנה פנה אויבך?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      חלף הלך לו ויעש בריחים.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הידעת את האיש?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      מכירו הייתי לשעבר ועכשו ביותר.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      ומי הוא אשר מלאו לבו לעשות כן?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -3967,24 +4108,24 @@
 אשמע.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      האם באולי הוא בן לאדונך אשר ירשת?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      הוא לא בנו, אך היה עבד לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -3992,8 +4133,8 @@
 נולדת, בטרם יתן לך את בתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -4001,8 +4142,8 @@
 כל הרעה אשר מצאתני בדרך והוא ישכילני בדרך זו אלך.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -4010,8 +4151,8 @@
 עולה, לא יסכים הסומך לכל הנופלים להצילך, כי נפול תפול ולא תקום!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4037,8 +4178,8 @@
      (פשחור יוצא)
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4046,8 +4187,8 @@
 לרגלי אדוני להפילו במכמורות ולקחת את כל אשר לו מידיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4055,8 +4196,8 @@
 כל מעלות האושר אשר בשמים ממעל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4064,8 +4205,8 @@
 מתחת לארץ!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4074,24 +4215,24 @@
 כבוד ועוז ולשמור את נפשי מכל דבר רע.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      על זה לא היה דוה לבי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      ולמה נהפכו פניך לירקון?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4099,14 +4240,14 @@
 אחריו ולא נודע מקום אביך איו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה
     </speaker>
     אויה לי!
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4114,24 +4255,24 @@
 לו ונדעה מה אחריתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      כי אלכה אל השופט מה אדבר ומה אצטדק?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אתה תבא אחרי ומלאת את דברי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4141,8 +4282,8 @@
 נעלב ונכאב ואין מנחם לי! – ואת אנה פנית, יקרה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4150,8 +4291,8 @@
 אחריך ואנכי צולעת.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4159,8 +4300,8 @@
 תפחדי כאשר שמתי דברי בפיך ואל תשאי פניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4169,8 +4310,8 @@
 עדותי לפני שופט צדק, אחרי כי מאז בקורת הייתי?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4178,8 +4319,8 @@
 האמת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4187,16 +4328,16 @@
 בשוחד גדול ולסתום פי עם הפלגת מתנותיו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      מה קול השפחה הזאת באזני?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4204,16 +4345,16 @@
 באזניך שמעת ובעיניך ראית.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      הלא דבר הוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4221,8 +4362,8 @@
 לי, אם אגלה את עונו, כפלים מכל אשר נתן לי ידידיה למען אחריש.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4230,8 +4371,8 @@
 אעשה חרון אפי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4240,16 +4381,16 @@
 ההוא ועיניה כגחלי אש ולחייה כארגמן!
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      זו דרך ישר לפני לדחותה בשתי ידים.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4258,16 +4399,16 @@
 עליה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      וטרם ראותה אותך לא השמיעה בחוץ קולה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4276,16 +4417,16 @@
 רק שפתיה דובבות בקול דממה דקה וקולה לא ישמע.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
      כי טעמה דבש למתוק.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4293,8 +4434,8 @@
 נקמתה עליו באף ובחמה ובקצף גדול וכאויב חרף נפשו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4302,8 +4443,8 @@
 בואי ונעלה אל השופט.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -4316,8 +4457,8 @@
      אמון ויקרה יוצאים.
     </p>
    </sp>
-   <sp>
-    <speaker id="eshhl">
+   <sp who="eshhl">
+    <speaker>
      עשהאל:
     </speaker>
     <p>
@@ -4328,8 +4469,8 @@
 נוגש על דבר ברוריה בת אמון אשר כגעלה נפשי אותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -4340,16 +4481,16 @@
 האומר לך: אל תירא, כי עזרתיך.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      זאת תוחלתי ואתה תקותי ומשגבי ומפלטי לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -4358,8 +4499,8 @@
 ואל תירא ואל תחת, כי כל לשון תקום אתך למשפט – תרשיע.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -4368,8 +4509,8 @@
 אשר ירשתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -4377,8 +4518,8 @@
 באמתחותיך כל המכתבים האלה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
@@ -4386,32 +4527,32 @@
 את הרשע. תפסהו, כי אין מציל.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      אוי לי! מה זה ועל מה זה?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      למה תאסרוהו בעבותות?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
      כי כן דבר מלך שלטון.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -4419,16 +4560,16 @@
 לרצון לבא לפני שופט צדק.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
      לפניו תבא עמנו, כי כן צוויתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -4436,8 +4577,8 @@
 חסיה נפשי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -4460,8 +4601,8 @@
      שלוחי בית הדין מסתלקים עם שובל
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4473,40 +4614,40 @@
 עמי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      האתה הוא, ידידיה אדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אני אני הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אוי כי היינו לשמה כרגע!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      ומה כל הרעה הזאת?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4514,24 +4655,24 @@
 אשר יגידו רק רע כל היום!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אל נא תאריך ברעתי. האם תמנו לגווע?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הן גוע וימת אביך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4539,8 +4680,8 @@
 ויאתייני!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4548,8 +4689,8 @@
 שתי אזניו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4557,8 +4698,8 @@
 אוי לי אבי, ראשי, ראשי!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4566,16 +4707,16 @@
 אליו, וכפשע בינו ובין המות מאס פרי בטנו ויכתוב את כל נכסיו לשובל.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אמותה הפעם!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4584,16 +4725,16 @@
 בהראותו בכתב אמת, כי הוא מושל בכל קניניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      נחלה מכתי!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4601,8 +4742,8 @@
 לפניהם להפוך לזכותך מדת הדין הקשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
@@ -4611,8 +4752,8 @@
 בעת בשדה מצאת אותה: צעקה הנערה ואין שומע לה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4621,8 +4762,8 @@
 ולא חטאתו?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
@@ -4630,8 +4771,8 @@
 טוב לך להקדים ברצון מה שיפצירנו ההכרח.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4642,24 +4783,24 @@
 בואו ונעלה אל השופט, כי לא אכחד ממנו מאומה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אוי לעינים שככה רואות!
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
      מי יתן ואהיה כחרש לא ישמע!
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -4672,8 +4813,8 @@
      מתוך יאוש תולה ידידיה בעצמו חטאים שלא חטא מעולם
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4690,13 +4831,13 @@
 ומתנקם. אוי לי, אנה אנוס לעזרה? מי יעוץ עצה להושיעני?
     </p>
    </sp>
-   <sp>
-    <speaker id="sm khlk rbyei">
+   <sp who="sm khlk rbyei">
+    <speaker>
      תם חלק רביעי
     </speaker>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4705,8 +4846,8 @@
 חק.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4715,8 +4856,8 @@
 לגלות מצפוני לבם אל נכרים וזרים וללכת אחרי הבחורים?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4726,8 +4867,8 @@
 עליו זכות ולהציל נפשו מני שחת, אם בזה יסכים שוכן שחקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4735,8 +4876,8 @@
 אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4744,16 +4885,16 @@
 אמרת, השג נשיג והצל נציל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הנה יוצא לקראתנו אמון הרע הזה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4761,16 +4902,16 @@
 עצמותיו אפחיד לראות אם בדעת ידבר על עסק קדושי בתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      החכמה תעוז לחכם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4787,8 +4928,8 @@
 ולבכות על נחלתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4796,8 +4937,8 @@
 בא אדוני לקללני ולהוסיף מכאוב על מכאובי?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4805,8 +4946,8 @@
 על הרעות האלה, וגם ה' אמר לי קלל!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4814,8 +4955,8 @@
 חרמי בא במרמה על בתי המאורסת לאיש – גם רוב לא תקבנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4823,8 +4964,8 @@
 נתפסה, כי הבל המה מעשה עועים ובעת פקודתם יאבדו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4833,16 +4974,16 @@
 השר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
      כדברך כן אעשה. – אנה פנית, פשחור?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -4854,8 +4995,8 @@
      פשחור יוצא
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4863,8 +5004,8 @@
 להנאתך ולטובתך, כי באולי נגלה לי סודך, מאשר אם לא כל אשר…
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4872,16 +5013,16 @@
 עשוהו בכבודי, יען נכמרו רחמי עליו, יען כי באולי איננו בן מות.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
      האמת כן הוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4890,8 +5031,8 @@
 נקמתך ואל תירא!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4899,8 +5040,8 @@
 חוזרת, ואתה עתה למה הסבות את טובך אחורנית להרע ולא להטיב?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4909,8 +5050,8 @@
 מות יומת הנואף ולא יצילנו כל היקום!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4919,16 +5060,16 @@
 יכונה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      כבודי לאחר לא אתן ויעבור עלי מה!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4938,8 +5079,8 @@
 כבוד ולא לבשו כמעיל בושה בעיני אלהים ואדם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4948,8 +5089,8 @@
 מימי רע עת יכרה לרשע שחת.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -4961,8 +5102,8 @@
 גם אנכי שמעתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4971,16 +5112,16 @@
 ה' אשר משמים אל הארץ יביט אל בתולי בתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
      ברוגז רחם תזכור!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -4992,8 +5133,8 @@
      אמון יוצא.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -5004,24 +5145,24 @@
 נאבד.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      העודך פה, השר?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
      איים איפה המכתבים?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5029,8 +5170,8 @@
 השטרות ממש.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -5038,8 +5179,8 @@
 השופט ובטחתי כי יש תקוה על עסקי נפש ידידיה תחלה להציל ממות נפשו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5049,8 +5190,8 @@
 ויחשבהו לאויב לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -5058,8 +5199,8 @@
 אוחיל לו ואף כי אחרי מותי, כי לא יעצור לו מהציל כל החוסים בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5067,8 +5208,8 @@
 וכל עשתונות לבך הצליחו – אין עייף ואין כושל בם.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5077,8 +5218,8 @@
 תכלית המבוקש, כי מי יאמר לו: מה תעשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5087,8 +5228,8 @@
 מחיים וישיש כי ימצא קבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5099,8 +5240,8 @@
 בנפש מרה? הן כל לשון תקום אתו להרשיעהו במשפטו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5109,8 +5250,8 @@
 שובל אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5118,8 +5259,8 @@
 הזה!
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5127,8 +5268,8 @@
 בו ישובב נפשו ולא ילכד עוד בחבלי עוני!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5136,8 +5277,8 @@
 ביתה?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5145,24 +5286,24 @@
 אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      התאמר לו: קום רש את כרם?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      גם בזה לא יבחר, אם ישמע לי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5172,8 +5313,8 @@
 שני.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5186,8 +5327,8 @@
      פשחור חוזר.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5195,8 +5336,8 @@
 ישמענו?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5204,16 +5345,16 @@
 באחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      פרש חידתך ואשמענה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5221,8 +5362,8 @@
 חטאתו יתמך, כי נלין נבלתו על העץ.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -5232,8 +5373,8 @@
 כך ארוץ אל הבור להוציאו מבית כלא.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5248,8 +5389,8 @@
 ובלעדי אלהים יענה בשמחת לבך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5260,8 +5401,8 @@
 בריתי אתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5269,8 +5410,8 @@
 ולא יבינו, כי איש על מקומו יבא בשלום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5279,8 +5420,8 @@
 עשהאל בנך הארסה הנעלבת ברוריה בתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5289,8 +5430,8 @@
 אל דין משפט מות – וה' יציל את נפשי משפת שקר מלשון רמיה!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5298,8 +5439,8 @@
 הקרבה ביני ובינך ותחזקנה במסמרי תקיעת כף?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5309,8 +5450,8 @@
 כירושין.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5318,8 +5459,8 @@
 היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5329,8 +5470,8 @@
 באשר אז הייתי, אהיה דורש שלומך וטובתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5340,8 +5481,8 @@
 עונותיה!
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5349,24 +5490,24 @@
 לא יאות לי לחטא בנפשי או לעשות עמדי רעה למען היטיב לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
      הנה על אופן מצאתיך ואיה בנך הגדול?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      למה זה תשאל לבני?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
@@ -5374,16 +5515,16 @@
 ולהביאכם אליו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      הידעת אם הוגד לך, מה לשופט עמנו היום?
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
@@ -5391,8 +5532,8 @@
 אך להעיד על בחור אחד אשר חטא לנפשו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5400,16 +5541,16 @@
 אני.
     </p>
    </sp>
-   <sp>
-    <speaker id="shlikh">
+   <sp who="shlikh">
+    <speaker>
      שליח:
     </speaker>
     <p>
      לא אעזבך עד בואך עמי כאשר צוויתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5417,8 +5558,8 @@
 השופט.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -5435,8 +5576,8 @@
 שמה אחוזת רעיותי, אשמעה במי ידברו ואענה אף אני חלקי.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5446,8 +5587,8 @@
 על העצה היעוצה מאתו ועשה עצמו כאילו לא ידע ולא הכיר אותו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5456,8 +5597,8 @@
 כזב.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5465,8 +5606,8 @@
 אמתי, כי ברב חכמתו אזן וחקר לתקן את אשר עות רב חמדן בעצה נבערה?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5477,8 +5618,8 @@
 פנים, קורץ בעיניו מורה באצבעותיו ומשמיע בחוץ קולו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5493,8 +5634,8 @@
 במשפט.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5505,8 +5646,8 @@
 יתגדל ובשובה ונחת יושע.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5514,8 +5655,8 @@
 מה? לא עליהם תלונותינו, נחפשה דרכינו ונחקורה מה תהיה אחריתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5524,8 +5665,8 @@
 נפשו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5534,16 +5675,16 @@
 חיים באפינו, עד כי המות יפריד בינינו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      חי הברית, אם לא כדבריך כן יהיה!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור
     </speaker>
     <p>
@@ -5551,8 +5692,8 @@
 תתהפך מדת הדין לזכותו וגם אני אהיה לו עבד?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5561,8 +5702,8 @@
 באגרוף.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5571,8 +5712,8 @@
 עולם.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5582,8 +5723,8 @@
 הכבשן.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5592,8 +5733,8 @@
 איו?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -5601,8 +5742,8 @@
 הנה הכביד עלי משאת עול סבלו, כי לא אוכל עוד שאתו!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -5610,24 +5751,24 @@
 כי לבי חלל בקרבי על זה הנבל כי ישבע לחם.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      אסורה עמך ואראה מה יהיה אחריתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      יהי אחריתו להכרית!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5639,16 +5780,16 @@
 ומדוע לא אוכל להלחם בו ולהנקמה גם ממנו?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      דעני למכיכי רוחא הוא יענה בשמחת לבך!
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5656,8 +5797,8 @@
 ואין גואל קרוב ממנה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5665,16 +5806,16 @@
 חציר יצמיח ישועתך.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      ובמה אושע אפוא?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5683,8 +5824,8 @@
 את בתך לו לאשה?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5692,8 +5833,8 @@
 צד?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5701,8 +5842,8 @@
 לתת לו את בתך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5710,8 +5851,8 @@
 ממנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5720,16 +5861,16 @@
 משחקים.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      מה קול הישועה הזאת באזני?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5737,16 +5878,16 @@
 הזקן אשר מלט ידידיה בחכמתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      אל נא תתעלם ממני!
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5762,8 +5903,8 @@
 תקוה למשול בכל אשר לו מסביב, לא יחסר דבר מחוט ועד שרוך נעל.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5773,8 +5914,8 @@
 בביתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5784,16 +5925,16 @@
 לא יחסר כל בו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      נאלמתי, לא אפתח פי בתמהון לבב!
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5801,16 +5942,16 @@
 כל מעשיו לשם שמים ובכל דרכיו ישכיל, כי אלהים עמו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      מן הטוב לא יצא רק טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5819,16 +5960,16 @@
 תהיה לאשה אל ידידיה בן גילה ולא יוכל לשלחה, אם לא תמאן לתתה לו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      אם אמת ונכון הדבר הזה, אם יאמנו דבריך?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5838,8 +5979,8 @@
 ובטוב לבב דוחקים זה לזה לראות בטובת הבחור ולשמוח בשמחתו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5847,16 +5988,16 @@
 עמדי לטובה ולברכה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      שאל, מה אעשה לך?
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5864,8 +6005,8 @@
 חטאתי לו, ולפייס דבורה אשתי, כי מרוב כעס וחימה נטיתי ידי להכותה.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5873,8 +6014,8 @@
 נשותינו, כי רכות לבב הנה ודמעתן מצויה.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5882,8 +6023,8 @@
 אשמותי מעל פני ידידיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
@@ -5892,16 +6033,16 @@
 אמנה לבקשתך אבא עמך עד שמה ואחרי כן אצא לפייס אשתך על אשר צויתני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      כן תעשה כאשר דברת.
     </p>
    </sp>
-   <sp>
-    <speaker id="ikrh">
+   <sp who="ikrh">
+    <speaker>
      יקרה:
     </speaker>
     <p>
@@ -5919,8 +6060,8 @@
 השופטים והשוטרים.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -5931,8 +6072,8 @@
 האוהל להיות אחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5940,8 +6081,8 @@
 פניו לנכח יביטו ואור עיניו גם הם אין אתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -5949,16 +6090,16 @@
 אפזז ואכרכר, אף אם כביר מצאה ידי, אם שדי המר לי ונתן בברותי ראש?
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      לבו למו אב יהמה, על כן ידום.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
@@ -5966,8 +6107,8 @@
 וישקוט לו מימי רע וגם כלנו נחלץ חושים לנחמו ולדבר על לבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -5975,24 +6116,24 @@
 העבדים האלה יוצאים, נדברה יחד מעט אל אודותם.
     </p>
    </sp>
-   <sp>
-    <speaker id="efrun">
+   <sp who="efrun">
+    <speaker>
      עפרון:
     </speaker>
     <p>
      ואנכי אקדים את פני אשתך כאשר צויתני.
     </p>
    </sp>
-   <sp>
-    <speaker id="mun">
+   <sp who="mun">
+    <speaker>
      אמון:
     </speaker>
     <p>
      כן עשה למעני עד בואנו שמה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -6000,8 +6141,8 @@
 לאמה כמונו היום עבדים לידידיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -6013,16 +6154,16 @@
      בינתים פשטו משובל את בגדיו היקרים ופשחור לועג לו
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      עבדים משלו בו ויהי להם למשל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6030,8 +6171,8 @@
 גאונך? מדוע פשטת את כתונת הפסים הזאת אשר היא עלי למשא?
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -6041,8 +6182,8 @@
 סתם, כי שתיהן צריכות גט כריתות מבן עפרון.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6050,16 +6191,16 @@
 הכר נא את יקר תפארת מעלת חתנך – הוא השר והטפסר שובל בן הכושי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
      האלהים מצא את עוני כפלים על חטאתי.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -6073,16 +6214,16 @@
 ישחקו עלי עבדים בני בלי שם אשר מאסתי אבותם לשים עם כלבי צאני.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      כך לך יאתה!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb msi">
+   <sp who="rb msi">
+    <speaker>
      רב אמתי:
     </speaker>
     <p>
@@ -6096,8 +6237,8 @@
 לנו חמור גרם בצורת אדם תפוס זהב וכסף – וכל רוח אין בקרבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -6106,8 +6247,8 @@
 על עמלי בראשי, אחריש ולא אפתח פי.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -6118,8 +6259,8 @@
 בתך להציל אותה מני עוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6129,24 +6270,24 @@
 לטובים. התה תסמוך על שולחני עד כל ימי חייך.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      אמצא חן בעיני אדוני!
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      ואני במה אקדם לשלם תודות לאדוני?
     </p>
    </sp>
-   <sp>
-    <speaker id="rb msi">
+   <sp who="rb msi">
+    <speaker>
      רב אמתי:
     </speaker>
     <p>
@@ -6157,8 +6298,8 @@
 חשבתי, לא תמנענה ממנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6167,8 +6308,8 @@
 רעה.
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -6176,24 +6317,24 @@
 טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      אנה פנית, עובד?
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
      הנני, אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6202,16 +6343,16 @@
 עבד ואז גם אתה תצא לחירות.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      יגדל נא כח אדוני ויחי עוד לנצח!
     </p>
    </sp>
-   <sp>
-    <speaker id="rbi msi">
+   <sp who="rbi msi">
+    <speaker>
      רבי אמתי:
     </speaker>
     <p>
@@ -6220,8 +6361,8 @@
 בית אמון, נגילה ונשמחה יחד.
     </p>
    </sp>
-   <sp>
-    <speaker id="sm unshlm">
+   <sp who="sm unshlm">
+    <speaker>
      תם ונשלם
     </speaker>
    </sp>
@@ -6250,8 +6391,8 @@
 טוב.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה:
     </speaker>
     <p>
@@ -6283,8 +6424,8 @@
 בהרימו את קולו, אדעה מה אשיב שואלי דבר.
     </p>
    </sp>
-   <sp>
-    <speaker id="yunh">
+   <sp who="yunh">
+    <speaker>
      יונה:
     </speaker>
     <p>
@@ -6320,13 +6461,13 @@
 עשויה.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd shubl fshkhur ididih mngnim rb khmdn">
+   <sp who="eubd shubl fshkhur ididih mngnim rb khmdn">
+    <speaker>
      עובד שובל פשחור ידידיה מנגנים רב חמדן
     </speaker>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -6334,16 +6475,16 @@
 לאמה כמונו היום עבד לידידיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      קחו את נפשי, כי טוב מותי מחיי!
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6351,16 +6492,16 @@
 גאונך? מדוע פשטת את כתונת הפסים הזאת אשר היא עלי למשא?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      עבדים משלו בו ויהי להם למשל.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6370,8 +6511,8 @@
 לנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6379,8 +6520,8 @@
 בהם חפץ?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6388,16 +6529,16 @@
 ובאונו שרה ולא ידע כי בנפשו הוא.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      הננו בידך וכל אשר תחפוץ תעשה.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6406,8 +6547,8 @@
 יתהלכו. ככה יעשה לאיש אשר ופץ ביקרו יותר מכבוד רבו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mngnim">
+   <sp who="mngnim">
+    <speaker>
      מנגנים:
     </speaker>
    </sp>
@@ -6431,8 +6572,8 @@
      הָיָה בְּעֵת נִלְכַּד כָּעוֹף בָּרֶשֶׁת.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6440,8 +6581,8 @@
 הלום ומכח ידיכם יתחמם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mngnim">
+   <sp who="mngnim">
+    <speaker>
      מנגנים:
     </speaker>
    </sp>
@@ -6515,16 +6656,16 @@
      יִרְאֶה בְיָדוֹ אָיִן.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      הנה רב חמדן הלזה בא לקראתנו.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
@@ -6532,8 +6673,8 @@
 חתנך הנשגב!
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -6541,8 +6682,8 @@
 עתה ישחקו עלי עבדים בני בלי שם אשר מאסתי אותם לשים עם כלבי צאני.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6551,8 +6692,8 @@
 ערונו.
     </p>
    </sp>
-   <sp>
-    <speaker id="mngnim">
+   <sp who="mngnim">
+    <speaker>
      מנגנים:
     </speaker>
    </sp>
@@ -6611,32 +6752,32 @@
      שובל כורע על ברכיו
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
      מי עור כי אם עבדך, אדוני ידידיה?
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
      הראית כי נכנע?
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
      ישוב עמלו בראשו אך הפעם.
     </p>
    </sp>
-   <sp>
-    <speaker id="mngnim">
+   <sp who="mngnim">
+    <speaker>
      מנגנים:
     </speaker>
    </sp>
@@ -6660,8 +6801,8 @@
      נִקְרָא עַל עִוֵּר “עֲלֵה פִסֵּחַ”.
     </p>
    </sp>
-   <sp>
-    <speaker id="rb khmdn">
+   <sp who="rb khmdn">
+    <speaker>
      רב חמדן:
     </speaker>
     <p>
@@ -6669,8 +6810,8 @@
 צרותיו לי צר.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6678,8 +6819,8 @@
 כי רב הוא. ואתה שובל, תכיר את מקומך וגדולות ממך אל תבקש.
     </p>
    </sp>
-   <sp>
-    <speaker id="shubl">
+   <sp who="shubl">
+    <speaker>
      שובל:
     </speaker>
     <p>
@@ -6689,8 +6830,8 @@
 לפניך.
     </p>
    </sp>
-   <sp>
-    <speaker id="ididih">
+   <sp who="ididih">
+    <speaker>
      ידידיה:
     </speaker>
     <p>
@@ -6698,8 +6839,8 @@
 העבדים הנאמנים, ועתה קום.
     </p>
    </sp>
-   <sp>
-    <speaker id="fshkhur">
+   <sp who="fshkhur">
+    <speaker>
      פשחור:
     </speaker>
     <p>
@@ -6707,8 +6848,8 @@
 שהכיתני, מכל מקום אהיה לך לאח וכמוני נעבוד את אדוני.
     </p>
    </sp>
-   <sp>
-    <speaker id="eubd">
+   <sp who="eubd">
+    <speaker>
      עובד:
     </speaker>
     <p>
