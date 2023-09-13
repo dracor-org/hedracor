@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     בִּמְקוֹם דְּרָשָׁה – מחזה
+    </title>
     <author>
      ישראל חיים טביוב
     </author>
     <author lang="eng">
      Israel Chaim Tawiow
     </author>
-    <title type="main">
-     בִּמְקוֹם דְּרָשָׁה – מחזה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

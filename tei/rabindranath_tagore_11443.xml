@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     חיטרא: משחק במחלקה אחת
+    </title>
     <author>
      רבינדראנאת טאגור
     </author>
     <author lang="eng">
      Rabindranath Tagore
     </author>
-    <title type="main">
-     חיטרא: משחק במחלקה אחת
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

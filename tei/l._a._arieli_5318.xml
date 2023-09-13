@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אַללה כרים!
+    </title>
     <author>
      לוי אריה אריאלי
     </author>
     <author lang="eng">
      L. A. Arieli
     </author>
-    <title type="main">
-     אַללה כרים!
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

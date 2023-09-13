@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     החשמונאים הקטנים
+    </title>
     <author>
      קדיש יהודה סילמן
     </author>
     <author lang="eng">
      Kadish Silman
     </author>
-    <title type="main">
-     החשמונאים הקטנים
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

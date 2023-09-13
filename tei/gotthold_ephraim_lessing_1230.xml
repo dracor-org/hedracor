@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     נתן החכם
+    </title>
     <author>
      גוטהולד אפרים לסינג
     </author>
     <author lang="eng">
      Gotthold Ephraim Lessing
     </author>
-    <title type="main">
-     נתן החכם
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     בָּאֹהֶל
+    </title>
     <author>
      יצחק קצנלסון
     </author>
     <author lang="eng">
      Itzhak Katzenelson
     </author>
-    <title type="main">
-     בָּאֹהֶל
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

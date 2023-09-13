@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     חורבן בית צדיק: דרמה בארבע מערכות
+    </title>
     <author>
      יצחק ליבוש פרץ
     </author>
     <author lang="eng">
      Itzhak Peretz
     </author>
-    <title type="main">
-     חורבן בית צדיק: דרמה בארבע מערכות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

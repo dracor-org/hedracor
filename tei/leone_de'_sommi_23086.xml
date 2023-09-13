@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     שתי שיחות בין תינוק אומנת והורים
+    </title>
     <author>
      יהודה סומו
     </author>
     <author lang="eng">
      Leone de' Sommi
     </author>
-    <title type="main">
-     שתי שיחות בין תינוק אומנת והורים
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

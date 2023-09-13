@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     איזבל
+    </title>
     <author>
      חיים הררי
     </author>
     <author lang="eng">
      Haim Harari
     </author>
-    <title type="main">
-     איזבל
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     בַּר-כּוֹכְבָא
+    </title>
     <author>
      שאול טשרניחובסקי
     </author>
     <author lang="eng">
      Shaul Tchernichovsky
     </author>
-    <title type="main">
-     בַּר-כּוֹכְבָא
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

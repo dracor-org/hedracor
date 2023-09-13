@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     יוליוס קיסר [מערכה ראשונה]
+    </title>
     <author>
      ויליאם שייקספיר
     </author>
     <author lang="eng">
      William Shakespeare
     </author>
-    <title type="main">
-     יוליוס קיסר [מערכה ראשונה]
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

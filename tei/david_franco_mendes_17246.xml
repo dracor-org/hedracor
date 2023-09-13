@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     גמול עתליה
+    </title>
     <author>
      דוד פרנקו מנדס
     </author>
     <author lang="eng">
      David Franco Mendes
     </author>
-    <title type="main">
-     גמול עתליה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

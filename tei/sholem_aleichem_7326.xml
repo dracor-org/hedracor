@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אסיפה ספרותית
+    </title>
     <author>
      שלום עליכם
     </author>
     <author lang="eng">
      Sholem Aleichem
     </author>
-    <title type="main">
-     אסיפה ספרותית
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

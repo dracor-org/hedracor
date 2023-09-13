@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אדמומיות
+    </title>
     <author>
      פסח גינזבורג
     </author>
     <author lang="eng">
      Pesaḥ Ginzburg
     </author>
-    <title type="main">
-     אדמומיות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

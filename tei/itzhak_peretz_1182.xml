@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     בנים
+    </title>
     <author>
      יצחק ליבוש פרץ
     </author>
     <author lang="eng">
      Itzhak Peretz
     </author>
-    <title type="main">
-     בנים
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

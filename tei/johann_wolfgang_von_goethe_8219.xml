@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     הרמן ודורותיאה
+    </title>
     <author>
      יוהאן וולפגנג פון גתה
     </author>
     <author lang="eng">
      Johann Wolfgang von Goethe
     </author>
-    <title type="main">
-     הרמן ודורותיאה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

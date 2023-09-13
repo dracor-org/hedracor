@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מלכי צדק: שיר על דרך החזיון בשלוש מערכות
+    </title>
     <author>
      בנימין אריה הכהן וייס
     </author>
     <author lang="eng">
      Benjamin Aryeh Weiss
     </author>
-    <title type="main">
-     מלכי צדק: שיר על דרך החזיון בשלוש מערכות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     יהודית
+    </title>
     <author>
      פרידריך הבל
     </author>
     <author lang="eng">
      Christian Friedrich Hebbel
     </author>
-    <title type="main">
-     יהודית
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

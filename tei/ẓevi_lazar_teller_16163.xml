@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     ציונה שירי ציון
+    </title>
     <author>
      צבי אלעזר טלר
     </author>
     <author lang="eng">
      Ẓevi Lazar Teller
     </author>
-    <title type="main">
-     ציונה שירי ציון
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

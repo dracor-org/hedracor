@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     השיר הנצחי: מחזה מחיי הפועלים במערכה אחת
+    </title>
     <author>
      מרק ארנשטין
     </author>
     <author lang="eng">
      Mark Arnshteyn
     </author>
-    <title type="main">
-     השיר הנצחי: מחזה מחיי הפועלים במערכה אחת
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

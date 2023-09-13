@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מיכאל קְרַמֶר: דרמה בארבע מערכות
+    </title>
     <author>
      גרהרט האופטמן
     </author>
     <author lang="eng">
      Gerhart Hauptmann
     </author>
-    <title type="main">
-     מיכאל קְרַמֶר: דרמה בארבע מערכות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

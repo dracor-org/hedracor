@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     ויהי בימי אחשורוש
+    </title>
     <author>
      קדיש יהודה סילמן
     </author>
     <author lang="eng">
      Kadish Silman
     </author>
-    <title type="main">
-     ויהי בימי אחשורוש
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

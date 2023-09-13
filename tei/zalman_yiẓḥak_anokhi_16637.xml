@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     טוָס הזהב
+    </title>
     <author>
      זלמן יצחק אנכי
     </author>
     <author lang="eng">
      Zalman Yiẓḥak Anokhi
     </author>
-    <title type="main">
-     טוָס הזהב
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

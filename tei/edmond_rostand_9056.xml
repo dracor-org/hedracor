@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     נשיקתה של רוקסנה (מתוך "סיראנו דה ברז'רק")
+    </title>
     <author>
      אדמון רוסטאן
     </author>
     <author lang="eng">
      Edmond Rostand
     </author>
-    <title type="main">
-     נשיקתה של רוקסנה (מתוך "סיראנו דה ברז'רק")
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

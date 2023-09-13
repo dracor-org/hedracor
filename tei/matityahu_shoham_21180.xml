@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אלהי ברזל לא תעשה לך
+    </title>
     <author>
      מתתיהו שוהם
     </author>
     <author lang="eng">
      Matityahu Shoham
     </author>
-    <title type="main">
-     אלהי ברזל לא תעשה לך
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

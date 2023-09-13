@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     החולה בעיניו
+    </title>
     <author>
      מולייר
     </author>
     <author lang="eng">
      Molière
     </author>
-    <title type="main">
-     החולה בעיניו
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

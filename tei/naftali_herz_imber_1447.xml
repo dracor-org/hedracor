@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     בַּכּוֹס
+    </title>
     <author>
      נפתלי הרץ אימבר
     </author>
     <author lang="eng">
      Naftali Herz Imber
     </author>
-    <title type="main">
-     בַּכּוֹס
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

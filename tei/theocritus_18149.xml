@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     הסירקוסיות
+    </title>
     <author>
      תיאוקריטוס
     </author>
     <author lang="eng">
      Theocritus
     </author>
-    <title type="main">
-     הסירקוסיות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

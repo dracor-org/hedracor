@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     לעת עתה
+    </title>
     <author>
      יוסף חיים ברנר
     </author>
     <author lang="eng">
      Yosef Haim Brenner
     </author>
-    <title type="main">
-     לעת עתה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     האגלים האדומים
+    </title>
     <author>
      סיגביורן אובסטפלדר
     </author>
     <author lang="eng">
      Sigbjørn Obstfelder
     </author>
-    <title type="main">
-     האגלים האדומים
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

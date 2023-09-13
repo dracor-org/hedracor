@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מניפה של לידי וינדרמיר
+    </title>
     <author>
      אוסקר ויילד
     </author>
     <author lang="eng">
      Oscar Wilde
     </author>
-    <title type="main">
-     מניפה של לידי וינדרמיר
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

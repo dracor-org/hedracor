@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     צוֹר וִירוּשָׁלַיִם
+    </title>
     <author>
      מתתיהו שוהם
     </author>
     <author lang="eng">
      Matityahu Shoham
     </author>
-    <title type="main">
-     צוֹר וִירוּשָׁלַיִם
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

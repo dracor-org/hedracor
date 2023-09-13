@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     השורר בביתו
+    </title>
     <author>
      ישראל חיים טביוב
     </author>
     <author lang="eng">
      Israel Chaim Tawiow
     </author>
-    <title type="main">
-     השורר בביתו
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

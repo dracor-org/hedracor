@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אַחֲרִית שָׁאוּל
+    </title>
     <author>
      מיכה יוסף לבנזון
     </author>
     <author lang="eng">
      Micah Joseph Lebensohn
     </author>
-    <title type="main">
-     אַחֲרִית שָׁאוּל
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

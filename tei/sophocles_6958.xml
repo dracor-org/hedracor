@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אדיפוס המלך
+    </title>
     <author>
      סופוקלס
     </author>
     <author lang="eng">
      Sophocles
     </author>
-    <title type="main">
-     אדיפוס המלך
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

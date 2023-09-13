@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     לא יכול עוד להתאפק
+    </title>
     <author>
      יהודה שטיינברג
     </author>
     <author lang="eng">
      Judah Steinberg
     </author>
-    <title type="main">
-     לא יכול עוד להתאפק
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

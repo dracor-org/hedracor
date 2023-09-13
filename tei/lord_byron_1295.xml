@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מַנְפְרֶד
+    </title>
     <author>
      לורד ביירון
     </author>
     <author lang="eng">
      Lord Byron
     </author>
-    <title type="main">
-     מַנְפְרֶד
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     וילהלם טל (בתרגום שמחה בן־ציון)
+    </title>
     <author>
      פרידריך שילר
     </author>
     <author lang="eng">
      Friedrich Schiller
     </author>
-    <title type="main">
-     וילהלם טל (בתרגום שמחה בן־ציון)
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

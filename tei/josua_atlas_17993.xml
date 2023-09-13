@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     הנרדף מארץ רוסיה
+    </title>
     <author>
      יהושע אטלס
     </author>
     <author lang="eng">
      Josua Atlas
     </author>
-    <title type="main">
-     הנרדף מארץ רוסיה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

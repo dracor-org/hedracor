@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מלוכת שאול
+    </title>
     <author>
      יוסף האפרתי
     </author>
     <author lang="eng">
      Josef Haefrati
     </author>
-    <title type="main">
-     מלוכת שאול
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

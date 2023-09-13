@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     גבורת שמשון
+    </title>
     <author>
      שמשון צוקרמנדל
     </author>
     <author lang="eng">
      Samson Zuckermandel
     </author>
-    <title type="main">
-     גבורת שמשון
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

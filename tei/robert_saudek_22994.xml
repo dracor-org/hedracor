@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     יהודיונים: דרמה במערכה אחת
+    </title>
     <author>
      רוברט זנדק
     </author>
     <author lang="eng">
      Robert Saudek
     </author>
-    <title type="main">
-     יהודיונים: דרמה במערכה אחת
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

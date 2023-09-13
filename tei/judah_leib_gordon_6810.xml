@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     הוי אח! מַשָּׂא חִזָּיוֹן בְּאַרְבָּעָה מַחֲזוֹת
+    </title>
     <author>
      יהודה ליב גורדון
     </author>
     <author lang="eng">
      Judah Leib Gordon
     </author>
-    <title type="main">
-     הוי אח! מַשָּׂא חִזָּיוֹן בְּאַרְבָּעָה מַחֲזוֹת
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

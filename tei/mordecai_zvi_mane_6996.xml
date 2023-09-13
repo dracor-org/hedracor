@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     ההלך
+    </title>
     <author>
      מרדכי צבי מאנה
     </author>
     <author lang="eng">
      Mordecai Zvi Mane
     </author>
-    <title type="main">
-     ההלך
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     המנצח
+    </title>
     <author>
      יעקב רבינוביץ'
     </author>
     <author lang="eng">
      Yaacov Rabinovich
     </author>
-    <title type="main">
-     המנצח
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

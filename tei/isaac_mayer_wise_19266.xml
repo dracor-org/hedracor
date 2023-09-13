@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     החשמונאים: דְרָמָה בעלת חמש מערכות
+    </title>
     <author>
      יצחק מאיר וייז, ישעיהו בלידן
     </author>
     <author lang="eng">
      Isaac Mayer Wise
     </author>
-    <title type="main">
-     החשמונאים: דְרָמָה בעלת חמש מערכות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

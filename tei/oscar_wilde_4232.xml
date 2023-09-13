@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     חשיבותה של רצינות
+    </title>
     <author>
      אוסקר ויילד
     </author>
     <author lang="eng">
      Oscar Wilde
     </author>
-    <title type="main">
-     חשיבותה של רצינות
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

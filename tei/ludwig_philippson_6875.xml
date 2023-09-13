@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     קשר בן נתניה
+    </title>
     <author>
      יהודה לודוויג פיליפסון
     </author>
     <author lang="eng">
      Ludwig Philippson
     </author>
-    <title type="main">
-     קשר בן נתניה
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

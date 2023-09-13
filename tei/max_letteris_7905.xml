@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מות אחיתופל
+    </title>
     <author>
      מאיר הלוי לטריס
     </author>
     <author lang="eng">
      Max Letteris
     </author>
-    <title type="main">
-     מות אחיתופל
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

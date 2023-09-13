@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     החשבון האחרון
+    </title>
     <author>
      נחום סוקולוב
     </author>
     <author lang="eng">
      Nahum Sokolow
     </author>
-    <title type="main">
-     החשבון האחרון
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

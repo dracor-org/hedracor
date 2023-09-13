@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     אחימן ושולמית
+    </title>
     <author>
      טוביה בן משה כץ
     </author>
     <author lang="eng">
      NoAuthor
     </author>
-    <title type="main">
-     אחימן ושולמית
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

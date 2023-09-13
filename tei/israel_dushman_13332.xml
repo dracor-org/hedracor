@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     דוד וגולית
+    </title>
     <author>
      ישראל דושמן
     </author>
     <author lang="eng">
      Israel Dushman
     </author>
-    <title type="main">
-     דוד וגולית
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

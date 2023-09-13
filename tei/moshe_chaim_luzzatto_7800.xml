@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מַעֲשֵׂה שִׁמְשׁוֹן
+    </title>
     <author>
      משה חיים לוצטו
     </author>
     <author lang="eng">
      Moshe Chaim Luzzatto
     </author>
-    <title type="main">
-     מַעֲשֵׂה שִׁמְשׁוֹן
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">

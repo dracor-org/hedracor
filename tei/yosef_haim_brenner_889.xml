@@ -2,15 +2,15 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
+    <title type="main">
+     מעבר לגבולין
+    </title>
     <author>
      יוסף חיים ברנר
     </author>
     <author lang="eng">
      Yosef Haim Brenner
     </author>
-    <title type="main">
-     מעבר לגבולין
-    </title>
    </titleStmt>
    <publicationStmt>
     <publisher xml:id="dracor">
