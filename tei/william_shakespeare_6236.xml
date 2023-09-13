@@ -59,11 +59,6 @@
        חצר בארמון מקבת
       </persName>
      </person>
-     <person xml:id="hַbְsuֹrָh">
-      <persName>
-       הַבְּשׂוֹרָה
-      </persName>
-     </person>
      <person xml:id="furֶs. khdr brmun">
       <persName>
        פורֶס. חדר בארמון
@@ -79,14 +74,14 @@
        מכשפה ב
       </persName>
      </person>
-     <person xml:id="uְuֹmְrִim">
-      <persName>
-       וְאוֹמְרִים
-      </persName>
-     </person>
      <person xml:id="hrutskhim">
       <persName>
        הרוצחים
+      </persName>
+     </person>
+     <person xml:id="iְdַeְtֶn">
+      <persName>
+       יְדַעְתֶּן
       </persName>
      </person>
      <person xml:id="mrh g">
@@ -144,24 +139,9 @@
        רוצח ב
       </persName>
      </person>
-     <person xml:id="iָdָeְtִi">
-      <persName>
-       יָדָעְתִּי
-      </persName>
-     </person>
-     <person xml:id="uְkָrְu">
-      <persName>
-       וְקָרְאוּ
-      </persName>
-     </person>
      <person xml:id="mkbs ulinuks">
       <persName>
        מקבת ולינוקס
-      </persName>
-     </person>
-     <person xml:id="uֹmְrִim">
-      <persName>
-       אוֹמְרִים
       </persName>
      </person>
      <person xml:id="furֶs. khdr hrmun">
@@ -202,6 +182,11 @@
      <person xml:id="lfni rmun mkbs">
       <persName>
        לפני ארמון מקבת
+      </persName>
+     </person>
+     <person xml:id="uֹmְrִim">
+      <persName>
+       אוֹמְרִים
       </persName>
      </person>
      <person xml:id="dunkn">
@@ -269,6 +254,11 @@
        האשה
       </persName>
      </person>
+     <person xml:id="lְkuֹrֵ">
+      <persName>
+       לְקוֹרֵא
+      </persName>
+     </person>
      <person xml:id="khulm">
       <persName>
        כולם
@@ -279,14 +269,14 @@
        בנקו
       </persName>
      </person>
+     <person xml:id="iָdָeְtִi">
+      <persName>
+       יָדָעְתִּי
+      </persName>
+     </person>
      <person xml:id="hbn">
       <persName>
        הבן
-      </persName>
-     </person>
-     <person xml:id="shְׁmַe">
-      <persName>
-       שְׁמַע
       </persName>
      </person>
      <person xml:id="rutskh ">
@@ -344,6 +334,16 @@
        מכשפה א
       </persName>
      </person>
+     <person xml:id="hַbְsuֹrָh">
+      <persName>
+       הַבְּשׂוֹרָה
+      </persName>
+     </person>
+     <person xml:id="shְׁmַe">
+      <persName>
+       שְׁמַע
+      </persName>
+     </person>
      <person xml:id="linuks">
       <persName>
        לינוקס
@@ -379,6 +379,11 @@
        מחוץ לארמון מקבת
       </persName>
      </person>
+     <person xml:id="uְkָrְu">
+      <persName>
+       וְקָרְאוּ
+      </persName>
+     </person>
      <person xml:id="khuln ikhdyu">
       <persName>
        כולן יחדיו
@@ -392,11 +397,6 @@
      <person xml:id="mrh b">
       <persName>
        מראה ב
-      </persName>
-     </person>
-     <person xml:id="lְkuֹrֵ">
-      <persName>
-       לְקוֹרֵא
       </persName>
      </person>
      <person xml:id="kulus lnsigh">
@@ -434,11 +434,6 @@
        השוער
       </persName>
      </person>
-     <person xml:id="iְdַeְtֶn">
-      <persName>
-       יְדַעְתֶּן
-      </persName>
-     </person>
      <person xml:id="ngus">
       <persName>
        אנגוס
@@ -457,6 +452,11 @@
      <person xml:id="mlkulm">
       <persName>
        מלקולם
+      </persName>
+     </person>
+     <person xml:id="uְuֹmְrִim">
+      <persName>
+       וְאוֹמְרִים
       </persName>
      </person>
      <person xml:id="situn">
@@ -1805,7 +1805,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iָdָeְtִi">
+    <sp who="#iָdָeְtִi">
      <speaker>
       יָדָעְתִּי
      </speaker>
@@ -2990,7 +2990,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lְkuֹrֵ">
+    <sp who="#lְkuֹrֵ">
      <speaker>
       לְקוֹרֵא
      </speaker>
@@ -3206,7 +3206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uְkָrְu">
+    <sp who="#uְkָrְu">
      <speaker>
       וְקָרְאוּ
      </speaker>
@@ -3454,7 +3454,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rִָisִi">
+    <sp who="#rִָisִi">
      <speaker>
       רָאִיתִי
      </speaker>
@@ -5273,7 +5273,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shְׁmַe">
+    <sp who="#shְׁmַe">
      <speaker>
       שְׁמַע
      </speaker>
@@ -6701,7 +6701,7 @@
       הזקן
      </speaker>
     </sp>
-    <sp who="uְuֹmְrִim">
+    <sp who="#uְuֹmְrִim">
      <speaker>
       וְאוֹמְרִים
      </speaker>
@@ -10024,7 +10024,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iְdַeְtֶn">
+    <sp who="#iְdַeְtֶn">
      <speaker>
       יְדַעְתֶּן
      </speaker>
@@ -10348,7 +10348,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַbְsuֹrָh">
+    <sp who="#hַbְsuֹrָh">
      <speaker>
       הַבְּשׂוֹרָה
      </speaker>
@@ -17082,7 +17082,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uֹmְrִim">
+    <sp who="#uֹmְrִim">
      <speaker>
       אוֹמְרִים
      </speaker>

@@ -49,9 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="sir shlishi">
+     <person xml:id="khd hsirim">
       <persName>
-       אסיר שלישי
+       אחד האסירים
       </persName>
      </person>
      <person xml:id="sir rshun">
@@ -59,19 +59,19 @@
        אסיר ראשון
       </persName>
      </person>
-     <person xml:id="sir shni">
-      <persName>
-       אסיר שני
-      </persName>
-     </person>
      <person xml:id="sir khd">
       <persName>
        אסיר אחד
       </persName>
      </person>
-     <person xml:id="khd hsirim">
+     <person xml:id="sir shlishi">
       <persName>
-       אחד האסירים
+       אסיר שלישי
+      </persName>
+     </person>
+     <person xml:id="sir shni">
+      <persName>
+       אסיר שני
       </persName>
      </person>
     </listPerson>
@@ -278,7 +278,7 @@
      מֵתָה בַּהֶרֶת הָאוֹר…
     </p>
    </sp>
-   <sp who="khd hsirim">
+   <sp who="#khd hsirim">
     <speaker>
      אחד האסירים:
     </speaker>
@@ -303,7 +303,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir shni">
+   <sp who="#sir shni">
     <speaker>
      אסיר שני:
     </speaker>
@@ -323,7 +323,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir rshun">
+   <sp who="#sir rshun">
     <speaker>
      אסיר ראשון:
     </speaker>
@@ -348,7 +348,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir shlishi">
+   <sp who="#sir shlishi">
     <speaker>
      אסיר שלישי:
     </speaker>
@@ -358,7 +358,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir shni">
+   <sp who="#sir shni">
     <speaker>
      אסיר שני:
     </speaker>
@@ -373,7 +373,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir khd">
+   <sp who="#sir khd">
     <speaker>
      אסיר אחד:
     </speaker>
@@ -525,7 +525,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir khd">
+   <sp who="#sir khd">
     <speaker>
      אסיר אחד:
     </speaker>
@@ -620,7 +620,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir khd">
+   <sp who="#sir khd">
     <speaker>
      אסיר אחד:
     </speaker>
@@ -710,7 +710,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="sir shlishi">
+   <sp who="#sir shlishi">
     <speaker>
      אסיר שלישי:
     </speaker>

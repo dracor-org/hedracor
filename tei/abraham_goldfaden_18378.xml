@@ -54,9 +54,9 @@
        אבינדב
       </persName>
      </person>
-     <person xml:id="uְiֹmְru">
+     <person xml:id="lֵmֹr">
       <persName>
-       וְיֹאמְרוּ
+       לֵאמֹר
       </persName>
      </person>
      <person xml:id="hnfshus">
@@ -82,6 +82,11 @@
      <person xml:id="bigil">
       <persName>
        אביגיל
+      </persName>
+     </person>
+     <person xml:id="uְiֹmְru">
+      <persName>
+       וְיֹאמְרוּ
       </persName>
      </person>
      <person xml:id="(hmskh nufl)">
@@ -144,6 +149,11 @@
        צנגיטנג
       </persName>
      </person>
+     <person xml:id="hַgִּidִi">
+      <persName>
+       הַגִּידִי
+      </persName>
+     </person>
      <person xml:id=") “tsmukim em shkdim”">
       <persName>
        א) “צמוקים עם שקדים”
@@ -177,11 +187,6 @@
      <person xml:id="tsingitng">
       <persName>
        צינגיטנג
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
       </persName>
      </person>
      <person xml:id="hrueim">
@@ -219,11 +224,6 @@
        שולמית
       </persName>
      </person>
-     <person xml:id="hַgִּidִi">
-      <persName>
-       הַגִּידִי
-      </persName>
-     </person>
      <person xml:id="bshlum">
       <persName>
        אבשלום
@@ -237,6 +237,11 @@
      <person xml:id="khlm">
       <persName>
        כלם
+      </persName>
+     </person>
+     <person xml:id="ֱmָr-nָ">
+      <persName>
+       אֱמָר-נָא
       </persName>
      </person>
      <person xml:id="hmkhlh">
@@ -327,11 +332,6 @@
      <person xml:id="bshlum ubigil">
       <persName>
        אבשלום ואביגיל
-      </persName>
-     </person>
-     <person xml:id="ֱmָr-nָ">
-      <persName>
-       אֱמָר-נָא
       </persName>
      </person>
      <person xml:id="(hmskh tsunkh lt)">
@@ -974,7 +974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -2868,7 +2868,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֱmָr-nָ">
+    <sp who="#ֱmָr-nָ">
      <speaker>
       אֱמָר-נָא
      </speaker>
@@ -2996,7 +2996,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֱmָr-nָ">
+    <sp who="#ֱmָr-nָ">
      <speaker>
       אֱמָר-נָא
      </speaker>
@@ -3155,7 +3155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uְiֹmְru">
+    <sp who="#uְiֹmְru">
      <speaker>
       וְיֹאמְרוּ
      </speaker>
@@ -3166,7 +3166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֱmָr-nָ">
+    <sp who="#ֱmָr-nָ">
      <speaker>
       אֱמָר-נָא
      </speaker>
@@ -9942,7 +9942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַgִּidִi">
+    <sp who="#hַgִּidִi">
      <speaker>
       הַגִּידִי
      </speaker>

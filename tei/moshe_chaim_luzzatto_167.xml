@@ -49,159 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id='rkhl di-oyig inrkish its"u'>
+     <person xml:id="ebd">
       <persName>
-       רחל די-וייגא אינרקיש יצ"ו
-      </persName>
-     </person>
-     <person xml:id="yushr">
-      <persName>
-       יושר
-      </persName>
-     </person>
-     <person xml:id="sufr">
-      <persName>
-       סופר
-      </persName>
-     </person>
-     <person xml:id="shikhh ">
-      <persName>
-       שיחה א
-      </persName>
-     </person>
-     <person xml:id="shikhh u'">
-      <persName>
-       שיחה ו'
-      </persName>
-     </person>
-     <person xml:id="hmshl mdbr">
-      <persName>
-       המשל מדבר
-      </persName>
-     </person>
-     <person xml:id="shlh">
-      <persName>
-       תהלה
-      </persName>
-     </person>
-     <person xml:id="shikhh '">
-      <persName>
-       שיחה א'
-      </persName>
-     </person>
-     <person xml:id="mkhkr">
-      <persName>
-       מחקר
-      </persName>
-     </person>
-     <person xml:id="srmis">
-      <persName>
-       תרמית
-      </persName>
-     </person>
-     <person xml:id="shikhh u">
-      <persName>
-       שיחה ו
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
-      </persName>
-     </person>
-     <person xml:id="shikhh h'">
-      <persName>
-       שיחה ה'
-      </persName>
-     </person>
-     <person xml:id="hmun">
-      <persName>
-       המון
-      </persName>
-     </person>
-     <person xml:id="shikhh g'">
-      <persName>
-       שיחה ג'
-      </persName>
-     </person>
-     <person xml:id="skhlus">
-      <persName>
-       סכלות
-      </persName>
-     </person>
-     <person xml:id="zkn">
-      <persName>
-       זקן
-      </persName>
-     </person>
-     <person xml:id='b"h'>
-      <persName>
-       ב"ה
-      </persName>
-     </person>
-     <person xml:id="shikhh d'">
-      <persName>
-       שיחה ד'
-      </persName>
-     </person>
-     <person xml:id="shikhh b'">
-      <persName>
-       שיחה ב'
-      </persName>
-     </person>
-     <person xml:id="rhb">
-      <persName>
-       רהב
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="sblnus">
-      <persName>
-       סבלנות
-      </persName>
-     </person>
-     <person xml:id="shikhh b">
-      <persName>
-       שיחה ב
-      </persName>
-     </person>
-     <person xml:id="shikhh h">
-      <persName>
-       שיחה ה
-      </persName>
-     </person>
-     <person xml:id='yekb d-goysh its"u'>
-      <persName>
-       יעקב דא-גאויש יצ"ו
-      </persName>
-     </person>
-     <person xml:id="mshurrim">
-      <persName>
-       משוררים
-      </persName>
-     </person>
-     <person xml:id="sm">
-      <persName>
-       תם
-      </persName>
-     </person>
-     <person xml:id="shikhh g">
-      <persName>
-       שיחה ג
-      </persName>
-     </person>
-     <person xml:id="mshl">
-      <persName>
-       משל
-      </persName>
-     </person>
-     <person xml:id="kruim">
-      <persName>
-       קרואים
+       עבד
       </persName>
      </person>
      <person xml:id="mshft">
@@ -209,19 +59,169 @@
        משפט
       </persName>
      </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="shikhh ">
+      <persName>
+       שיחה א
+      </persName>
+     </person>
+     <person xml:id="rhb">
+      <persName>
+       רהב
+      </persName>
+     </person>
+     <person xml:id="sm">
+      <persName>
+       תם
+      </persName>
+     </person>
+     <person xml:id="zkn">
+      <persName>
+       זקן
+      </persName>
+     </person>
+     <person xml:id="sblnus">
+      <persName>
+       סבלנות
+      </persName>
+     </person>
+     <person xml:id="mkhkr">
+      <persName>
+       מחקר
+      </persName>
+     </person>
+     <person xml:id="hmun">
+      <persName>
+       המון
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="shikhh d'">
+      <persName>
+       שיחה ד'
+      </persName>
+     </person>
+     <person xml:id="shikhh g'">
+      <persName>
+       שיחה ג'
+      </persName>
+     </person>
+     <person xml:id="srmis">
+      <persName>
+       תרמית
+      </persName>
+     </person>
+     <person xml:id='rkhl di-oyig inrkish its"u'>
+      <persName>
+       רחל די-וייגא אינרקיש יצ"ו
+      </persName>
+     </person>
+     <person xml:id="shikhh b">
+      <persName>
+       שיחה ב
+      </persName>
+     </person>
      <person xml:id="shkhl">
       <persName>
        שכל
       </persName>
      </person>
-     <person xml:id="ebd">
+     <person xml:id="shikhh h">
       <persName>
-       עבד
+       שיחה ה
+      </persName>
+     </person>
+     <person xml:id="sufr">
+      <persName>
+       סופר
+      </persName>
+     </person>
+     <person xml:id="shikhh u">
+      <persName>
+       שיחה ו
+      </persName>
+     </person>
+     <person xml:id="kruim">
+      <persName>
+       קרואים
+      </persName>
+     </person>
+     <person xml:id="shikhh '">
+      <persName>
+       שיחה א'
       </persName>
      </person>
      <person xml:id="shikhh d">
       <persName>
        שיחה ד
+      </persName>
+     </person>
+     <person xml:id="mshl">
+      <persName>
+       משל
+      </persName>
+     </person>
+     <person xml:id='yekb d-goysh its"u'>
+      <persName>
+       יעקב דא-גאויש יצ"ו
+      </persName>
+     </person>
+     <person xml:id="yushr">
+      <persName>
+       יושר
+      </persName>
+     </person>
+     <person xml:id="shikhh h'">
+      <persName>
+       שיחה ה'
+      </persName>
+     </person>
+     <person xml:id="shikhh g">
+      <persName>
+       שיחה ג
+      </persName>
+     </person>
+     <person xml:id="hmshl mdbr">
+      <persName>
+       המשל מדבר
+      </persName>
+     </person>
+     <person xml:id="mshurrim">
+      <persName>
+       משוררים
+      </persName>
+     </person>
+     <person xml:id="skhlus">
+      <persName>
+       סכלות
+      </persName>
+     </person>
+     <person xml:id="shikhh u'">
+      <persName>
+       שיחה ו'
+      </persName>
+     </person>
+     <person xml:id='b"h'>
+      <persName>
+       ב"ה
+      </persName>
+     </person>
+     <person xml:id="shikhh b'">
+      <persName>
+       שיחה ב'
+      </persName>
+     </person>
+     <person xml:id="shlh">
+      <persName>
+       תהלה
       </persName>
      </person>
     </listPerson>
@@ -254,7 +254,7 @@
       ליום חתונת החכם והנבון כהר"ר
      </p>
     </sp>
-    <sp who='yekb d-goysh its"u'>
+    <sp who='#yekb d-goysh its"u'>
      <speaker>
       יעקב דא-גאויש יצ"ו
      </speaker>
@@ -264,7 +264,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='rkhl di-oyig inrkish its"u'>
+    <sp who='#rkhl di-oyig inrkish its"u'>
      <speaker>
       רחל די-וייגא אינרקיש יצ"ו
      </speaker>
@@ -274,7 +274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='b"h'>
+    <sp who='#b"h'>
      <speaker>
       ב"ה
      </speaker>
@@ -351,7 +351,7 @@
     </sp>
    </div>
    <div>
-    <sp who="hmshl mdbr">
+    <sp who="#hmshl mdbr">
      <speaker>
       המשל מדבר
      </speaker>
@@ -359,7 +359,7 @@
       ירמוז על ענין המשל ותועלתו, ויבאר שבח החתן והכלה, שעליהם נוסד המשל הזה, ויחס המשל הזה להם:
      </p>
     </sp>
-    <sp who="shikhh ">
+    <sp who="#shikhh ">
      <speaker>
       שיחה א
      </speaker>
@@ -367,7 +367,7 @@
       ירמוז על חמס בני האדם שחומסים את חק האמת והראוי, במה שזונים אחרי ההבל ומגדילים ומהללים את הרהב:
      </p>
     </sp>
-    <sp who="shikhh b">
+    <sp who="#shikhh b">
      <speaker>
       שיחה ב
      </speaker>
@@ -375,7 +375,7 @@
       על הכח אשר לתרמית על ההמון נגד השכל ומופתי ראיותיו:
      </p>
     </sp>
-    <sp who="shikhh g">
+    <sp who="#shikhh g">
      <speaker>
       שיחה ג
      </speaker>
@@ -383,7 +383,7 @@
       על הפסד המנהגים הנוהגים, להגדיל הרשע והסכלות ולהשפיל הישרים והתמימים ומיאון ההמון לקבל המוסר, ויראה שבח ההתבודדות וגנות החברה הבלתי טובה, ויבאר הבטחון ואמונת הלב הראוי לאיש הישר:
      </p>
     </sp>
-    <sp who="shikhh d">
+    <sp who="#shikhh d">
      <speaker>
       שיחה ד
      </speaker>
@@ -393,7 +393,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shikhh ">
+    <sp who="#shikhh ">
      <speaker>
       שיחה א
      </speaker>
@@ -401,7 +401,7 @@
       ירמוז על התקוה הראויה לאדם בעת צרותיו, ויבאר גנות הסכלים והרמאים ומעשיהם המקולקלים. ויבאר טעות העין והראות:
      </p>
     </sp>
-    <sp who="shikhh b">
+    <sp who="#shikhh b">
      <speaker>
       שיחה ב
      </speaker>
@@ -409,7 +409,7 @@
       ירמוז היות ראוי לאיש המשכיל להסיח הדאגה מלבו, וישתמש לזה התכלית במנוחת השדה והמים, ובחפוש קצת מדברי הטבע, שבהם יסיר מחשבות עצב מלבבו, ובם יכיר את גדולת הבורא ית"ש וישבחהו על נפלאות מעשיו; ויבאר צורת הצמחים וצמיחתם וחלקיהם והדבש והשעוה הנלקחים מהם ושאר עניניהם:
      </p>
     </sp>
-    <sp who="shikhh g">
+    <sp who="#shikhh g">
      <speaker>
       שיחה ג
      </speaker>
@@ -417,7 +417,7 @@
       ירמוז היות ראוי לאדם לשום בטחונו בה' ולהתפלל לו בצרותיו, וגם לכבוש את כעסו שלא לדחוק את השעה:
      </p>
     </sp>
-    <sp who="shikhh d">
+    <sp who="#shikhh d">
      <speaker>
       שיחה ד
      </speaker>
@@ -427,7 +427,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shikhh ">
+    <sp who="#shikhh ">
      <speaker>
       שיחה א
      </speaker>
@@ -435,7 +435,7 @@
       על אמתת ההשגחה, ועל מה שהיצר מפתה את בני האדם ליחס הכל לטבע ולמקרה, ויבאר מציאות הרעמים והברקים והזועות, ויראה הלעג שלועגים הלצים על יראי החטא, ועצת הזקנים והחכמים נגד פתוי היצר:
      </p>
     </sp>
-    <sp who="shikhh b">
+    <sp who="#shikhh b">
      <speaker>
       שיחה ב
      </speaker>
@@ -443,7 +443,7 @@
       ירמוז איך הסכלים מוכרחים בסוף לבקש את החכמים ולדפוק על דלתותיהם כשתתגלה חרפת הדמיון:
      </p>
     </sp>
-    <sp who="shikhh g">
+    <sp who="#shikhh g">
      <speaker>
       שיחה ג
      </speaker>
@@ -451,7 +451,7 @@
       בגילוי שקר הרהב וכזב ההבל בכח המשפט:
      </p>
     </sp>
-    <sp who="shikhh d">
+    <sp who="#shikhh d">
      <speaker>
       שיחה ד
      </speaker>
@@ -459,7 +459,7 @@
       חרטת בני האדם על שלא הלכו אחר השכל, כשמגעת להם הרעה:
      </p>
     </sp>
-    <sp who="shikhh h">
+    <sp who="#shikhh h">
      <speaker>
       שיחה ה
      </speaker>
@@ -467,7 +467,7 @@
       גילוי ערך היושר וחשיבותו באמת והיות התהלה נאוה לו לבדו:
      </p>
     </sp>
-    <sp who="shikhh u">
+    <sp who="#shikhh u">
      <speaker>
       שיחה ו
      </speaker>
@@ -481,12 +481,12 @@
     </sp>
    </div>
    <div>
-    <sp who="mshl">
+    <sp who="#mshl">
      <speaker>
       משל
      </speaker>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -494,7 +494,7 @@
       בת המון
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -502,7 +502,7 @@
       אבי תהלה
      </p>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -510,7 +510,7 @@
       בן אמת, חתן תהלה
      </p>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -518,7 +518,7 @@
       בן תאוה, נחשב לבן אמת בטעות
      </p>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -526,7 +526,7 @@
       ריע רהב
      </p>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -534,7 +534,7 @@
       ריע יושר
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -542,7 +542,7 @@
       שפחת המון
      </p>
     </sp>
-    <sp who="sblnus">
+    <sp who="#sblnus">
      <speaker>
       סבלנות
      </speaker>
@@ -550,7 +550,7 @@
       מינקת יושר
      </p>
     </sp>
-    <sp who="mkhkr">
+    <sp who="#mkhkr">
      <speaker>
       מחקר
      </speaker>
@@ -558,27 +558,27 @@
       מתבודד
      </p>
     </sp>
-    <sp who="ebd">
+    <sp who="#ebd">
      <speaker>
       עבד
      </speaker>
     </sp>
-    <sp who="kruim">
+    <sp who="#kruim">
      <speaker>
       קרואים
      </speaker>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
     </sp>
-    <sp who="sufr">
+    <sp who="#sufr">
      <speaker>
       סופר
      </speaker>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -586,7 +586,7 @@
       מלך
      </p>
     </sp>
-    <sp who="mshurrim">
+    <sp who="#mshurrim">
      <speaker>
       משוררים
      </speaker>
@@ -954,7 +954,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shikhh '">
+    <sp who="#shikhh '">
      <speaker>
       שיחה א'
      </speaker>
@@ -1069,7 +1069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh b'">
+    <sp who="#shikhh b'">
      <speaker>
       שיחה ב'
      </speaker>
@@ -1181,7 +1181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -1201,7 +1201,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -1237,7 +1237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -1249,7 +1249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -1281,7 +1281,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh g'">
+    <sp who="#shikhh g'">
      <speaker>
       שיחה ג'
      </speaker>
@@ -1735,7 +1735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -1853,7 +1853,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -1979,7 +1979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sblnus">
+    <sp who="#sblnus">
      <speaker>
       סבלנות
      </speaker>
@@ -2055,7 +2055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh d'">
+    <sp who="#shikhh d'">
      <speaker>
       שיחה ד'
      </speaker>
@@ -2230,7 +2230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -2238,7 +2238,7 @@
       :   קוּמִי אֲמָתִי, נָא!
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -2246,7 +2246,7 @@
       :      אָדוֹן, הִנֵּנִי!
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -2266,7 +2266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -2374,7 +2374,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shikhh '">
+    <sp who="#shikhh '">
      <speaker>
       שיחה א'
      </speaker>
@@ -2735,7 +2735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -2777,7 +2777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -2793,7 +2793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -2843,7 +2843,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -2905,7 +2905,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -3007,7 +3007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh b'">
+    <sp who="#shikhh b'">
      <speaker>
       שיחה ב'
      </speaker>
@@ -3377,7 +3377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -3419,7 +3419,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mkhkr">
+    <sp who="#mkhkr">
      <speaker>
       מחקר
      </speaker>
@@ -3617,7 +3617,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -3641,7 +3641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh g'">
+    <sp who="#shikhh g'">
      <speaker>
       שיחה ג'
      </speaker>
@@ -3777,7 +3777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -3869,7 +3869,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -4055,7 +4055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh d'">
+    <sp who="#shikhh d'">
      <speaker>
       שיחה ד'
      </speaker>
@@ -4342,7 +4342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4352,7 +4352,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4360,7 +4360,7 @@
       :       אַךְ הֵנָּה הָיִיתִי.
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4372,7 +4372,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4382,7 +4382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4392,7 +4392,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4400,7 +4400,7 @@
       :       מִי יִתֵּן יֶהִי!
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4408,7 +4408,7 @@
       :  אָמְנָם הֲלֹא כֵן הוּא.
      </p>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4418,7 +4418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4432,7 +4432,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4440,7 +4440,7 @@
       :       וְעִם מִי?
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4450,7 +4450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4460,7 +4460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4470,7 +4470,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4482,7 +4482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4494,7 +4494,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4506,7 +4506,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4514,7 +4514,7 @@
       :  כֵּן אֶעֱשֶׂה.
      </p>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4590,7 +4590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4612,7 +4612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4620,7 +4620,7 @@
       :  וַיִּטְרְפוּ אוֹתָם?
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4628,7 +4628,7 @@
       :      לֹא, כִּי נִצּוֹלוּ.
      </p>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4638,7 +4638,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -4654,7 +4654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -4700,7 +4700,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shikhh '">
+    <sp who="#shikhh '">
      <speaker>
       שיחה א'
      </speaker>
@@ -5228,7 +5228,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5242,7 +5242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5256,7 +5256,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -5274,7 +5274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5288,7 +5288,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5310,7 +5310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5320,7 +5320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -5328,7 +5328,7 @@
       :   חָרֵד לְבָבִי בִּי מִקּוֹל הָרָעַם.
      </p>
     </sp>
-    <sp who="shlh">
+    <sp who="#shlh">
      <speaker>
       תהלה
      </speaker>
@@ -5340,7 +5340,7 @@
       אֵשׁ אָרְצָה.
      </p>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -5348,7 +5348,7 @@
       :   הַקִּיר, רְאֵה, נוֹטֶה לִנְפּוֹל הִנֵּהוּ.
      </p>
     </sp>
-    <sp who="kruim">
+    <sp who="#kruim">
      <speaker>
       קרואים
      </speaker>
@@ -5356,7 +5356,7 @@
       : מִנִּי שְׁמֵי מָרוֹם נִלְחָמִים בָּנוּ.
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5364,7 +5364,7 @@
       :   סַעַר אֲשֶׁר כָּזֶה עוֹד לֹא רָאִיתִי.
      </p>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -5372,7 +5372,7 @@
       :   שׁוֹמֵם אֲנִי.
      </p>
     </sp>
-    <sp who="kruim">
+    <sp who="#kruim">
      <speaker>
       קרואים
      </speaker>
@@ -5380,7 +5380,7 @@
       :     אָנָה נָנוּסָה, אָנָה?
      </p>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5434,7 +5434,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5446,7 +5446,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5466,7 +5466,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5478,7 +5478,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5488,7 +5488,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5500,7 +5500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5580,7 +5580,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5590,7 +5590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5606,7 +5606,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ebd">
+    <sp who="#ebd">
      <speaker>
       עבד
      </speaker>
@@ -5614,7 +5614,7 @@
       :   אָדוֹן, כְּבָר נִשְׁבַּר עַמּוּד הַתָּוֶךְ.
      </p>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
@@ -5674,7 +5674,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5688,7 +5688,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
@@ -5744,7 +5744,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5752,7 +5752,7 @@
       :   אוֹי, מַה־מְּנָת חֶלְקִי! מַה זֶּה יִקְרֵנִי?
      </p>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -5760,7 +5760,7 @@
       :   אוֹי, מַה יְּהִי זֶה לָנוּ?
      </p>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5768,7 +5768,7 @@
       : נָמֵס לְבָבִי בִּי, בִּרְכַּי כָּשָׁלוּ!
      </p>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
@@ -5780,7 +5780,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5792,7 +5792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srmis">
+    <sp who="#srmis">
      <speaker>
       תרמית
      </speaker>
@@ -5804,7 +5804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -5824,7 +5824,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
@@ -5846,7 +5846,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh b'">
+    <sp who="#shikhh b'">
      <speaker>
       שיחה ב'
      </speaker>
@@ -6048,7 +6048,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6086,7 +6086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6096,7 +6096,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6110,7 +6110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6118,7 +6118,7 @@
       :   מַה־זֶּה אֲשֶׁר קָרָה? אִמְרִי, הַגִּידִי!
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6130,7 +6130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6138,7 +6138,7 @@
       :   אַךְ מָה אֲשֶׁר נִהְיָה אִמְרִי, סַפֵּרִי.
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6148,7 +6148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -6158,7 +6158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6170,7 +6170,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6178,7 +6178,7 @@
       :   אֵיךְ נִהְיְתָה זֹאת? נָא!
      </p>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -6186,7 +6186,7 @@
       :       צוּרִי, מָה אֵלֶּה
      </p>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6204,7 +6204,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6216,7 +6216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="skhlus">
+    <sp who="#skhlus">
      <speaker>
       סכלות
      </speaker>
@@ -6238,7 +6238,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6258,7 +6258,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -6272,7 +6272,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -6310,7 +6310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh g'">
+    <sp who="#shikhh g'">
      <speaker>
       שיחה ג'
      </speaker>
@@ -6353,7 +6353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -6383,7 +6383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -6516,7 +6516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -6548,7 +6548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -6560,7 +6560,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -6568,7 +6568,7 @@
       :   מַלְכִּי, יְחִי לָעַד שֵׁם מַלְכוּתֶךָ.
      </p>
     </sp>
-    <sp who="sufr">
+    <sp who="#sufr">
      <speaker>
       סופר
      </speaker>
@@ -6578,7 +6578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -6586,7 +6586,7 @@
       :  עַתָּה קְרָא אֶת־הָרָשׁוּם.
      </p>
     </sp>
-    <sp who="sufr">
+    <sp who="#sufr">
      <speaker>
       סופר
      </speaker>
@@ -6612,7 +6612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -6622,7 +6622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhb">
+    <sp who="#rhb">
      <speaker>
       רהב
      </speaker>
@@ -6630,7 +6630,7 @@
       לעצמו:     אוֹי, כִּי כְּבָר אָבָדְתִּי.
      </p>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -6658,7 +6658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -6666,7 +6666,7 @@
       :   מַלְכוּתְךָ תָרוּם, מַלְכִּי, לָנֶצַח.
      </p>
     </sp>
-    <sp who="zkn">
+    <sp who="#zkn">
      <speaker>
       זקן
      </speaker>
@@ -6676,7 +6676,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -6690,7 +6690,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh d'">
+    <sp who="#shikhh d'">
      <speaker>
       שיחה ד'
      </speaker>
@@ -6991,7 +6991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7001,7 +7001,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yushr">
+    <sp who="#yushr">
      <speaker>
       יושר
      </speaker>
@@ -7011,7 +7011,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7025,7 +7025,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7049,7 +7049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7057,7 +7057,7 @@
       :   מַה־קָּרְךָ כֹּה רָע?
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7119,7 +7119,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7131,7 +7131,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7145,7 +7145,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7155,7 +7155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7165,7 +7165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7177,7 +7177,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7187,7 +7187,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7199,7 +7199,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7225,7 +7225,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7233,7 +7233,7 @@
       :   אַךְ תֵּדְעָה הַגִּיד סִימָּנִים אֵלֶּה?
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7253,7 +7253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7261,7 +7261,7 @@
       :   עַל־הַיְּמָנִית הוּא?
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7269,7 +7269,7 @@
       :       כֵּן.
      </p>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7277,7 +7277,7 @@
       :        וּדְמוּת נֶזֶר?
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7285,7 +7285,7 @@
       :   כֵּן.
      </p>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7293,7 +7293,7 @@
       :        אַף שְׂעָרָהּ כַּזָּהָב.
      </p>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -7303,7 +7303,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7369,7 +7369,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh h'">
+    <sp who="#shikhh h'">
      <speaker>
       שיחה ה'
      </speaker>
@@ -7637,7 +7637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7649,7 +7649,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7687,7 +7687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7697,7 +7697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7711,7 +7711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7723,7 +7723,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7733,7 +7733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7741,7 +7741,7 @@
       :  אָן הוּא? קְרָא־נָא לוֹ.
      </p>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7751,7 +7751,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7759,7 +7759,7 @@
       :  זֶה בֶּן אֱמֶת?
      </p>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7767,7 +7767,7 @@
       :        זֶה הוּא!
      </p>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7793,7 +7793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -7819,7 +7819,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshft">
+    <sp who="#mshft">
      <speaker>
       משפט
      </speaker>
@@ -7899,7 +7899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -7921,7 +7921,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shikhh u'">
+    <sp who="#shikhh u'">
      <speaker>
       שיחה ו'
      </speaker>
@@ -8042,7 +8042,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshurrim">
+    <sp who="#mshurrim">
      <speaker>
       משוררים
      </speaker>
@@ -8060,7 +8060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shkhl">
+    <sp who="#shkhl">
      <speaker>
       שכל
      </speaker>
@@ -8090,7 +8090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshurrim">
+    <sp who="#mshurrim">
      <speaker>
       משוררים
      </speaker>
@@ -8108,7 +8108,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun">
+    <sp who="#hmun">
      <speaker>
       המון
      </speaker>
@@ -8126,7 +8126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshurrim">
+    <sp who="#mshurrim">
      <speaker>
       משוררים
      </speaker>
@@ -8156,7 +8156,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm">
+    <sp who="#sm">
      <speaker>
       תם
      </speaker>

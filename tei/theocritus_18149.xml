@@ -59,11 +59,6 @@
        אפרכסינויה
       </persName>
      </person>
-     <person xml:id="gurgu">
-      <persName>
-       גורגו
-      </persName>
-     </person>
      <person xml:id="iַlְdַּs-mַkhְmַdִּim">
       <persName>
        יַלְדַּת־מַחְמַדִּים
@@ -79,24 +74,29 @@
        הִימְנוֹן המשוררת
       </persName>
      </person>
-     <person xml:id="nkhri shni">
-      <persName>
-       נכרי שני
-      </persName>
-     </person>
-     <person xml:id="hzknh">
-      <persName>
-       הזקנה
-      </persName>
-     </person>
      <person xml:id="gּuֹrְguֹ">
       <persName>
        גּוֹרְגוֹ
       </persName>
      </person>
+     <person xml:id="nkhri shni">
+      <persName>
+       נכרי שני
+      </persName>
+     </person>
      <person xml:id="hnkhri">
       <persName>
        הנכרי
+      </persName>
+     </person>
+     <person xml:id="gurgu">
+      <persName>
+       גורגו
+      </persName>
+     </person>
+     <person xml:id="hzknh">
+      <persName>
+       הזקנה
       </persName>
      </person>
     </listPerson>
@@ -127,7 +127,7 @@
       במעונה של אַפְרַכְּסִינוֹיָה
      </p>
     </sp>
-    <sp who="gּuֹrְguֹ">
+    <sp who="#gּuֹrְguֹ">
      <speaker>
       גּוֹרְגוֹ
      </speaker>
@@ -137,7 +137,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="afְrַkְsִinuֹiָh">
+    <sp who="#afְrַkְsִinuֹiָh">
      <speaker>
       אַפְרַכְּסִינוֹיָה
      </speaker>
@@ -157,7 +157,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -167,7 +167,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frksinoyh">
+    <sp who="#frksinoyh">
      <speaker>
       אפרכּסינויה
      </speaker>
@@ -177,7 +177,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -202,7 +202,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -222,7 +222,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -242,7 +242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -252,7 +252,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -262,7 +262,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -282,7 +282,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -327,7 +327,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -342,7 +342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -352,7 +352,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -397,7 +397,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -412,7 +412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -427,7 +427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -437,7 +437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -482,7 +482,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -547,7 +547,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -562,7 +562,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -585,7 +585,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -595,7 +595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzknh">
+    <sp who="#hzknh">
      <speaker>
       הזקנה
      </speaker>
@@ -605,7 +605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -615,7 +615,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzknh">
+    <sp who="#hzknh">
      <speaker>
       הזקנה
      </speaker>
@@ -625,13 +625,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iַlְdַּs-mַkhְmַdִּim">
+    <sp who="#iַlְdַּs-mַkhְmַdִּim">
      <speaker>
       יַלְדַּת־מַחְמַדִּים
      </speaker>
      לְעוֹלָם צָרִיךְ אָדָם לְנַסּוֹת.
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -641,7 +641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -651,7 +651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -661,7 +661,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -700,7 +700,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnkhri">
+    <sp who="#hnkhri">
      <speaker>
       הנכרי
      </speaker>
@@ -710,7 +710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -725,7 +725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnkhri">
+    <sp who="#hnkhri">
      <speaker>
       הנכרי
      </speaker>
@@ -735,7 +735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -762,7 +762,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -772,7 +772,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -787,7 +787,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -827,7 +827,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nkhri shni">
+    <sp who="#nkhri shni">
      <speaker>
       נכרי שני
      </speaker>
@@ -842,7 +842,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -872,7 +872,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frkhsinoyh">
+    <sp who="#frkhsinoyh">
      <speaker>
       אפרכסינויה
      </speaker>
@@ -887,7 +887,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>
@@ -903,7 +903,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hִimְnuֹn hmshurrs">
+    <sp who="#hִimְnuֹn hmshurrs">
      <speaker>
       הִימְנוֹן המשוררת
      </speaker>
@@ -1128,7 +1128,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gurgu">
+    <sp who="#gurgu">
      <speaker>
       גורגו
      </speaker>

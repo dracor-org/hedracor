@@ -49,29 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khdr smne">
+     <person xml:id="nkhl shurk">
       <persName>
-       חדר תמנע
-      </persName>
-     </person>
-     <person xml:id="bis dlilh">
-      <persName>
-       בית דלילה
-      </persName>
-     </person>
-     <person xml:id="omַrְtִi">
-      <persName>
-       אָמַרְתִּי
-      </persName>
-     </person>
-     <person xml:id="eir ezsh">
-      <persName>
-       עיר עזתה
-      </persName>
-     </person>
-     <person xml:id="nkrs sle eitm">
-      <persName>
-       נקרת סלע עיטם
+       נחל שורק
       </persName>
      </person>
      <person xml:id="shִׁmְshׁuֹn">
@@ -79,24 +59,9 @@
        שִׁמְשׁוֹן
       </persName>
      </person>
-     <person xml:id="khֶdֶr ֲbִishׁueַ">
+     <person xml:id="omַrְtִi">
       <persName>
-       חֶדֶר אֲבִישׁוּעַ
-      </persName>
-     </person>
-     <person xml:id="ֶlְkָnָh">
-      <persName>
-       אֶלְקָנָה
-      </persName>
-     </person>
-     <person xml:id="dְּlִilָh">
-      <persName>
-       דְּלִילָה
-      </persName>
-     </person>
-     <person xml:id="rsh hhr">
-      <persName>
-       ראש ההר
+       אָמַרְתִּי
       </persName>
      </person>
      <person xml:id="khdr smnh">
@@ -104,34 +69,14 @@
        חדר תמנה
       </persName>
      </person>
-     <person xml:id="ezh">
-      <persName>
-       עזה
-      </persName>
-     </person>
-     <person xml:id="eִir tִmְnָsָh">
-      <persName>
-       עִיר תִּמְנָתָה
-      </persName>
-     </person>
-     <person xml:id="mkhnh dn">
-      <persName>
-       מחנה דן
-      </persName>
-     </person>
-     <person xml:id="nkhl shurk">
-      <persName>
-       נחל שורק
-      </persName>
-     </person>
      <person xml:id="khdr shmshun">
       <persName>
        חדר שמשון
       </persName>
      </person>
-     <person xml:id="shmus hmdbrim">
+     <person xml:id="dְּlִilָh">
       <persName>
-       שמות המדברים
+       דְּלִילָה
       </persName>
      </person>
      <person xml:id="tִmְnָe">
@@ -139,9 +84,64 @@
        תִּמְנָע
       </persName>
      </person>
+     <person xml:id="khdr smne">
+      <persName>
+       חדר תמנע
+      </persName>
+     </person>
+     <person xml:id="rsh hhr">
+      <persName>
+       ראש ההר
+      </persName>
+     </person>
+     <person xml:id="shmus hmdbrim">
+      <persName>
+       שמות המדברים
+      </persName>
+     </person>
+     <person xml:id="eִir tִmְnָsָh">
+      <persName>
+       עִיר תִּמְנָתָה
+      </persName>
+     </person>
+     <person xml:id="nkrs sle eitm">
+      <persName>
+       נקרת סלע עיטם
+      </persName>
+     </person>
+     <person xml:id="ezh">
+      <persName>
+       עזה
+      </persName>
+     </person>
+     <person xml:id="ֶlְkָnָh">
+      <persName>
+       אֶלְקָנָה
+      </persName>
+     </person>
+     <person xml:id="eir ezsh">
+      <persName>
+       עיר עזתה
+      </persName>
+     </person>
+     <person xml:id="khֶdֶr ֲbִishׁueַ">
+      <persName>
+       חֶדֶר אֲבִישׁוּעַ
+      </persName>
+     </person>
      <person xml:id="ֲbִishueַ">
       <persName>
        אֲבִישוּעַ
+      </persName>
+     </person>
+     <person xml:id="bis dlilh">
+      <persName>
+       בית דלילה
+      </persName>
+     </person>
+     <person xml:id="mkhnh dn">
+      <persName>
+       מחנה דן
       </persName>
      </person>
     </listPerson>
@@ -584,24 +584,24 @@
     </p>
    </sp>
    <div>
-    <sp who="shmus hmdbrim">
+    <sp who="#shmus hmdbrim">
      <speaker>
       שמות המדברים
      </speaker>
     </sp>
-    <sp who="shִׁmְshׁuֹn">
+    <sp who="#shִׁmְshׁuֹn">
      <speaker>
       שִׁמְשׁוֹן
      </speaker>
      הַגִּבּוֹר
     </sp>
-    <sp who="ֲbִishueַ">
+    <sp who="#ֲbִishueַ">
      <speaker>
       אֲבִישוּעַ
      </speaker>
      חוֹתֵן שִׁמְשׁוֹן.
     </sp>
-    <sp who="tִmְnָe">
+    <sp who="#tִmְnָe">
      <speaker>
       תִּמְנָע
      </speaker>
@@ -612,7 +612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dְּlִilָh">
+    <sp who="#dְּlִilָh">
      <speaker>
       דְּלִילָה
      </speaker>
@@ -623,7 +623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֶlְkָnָh">
+    <sp who="#ֶlְkָnָh">
      <speaker>
       אֶלְקָנָה
      </speaker>
@@ -634,12 +634,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eִir tִmְnָsָh">
+    <sp who="#eִir tִmְnָsָh">
      <speaker>
       עִיר תִּמְנָתָה
      </speaker>
     </sp>
-    <sp who="khֶdֶr ֲbִishׁueַ">
+    <sp who="#khֶdֶr ֲbִishׁueַ">
      <speaker>
       חֶדֶר אֲבִישׁוּעַ
      </speaker>
@@ -1557,7 +1557,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>
@@ -1738,7 +1738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nkrs sle eitm">
+    <sp who="#nkrs sle eitm">
      <speaker>
       נקרת סלע עיטם.
      </speaker>
@@ -3052,12 +3052,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mkhnh dn">
+    <sp who="#mkhnh dn">
      <speaker>
       מחנה דן
      </speaker>
     </sp>
-    <sp who="khdr shmshun">
+    <sp who="#khdr shmshun">
      <speaker>
       חדר שמשון
      </speaker>
@@ -3524,7 +3524,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezh">
+    <sp who="#ezh">
      <speaker>
       עזה
      </speaker>
@@ -3714,7 +3714,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khdr smnh">
+    <sp who="#khdr smnh">
      <speaker>
       חדר תמנה
      </speaker>
@@ -3842,7 +3842,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rsh hhr">
+    <sp who="#rsh hhr">
      <speaker>
       ראש ההר
      </speaker>
@@ -4025,7 +4025,7 @@
       המסך נופל.
      </p>
     </sp>
-    <sp who="khdr smne">
+    <sp who="#khdr smne">
      <speaker>
       חדר תמנע
      </speaker>
@@ -4153,7 +4153,7 @@
     </sp>
    </div>
    <div>
-    <sp who="nkhl shurk">
+    <sp who="#nkhl shurk">
      <speaker>
       נחל שורק
      </speaker>
@@ -4502,7 +4502,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bis dlilh">
+    <sp who="#bis dlilh">
      <speaker>
       בית דלילה
      </speaker>
@@ -6288,7 +6288,7 @@
     </sp>
    </div>
    <div>
-    <sp who="eir ezsh">
+    <sp who="#eir ezsh">
      <speaker>
       עיר עזתה
      </speaker>

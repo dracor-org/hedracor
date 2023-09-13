@@ -49,79 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="brukh">
-      <persName>
-       ברוך
-      </persName>
-     </person>
-     <person xml:id="(shr)">
-      <persName>
-       (שר)
-      </persName>
-     </person>
-     <person xml:id="ni">
-      <persName>
-       אני
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="grshun">
-      <persName>
-       גרשון
-      </persName>
-     </person>
      <person xml:id="hi">
       <persName>
        היא
-      </persName>
-     </person>
-     <person xml:id="rbkh">
-      <persName>
-       רבקה
-      </persName>
-     </person>
-     <person xml:id="zbulun">
-      <persName>
-       זבולון
-      </persName>
-     </person>
-     <person xml:id="helmh">
-      <persName>
-       העלמה
-      </persName>
-     </person>
-     <person xml:id="zblun">
-      <persName>
-       זבלון
-      </persName>
-     </person>
-     <person xml:id="khnn">
-      <persName>
-       חנן
-      </persName>
-     </person>
-     <person xml:id="(musif)">
-      <persName>
-       (מוסיף)
-      </persName>
-     </person>
-     <person xml:id="hֲyuֹdְkhָ eָfָr?">
-      <persName>
-       הֲיוֹדְךָ עָפָר?
-      </persName>
-     </person>
-     <person xml:id="grshun. hָ!! –">
-      <persName>
-       גרשון. הָ!! –
-      </persName>
-     </person>
-     <person xml:id="brukh –">
-      <persName>
-       ברוך –
       </persName>
      </person>
      <person xml:id="hfuelim">
@@ -129,14 +59,84 @@
        הפועלים
       </persName>
      </person>
+     <person xml:id="grshun. hָ!! –">
+      <persName>
+       גרשון. הָ!! –
+      </persName>
+     </person>
+     <person xml:id="brukh">
+      <persName>
+       ברוך
+      </persName>
+     </person>
+     <person xml:id="(musif)">
+      <persName>
+       (מוסיף)
+      </persName>
+     </person>
      <person xml:id="zbulun ugrshun">
       <persName>
        זבולון וגרשון
       </persName>
      </person>
+     <person xml:id="hֲyuֹdְkhָ eָfָr?">
+      <persName>
+       הֲיוֹדְךָ עָפָר?
+      </persName>
+     </person>
+     <person xml:id="ni">
+      <persName>
+       אני
+      </persName>
+     </person>
+     <person xml:id="grshun">
+      <persName>
+       גרשון
+      </persName>
+     </person>
+     <person xml:id="zblun">
+      <persName>
+       זבלון
+      </persName>
+     </person>
+     <person xml:id="(shr)">
+      <persName>
+       (שר)
+      </persName>
+     </person>
      <person xml:id="shmeun">
       <persName>
        שמעון
+      </persName>
+     </person>
+     <person xml:id="rbkh">
+      <persName>
+       רבקה
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="brukh –">
+      <persName>
+       ברוך –
+      </persName>
+     </person>
+     <person xml:id="helmh">
+      <persName>
+       העלמה
+      </persName>
+     </person>
+     <person xml:id="zbulun">
+      <persName>
+       זבולון
+      </persName>
+     </person>
+     <person xml:id="khnn">
+      <persName>
+       חנן
       </persName>
      </person>
     </listPerson>
@@ -193,7 +193,7 @@
 לשתי פנותיו. אחת הפנות היא גם כן שבורה.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -213,7 +213,7 @@
      מַדְרֵךְ לַנַּעַל, עֶבֶד-לַאֲדוֹנִי" –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -225,7 +225,7 @@
 פלוסוף, מה זה תגנח?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -243,7 +243,7 @@
 כלכל לא אוכל את יבבותיכם.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -254,7 +254,7 @@
      – אם תספר דבר מה, אז –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -264,7 +264,7 @@
 קרב אל החלון, מוחה בסנורו את זעתו ומתופף באצבעותיו על זכוכית-החלון.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -274,7 +274,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -292,7 +292,7 @@
 הגבוהים הנטועים לעבריו).
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -303,7 +303,7 @@
      – להשיג את העוברת.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -317,7 +317,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -325,7 +325,7 @@
      – נוּ?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -345,7 +345,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -361,7 +361,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -374,13 +374,13 @@
 אני מביט עליה בעיני והיא – אינה מוצאה לה מקום.
     </p>
    </sp>
-   <sp who="ni">
+   <sp who="#ni">
     <speaker>
      אני
     </speaker>
     – הבבית האדון?
    </sp>
-   <sp who="hi">
+   <sp who="#hi">
     <speaker>
      היא
     </speaker>
@@ -436,7 +436,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -445,7 +445,7 @@
 באה אל החדר). – התחפצו לאכל?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -453,7 +453,7 @@
      – ובעל הבית?
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -461,7 +461,7 @@
      – הוא יאחר היום לבוא. גם עליך, ברוך, יהיה ללכת.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -469,7 +469,7 @@
      – כן, שכחתי.
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה
     </speaker>
@@ -479,7 +479,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -493,7 +493,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh –">
+   <sp who="#brukh –">
     <speaker>
      ברוך –
     </speaker>
@@ -501,7 +501,7 @@
      זהו רגרן!
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -513,7 +513,7 @@
      – קדש –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -525,7 +525,7 @@
      שאו ידיכם, שאו ידיכם.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -538,7 +538,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -549,7 +549,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן
     </speaker>
@@ -557,7 +557,7 @@
      . אין משיחים בסעודה.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -568,7 +568,7 @@
      שאו ידיכם. –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן
     </speaker>
@@ -584,7 +584,7 @@
      – מתי תביא את החמיץ?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון
     </speaker>
@@ -592,7 +592,7 @@
      . את הכל נאכל אנו. לך לא נתן היום.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -600,7 +600,7 @@
      אשמע לך כשמוע לכלב.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון
     </speaker>
@@ -608,7 +608,7 @@
      . נוּ!
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -616,7 +616,7 @@
      . לו הביאו לאכל.
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה
     </speaker>
@@ -625,7 +625,7 @@
 הם מתגרים ואינם נותנים לו למלא את קערתו).
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -635,7 +635,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -648,7 +648,7 @@
 המקום ששם כליתי.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -656,7 +656,7 @@
      חנן! אתה היית יכל לזכור.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -667,7 +667,7 @@
      מה זאת?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -678,7 +678,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן
     </speaker>
@@ -689,7 +689,7 @@
      מה תספר!
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -707,7 +707,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -715,7 +715,7 @@
      ומה היה ב –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -728,7 +728,7 @@
 עמי לטיל.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -739,7 +739,7 @@
      נוּ, ומה היה? –
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -749,7 +749,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -764,7 +764,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון
     </speaker>
@@ -776,7 +776,7 @@
      גרגרן! אין לו עת.
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -789,7 +789,7 @@
 יקרה כזאת. אני איני יראה עוד. ומה יש לירא.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -797,7 +797,7 @@
      השד לא יקחהו. זולל כזה!
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -805,7 +805,7 @@
      אתמול אכל גם את חלק זבולון.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -813,7 +813,7 @@
      ומדוע הוא “פלוסוף”? מדוע הביט בספר?
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה
     </speaker>
@@ -826,7 +826,7 @@
 לסנדלר ולספר? לרב לא תהיה.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -834,7 +834,7 @@
      נוּ, ומה היה, ברוך?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -846,7 +846,7 @@
 לבן-הגביר את המיץ-החלב. את השמנונית לא ראה בעיניו –
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -854,7 +854,7 @@
      חלי-רע יבא עליך! תמיד עם מעשיותיו היפות!
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -865,7 +865,7 @@
      התראו, יקירי –
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -876,7 +876,7 @@
      חלי-רע עליך!
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -889,7 +889,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -902,7 +902,7 @@
 והיית למנקה-ארובות.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -913,7 +913,7 @@
      לך עם הזפת!
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -921,7 +921,7 @@
      וספר הבאת לי?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -933,7 +933,7 @@
 בעלי-הבתים היו אז בידי –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -943,7 +943,7 @@
 בקערה).
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -963,7 +963,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -991,7 +991,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1002,7 +1002,7 @@
      איך יזלל אדם כל כך?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן
     </speaker>
@@ -1010,7 +1010,7 @@
      . ומה טוב מזה?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1021,7 +1021,7 @@
      גם לא יבוש.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1029,7 +1029,7 @@
      כמה יש לי לבוש?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1037,7 +1037,7 @@
      איך יוכל אדם לחיות בלי כל רגש?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1045,7 +1045,7 @@
      ובלי כל מחשבה?
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -1056,7 +1056,7 @@
      ובלי כל דאגה?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1064,7 +1064,7 @@
      אם תדאג לא תשמן.
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה
     </speaker>
@@ -1076,7 +1076,7 @@
      והוא איננו שמן? המעט הוא שמן? ראו נא את דל הבשר!
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1084,7 +1084,7 @@
      ולמה תכעסי? מה אמרתי?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1092,7 +1092,7 @@
      במה אתה חושב עתה? אולי בסעודת-הלויתן?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1100,7 +1100,7 @@
      החושב הוא?
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -1111,7 +1111,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="zblun">
+   <sp who="#zblun">
     <speaker>
      זבלון.
     </speaker>
@@ -1121,7 +1121,7 @@
 כסוס.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1129,7 +1129,7 @@
      ומה אתה יודע על אדות מחשבותי?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1139,7 +1139,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="zbulun ugrshun">
+   <sp who="#zbulun ugrshun">
     <speaker>
      זבולון וגרשון
     </speaker>
@@ -1150,7 +1150,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1159,7 +1159,7 @@
 בסנורו). חזיר, יקחהו השטן! זפת! כלב שחור!
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1171,7 +1171,7 @@
 מחשבותיך?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1186,7 +1186,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khlm">
+   <sp who="#khlm">
     <speaker>
      כלם.
     </speaker>
@@ -1194,7 +1194,7 @@
      ידענו.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1202,7 +1202,7 @@
      אבל, יש שאני חושב גם על דבר ענינים אחרים.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1210,7 +1210,7 @@
      למשל?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן
     </speaker>
@@ -1218,7 +1218,7 @@
      . יש שאני חושב מדוע יש לאחד תאבון גדול, ולהשני – לא כלום?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1229,7 +1229,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1237,7 +1237,7 @@
      תן לו לדבר!
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1246,7 +1246,7 @@
 לחם, וגם בשר ואינו יכל לאכל; מדוע?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון
     </speaker>
@@ -1254,7 +1254,7 @@
      . נו? –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1267,7 +1267,7 @@
 והיא שמנה ועבה ולהשני, למשל, – לנחמן הסנדלר, גוף דל ורזה כמקל? מדוע?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1275,7 +1275,7 @@
      נוּ? –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1288,7 +1288,7 @@
 והיא שמנה ועבה ולהשני, למשל, –לנחמן הסנדלר, גוף דל ורזה כמקל? מדוע?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1296,7 +1296,7 @@
      נו? –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1304,7 +1304,7 @@
      ואתה אינך יודע? הלא פלוסוף אתה?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1315,7 +1315,7 @@
      איני יודע.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1324,7 +1324,7 @@
 יתברך הוריד על הארץ חבית גדולה של תאבון ויקחו העניים הרבה –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1332,7 +1332,7 @@
      ולעשירים נשאר מעט –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1340,7 +1340,7 @@
      כן.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1348,7 +1348,7 @@
      והלחם והבשר?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1356,7 +1356,7 @@
      להיפך, זאת לקחו העשירים הרבה ויותירו לעניים מעט.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון
     </speaker>
@@ -1364,7 +1364,7 @@
      . וכן גם השמנים והרזים? –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1377,7 +1377,7 @@
 בית-המבשלות).
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1385,7 +1385,7 @@
      ושמעון לקח את כל הזפת?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1393,7 +1393,7 @@
      וזבולון את כל ה“פלוסוף”?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1401,7 +1401,7 @@
      וגרשון הכין את כל הנגונים.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1416,7 +1416,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון
     </speaker>
@@ -1424,7 +1424,7 @@
      . ואתה יודע את זאת, מבין?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1432,7 +1432,7 @@
      ועם זה אתה אוכל את חלקו תמיד –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1446,7 +1446,7 @@
 לאכל – יגדל תאבוני עד – עד אשר הנני ירא להגיד –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1454,7 +1454,7 @@
      מה? – הגד נא, הגידה! –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1464,7 +1464,7 @@
      לא אגיד.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1472,7 +1472,7 @@
      ולי? –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1488,7 +1488,7 @@
 בעת אחרת.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1496,7 +1496,7 @@
      שני פלוסופים. גם חנן פלוסוף ועד כה לא ידענו.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1510,7 +1510,7 @@
 זפת! –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1522,7 +1522,7 @@
 את מחשבותי?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1530,7 +1530,7 @@
      ספר לאחרים.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1539,7 +1539,7 @@
 מוציא ממאכלך אתה מכניס אל מוחך. הוא עוד ידבר, הוא יתנפל עלי –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1547,7 +1547,7 @@
      למה תכעס? מה עשיתי לך?
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1563,7 +1563,7 @@
 שתאמרו, כל בני האדם נבזים הם –
     </p>
    </sp>
-   <sp who="grshun. hָ!! –">
+   <sp who="#grshun. hָ!! –">
     <speaker>
      גרשון. הָ!! –
     </speaker>
@@ -1588,7 +1588,7 @@
      יָדִי, מַרְצֵעִי – הֵם כָּל קִנְיָנַי".
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1599,7 +1599,7 @@
 הם? מה בלבותיהם? מין זפת גרוע שבגרועים. עוד גרוע מזה –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון
     </speaker>
@@ -1607,7 +1607,7 @@
      . לא ידעתי כי שמעון הוא כה גדול, כי כה ירבה להבין –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1620,7 +1620,7 @@
 הפחות ידבר זבולון, אבל מה תתגאה אתה? “משורר” יש לי במה להתגאות.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1631,7 +1631,7 @@
      סנדלר הוא סנדלר.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1639,7 +1639,7 @@
      ואיש גדול כמוך בא אל סנדלרים.
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -1647,7 +1647,7 @@
      שוטה אתה, גרשון. שירה דבר מה! –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1661,7 +1661,7 @@
 חושב בפגשי אנשים ברחוב.
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -1669,7 +1669,7 @@
      עליהם לדאג באמת, דבר גדול! שמעון הסנדלר לועג להם.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1684,7 +1684,7 @@
 ה“זפתי”! ואני איני יודע: החיים בן יוסף הוא הנער שעל ידי?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1692,7 +1692,7 @@
      פלאי-פלאים! ומדוע לא תהיה למנקה ארובות? –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1703,7 +1703,7 @@
      אם אחפץ – אהיה; אותך לא אשאל.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1711,7 +1711,7 @@
      גרשון, שירה דבר מה! –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1722,7 +1722,7 @@
      נוּ, מה אתם? –
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -1733,7 +1733,7 @@
      נוּ, ומה
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1742,7 +1742,7 @@
 שם יקח עבודה רבה.
     </p>
    </sp>
-   <sp who="rbkh">
+   <sp who="#rbkh">
     <speaker>
      רבקה.
     </speaker>
@@ -1750,7 +1750,7 @@
      אף שֵם לא ידע. זהו –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1764,7 +1764,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1775,7 +1775,7 @@
      מַדְרֵךְ לַנַּעַל" –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -1784,7 +1784,7 @@
 למרמס הוא נכון, ובלבד – שיתנו לו לזלל.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1796,7 +1796,7 @@
      “תולעים יזללוך” –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1815,7 +1815,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1828,7 +1828,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1842,7 +1842,7 @@
 הוא מכה – ואני – מנשק: צעירה עוד היתה…
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון
     </speaker>
@@ -1850,7 +1850,7 @@
      . לא כזו שלנו.
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -1861,7 +1861,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1878,7 +1878,7 @@
 הוא טוב, אם אך ידע האדם להשתמש בו.
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -1886,7 +1886,7 @@
      אתה יפה, ואנחנו מה? –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1905,7 +1905,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה
     </speaker>
@@ -1913,7 +1913,7 @@
      . מה בדבר נעלי-אבי?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1924,7 +1924,7 @@
      עוד לא תוקנו, מחר יתוקנו.
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -1935,7 +1935,7 @@
      מחר, מחר, אבי אינו נותן מנוחה והוא רק “מחר, מחר” –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1947,7 +1947,7 @@
      הנך חפצה היום?
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -1958,7 +1958,7 @@
      הוא כבר משוגע.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1969,7 +1969,7 @@
      אין דבר, מחר תבא אלי עוד הפעם. מידי לא תמלט.
     </p>
    </sp>
-   <sp who="hfuelim">
+   <sp who="#hfuelim">
     <speaker>
      הפועלים.
     </speaker>
@@ -1982,7 +1982,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -1991,7 +1991,7 @@
 בקול עוז): "יָדִי, מַרְצֵעִי –
     </p>
    </sp>
-   <sp who="khlm">
+   <sp who="#khlm">
     <speaker>
      כלם.
     </speaker>
@@ -1999,7 +1999,7 @@
      “הֵם כָּל קִנְיָנַי”
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2010,7 +2010,7 @@
      “חַיַּי תַּעְַנוּגַי” –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2021,7 +2021,7 @@
      מַה דַּלִּים פְּעוּטִים"!
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2032,7 +2032,7 @@
      מֶה חַיֵּי סַנְדְלָר"? –
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון.
     </speaker>
@@ -2043,7 +2043,7 @@
      זֶפֶת וְחוּטִים" –
     </p>
    </sp>
-   <sp who="(musif)">
+   <sp who="#(musif)">
     <speaker>
      (מוסיף)
     </speaker>
@@ -2066,7 +2066,7 @@
      “מַה בֶּצַע בְדָמִּי – בְּרִדְתִּי – אֶל שַחַת”? –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2077,7 +2077,7 @@
      “בָּהֶם חַי הוּא חַיָּיו, בָּהֶם הוּא גֹוֵעַ”.
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -2085,7 +2085,7 @@
      . עתה חרוז הגרגרן – גרגרן שירה נא! –
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -2100,7 +2100,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khlm">
+   <sp who="#khlm">
     <speaker>
      כלם
     </speaker>
@@ -2113,7 +2113,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2124,7 +2124,7 @@
      עוד הפעם –
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -2140,7 +2140,7 @@
 מחר” –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2150,7 +2150,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shmeun">
+   <sp who="#shmeun">
     <speaker>
      שמעון
     </speaker>
@@ -2158,7 +2158,7 @@
      . שירה, גרשון, דבר מה. –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2167,7 +2167,7 @@
 על שכמו).
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2178,7 +2178,7 @@
      כבחלום – האתה שרת, גרשון?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2189,7 +2189,7 @@
      אני, זבולון, ומה? –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2200,7 +2200,7 @@
      כבחלום –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2209,7 +2209,7 @@
 כזה חלמתי פעם –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2220,7 +2220,7 @@
      ואולי היה זה אמת? –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2231,7 +2231,7 @@
      איך זה אמת. –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2246,7 +2246,7 @@
      אולי אתה באמת זמיר ועתה הוא חלום?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2254,7 +2254,7 @@
      הנך שוחק?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2262,7 +2262,7 @@
      ומה השחוק? ומדוע לא כן?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2270,7 +2270,7 @@
      אבל איך אפשר?
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2281,7 +2281,7 @@
      והלא אמרת כי כה נראה לך?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2297,7 +2297,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2309,7 +2309,7 @@
      חלום! –
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון
     </speaker>
@@ -2321,7 +2321,7 @@
      בְּרִדְתִּי אֶל שַחַת? – הֲיוֹדְךָ – עָפָר? –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2337,7 +2337,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="hֲyuֹdְkhָ eָfָr?">
+   <sp who="#hֲyuֹdְkhָ eָfָr?">
     <speaker>
      הֲיוֹדְךָ עָפָר?
     </speaker>
@@ -2383,7 +2383,7 @@
 והיא נתרצתה. זה היה פעם, שרתי אז את שירתי:
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2394,7 +2394,7 @@
      הֲיוֹדְךָ-עָפָר? – הֲיַגִיד-אֲמִתֶּךָ? –
     </p>
    </sp>
-   <sp who="zbulun">
+   <sp who="#zbulun">
     <speaker>
      זבולון.
     </speaker>
@@ -2414,7 +2414,7 @@
      חלום! –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2425,7 +2425,7 @@
      גרשון, אמור נא: היודע אתה קולך מה הוא?
     </p>
    </sp>
-   <sp who="grshun">
+   <sp who="#grshun">
     <speaker>
      גרשון.
     </speaker>
@@ -2436,7 +2436,7 @@
      מה עלי לדעת?
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2444,7 +2444,7 @@
      היודע אתה מה תוכל להשיג בקולך?
     </p>
    </sp>
-   <sp who="khnn">
+   <sp who="#khnn">
     <speaker>
      חנן.
     </speaker>
@@ -2452,7 +2452,7 @@
      לו ידע החזיר את בתו – כי אז הפך את העולם –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2477,7 +2477,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="(shr)">
+   <sp who="#(shr)">
     <speaker>
      (שר)
     </speaker>
@@ -2549,7 +2549,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2560,7 +2560,7 @@
      שחוק העכבר והחתול, שחוק מסוכן.
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -2571,7 +2571,7 @@
      ומה, מה בדבר נעלי-אבי? –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -2583,7 +2583,7 @@
      שם מונחים הם בלתי מתוקנים.
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה
     </speaker>
@@ -2594,7 +2594,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך
     </speaker>
@@ -2605,7 +2605,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hfuelim">
+   <sp who="#hfuelim">
     <speaker>
      הפועלים.
     </speaker>
@@ -2627,7 +2627,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2642,7 +2642,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -2661,7 +2661,7 @@
      הכינה מחר את הנעלים. אבוא לקחתם. –
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>
@@ -2673,7 +2673,7 @@
      היום בערב ברחוב הטחנה. אשוט בנהר.
     </p>
    </sp>
-   <sp who="helmh">
+   <sp who="#helmh">
     <speaker>
      העלמה.
     </speaker>
@@ -2691,7 +2691,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="brukh">
+   <sp who="#brukh">
     <speaker>
      ברוך.
     </speaker>

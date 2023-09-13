@@ -49,29 +49,29 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khsid b'">
+     <person xml:id="krub '">
       <persName>
-       חסיד ב'
+       קרוב א'
       </persName>
      </person>
-     <person xml:id="dburh">
+     <person xml:id="gbril">
       <persName>
-       דבורה
+       גבריאל
       </persName>
      </person>
-     <person xml:id="gbrim">
+     <person xml:id="krubim">
       <persName>
-       גברים
+       קרובים
       </persName>
      </person>
-     <person xml:id="khuָh ussr">
+     <person xml:id="hmkum">
       <persName>
-       חוָה ואסתר
+       המקום
       </persName>
      </person>
-     <person xml:id="khsid sukhr">
+     <person xml:id="yusilh">
       <persName>
-       חסיד סוחר
+       יוסילה
       </persName>
      </person>
      <person xml:id="hm">
@@ -79,54 +79,39 @@
        האם
       </persName>
      </person>
-     <person xml:id="feygilh">
-      <persName>
-       פייגילה
-      </persName>
-     </person>
-     <person xml:id="hkhsidim">
-      <persName>
-       החסידים
-      </persName>
-     </person>
-     <person xml:id="krub b'">
-      <persName>
-       קרוב ב'
-      </persName>
-     </person>
      <person xml:id="hmkurb">
       <persName>
        המקורב
       </persName>
      </person>
-     <person xml:id="krubh '">
+     <person xml:id="khsid">
       <persName>
-       קרובה א'
+       חסיד
       </persName>
      </person>
-     <person xml:id="khsid '">
+     <person xml:id="feygilh">
       <persName>
-       חסיד א'
+       פייגילה
       </persName>
      </person>
-     <person xml:id="umri shilim">
+     <person xml:id="hkrub mshh">
       <persName>
-       אומרי תהילים
+       הקרוב משה
       </persName>
      </person>
-     <person xml:id="ssr">
+     <person xml:id="krubh b'">
       <persName>
-       אסתר
+       קרובה ב'
       </persName>
      </person>
-     <person xml:id="ikhil">
+     <person xml:id="khsid b'">
       <persName>
-       יחיאל
+       חסיד ב'
       </persName>
      </person>
-     <person xml:id="ssr oyusilh">
+     <person xml:id="mkum hmerkhh">
       <persName>
-       אסתר ויוסילה
+       מקום המערכה
       </persName>
      </person>
      <person xml:id="shh">
@@ -134,14 +119,49 @@
        אשה
       </persName>
      </person>
-     <person xml:id="khdim">
+     <person xml:id="hzmn">
       <persName>
-       אחדים
+       הזמן
+      </persName>
+     </person>
+     <person xml:id="hshh">
+      <persName>
+       האשה
+      </persName>
+     </person>
+     <person xml:id="dburh">
+      <persName>
+       דבורה
       </persName>
      </person>
      <person xml:id="shni mkurbim">
       <persName>
        שני מקורבים
+      </persName>
+     </person>
+     <person xml:id="ssr oyusilh">
+      <persName>
+       אסתר ויוסילה
+      </persName>
+     </person>
+     <person xml:id="umri shilim">
+      <persName>
+       אומרי תהילים
+      </persName>
+     </person>
+     <person xml:id="rb heir">
+      <persName>
+       רב העיר
+      </persName>
+     </person>
+     <person xml:id="khsid u'">
+      <persName>
+       חסיד ו'
+      </persName>
+     </person>
+     <person xml:id="isrl oyunsn">
+      <persName>
+       ישׂראל ויונתן
       </persName>
      </person>
      <person xml:id="mkurb '">
@@ -154,34 +174,14 @@
        מקורב ב'
       </persName>
      </person>
-     <person xml:id="krub '">
+     <person xml:id="krub b'">
       <persName>
-       קרוב א'
+       קרוב ב'
       </persName>
      </person>
-     <person xml:id="krub d'">
+     <person xml:id="ssr">
       <persName>
-       קרוב ד'
-      </persName>
-     </person>
-     <person xml:id="yusilh">
-      <persName>
-       יוסילה
-      </persName>
-     </person>
-     <person xml:id="rb heir">
-      <persName>
-       רב העיר
-      </persName>
-     </person>
-     <person xml:id="khsid">
-      <persName>
-       חסיד
-      </persName>
-     </person>
-     <person xml:id="tsiph">
-      <persName>
-       ציפּה
+       אסתר
       </persName>
      </person>
      <person xml:id="mkurb g'">
@@ -189,39 +189,9 @@
        מקורב ג'
       </persName>
      </person>
-     <person xml:id="hmshrs uhmshrss">
+     <person xml:id="hkhsidim">
       <persName>
-       המשרת והמשרתת
-      </persName>
-     </person>
-     <person xml:id="gbril">
-      <persName>
-       גבריאל
-      </persName>
-     </person>
-     <person xml:id="hkrub mshh">
-      <persName>
-       הקרוב משה
-      </persName>
-     </person>
-     <person xml:id="krubim">
-      <persName>
-       קרובים
-      </persName>
-     </person>
-     <person xml:id="khsid u'">
-      <persName>
-       חסיד ו'
-      </persName>
-     </person>
-     <person xml:id="krubh b'">
-      <persName>
-       קרובה ב'
-      </persName>
-     </person>
-     <person xml:id="khsid h'">
-      <persName>
-       חסיד ה'
+       החסידים
       </persName>
      </person>
      <person xml:id="khuָh">
@@ -229,54 +199,9 @@
        חוָה
       </persName>
      </person>
-     <person xml:id="khsid g'">
+     <person xml:id="krubh '">
       <persName>
-       חסיד ג'
-      </persName>
-     </person>
-     <person xml:id="krub g'">
-      <persName>
-       קרוב ג'
-      </persName>
-     </person>
-     <person xml:id="hkudmim">
-      <persName>
-       הקודמים
-      </persName>
-     </person>
-     <person xml:id="hmkum">
-      <persName>
-       המקום
-      </persName>
-     </person>
-     <person xml:id="mkum hmerkhh">
-      <persName>
-       מקום המערכה
-      </persName>
-     </person>
-     <person xml:id="nshim">
-      <persName>
-       נשים
-      </persName>
-     </person>
-     <person xml:id="hzmn">
-      <persName>
-       הזמן
-      </persName>
-     </person>
-     <person xml:id="isrl oyunsn">
-      <persName>
-       ישׂראל ויונתן
-      </persName>
-     </person>
-     <person xml:id="yunsn">
-      <persName>
-       יונתן
-      </persName>
-     </person>
-     <person xml:id="kulus">
-      <persName>
-       קולות
+       קרובה א'
       </persName>
      </person>
      <person xml:id="khsid d'">
@@ -284,9 +209,79 @@
        חסיד ד'
       </persName>
      </person>
+     <person xml:id="ikhil">
+      <persName>
+       יחיאל
+      </persName>
+     </person>
      <person xml:id="isrl">
       <persName>
        ישׂראל
+      </persName>
+     </person>
+     <person xml:id="hkudmim">
+      <persName>
+       הקודמים
+      </persName>
+     </person>
+     <person xml:id="khdim">
+      <persName>
+       אחדים
+      </persName>
+     </person>
+     <person xml:id="gbrim">
+      <persName>
+       גברים
+      </persName>
+     </person>
+     <person xml:id="nshim">
+      <persName>
+       נשים
+      </persName>
+     </person>
+     <person xml:id="khsid h'">
+      <persName>
+       חסיד ה'
+      </persName>
+     </person>
+     <person xml:id="khuָh ussr">
+      <persName>
+       חוָה ואסתר
+      </persName>
+     </person>
+     <person xml:id="khsid sukhr">
+      <persName>
+       חסיד סוחר
+      </persName>
+     </person>
+     <person xml:id="khsid '">
+      <persName>
+       חסיד א'
+      </persName>
+     </person>
+     <person xml:id="hmshrs uhmshrss">
+      <persName>
+       המשרת והמשרתת
+      </persName>
+     </person>
+     <person xml:id="krub g'">
+      <persName>
+       קרוב ג'
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="krub d'">
+      <persName>
+       קרוב ד'
+      </persName>
+     </person>
+     <person xml:id="tsiph">
+      <persName>
+       ציפּה
       </persName>
      </person>
      <person xml:id="hild">
@@ -294,9 +289,14 @@
        הילד
       </persName>
      </person>
-     <person xml:id="hshh">
+     <person xml:id="khsid g'">
       <persName>
-       האשה
+       חסיד ג'
+      </persName>
+     </person>
+     <person xml:id="yunsn">
+      <persName>
+       יונתן
       </persName>
      </person>
     </listPerson>
@@ -379,7 +379,7 @@
       באמצע החדר לרחבו – שולחן לקריאת התורה, גדול ומכוסה מפה. לא הרחק ממנו לימין – שולחן קטן ועליו כלי כתיבה ופיסות נייר לפתקאות. על ידי השולחן הקטן – כסא-מרבדים למושב הצדיק, שנשאר פנוי בכל משך המערכה הראשונה. לשׂמאלו של השולחן הגדול – שולחן ארוך, העומד לאורך החדר; שולחן זה מגולה הוא ועליו ספרים הרבה.
      </p>
     </sp>
-    <sp who="hzmn">
+    <sp who="#hzmn">
      <speaker>
       הזמן
      </speaker>
@@ -406,7 +406,7 @@
     </sp>
    </div>
    <div>
-    <sp who="umri shilim">
+    <sp who="#umri shilim">
      <speaker>
       אומרי תהילים
      </speaker>
@@ -432,7 +432,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="umri shilim">
+    <sp who="#umri shilim">
      <speaker>
       אומרי תהילים
      </speaker>
@@ -442,7 +442,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -450,7 +450,7 @@
       : כן… לא נקל להגיד: גירא בעיניך… לא נקל… אם הוא, שיחיה, ניזוק…
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -458,7 +458,7 @@
       : לא בעצמו…
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -469,7 +469,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid g'">
+    <sp who="#khsid g'">
      <speaker>
       חסיד ג'
      </speaker>
@@ -496,7 +496,7 @@
       נפלאות הבורא…
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -504,7 +504,7 @@
       : אנוכי הייתי מזהירו תמיד… יש צדיקים רבים בעולם, ואינם מפקירים את עצמם כל כך… כשנשמע על דבר ה“פּוּנקטין”, היינו הגזרות, עשׂו מה שעשׂו – ישבו בתענית, התפללו… והוא נכנס תיכף בעובי הקורה.  “בשום אופן איני רוצה!” – אמר – “רבונו של עולם, איני רוצה בשום אופן וצד!”
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -512,7 +512,7 @@
       : הכוחות מהיכן?!
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -524,7 +524,7 @@
       ופעם אחת פתח את החלון ואמר: “אילנות ועשׂבים! – אמר – תנו לי את הכוחות שלכם!”
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -532,7 +532,7 @@
       : ונתנו?
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -540,7 +540,7 @@
       : בלי ספק! באותה השנה לא היו פירות, והעשׂבים כמעט שנשׂרפו…
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -548,7 +548,7 @@
       : ואחר כך?
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -556,7 +556,7 @@
       : היה מה שהיה… נחטפה בתו…
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -564,7 +564,7 @@
       : פייגילה?
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -582,7 +582,7 @@
       הקודמים וחסיד ד'.
      </p>
     </sp>
-    <sp who="khsid d'">
+    <sp who="#khsid d'">
      <speaker>
       חסיד ד'
      </speaker>
@@ -593,7 +593,7 @@
       יודע אתה, מה שעשׂה לי אתמול?
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -601,7 +601,7 @@
       : מי?
      </p>
     </sp>
-    <sp who="khsid d'">
+    <sp who="#khsid d'">
      <speaker>
       חסיד ד'
      </speaker>
@@ -612,7 +612,7 @@
       הוא שיחיה.  שני אדומים נתתי לישׂראל הגבאי, והכניסני… עסק גדול יש לי להתחיל, ואיני יודע מה לעשׂות, ואני שואל… והוא עונה לי: “איני יודע! מיום שנעלמה בתי – אמר במנוחה – איני יודע כלום”. “רבי! – אמרתי לו – הלא בראש השנה הייתם עליזים ושׂמחים וחזקים, ועכשיו”… “בשעת קבּוּ שאני”. הקבּוּץ נותן לו חיוּת. “ועכשיו איני יודע”… ויעץ לי, שאשאל את המקורבים – –
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -620,7 +620,7 @@
       : ומפני מה לא שאלת, שוטה?
      </p>
     </sp>
-    <sp who="khsid d'">
+    <sp who="#khsid d'">
      <speaker>
       חסיד ד'
      </speaker>
@@ -642,7 +642,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid h'">
+    <sp who="#khsid h'">
      <speaker>
       חסיד ה'
      </speaker>
@@ -656,7 +656,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid g'">
+    <sp who="#khsid g'">
      <speaker>
       חסיד ג'
      </speaker>
@@ -670,7 +670,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid u'">
+    <sp who="#khsid u'">
      <speaker>
       חסיד ו'
      </speaker>
@@ -678,7 +678,7 @@
       : ואיזו טענה היתה להלבנה?
      </p>
     </sp>
-    <sp who="khsid h'">
+    <sp who="#khsid h'">
      <speaker>
       חסיד ה'
      </speaker>
@@ -689,7 +689,7 @@
       לכאורה טענה צודקת מאד. “השמש – אמרה – משמשת ביום וחם לה. והיא, הלבנה, משמשת בלילה וקר לה…”
      </p>
     </sp>
-    <sp who="umri shilim">
+    <sp who="#umri shilim">
      <speaker>
       אומרי תהילים
      </speaker>
@@ -699,7 +699,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid u'">
+    <sp who="#khsid u'">
      <speaker>
       חסיד ו'
      </speaker>
@@ -707,7 +707,7 @@
       : ומה ביקשה הלבנה?
      </p>
     </sp>
-    <sp who="khsid h'">
+    <sp who="#khsid h'">
      <speaker>
       חסיד ה'
      </speaker>
@@ -715,7 +715,7 @@
       : ביקשה, שיעשׂו לה מלבוש…
      </p>
     </sp>
-    <sp who="khsid u'">
+    <sp who="#khsid u'">
      <speaker>
       חסיד ו'
      </speaker>
@@ -723,7 +723,7 @@
       : והכוָנה בזה?
      </p>
     </sp>
-    <sp who="khsid h'">
+    <sp who="#khsid h'">
      <speaker>
       חסיד ה'
      </speaker>
@@ -731,7 +731,7 @@
       : זה יבואר אחר כך. והנה קראו לכל החייטים שבעולם, שיעשׂו לה מלבוש, ולא יכלו, לפי שהלבנה גדלה בכל יום במשך חצי חודש, ומתמעטת בכל יום – גם כן במשך חצי חודש…
      </p>
     </sp>
-    <sp who="khsid u'">
+    <sp who="#khsid u'">
      <speaker>
       חסיד ו'
      </speaker>
@@ -739,7 +739,7 @@
       : ויעשׂו לה ל' מלבושים?!
      </p>
     </sp>
-    <sp who="khsid h'">
+    <sp who="#khsid h'">
      <speaker>
       חסיד ה'
      </speaker>
@@ -749,7 +749,7 @@
     </sp>
    </div>
    <div>
-    <sp who="hkudmim">
+    <sp who="#hkudmim">
      <speaker>
       הקודמים
      </speaker>
@@ -763,7 +763,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -771,7 +771,7 @@
       : תהילה לאל, תהיה כניסה. תהי גם קבלת פנים… וציוָה, שיעמידו לו את הכסא סמוך לארון הקודש…
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -779,7 +779,7 @@
       : ובלילה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -796,7 +796,7 @@
       חסידים אחדים: ושמעת?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -804,7 +804,7 @@
       : לו שמעתי את טענותיהם של שני הצדדים, אז לא הייתי עכשיו ביניכם… אך מתשובותיו למדתי, מה ש“הבעל דבר” רוצה.
      </p>
     </sp>
-    <sp who="hkhsidim">
+    <sp who="#hkhsidim">
      <speaker>
       החסידים
      </speaker>
@@ -815,7 +815,7 @@
       ומה הוא רוצה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -823,7 +823,7 @@
       : מה הוא רוצה? רוצה הוא, שימסור רבינו את ההנהגה לאחרים. הוא טוען: “רב לך!”
      </p>
     </sp>
-    <sp who="hkhsidim">
+    <sp who="#hkhsidim">
      <speaker>
       החסידים
      </speaker>
@@ -831,7 +831,7 @@
       : ויחזיר לו את פייגילה…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -839,7 +839,7 @@
       : יחזיר? רוצים אתם בתחית המתים? – ירשה לתקן את נשמתה!
      </p>
     </sp>
-    <sp who="hkhsidim">
+    <sp who="#hkhsidim">
      <speaker>
       החסידים
      </speaker>
@@ -847,7 +847,7 @@
       : והוא אינו רוצה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -865,7 +865,7 @@
       הקודמים בלא ישׂראל.
      </p>
     </sp>
-    <sp who="khsid b'">
+    <sp who="#khsid b'">
      <speaker>
       חסיד ב'
      </speaker>
@@ -876,7 +876,7 @@
       ומפני מה אין קורין לרופא?
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -891,7 +891,7 @@
       הקודמים וציפּה.
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -941,7 +941,7 @@
       הקודמת וישׂראל.
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -952,7 +952,7 @@
       זקנה זו מסוכנת היא!
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -963,7 +963,7 @@
       ציפּ – ציפּ – ציפּ – ציפּ –
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -992,7 +992,7 @@
       הנפשות
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1000,7 +1000,7 @@
       אשת הצדיק, אשה בריאה, כבת ארבעים. מלבושיה יקרים אך בלי טעם; היא מקושטת בהרבה תכשיטים.
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1008,7 +1008,7 @@
       המשרתת.
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1016,7 +1016,7 @@
       הגבאי.
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1024,7 +1024,7 @@
       הצדיק, כבן שבעים; כפוך, חולני.
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -1037,7 +1037,7 @@
       חסידים. מקורבים.
      </p>
     </sp>
-    <sp who="hmkum">
+    <sp who="#hmkum">
      <speaker>
       המקום
      </speaker>
@@ -1059,7 +1059,7 @@
       הגנה. לימינו ולשׂמאלו – דלתות: לימין – אל חדר המערכה, הוא “בית המדרש הקטן”, לשׂמאל – אל פנים המעון.
      </p>
     </sp>
-    <sp who="hzmn">
+    <sp who="#hzmn">
      <speaker>
       הזמן
      </speaker>
@@ -1074,7 +1074,7 @@
       בעד הדלת הפתוחה אל הגן נראית קבוצת חסידים, העומדת על יד הדלת מבחוץ. החסידים משׂוחחים בתנועת ידים נמרצה. יש מחזיקים שׂקים של טלית ותפילין. רובם מעשנים, וקני המקטרות מתעופפים מרוב תנועת הידים.  קולם לא ישמע, אך פעם בפעם נשמעות איזו צעקות מקוטעות, שריקות של השתוממות או קריאות של כעס. מ“בית המדרש הקטן” נשמעת המולתם של המתפללים שחרית. החדר מתהלכים הנה והנה.
      </p>
     </sp>
-    <sp who="shni mkurbim">
+    <sp who="#shni mkurbim">
      <speaker>
       שני מקורבים
      </speaker>
@@ -1084,7 +1084,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1095,7 +1095,7 @@
       צריך יהיה ליכּנס בעובי הקורה.  הזקן, אם גם יתחזק, הלוַאי שיאריך ימים… הקבּוּץ הוא הצלה פורתא, לפי שעה…
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1103,7 +1103,7 @@
       : והבן אינו רוצה לבוא?
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1111,7 +1111,7 @@
       : למה לו לבוא? מה חסר הוא שם, בבית המתנגד? כבר יש לו אלפי אלפים דינרים, והוא יושב ולומד…
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1119,7 +1119,7 @@
       : לזה עוד יש פנאי… אבל מתיירא אני – –
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1127,7 +1127,7 @@
       : ממה?
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1135,7 +1135,7 @@
       : שמא יתגלה הדבר… ישׂראל מתיירא מפני ציפּה המשוגעת. כל הימים והלילות היא מחפשׂת… ומלבד זה – אזנים לכותל…
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1143,7 +1143,7 @@
       : כל הענין היה ענין של שטות… חטאה הבת – צריך היה להשׂיאה לאותו הרוקח, ימח שמו, ויסעו להם להרי חושך, לעבר לים… הרבנים עשׂתה זאת יותר מרשעות, וישׂראל הוא, כידוע, בידה כחומר ביד היוצר… אם חורגת…
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1151,7 +1151,7 @@
       : אפשר שלא היו רוצים לנסוע.
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1159,7 +1159,7 @@
       : צריך היה לתת להם מעות, הרבה מעות.
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1167,7 +1167,7 @@
       : הרבנית תתן מעות!
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1175,7 +1175,7 @@
       : ואחר כך, כשהיתה הדילטוריא, נתנה לעֵשׂו…
      </p>
     </sp>
-    <sp who="mkurb b'">
+    <sp who="#mkurb b'">
      <speaker>
       מקורב ב'
      </speaker>
@@ -1196,7 +1196,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mkurb g'">
+    <sp who="#mkurb g'">
      <speaker>
       מקורב ג'
      </speaker>
@@ -1204,7 +1204,7 @@
       : והעיקר – אופן העבודה, שהוא, שיחיה, חידש… הוא עוד את השם ב“איני יודע”… מה שתשאל אותו – אינו יודע! עניווּת שאין לשער… שאל – הוא אומר – את המקורבים!
      </p>
     </sp>
-    <sp who="khsid '">
+    <sp who="#khsid '">
      <speaker>
       חסיד א'
      </speaker>
@@ -1212,7 +1212,7 @@
       : ומה היא היללה, ששומעין כאן מתחת לארץ?… אומרים, שבלילה שעבר נשמע הקול ביתר שׂאת, ונדמה שהוא עולה למעלה, למעלה…
      </p>
     </sp>
-    <sp who="mkurb g'">
+    <sp who="#mkurb g'">
      <speaker>
       מקורב ג'
      </speaker>
@@ -1230,7 +1230,7 @@
       דבורה ואחר כך ישׂראל.
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1244,7 +1244,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1255,7 +1255,7 @@
       צפרא טבא, רבנית!
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1263,7 +1263,7 @@
       : ומה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1275,7 +1275,7 @@
       אבל איפה היא ציפּה? אתמול לא ראיתיה כלל… שלשום עמדה על יד המרתף… ובתוך הנקבצים יש מרננים… איזה עוף הוליך את הקול… יד ציפּה בכול!
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1286,7 +1286,7 @@
       הנה היא. הולכת כצל…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1299,7 +1299,7 @@
     </sp>
    </div>
    <div>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1312,7 +1312,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1320,7 +1320,7 @@
       : עודך חיה, ציפּה?
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1331,7 +1331,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1339,7 +1339,7 @@
       : לא בעלת הבית אני, אלא רבנית.
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1347,7 +1347,7 @@
       : למאי נפקא מיניה? לא השם עיקר. העיקר הוא – שיהא הלב טוב.
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1355,7 +1355,7 @@
       : אַל תקניטיני, ציפה, כי –
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1363,7 +1363,7 @@
       : תסגרוני במרתף?
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1374,7 +1374,7 @@
       אבל הלא מצחקת אני…
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1382,7 +1382,7 @@
       : גם אני, גם אני מצחקת… אני כל הימים מצחקת… עומדת רגלי על פי הקבר – ועדיין אני מצחקת… ולפעמים נאבד ממני הצחוק ואני מבקשת אותו. איפה? בכל מקום. על הכתלים, במבואות, במחילות, במרתפים – עד שאמצאנו…
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1390,7 +1390,7 @@
       : חידות אַת חדה, ציפּה!
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1398,7 +1398,7 @@
       : א… היתּכן?… יום אחד – שעה אחת לפני מיתתי?
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1406,7 +1406,7 @@
       : כל חלומותי וחלומות אחרים – –
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1417,7 +1417,7 @@
       אין אלה חלומות… והיאך אחלום, אם איני ישנה? איני יכולה לישון – מזוקן, ואולי מאנחות הנשמות, האסורות במרתפי הבית ומבקשות תקוּן…
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1425,7 +1425,7 @@
       : מהתלת אַתּ?
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1433,7 +1433,7 @@
       : יום אחד, ואולי שעה אחת, לפני מיתתי? חס ושלום! הלא מספרים… כל ה“עולם” מספר… ואולי אַתּ, בעלת הבית, אינך מאמינה?
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1444,7 +1444,7 @@
       !
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1455,7 +1455,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1471,7 +1471,7 @@
     </sp>
    </div>
    <div>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1484,7 +1484,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1502,7 +1502,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1513,7 +1513,7 @@
       מה היה לכם פתאום, מה לכם?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1521,7 +1521,7 @@
       : אין דבר, נחש… אין דבר. עייף אני…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1529,7 +1529,7 @@
       : אבל מה יאמרו הבריות?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1540,7 +1540,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1548,7 +1548,7 @@
       : הלא מתחילה התעודדתם והיה הכול כמקודם…
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1560,7 +1560,7 @@
       – –
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1571,7 +1571,7 @@
       אה – –
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1586,7 +1586,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1594,7 +1594,7 @@
       : ואחר כך?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1610,7 +1610,7 @@
       (מרחוק נשמעים קולות קוראים: “נעריצך”.  עומד ואומר גם כן “קדושה” בלחש.
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1618,7 +1618,7 @@
       קם גם הוא בלי משׂים, אבל עד מהרה הוא מניע בידו לאות יאוּש – ויושב)
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1626,7 +1626,7 @@
       : איזו נקודה?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1634,7 +1634,7 @@
       : הראית נקודה שחורה על שמי זוהר, נקודת ענן? נקודה כזו היא הרת זיקין וזוָעות, רחמנא ליצלן… נקודה אחת קטנה ושחורה הרגשתי בנשמתי… כתם קטן עכור – עגמת נפש קטנה – נקודה, אבל אותה הנקודה גדלה וגדלה – מרגע לרגע, מהרף עין להרף עין… וגדלה, והיתה לחומר עכור, לחומר כבד, למשׂא, לצער, למשׂא כבד של צער, שאי אתה יכול לשׂאתו, לסבול אותו… והרגשתי, שהנטל הזה מוריד אותי משׂאתי, שאני נמשך למטה, שאני יורד, צולל, טובע – –
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1642,7 +1642,7 @@
       : והם?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1650,7 +1650,7 @@
       : הם?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1658,7 +1658,7 @@
       : האבות, המלאכים?
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1676,7 +1676,7 @@
       הקודמים ודבורה.
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1687,7 +1687,7 @@
       , אבל הוא אינו רואה. אז היא אומרת בלחש): ישׂראל!
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1708,7 +1708,7 @@
       הקודמים ומקורב א'.
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1719,7 +1719,7 @@
       רבי, גומרים את התפילה.
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1730,7 +1730,7 @@
       קרא להם! קרא לכולם! יבואו הנה! יבואו נא!
      </p>
     </sp>
-    <sp who="hmkurb">
+    <sp who="#hmkurb">
      <speaker>
       המקורב
      </speaker>
@@ -1738,7 +1738,7 @@
       : אבל, רבי!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1749,7 +1749,7 @@
       אַל תקרא! הרי רואה אתה, שאינו בקו הבריאות…
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1771,7 +1771,7 @@
       , הטובה, הצנועה, הצדקת…
      </p>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1779,7 +1779,7 @@
       : דום, בעל עבירה זקן!
      </p>
     </sp>
-    <sp who="mkurb '">
+    <sp who="#mkurb '">
      <speaker>
       מקורב א'
      </speaker>
@@ -1787,7 +1787,7 @@
       : אשה היא אשה – –
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1795,7 +1795,7 @@
       : דומי, רבנית!
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1811,7 +1811,7 @@
     </sp>
    </div>
    <div>
-    <sp who="hkudmim">
+    <sp who="#hkudmim">
      <speaker>
       הקודמים
      </speaker>
@@ -1827,7 +1827,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="tsiph">
+    <sp who="#tsiph">
      <speaker>
       ציפּה
      </speaker>
@@ -1838,7 +1838,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -1848,7 +1848,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ikhil">
+    <sp who="#ikhil">
      <speaker>
       יחיאל
      </speaker>
@@ -1856,7 +1856,7 @@
       : אח!
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -1886,7 +1886,7 @@
       ישׂראל הגבאי.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -1894,7 +1894,7 @@
       בן הצדיק, כבן כ"ה.
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -1907,7 +1907,7 @@
       יוסילה בנם.
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -1915,7 +1915,7 @@
       אביה של אסתר, חותנו של יונתן. מתנגד מהדור הקודם.
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -1933,7 +1933,7 @@
       משרת ומשרתת.
      </p>
     </sp>
-    <sp who="mkum hmerkhh">
+    <sp who="#mkum hmerkhh">
      <speaker>
       מקום המערכה
      </speaker>
@@ -1951,7 +1951,7 @@
       בפנים, נוכח הרואה – חלונות פונים החוצה. לימין ולשׂמאל – דלתות. על יד הכתלים: ארון ספרים פתוח. שידת כלי כסף וזהב בעלת שמשות. באמצע החדר – שולחן מרובע. לא הרחק מן הכתלים נצבים מפוזרים שולחנות קטנים. בהמשך החזיון, כשעורכים את השולחן ל“שלוש סעודות”, מוצגים השולחנות הקטנים על יד השולחן הגדול והיו לאחד תחת מפה אחת, הפרושׂה על כולם. ספסל עץ פשוט וכסאות ממינים שונים. כלי הבית הם מזמנים וטעמים שונים ומחירם שונה מאד.  בקרן זוית עומדים כלים לנטילת ידים.
      </p>
     </sp>
-    <sp who="hzmn">
+    <sp who="#hzmn">
      <speaker>
       הזמן
      </speaker>
@@ -1961,7 +1961,7 @@
     </sp>
    </div>
    <div>
-    <sp who="isrl oyunsn">
+    <sp who="#isrl oyunsn">
      <speaker>
       ישׂראל ויונתן
      </speaker>
@@ -1971,7 +1971,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1979,7 +1979,7 @@
       : ובכן?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -1987,7 +1987,7 @@
       : ובכן – ציפּה מתה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -1995,7 +1995,7 @@
       : ציפּה מתה… ראתה חיים ציפּה! כבת שמונים היתה במותה.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2003,7 +2003,7 @@
       : ומאחותי קבלתי מכתב…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2011,7 +2011,7 @@
       : עדיין היא חולה?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2019,7 +2019,7 @@
       : פעם בפעם תבעת אותה רוח רעה… מעשׂה ידך!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2030,7 +2030,7 @@
       ?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2038,7 +2038,7 @@
       : ועם כל זה לא עלה בידך להתייצב לשׂטן על דרכה.  מצאה את שאהבה נפשה…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2046,7 +2046,7 @@
       : מצא מין את מינו…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2054,7 +2054,7 @@
       : ואתם הוצאתם את הקול, שנשׂרף, שעלה בסערה או בענן, וכיוצא בזה…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2062,7 +2062,7 @@
       : צריך היה…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2070,7 +2070,7 @@
       : בשביל הצורך שלכם יכולים אתם להרוג נפשות…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2078,7 +2078,7 @@
       : מילא!
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2086,7 +2086,7 @@
       : מאושרים!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2094,7 +2094,7 @@
       : מאושרים?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2102,7 +2102,7 @@
       : כן, האדם הבטוח תמיד, האדם שידיו מלוכלכות בדם רעהו, שיורד לחיי בני אדם, ואינו מסופק אף רגע בטוב מעשׂהו, ביושר דרכו; האדם, שאינו נרתע לאחוריו אפילו כהרף עין, והוא הולך בדרכו, הולך והולך, אף על פי שסוף סוף הוא הולך לאבדון, – מאושר הוא. רע מכל הוא הספק… היתוש המנקר במוח…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2110,7 +2110,7 @@
       : אבל כל זה אינו נוגע לעניננו… עוד הפעם אני אומר לך: אביך חולה מסוכן… מיום שנראתה הבת, היא אחותך, התגלע הריב בין אביך לאמך החורגת, והיא ברחה אל אחיה, הוא הצדיק מן העיר הסמוכה… אחותך, כידוע לך, הלכה אחרי הידוע… ונשאר אביך החולה לבדו… לבדו…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2118,7 +2118,7 @@
       : ובכל זאת איני יכול…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2129,7 +2129,7 @@
       ?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2137,7 +2137,7 @@
       : מפני שאדם חלש אני… אם אסע לשם, מובטח אני שלא אעצור כוח להתקומם כנגדך, לעמוד על דעתי, – ואפול בידך… בלי ספק… כזבוב ביד השׂממית… הלא אתה כבר מתפּשׂ סביב, סביב לי…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2145,7 +2145,7 @@
       : לאו דוקא… מתיירא היצר הרע שלך, שמא יתגבר עליו שם היצר הטוב!
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2153,7 +2153,7 @@
       : אולי… אבל אני חושב, שמתיירא אני מפני היצר הרע, מפני הרמאות…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2161,7 +2161,7 @@
       : ואביך – רמאי? וזקנך היה רמאי?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2169,7 +2169,7 @@
       : את זקני לא ידעתי… ואבי – ואבי הוא איש כמוני, מסופק וחלש… ואתה משלת בו, והטית אותו לחפצך… ועשׂית עוול בשמו, וגם רצח!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2190,7 +2190,7 @@
       הקודמים
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2218,7 +2218,7 @@
       .
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2228,7 +2228,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2238,7 +2238,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hmshrs uhmshrss">
+    <sp who="#hmshrs uhmshrss">
      <speaker>
       המשרת והמשרתת
      </speaker>
@@ -2248,7 +2248,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr oyusilh">
+    <sp who="#ssr oyusilh">
      <speaker>
       אסתר ויוסילה
      </speaker>
@@ -2258,7 +2258,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2266,7 +2266,7 @@
       : אי אפשר, אי אפשר! אין לאביך פנאי…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2277,7 +2277,7 @@
       ובכן, בן הצדיק! למוּד התורה הוא דבר טוב, מצוָה גדולה, כידוע. אבל “דרך ארץ קדמה לתורה”. ועל פי דרך ארץ צריך לענות לשואל, אף על פי שהוא אך גבאי. ובפרט כשהוא ישיש.  “והדרת פני זקן”, כתיב. ועל אחת כמה וכמה, כשהוא בא בשם אביך… “כבד את אביך” הוא גם כן קרא… מצוָה מדאוריתא…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2288,7 +2288,7 @@
       הלא עניתי.  איני יכול בשום אופן… איני רואה חוב לעצמי ולא היתר לעצמי… איני מאמין בעצמי…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2296,7 +2296,7 @@
       : אבל זהו דבר שאי אפשר! אי אפשר בשום אופן וצד! – היכן תמצי? “לא יסור שבט” כתיב!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2307,7 +2307,7 @@
       שמע נא, ר' ישׂראל! אני אדם פשוט, איני יודע אלא דברים כהוָיתם. אם אינו רוצה, למה יסע?… ובאמת, למה לו לרצות? כמה משׂתכר יהודי טוב?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2318,7 +2318,7 @@
       חותני!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2326,7 +2326,7 @@
       : הסער נשתתק. אם ירצה השם והרפסודות יגיעו למקומן – יעלה בחלקו – יותר ממה שמרויח “יהודי טוב”…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2337,7 +2337,7 @@
       הצדיק אינו עושׂה עסק ואינו מרויח. הוא לוקח ונותן לאביונים… אבל כיוָן שנגעת בענין מצד זה, אומר אני, שגם מצד זה מחויב הוא לנסוע. כי מה יהיה, אם הרפסודות, חס ושלום, לא יגיעו למקומן?
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2352,7 +2352,7 @@
       אשתי שומעת, אסתר’ל… אבל היתכן?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2363,7 +2363,7 @@
       הכול יתכן, הכול בידי שמים! אם תתייצב לשׂטן על הדרך…
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2371,7 +2371,7 @@
       : אני? אני מפריע?! הלא אמרתי: יסע לכשירצה…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2379,7 +2379,7 @@
       : ואם העסקים מפריעים, אם המניעה מצדם?… מי יודע – אדם, בעזרת ה‘, עולה, ואדם, לפעמים, השם ישמרנו, יורד… כמה שנים רצופות עלה יפה – מה טוב; אבל אין זו ראיה למחר. אתה, ר’ גבריאל, איש אמיד, אתה עלית. טוב מאד. וגם – תיתי לך: אינך אומר “כוחי ועוצם ידי”.. אדרבה: יודע אתה שהנך אך ורק בעל פקדון: ואתה נותן, ונותן בעין יפה, בלב טוב… צדקתך מודעת, שם יצא לה בעולם… משׂיא אתה יתומים ויתומות, קרובים וקרובות… נותן נדוניא… כן. מכניס אתה לחופה ונותן נדוניא… אבל אחר כך? אחר כך אתה עובר על “ואל תצדק הרבה”… לוקח אתה את הנדוניא בחזרה ומניחה בעסקים… איש מוצלח אתה, ורוצה אתה, שיצליחו אחרים על ידך!…
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2387,7 +2387,7 @@
       : וזהו מעשה רע?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2398,7 +2398,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2409,7 +2409,7 @@
       אמי, אני יראה. זהו אדם רע. מבשׂר רע, מתנבא לרע…
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2421,7 +2421,7 @@
       אנחנו מתנגדים! בנו אין “הגבאים” האלו שולטים.
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2429,7 +2429,7 @@
       : אני יראה. לבי אומר לי… לבי מפעם מאד… אמי, לבי אומר לי, שצריך שיסע בעלי לשם… בלי ספק גם אביו הצדיק כועס. על בנו, עלינו… בכל זאת הלא צדיק הוא. אמי, צריך שיסע!…
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2440,7 +2440,7 @@
       .
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2448,7 +2448,7 @@
       : ביקשתי… הרבה ביקשתי… בליל הסער בכיתי לפניו הרבה בכי… יראתי מאד. כמדומה היה לי, שבגללו הסער… קמתי והתחננתי לפניו…
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2459,7 +2459,7 @@
       והוא?… הלא, כמדומה לי, אהובה אַתּ?
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2467,7 +2467,7 @@
       : מאד, מאד, אמי… אבל בדבר הזה לא ישׂא פני… הוא אומר, שאינו יכול להיות יהודי טוב… שהיהדות שלו אינה נותנת לו להיות יהודי טוב… ואני איני מבינה זאת… איני מבינה לא דבר ולא חצי דבר… הלא, אדרבה – היהדות!
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2475,7 +2475,7 @@
       : ולא ביאר לך?
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2491,7 +2491,7 @@
       אבל אני רוצה גם כן – להבין!
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2499,7 +2499,7 @@
       : דומי, דומי… הם מדברים… אשה אינה צריכה להפריע את הגברים בדברם…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2514,7 +2514,7 @@
       השולחן כבר נערך. קרובים וקרובות באים בזה אחר זה, וגם בחבורה.  מברכים אלו את אלו. נשים מנשקות את חוָה.  גברים מברכים זה את זה מרחוק. הקרובים מברכים את גבריאל וחוָה בהכנעה ובחבּה.
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2525,7 +2525,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2539,7 +2539,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2550,7 +2550,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2562,7 +2562,7 @@
       ומי יזמר?
      </p>
     </sp>
-    <sp who="krub '">
+    <sp who="#krub '">
      <speaker>
       קרוב א'
      </speaker>
@@ -2570,7 +2570,7 @@
       : משה יזמר. היה בברדישטוב.  הביא!
      </p>
     </sp>
-    <sp who="hkrub mshh">
+    <sp who="#hkrub mshh">
      <speaker>
       הקרוב משה
      </speaker>
@@ -2578,7 +2578,7 @@
       : אבל איני זוכר היטב!
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -2586,7 +2586,7 @@
       : אין מסרבין! אשתך ספּרה לי, שהנגוּן הפלא ופלא!
      </p>
     </sp>
-    <sp who="krub g'">
+    <sp who="#krub g'">
      <speaker>
       קרוב ג'
      </speaker>
@@ -2594,7 +2594,7 @@
       : גם אשתי שמעה, סלסול יפה להלל.
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2605,7 +2605,7 @@
       , הנמשך מעט גם אחר ההפסק).
      </p>
     </sp>
-    <sp who="krub d'">
+    <sp who="#krub d'">
      <speaker>
       קרוב ד'
      </speaker>
@@ -2613,7 +2613,7 @@
       : בּראַבוֹ, יוסילה, בּראַבוֹ!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2623,7 +2623,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2631,7 +2631,7 @@
       : עכשיו, ר' ישׂראל, צריך אתה לומר תורה! או אולי יאמר חתני?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2639,7 +2639,7 @@
       : איני יכול! באמת איני יכול…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2654,7 +2654,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yusilh">
+    <sp who="#yusilh">
      <speaker>
       יוסילה
      </speaker>
@@ -2664,7 +2664,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2675,7 +2675,7 @@
       הבן יקיר שלי… הוא יהיה לצדיק… בלי ספק! בעזרת השם! התורה מושכת אותו!
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2683,7 +2683,7 @@
       : הס!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2695,7 +2695,7 @@
       והעולם מזדעזע ונוטה לצד שׂמאל, ורוצה להעקר ולפּול לגיהנום… נמצא, שהעולם אין לו יסוד קיים, שהארץ תלויה על בלימה… כל ריק ופוחז יכול להחריב את העולם, – כל מי שנכנסה בו רוח שטות… אבל “עולם חסד יבּנה”… הקב“ה הוא ארך אפים… “כי לא אחפוץ במות המת”… ומה עושׂה הקב”ה? הלא התורה מחייבת מיתה? הוא מוסר את ההנהגה בידי הצדיק. כשאדם מישׂראל עובר עבירה ונעשׂה קטרוּג, מי מתייצב הצדיק האמיתי ואומר: “אל ארך אפים, חכה עד שיעשׂה אדם מישׂראל מצוָה… אנחנו – אומר הצדיק – בוטחים בך, מן הדין שתבטח גם בנו! מעט בטחון, רבונו של עולם!… מובטח אני, שתיכף ומיד יעשׂה איש מישׂראל מצוָה!” והדא הוא דכתיב: “וצדיק יסוד עולם”!
      </p>
     </sp>
-    <sp who="kulus">
+    <sp who="#kulus">
      <speaker>
       קולות
      </speaker>
@@ -2706,7 +2706,7 @@
       אַי! אַי!
      </p>
     </sp>
-    <sp who="khdim">
+    <sp who="#khdim">
      <speaker>
       אחדים
      </speaker>
@@ -2714,7 +2714,7 @@
       : מתוק מדבש!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2752,7 +2752,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2763,7 +2763,7 @@
       אמי… הנבואה הרעה נתקיימה…
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2771,7 +2771,7 @@
       : אסתר! אסור! שבת היום!
      </p>
     </sp>
-    <sp who="krubim">
+    <sp who="#krubim">
      <speaker>
       קרובים
      </speaker>
@@ -2782,7 +2782,7 @@
       איה השליח? איהו?
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2808,7 +2808,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krub '">
+    <sp who="#krub '">
      <speaker>
       קרוב א'
      </speaker>
@@ -2816,7 +2816,7 @@
       : צריך לפתחו!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2827,7 +2827,7 @@
       שבת!
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -2835,7 +2835,7 @@
       : אבל סכנת נפשות!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2849,7 +2849,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krub '">
+    <sp who="#krub '">
      <speaker>
       קרוב א'
      </speaker>
@@ -2857,7 +2857,7 @@
       : רב! חשׂוך את התמימות ליום אחר, ר' גבריאל! י לי אשה וילדים, ומדומה לי, שהם צפים על פני הבּוּג, מגל אל גל… פתח את המכתב!
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -2865,7 +2865,7 @@
       : ואיה הערל, השליח? צריך לשאלו.
      </p>
     </sp>
-    <sp who="krub g'">
+    <sp who="#krub g'">
      <speaker>
       קרוב ג'
      </speaker>
@@ -2873,7 +2873,7 @@
       : שכור הוא. אי אפשר להוציא מפיו אפילו הברה אחת…
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2885,7 +2885,7 @@
       יש אלהים בשמים! ואם, חס ושלום – – ה' נתן וה' לקח… יהי שם השם מבורך!… ר' ישׂראל!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -2895,7 +2895,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -2909,7 +2909,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krub g'">
+    <sp who="#krub g'">
      <speaker>
       קרוב ג'
      </speaker>
@@ -2920,7 +2920,7 @@
       יש… יש כוכב אחד!
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -2932,7 +2932,7 @@
       תנו כלי הבדלה!
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2943,7 +2943,7 @@
       אסתר שלי… ביד אלהים אנחנו… נאמר “אלהי אברהם”…
      </p>
     </sp>
-    <sp who="khuָh ussr">
+    <sp who="#khuָh ussr">
      <speaker>
       חוָה ואסתר
      </speaker>
@@ -2953,7 +2953,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -2971,7 +2971,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -2979,7 +2979,7 @@
       : חמסנים, רוצחים!
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -2989,7 +2989,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yusilh">
+    <sp who="#yusilh">
      <speaker>
       יוסילה
      </speaker>
@@ -3000,7 +3000,7 @@
       אמי! אמי!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -3010,7 +3010,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yusilh">
+    <sp who="#yusilh">
      <speaker>
       יוסילה
      </speaker>
@@ -3033,7 +3033,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nshim">
+    <sp who="#nshim">
      <speaker>
       נשים
      </speaker>
@@ -3041,7 +3041,7 @@
       : אללי לנו…
      </p>
     </sp>
-    <sp who="gbrim">
+    <sp who="#gbrim">
      <speaker>
       גברים
      </speaker>
@@ -3146,7 +3146,7 @@
       כל השלשלת, כל השלשלת!
      </p>
     </sp>
-    <sp who="krub '">
+    <sp who="#krub '">
      <speaker>
       קרוב א'
      </speaker>
@@ -3154,7 +3154,7 @@
       : לא עת צעוק! כספנו! הרמאי הזה אכל את כספנו!…
      </p>
     </sp>
-    <sp who="krub b'">
+    <sp who="#krub b'">
      <speaker>
       קרוב ב'
      </speaker>
@@ -3162,7 +3162,7 @@
       : מסר אותנו ביד הגלים…
      </p>
     </sp>
-    <sp who="krub '">
+    <sp who="#krub '">
      <speaker>
       קרוב א'
      </speaker>
@@ -3172,7 +3172,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krubh '">
+    <sp who="#krubh '">
      <speaker>
       קרובה א'
      </speaker>
@@ -3186,7 +3186,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krubh b'">
+    <sp who="#krubh b'">
      <speaker>
       קרובה ב'
      </speaker>
@@ -3194,7 +3194,7 @@
       : והמרגליות!
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -3205,7 +3205,7 @@
       גזלנית, חמסנית!
      </p>
     </sp>
-    <sp who="gbril">
+    <sp who="#gbril">
      <speaker>
       גבריאל
      </speaker>
@@ -3216,7 +3216,7 @@
       חוָה, אל תצעקי! ה' נתן וה' לקח! כשהכרתיך, לא היו לך לא עגילים ולא מרגליות… אסתר, תני גם אַתּ… הכול שלהם…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3230,7 +3230,7 @@
       ?
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -3243,7 +3243,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yusilh">
+    <sp who="#yusilh">
      <speaker>
       יוסילה
      </speaker>
@@ -3253,7 +3253,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -3263,7 +3263,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khuָh">
+    <sp who="#khuָh">
      <speaker>
       חוָה
      </speaker>
@@ -3277,7 +3277,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3292,7 +3292,7 @@
       אל תבכי, נא אל תבכי, למענך אעשׂה… אני אסע, אנחנו נסע לשם, נסע! עוד היום!
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3306,7 +3306,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3316,7 +3316,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -3324,7 +3324,7 @@
       אשתו.
      </p>
     </sp>
-    <sp who="khsid">
+    <sp who="#khsid">
      <speaker>
       חסיד
      </speaker>
@@ -3340,7 +3340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mkum hmerkhh">
+    <sp who="#mkum hmerkhh">
      <speaker>
       מקום המערכה
      </speaker>
@@ -3350,7 +3350,7 @@
     </sp>
    </div>
    <div>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3365,7 +3365,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3376,7 +3376,7 @@
       אמרתי: “לא יסור”, והנה סר… הקיר נוטה לנפול, ואני זקנתי ולא אתמוך בו עוד. חוט השדרה נפגע… מסביב – ראשית חורבן… מרה שחורה… כמדומה לי, שאין עוד כאן אנשים וחפצים. אלא צללי אנשים, צללי חפצים.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3387,7 +3387,7 @@
       בזה צדק.
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3395,7 +3395,7 @@
       : הנה פרי העץ, ששתלתי בהגן-עדן… קלפּה – וגרעין אין… נבוב הוא… נאכל תוכו… הוא אומר: יתוש מנקר…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3403,7 +3403,7 @@
       : אך למה אתה אומר גן-עדן? – גיהנום בכאן…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3411,7 +3411,7 @@
       : היה גן עדן, אך התגנב בו הנחש. מצא פתח פתוח, חלון פתוח – והתגנב. ונהפך הגן-עדן לגיהנום…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3419,7 +3419,7 @@
       : ומה אתה רוצה, ישׂראל?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3427,7 +3427,7 @@
       : מה אני רוצה? רוצה אני לנסוע לארץ ישׂראל – הכסא מתמוטט, ושוב אין צורך בהדום רגלים…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3435,7 +3435,7 @@
       : מעולם לא היית הדום הרגלים… אתה היית תמיד המשפיע, המושל בחשאי, הנחש המסית…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3443,7 +3443,7 @@
       : כן, כן… אבל לא למעני. ועתה די לי.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3451,7 +3451,7 @@
       : סע. להוצאות הדרך קבּצת, כמדומה לי…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3462,7 +3462,7 @@
       אחיה של הרבנית הזקנה שלח הנה שליח מיוחד.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3470,7 +3470,7 @@
       : אל מי?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3478,7 +3478,7 @@
       : אל המתים. אתמול היה כאן.  לקח את הדיין והלך עמו אל בית-העלמין. הקיש במקלו של הצדיק על הקברים… כל העיר היתה באותו מעמד. הקיש והודיע, שאם יצטרך איזה מת לתקוּן, אַל ילך אֶל ר' יונתן, שנתפקר…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3486,7 +3486,7 @@
       : אלא אל ר' פינחס, שלא נתפקר עוד…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3494,7 +3494,7 @@
       : שלא יתפקר לעולם…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3505,7 +3505,7 @@
       , אך לא בי… בי אני מסופק מאד…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3516,7 +3516,7 @@
       עוד פעם היתוש… הכול מיד היתוש…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3524,7 +3524,7 @@
       : אתה יתוש רע מן הספק עצמו…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3535,7 +3535,7 @@
       והיום כעלות השחר יצא מכאן הפרוש האחרון. אמר, שיש לו חוש הריח, שיש לו חוטם, והוא רואה, שנסתלקה השכינה מכאן.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3543,7 +3543,7 @@
       : כלומר, שאין הרבה משלמים בעד כתיבת פתקאות…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3554,7 +3554,7 @@
       עוד ישנם… משלמים עוד! גם היום יבואו…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3562,7 +3562,7 @@
       : ואני החלטתי להגיד את האמת.
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3570,7 +3570,7 @@
       : עשׂו כחפצכם. אתמול היתה אספה בבית הרב… בני העיר רוצים להביא צדיק אחר. החסידים נתמעטו, הפרנסה נתדלדלה, האכסניות ריקות…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3578,7 +3578,7 @@
       : והיין החמיץ…
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3586,7 +3586,7 @@
       : החמיץ – מישהו אחר…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3594,7 +3594,7 @@
       : ואת מי הם רוצים להביא?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3602,7 +3602,7 @@
       : לא באו לידי החלטה. הרב מסרב.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3610,7 +3610,7 @@
       : הוא עומד בצדי? זכות אבותי?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -3618,7 +3618,7 @@
       : לאו דוקא. הוא רוצה בעצמו… רבים רוצים לקרוע את המלוכה… יעשׂו… יקרעו. אלך ואסדר קבלת פנים… אולי בפעם האחרונה.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3633,7 +3633,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3643,7 +3643,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3651,7 +3651,7 @@
       : שלום עליכם!
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3659,7 +3659,7 @@
       : עליכם שלום, רבי. באתי לשאול בעצתכם. חסיד ישן אני, מחסידי אביכם, זצ"ל…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3669,7 +3669,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3680,7 +3680,7 @@
       יעשׂו שלום ביניהם…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3688,7 +3688,7 @@
       : ומאין לי לדעת?
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3696,7 +3696,7 @@
       : ומאין לי לדעת? הלא על כן צדיק אתם… שאלו ויאמרו לכם…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3707,7 +3707,7 @@
       לי לדעת? אתה סוחר ואינך יודע, ואני, החי בד' אמות של ספרים, מהיכן אדע? אני לומד קדשים, טהרות, הלכות מליחה… אני יודע פשתן ודגן לענין תרומות ומעשׂרות. מעולם לא ראיתי לא פשתן ולא דגן בשׂדה… איני עוסק בהוָיות העולם, ב“פּוליטיק”…
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3715,7 +3715,7 @@
       : רבי, אל תשטו בי… גם אביכם בסוף ימיו אהב להתלוצץ בנו, והיה אומר: לכו לחיים ולשלום, איני יודע! ובכל זאת… לא הגיד כלום והגיד הרבה… ומי שהיה לו אוזן לבחון – נתעשר… רבי…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3723,7 +3723,7 @@
       : באמונה שלי, שאיני יודע… כמו שאני חי ויושב לפניך!
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3734,7 +3734,7 @@
       איני יודע!
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3742,7 +3742,7 @@
       : אם אינך יודע, אל תקנה.
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3765,7 +3765,7 @@
       ואוסיף, כמספר דגן או כמספר פשתן?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3776,7 +3776,7 @@
       רב! לא לכספך אני צריך… אם מוכרח אתה לקנות, קנה!
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3788,7 +3788,7 @@
       דגן או פשתן?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3796,7 +3796,7 @@
       : דגן ופשתן יחדיו!
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3804,7 +3804,7 @@
       : אבל לזה אין לי די כסף!
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3812,7 +3812,7 @@
       : קח לך שותף, אך לך לך…
      </p>
     </sp>
-    <sp who="khsid sukhr">
+    <sp who="#khsid sukhr">
      <speaker>
       חסיד סוחר
      </speaker>
@@ -3830,7 +3830,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shh">
+    <sp who="#shh">
      <speaker>
       אשה
      </speaker>
@@ -3841,7 +3841,7 @@
       רבי…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3849,7 +3849,7 @@
       : ואת מה לך?
      </p>
     </sp>
-    <sp who="hshh">
+    <sp who="#hshh">
      <speaker>
       האשה
      </speaker>
@@ -3857,7 +3857,7 @@
       : אשת קשת רוח אנוכי… קשת רוח מאד… ואם לא תצילו אותי, רבי, איני יודעת – בחבל או במים.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3865,7 +3865,7 @@
       : אבל מה לך?
      </p>
     </sp>
-    <sp who="hshh">
+    <sp who="#hshh">
      <speaker>
       האשה
      </speaker>
@@ -3873,7 +3873,7 @@
       : רבי, קולכם הרוגז מנבּא לי… כל מלה ומלה דוקרת אותי כמחט… רבי, חוסו עלי! הלא לא אני האשמה… הלא אשה אני… כלום אני יכולה לדעת במה הוא מעיין? הלא איני יודעת יותר מן ה“צאני וראינה”… וגם בעלי, האמת נתּנה להאמר, אינו אשם… סוחר, בא משבת לשבת וראשו סחרחר… והבחור – מוח נפלא… ויפה הוא… רבונו של עולם, כל הנשים היו מתקנאות בי… גם צירל הגבירה התקנאה בי. חמשים דפים בעל פה! עד שבא אותו רשע והשׂיאו לדבר אחר… ואני לא ידעתי. רבי, נשבעת אני! אם רוצים אתם, אשבע בנקיטת חפץ, הן שם ספר תורה, שאני לא ידעתי; בחלום לא ראיתי… שש מאות אדומים הבטיחו לו… מתנות… שלוש שנים מזונות מן המוכן, כל טוב… רבי, הצילו אותי מכף האפיקורס… רבי, אתם מחשים? אין להציל עוד? רבי, אני מתעלפת, אני מתה לעיניכם!…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3888,7 +3888,7 @@
       אשה, הרגעי, שובי לביתך… השתדלו באהבה… השיבי לבך אל בנך, הלא בנך הוא… אולי… אולי ירחם… לכי לחיים ולשלום… לכי לך, לחיים ולשלום!…
      </p>
     </sp>
-    <sp who="hshh">
+    <sp who="#hshh">
      <speaker>
       האשה
      </speaker>
@@ -3905,7 +3905,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -3931,7 +3931,7 @@
       יהיה יתום, יתום גדול… רבי, הלא אין זה חטא, שאהבנו זה את זה… איני יכולה למות ולהיות אפילו בהגן-עדן בלעדיו… ומה יעשׂה הוא פה?…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3941,7 +3941,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -3952,7 +3952,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3960,7 +3960,7 @@
       : אבל, אשה! מי אמר? מי חשב?… הרגעי, הרגעי, אשה, שובי למנוחתך…
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -3968,7 +3968,7 @@
       : יש תקוָה? רבי!
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3976,7 +3976,7 @@
       : יש! יש!
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -3984,7 +3984,7 @@
       : הרבי יתפלל בעדי?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3992,7 +3992,7 @@
       : בלי ספק, בכל לב!… בכל לב ונפש!
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -4000,7 +4000,7 @@
       : רבי, ואם התפילה לא תועיל? ואם, חלילה, כבר נגזרה עלי גזרה?…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4011,7 +4011,7 @@
       לא נגזרה, חס ושלום! לא נגזרה! אי אפשר!
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -4019,7 +4019,7 @@
       : ואם ירצו לגזור, רבי – היעמוד הרבי על דעתו ולא יתן? הלא כוחכם גדול, הלא אני יודעת… כן, רבי?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4027,7 +4027,7 @@
       : כן… כן…
      </p>
     </sp>
-    <sp who="hild">
+    <sp who="#hild">
      <speaker>
       הילד
      </speaker>
@@ -4038,7 +4038,7 @@
       רבי! ואתה, רבי, אינך משטה באמי כמו הרופאים?
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4049,7 +4049,7 @@
       לא… לא, בני…
      </p>
     </sp>
-    <sp who="hild">
+    <sp who="#hild">
      <speaker>
       הילד
      </speaker>
@@ -4057,7 +4057,7 @@
       : אינך מרמה?…
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -4071,7 +4071,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4090,7 +4090,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -4098,7 +4098,7 @@
       : הביאו לכאן את האחות.
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4109,7 +4109,7 @@
       חולה?
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -4126,7 +4126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4134,7 +4134,7 @@
       : את?
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -4142,7 +4142,7 @@
       : אני… אני באתי… אני באתי לבקש הצלה… אני בין שגעון ושגעון… עוד ראשי לא בהיר, עוד לא הסתלק ממוחי עב הענן כולו… עודני לוטה בערפל… וכבר אני מרגשת, כי ענן כבד עולה עלי מחדש… עוד מעט ויתעורר בי החשק הנמרץ, התאוָה העזה לקרוא כתרנגול… כן, אחי… אני קוראת כתרנגול… כשישבתי פה מתחת, בחור המרתף, לא שמעתי ימים רבים מאומה, בלתי אם קריאת תרנגול… הקול החי האחד… והשתדלתי לחקות אותו… אחר כך נעלם הקול… נעלם… בלי ספק שחטו את התרנגול לכפרות… בלי ספק… ואני שכחתי את לשוני והשתדלתי לקרוא לכל הפחות כתרנגול… ובשעות השעמום ופחד היאוּש הייתי קוראת גברית… אחר כך הוציאוני… הביאוני הנה… על הספה הזאת ישב אבינו… ביקשתי לקרוא כתרנגול וקראתי: אבי! אך קראתי בקול נורא ואיום, בקול עולה ממעמקים, מתחת לקריאת התרנגול שבקרבי… אז התגבר קול האדם… אחר כך שכחתי הכול… ואחר כך הייתי חולה פעם אחד בחודש; אחרי כן – פעם אחת בשבוע, ועתה כמעט מדי יום ביומו… כן… הוי… אני מפחדת… התשוקה מתעורר לקרוא… הצילה! הלא אחי אתה! הלא סלחת לי…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4150,7 +4150,7 @@
       : אני? סלחתי? וכי חטאת לי? אחותי!… כלום את מאמינה בי באמת, כי באת לבקש ממני ריוח והצלחה ורפואה שלימה? אַתּ, בעלת הכוח היחידה בתוכנו, אַתּ, אשר פרצת כל גדר, אשר רמסת ברגל גאוָה את הנקדש, אַתּ אשר דבּרת רתת בשם החופש, האהבה ועוד שמות אחרים, אשר לא ינשׂאו פה על שׂפת איש… ובשם הדעת… בשם אלהים אחרים לגמרי…
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -4167,7 +4167,7 @@
       אנו שומעים… יש לי רפואה ישנה, אף-על-פי שאינה נשמרת בשידות של בית המרקחת, אף על פי שאינה כתובה בספרי המדע וההשׂכלה… יש! אי אפשר שיהא העולם קיים על פי חוקים אכזרים, חוקי ברזל ונחושת… איה הרחמים? בני הטבע אנחנו, ואם יש בנו חמלה ורחמים לעצמנו וזולתנו, יש רחמים גם להעולם, למנהיג העולם… חוסה! הצילה…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4184,7 +4184,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4199,7 +4199,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -4211,7 +4211,7 @@
       הוי, הוי, למה אתה מתמהמה, אחי? רבי, קדושי! חוסה! עוד מעט…
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4223,7 +4223,7 @@
       גם אתה, ישׂראל, מהרו שניכם, הדליקו נרות, הדליקו נרות, ולי תנו את הקיטל ואת הטלית… חיש!…
      </p>
     </sp>
-    <sp who="ssr">
+    <sp who="#ssr">
      <speaker>
       אסתר
      </speaker>
@@ -4233,7 +4233,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>
@@ -4243,7 +4243,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -4257,7 +4257,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4267,7 +4267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4291,7 +4291,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isrl">
+    <sp who="#isrl">
      <speaker>
       ישׂראל
      </speaker>
@@ -4321,7 +4321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4341,7 +4341,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="rb heir">
+    <sp who="#rb heir">
      <speaker>
       רב העיר
      </speaker>
@@ -4356,7 +4356,7 @@
       הנני מחרים ומנדה את –
      </p>
     </sp>
-    <sp who="feygilh">
+    <sp who="#feygilh">
      <speaker>
       פייגילה
      </speaker>

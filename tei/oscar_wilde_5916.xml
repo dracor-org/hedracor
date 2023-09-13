@@ -69,11 +69,6 @@
        דוכסית ברוויק
       </persName>
      </person>
-     <person xml:id="khlumr">
-      <persName>
-       כלומר
-      </persName>
-     </person>
      <person xml:id="lurd ugustus">
       <persName>
        לורד אוגוסטוס
@@ -97,6 +92,11 @@
      <person xml:id="hufir">
       <persName>
        הופיר
+      </persName>
+     </person>
+     <person xml:id="khlumr">
+      <persName>
+       כלומר
       </persName>
      </person>
      <person xml:id="lidi stutfild">
@@ -8152,7 +8152,7 @@
       מרת אירלין
      </speaker>
     </sp>
-    <sp who="khlumr">
+    <sp who="#khlumr">
      <speaker>
       כלומר
      </speaker>

@@ -49,19 +49,19 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="blt – hufeh rshunh">
+     <person xml:id="blt, hufeh rbyeis">
       <persName>
-       בלט – הופעה ראשונה
+       בלט, הופעה רביעית
       </persName>
      </person>
-     <person xml:id="herh">
+     <person xml:id="blt, mkhzh shni">
       <persName>
-       הערה
+       בלט, מחזה שני
       </persName>
      </person>
-     <person xml:id="blt rshun">
+     <person xml:id="bmerkhh shneyh">
       <persName>
-       בלט ראשון
+       במערכה שנייה
       </persName>
      </person>
      <person xml:id="hnfshus shbkumdih">
@@ -74,14 +74,9 @@
        בלט, הופעה שלישית
       </persName>
      </person>
-     <person xml:id="bmerkhh rshunh">
+     <person xml:id="blt – hufeh rshunh">
       <persName>
-       במערכה ראשונה
-      </persName>
-     </person>
-     <person xml:id="blt, hufeh rbyeis">
-      <persName>
-       בלט, הופעה רביעית
+       בלט – הופעה ראשונה
       </persName>
      </person>
      <person xml:id="hnfshus bintֶrmdih">
@@ -89,9 +84,9 @@
        הנפשות באינטֶרמדיה
       </persName>
      </person>
-     <person xml:id="blt, mkhzh shni">
+     <person xml:id="blt hufeh shneyh">
       <persName>
-       בלט, מחזה שני
+       בלט הופעה שנייה
       </persName>
      </person>
      <person xml:id="zֹs">
@@ -99,19 +94,24 @@
        זֹאת
       </persName>
      </person>
-     <person xml:id="bmerkhh shneyh">
+     <person xml:id="herh">
       <persName>
-       במערכה שנייה
+       הערה
+      </persName>
+     </person>
+     <person xml:id="bmerkhh rshunh">
+      <persName>
+       במערכה ראשונה
+      </persName>
+     </person>
+     <person xml:id="blt rshun">
+      <persName>
+       בלט ראשון
       </persName>
      </person>
      <person xml:id="bmerkhh shlishis">
       <persName>
        במערכה שלישית
-      </persName>
-     </person>
-     <person xml:id="blt hufeh shneyh">
-      <persName>
-       בלט הופעה שנייה
       </persName>
      </person>
     </listPerson>
@@ -133,7 +133,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hnfshus shbkumdih">
+   <sp who="#hnfshus shbkumdih">
     <speaker>
      הנפשות שבקומדיה
     </speaker>
@@ -198,12 +198,12 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hnfshus bintֶrmdih">
+   <sp who="#hnfshus bintֶrmdih">
     <speaker>
      הנפשות באינטֶרמדיה
     </speaker>
    </sp>
-   <sp who="bmerkhh rshunh">
+   <sp who="#bmerkhh rshunh">
     <speaker>
      במערכה ראשונה
     </speaker>
@@ -228,7 +228,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="bmerkhh shneyh">
+   <sp who="#bmerkhh shneyh">
     <speaker>
      במערכה שנייה
     </speaker>
@@ -243,7 +243,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="bmerkhh shlishis">
+   <sp who="#bmerkhh shlishis">
     <speaker>
      במערכה שלישית
     </speaker>
@@ -361,7 +361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="zֹs">
+    <sp who="#zֹs">
      <speaker>
       זֹאת
      </speaker>
@@ -6672,7 +6672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="herh">
+    <sp who="#herh">
      <speaker>
       הערה
      </speaker>
@@ -8091,7 +8091,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="blt – hufeh rshunh">
+    <sp who="#blt – hufeh rshunh">
      <speaker>
       בלט – הופעה ראשונה
      </speaker>
@@ -8291,7 +8291,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="blt hufeh shneyh">
+    <sp who="#blt hufeh shneyh">
      <speaker>
       בלט הופעה שנייה
      </speaker>
@@ -12022,7 +12022,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="blt rshun">
+    <sp who="#blt rshun">
      <speaker>
       בלט ראשון
      </speaker>
@@ -12753,7 +12753,7 @@ Postea dam hakisare,
     </sp>
     <sp>
     </sp>
-    <sp who="blt, mkhzh shni">
+    <sp who="#blt, mkhzh shni">
      <speaker>
       בלט, מחזה שני
      </speaker>
@@ -12888,7 +12888,7 @@ Postea dam hakisare,
     </sp>
     <sp>
     </sp>
-    <sp who="blt, hufeh shlishis">
+    <sp who="#blt, hufeh shlishis">
      <speaker>
       בלט, הופעה שלישית
      </speaker>
@@ -12988,7 +12988,7 @@ Postea dam hakisare,
     </sp>
     <sp>
     </sp>
-    <sp who="blt, hufeh rbyeis">
+    <sp who="#blt, hufeh rbyeis">
      <speaker>
       בלט, הופעה רביעית
      </speaker>

@@ -49,109 +49,19 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="hnshi">
+     <person xml:id="fikhl">
       <persName>
-       הנשיא
+       פיכל
       </persName>
      </person>
-     <person xml:id="shni yuetsim khrim">
+     <person xml:id="mִlְkָh">
       <persName>
-       שני יועצים אחרים
+       מִלְכָּה
       </persName>
      </person>
-     <person xml:id="duֵֹg">
+     <person xml:id="hlts">
       <persName>
-       דוֹאֵג
-      </persName>
-     </person>
-     <person xml:id="osְnַs">
-      <persName>
-       אָסְנַת
-      </persName>
-     </person>
-     <person xml:id="kֶsֶd">
-      <persName>
-       כֶּשֶׂד
-      </persName>
-     </person>
-     <person xml:id="htsilim">
-      <persName>
-       האצילים
-      </persName>
-     </person>
-     <person xml:id="mkhriz">
-      <persName>
-       מכריז
-      </persName>
-     </person>
-     <person xml:id="ִisִiֵl">
-      <persName>
-       אִיתִיאֵל
-      </persName>
-     </person>
-     <person xml:id="lֵts">
-      <persName>
-       לֵץ
-      </persName>
-     </person>
-     <person xml:id="isil">
-      <persName>
-       איתיאל
-      </persName>
-     </person>
-     <person xml:id="dug ukhshd">
-      <persName>
-       דואג וכשד
-      </persName>
-     </person>
-     <person xml:id="ish d'">
-      <persName>
-       איש ד'
-      </persName>
-     </person>
-     <person xml:id="lud">
-      <persName>
-       לוד
-      </persName>
-     </person>
-     <person xml:id="sm khlk rshun">
-      <persName>
-       תם חלק ראשון
-      </persName>
-     </person>
-     <person xml:id="yuets '">
-      <persName>
-       יועץ א'
-      </persName>
-     </person>
-     <person xml:id="sm hsfr">
-      <persName>
-       תם הספר
-      </persName>
-     </person>
-     <person xml:id="nshi hrts">
-      <persName>
-       נשיא הארץ
-      </persName>
-     </person>
-     <person xml:id="ish b'">
-      <persName>
-       איש ב'
-      </persName>
-     </person>
-     <person xml:id="rַdַּi">
-      <persName>
-       רַדַּי
-      </persName>
-     </person>
-     <person xml:id="ish '">
-      <persName>
-       איש א'
-      </persName>
-     </person>
-     <person xml:id="uַiִּkְrָ">
-      <persName>
-       וַיִּקְרָא
+       הלץ
       </persName>
      </person>
      <person xml:id="(lud, sns umshrsim)">
@@ -159,19 +69,29 @@
        (לוד, אסנת ומשרתים)
       </persName>
      </person>
-     <person xml:id="hmshrs">
+     <person xml:id="hnshi">
       <persName>
-       המשרת
+       הנשיא
       </persName>
      </person>
-     <person xml:id="sns">
+     <person xml:id="isil">
       <persName>
-       אסנת
+       איתיאל
       </persName>
      </person>
-     <person xml:id="hlts">
+     <person xml:id="gsr">
       <persName>
-       הלץ
+       גתר
+      </persName>
+     </person>
+     <person xml:id="pִikhֹl">
+      <persName>
+       פִּיכֹל
+      </persName>
+     </person>
+     <person xml:id="lud">
+      <persName>
+       לוּד
       </persName>
      </person>
      <person xml:id="sm khlk shni">
@@ -184,34 +104,9 @@
        תם חלק שלישי
       </persName>
      </person>
-     <person xml:id="yuets">
-      <persName>
-       יועץ
-      </persName>
-     </person>
-     <person xml:id="gֶּsֶr">
-      <persName>
-       גֶּתֶר
-      </persName>
-     </person>
      <person xml:id="enh">
       <persName>
        ענה
-      </persName>
-     </person>
-     <person xml:id="hmlkh">
-      <persName>
-       המלח
-      </persName>
-     </person>
-     <person xml:id="eֲnָh">
-      <persName>
-       עֲנָה
-      </persName>
-     </person>
-     <person xml:id="fikhl">
-      <persName>
-       פיכל
       </persName>
      </person>
      <person xml:id="khlm">
@@ -219,59 +114,9 @@
        כלם
       </persName>
      </person>
-     <person xml:id='herh ms hmu"l'>
+     <person xml:id="dug ukhshd">
       <persName>
-       הערה מאת המו"ל
-      </persName>
-     </person>
-     <person xml:id="hfkid">
-      <persName>
-       הפקיד
-      </persName>
-     </person>
-     <person xml:id="hnshi uhyuetsim">
-      <persName>
-       הנשיא והיועצים
-      </persName>
-     </person>
-     <person xml:id="mlkhh">
-      <persName>
-       מלכה
-      </persName>
-     </person>
-     <person xml:id="hshlikh">
-      <persName>
-       השליח
-      </persName>
-     </person>
-     <person xml:id="kְnַz">
-      <persName>
-       קְנַז
-      </persName>
-     </person>
-     <person xml:id="rdi">
-      <persName>
-       רדי
-      </persName>
-     </person>
-     <person xml:id="khshd">
-      <persName>
-       כשד
-      </persName>
-     </person>
-     <person xml:id="sm khlk rbyei">
-      <persName>
-       תם חלק רביעי
-      </persName>
-     </person>
-     <person xml:id="dug">
-      <persName>
-       דואג
-      </persName>
-     </person>
-     <person xml:id="ish g'">
-      <persName>
-       איש ג'
+       דואג וכשד
       </persName>
      </person>
      <person xml:id="knz">
@@ -279,19 +124,99 @@
        קנז
       </persName>
      </person>
+     <person xml:id="dug">
+      <persName>
+       דואג
+      </persName>
+     </person>
+     <person xml:id="duֵֹg">
+      <persName>
+       דוֹאֵג
+      </persName>
+     </person>
+     <person xml:id="mkhriz">
+      <persName>
+       מכריז
+      </persName>
+     </person>
+     <person xml:id="sm hsfr">
+      <persName>
+       תם הספר
+      </persName>
+     </person>
+     <person xml:id="hnshi uhyuetsim">
+      <persName>
+       הנשיא והיועצים
+      </persName>
+     </person>
+     <person xml:id="rdi">
+      <persName>
+       רדי
+      </persName>
+     </person>
+     <person xml:id="eֲnָh">
+      <persName>
+       עֲנָה
+      </persName>
+     </person>
+     <person xml:id='herh ms hmu"l'>
+      <persName>
+       הערה מאת המו"ל
+      </persName>
+     </person>
+     <person xml:id="rַdַּi">
+      <persName>
+       רַדַּי
+      </persName>
+     </person>
+     <person xml:id="osְnַs">
+      <persName>
+       אָסְנַת
+      </persName>
+     </person>
+     <person xml:id="kֶsֶd">
+      <persName>
+       כֶּשֶׂד
+      </persName>
+     </person>
+     <person xml:id="khshd">
+      <persName>
+       כשד
+      </persName>
+     </person>
      <person xml:id="lud">
       <persName>
-       לוּד
+       לוד
       </persName>
      </person>
-     <person xml:id="gsr">
+     <person xml:id="nshi hrts">
       <persName>
-       גתר
+       נשיא הארץ
       </persName>
      </person>
-     <person xml:id="yuets b'">
+     <person xml:id="shni yuetsim khrim">
       <persName>
-       יועץ ב'
+       שני יועצים אחרים
+      </persName>
+     </person>
+     <person xml:id="uַiִּkְrָ">
+      <persName>
+       וַיִּקְרָא
+      </persName>
+     </person>
+     <person xml:id="sns">
+      <persName>
+       אסנת
+      </persName>
+     </person>
+     <person xml:id="hfkid">
+      <persName>
+       הפקיד
+      </persName>
+     </person>
+     <person xml:id="hmshrs">
+      <persName>
+       המשרת
       </persName>
      </person>
      <person xml:id="hmntskh">
@@ -299,14 +224,89 @@
        המנצח
       </persName>
      </person>
-     <person xml:id="mִlְkָh">
+     <person xml:id="hshlikh">
       <persName>
-       מִלְכָּה
+       השליח
       </persName>
      </person>
-     <person xml:id="pִikhֹl">
+     <person xml:id="ish '">
       <persName>
-       פִּיכֹל
+       איש א'
+      </persName>
+     </person>
+     <person xml:id="yuets '">
+      <persName>
+       יועץ א'
+      </persName>
+     </person>
+     <person xml:id="lֵts">
+      <persName>
+       לֵץ
+      </persName>
+     </person>
+     <person xml:id="yuets b'">
+      <persName>
+       יועץ ב'
+      </persName>
+     </person>
+     <person xml:id="ִisִiֵl">
+      <persName>
+       אִיתִיאֵל
+      </persName>
+     </person>
+     <person xml:id="sm khlk rbyei">
+      <persName>
+       תם חלק רביעי
+      </persName>
+     </person>
+     <person xml:id="gֶּsֶr">
+      <persName>
+       גֶּתֶר
+      </persName>
+     </person>
+     <person xml:id="kְnַz">
+      <persName>
+       קְנַז
+      </persName>
+     </person>
+     <person xml:id="mlkhh">
+      <persName>
+       מלכה
+      </persName>
+     </person>
+     <person xml:id="sm khlk rshun">
+      <persName>
+       תם חלק ראשון
+      </persName>
+     </person>
+     <person xml:id="yuets">
+      <persName>
+       יועץ
+      </persName>
+     </person>
+     <person xml:id="ish b'">
+      <persName>
+       איש ב'
+      </persName>
+     </person>
+     <person xml:id="htsilim">
+      <persName>
+       האצילים
+      </persName>
+     </person>
+     <person xml:id="ish g'">
+      <persName>
+       איש ג'
+      </persName>
+     </person>
+     <person xml:id="hmlkh">
+      <persName>
+       המלח
+      </persName>
+     </person>
+     <person xml:id="ish d'">
+      <persName>
+       איש ד'
       </persName>
      </person>
     </listPerson>
@@ -330,7 +330,7 @@
  <text>
   <body>
    <div>
-    <sp who="nshi hrts">
+    <sp who="#nshi hrts">
      <speaker>
       נשיא הארץ
      </speaker>
@@ -338,7 +338,7 @@
       בוינעציא Duke
      </p>
     </sp>
-    <sp who="pִikhֹl">
+    <sp who="#pִikhֹl">
      <speaker>
       פִּיכֹל
      </speaker>
@@ -346,7 +346,7 @@
       יועץ בשער המדינה Brabantio
      </p>
     </sp>
-    <sp who="shni yuetsim khrim">
+    <sp who="#shni yuetsim khrim">
      <speaker>
       שני יועצים אחרים
      </speaker>
@@ -354,7 +354,7 @@
       Senators
      </p>
     </sp>
-    <sp who="gֶּsֶr">
+    <sp who="#gֶּsֶr">
      <speaker>
       גֶּתֶר
      </speaker>
@@ -362,7 +362,7 @@
       אחי פיכל Gratiano
      </p>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוּד
      </speaker>
@@ -370,7 +370,7 @@
       מודע לפיכל Lodovico
      </p>
     </sp>
-    <sp who="ִisִiֵl">
+    <sp who="#ִisִiֵl">
      <speaker>
       אִיתִיאֵל
      </speaker>
@@ -378,7 +378,7 @@
       הכושי Othello the Moor
      </p>
     </sp>
-    <sp who="kֶsֶd">
+    <sp who="#kֶsֶd">
      <speaker>
       כֶּשֶׂד
      </speaker>
@@ -386,7 +386,7 @@
       פקידו Cassio
      </p>
     </sp>
-    <sp who="duֵֹg">
+    <sp who="#duֵֹg">
      <speaker>
       דוֹאֵג
      </speaker>
@@ -394,7 +394,7 @@
       נושא דגלו Jago
      </p>
     </sp>
-    <sp who="rַdַּi">
+    <sp who="#rַdַּi">
      <speaker>
       רַדַּי
      </speaker>
@@ -402,7 +402,7 @@
       אחד מאצילי ווינעציא Roderigo
      </p>
     </sp>
-    <sp who="kְnַz">
+    <sp who="#kְnַz">
      <speaker>
       קְנַז
      </speaker>
@@ -410,7 +410,7 @@
       הנציב באי כפתור לפני בוא איתיאל Montano
      </p>
     </sp>
-    <sp who="lֵts">
+    <sp who="#lֵts">
      <speaker>
       לֵץ
      </speaker>
@@ -418,7 +418,7 @@
       משרת לאיתיאל Clown
      </p>
     </sp>
-    <sp who="mkhriz">
+    <sp who="#mkhriz">
      <speaker>
       מכריז
      </speaker>
@@ -426,7 +426,7 @@
       Herald
      </p>
     </sp>
-    <sp who="osְnַs">
+    <sp who="#osְnַs">
      <speaker>
       אָסְנַת
      </speaker>
@@ -434,7 +434,7 @@
       בת פיכל אשת איתיאל Desdemona
      </p>
     </sp>
-    <sp who="mִlְkָh">
+    <sp who="#mִlְkָh">
      <speaker>
       מִלְכָּה
      </speaker>
@@ -442,7 +442,7 @@
       אשת דואג Emilia
      </p>
     </sp>
-    <sp who="eֲnָh">
+    <sp who="#eֲnָh">
      <speaker>
       עֲנָה
      </speaker>
@@ -464,7 +464,7 @@
    <div>
    </div>
    <div>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -484,7 +484,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -504,7 +504,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -514,7 +514,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -654,7 +654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -664,7 +664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -704,7 +704,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -714,7 +714,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -829,7 +829,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -844,7 +844,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -874,7 +874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -884,7 +884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -899,7 +899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -909,7 +909,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -941,7 +941,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -951,7 +951,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -961,7 +961,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -971,7 +971,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -981,7 +981,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1033,7 +1033,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1043,7 +1043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1053,7 +1053,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1063,7 +1063,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1073,7 +1073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1103,7 +1103,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1113,7 +1113,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1128,7 +1128,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1138,7 +1138,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1153,7 +1153,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1163,7 +1163,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1203,7 +1203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1213,7 +1213,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1233,7 +1233,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1243,7 +1243,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1253,7 +1253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1263,7 +1263,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1353,7 +1353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1381,7 +1381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1461,7 +1461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1516,7 +1516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1526,7 +1526,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1556,7 +1556,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1566,7 +1566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1586,7 +1586,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -1601,7 +1601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -1631,7 +1631,7 @@
     </sp>
    </div>
    <div>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1656,7 +1656,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1666,7 +1666,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1716,7 +1716,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1788,7 +1788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1803,7 +1803,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1823,7 +1823,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1833,7 +1833,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1848,7 +1848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -1863,7 +1863,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1873,7 +1873,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -1918,7 +1918,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -1941,7 +1941,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -1951,7 +1951,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1966,7 +1966,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -1976,7 +1976,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1986,7 +1986,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -1999,7 +1999,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -2009,7 +2009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -2019,7 +2019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -2036,7 +2036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -2051,7 +2051,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -2061,7 +2061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -2071,7 +2071,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2088,7 +2088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -2098,7 +2098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -2123,7 +2123,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2223,7 +2223,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -2253,7 +2253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2268,7 +2268,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -2293,7 +2293,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -2313,7 +2313,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2360,7 +2360,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2375,7 +2375,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -2390,7 +2390,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2400,7 +2400,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets b'">
+    <sp who="#yuets b'">
      <speaker>
       יועץ ב'
      </speaker>
@@ -2425,7 +2425,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2456,7 +2456,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -2466,7 +2466,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2476,7 +2476,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלח
      </speaker>
@@ -2491,7 +2491,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2501,7 +2501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -2571,7 +2571,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2581,7 +2581,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -2591,7 +2591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -2611,7 +2611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -2626,7 +2626,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -2651,7 +2651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2666,7 +2666,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -2676,7 +2676,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2686,7 +2686,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -2703,7 +2703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2731,7 +2731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2771,7 +2771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2781,7 +2781,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2791,7 +2791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets">
+    <sp who="#yuets">
      <speaker>
       יועץ
      </speaker>
@@ -2801,7 +2801,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2836,7 +2836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2866,7 +2866,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2886,7 +2886,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi uhyuetsim">
+    <sp who="#hnshi uhyuetsim">
      <speaker>
       הנשיא והיועצים
      </speaker>
@@ -2896,7 +2896,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -2909,7 +2909,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -2919,7 +2919,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3009,7 +3009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -3089,7 +3089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3109,7 +3109,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -3139,7 +3139,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3169,7 +3169,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3179,7 +3179,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3210,7 +3210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3220,7 +3220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3463,7 +3463,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3493,7 +3493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -3523,7 +3523,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -3568,7 +3568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -3623,7 +3623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3678,7 +3678,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -3738,7 +3738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3783,7 +3783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3823,7 +3823,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3833,7 +3833,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -3843,7 +3843,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -3853,7 +3853,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -3878,7 +3878,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -3888,7 +3888,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -3953,7 +3953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -4023,7 +4023,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -4043,7 +4043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -4053,7 +4053,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -4063,7 +4063,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -4073,7 +4073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -4098,7 +4098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -4118,7 +4118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshi">
+    <sp who="#hnshi">
      <speaker>
       הנשיא
      </speaker>
@@ -4143,7 +4143,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuets '">
+    <sp who="#yuets '">
      <speaker>
       יועץ א'
      </speaker>
@@ -4153,7 +4153,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fikhl">
+    <sp who="#fikhl">
      <speaker>
       פיכל
      </speaker>
@@ -4169,7 +4169,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -4205,7 +4205,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4215,7 +4215,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4225,7 +4225,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4235,7 +4235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4245,7 +4245,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4255,7 +4255,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4270,7 +4270,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4285,7 +4285,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4320,7 +4320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4340,7 +4340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4425,7 +4425,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4435,7 +4435,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4600,7 +4600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4615,7 +4615,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4675,7 +4675,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4685,7 +4685,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4695,7 +4695,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4705,7 +4705,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4715,7 +4715,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4725,7 +4725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4735,7 +4735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -4745,7 +4745,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -4876,7 +4876,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm khlk rshun">
+    <sp who="#sm khlk rshun">
      <speaker>
       תם חלק ראשון
      </speaker>
@@ -4885,7 +4885,7 @@
    <div>
    </div>
    <div>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -4895,7 +4895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish '">
+    <sp who="#ish '">
      <speaker>
       איש א'
      </speaker>
@@ -4910,7 +4910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -4945,7 +4945,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish b'">
+    <sp who="#ish b'">
      <speaker>
       איש ב'
      </speaker>
@@ -4980,7 +4980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5002,7 +5002,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish g'">
+    <sp who="#ish g'">
      <speaker>
       איש ג'
      </speaker>
@@ -5027,7 +5027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5037,7 +5037,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish g'">
+    <sp who="#ish g'">
      <speaker>
       איש ג'
      </speaker>
@@ -5062,7 +5062,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5072,7 +5072,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish g'">
+    <sp who="#ish g'">
      <speaker>
       איש ג'
      </speaker>
@@ -5092,7 +5092,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5132,7 +5132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish g'">
+    <sp who="#ish g'">
      <speaker>
       איש ג'
      </speaker>
@@ -5147,7 +5147,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5172,7 +5172,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5182,7 +5182,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5214,7 +5214,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5224,7 +5224,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish d'">
+    <sp who="#ish d'">
      <speaker>
       איש ד'
      </speaker>
@@ -5239,7 +5239,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5252,7 +5252,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish b'">
+    <sp who="#ish b'">
      <speaker>
       איש ב'
      </speaker>
@@ -5267,7 +5267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5277,7 +5277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish b'">
+    <sp who="#ish b'">
      <speaker>
       איש ב'
      </speaker>
@@ -5290,7 +5290,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5300,7 +5300,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5328,7 +5328,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish b'">
+    <sp who="#ish b'">
      <speaker>
       איש ב'
      </speaker>
@@ -5338,7 +5338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5373,7 +5373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -5383,7 +5383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5460,7 +5460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5475,7 +5475,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5490,7 +5490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5500,7 +5500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5522,7 +5522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish b'">
+    <sp who="#ish b'">
      <speaker>
       איש ב'
      </speaker>
@@ -5537,7 +5537,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -5569,7 +5569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5584,7 +5584,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5594,7 +5594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5619,7 +5619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -5629,7 +5629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5654,7 +5654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5664,7 +5664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5680,7 +5680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -5690,7 +5690,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5700,7 +5700,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5710,7 +5710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5725,7 +5725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5740,7 +5740,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5750,7 +5750,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5770,7 +5770,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5800,7 +5800,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5810,7 +5810,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5825,7 +5825,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5835,7 +5835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -5845,7 +5845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5860,7 +5860,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5880,7 +5880,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5895,7 +5895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5920,7 +5920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -5980,7 +5980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -5990,7 +5990,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6000,7 +6000,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -6020,7 +6020,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -6035,7 +6035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6095,7 +6095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -6105,7 +6105,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -6115,7 +6115,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -6132,7 +6132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -6142,7 +6142,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -6152,7 +6152,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -6202,7 +6202,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -6222,7 +6222,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -6265,7 +6265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6284,7 +6284,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -6356,7 +6356,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6394,7 +6394,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6404,7 +6404,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6549,7 +6549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6564,7 +6564,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6599,7 +6599,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6609,7 +6609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6674,7 +6674,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6684,7 +6684,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6729,7 +6729,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6739,7 +6739,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6759,7 +6759,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -6772,7 +6772,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -6902,7 +6902,7 @@
     </sp>
    </div>
    <div>
-    <sp who="mkhriz">
+    <sp who="#mkhriz">
      <speaker>
       מכריז
      </speaker>
@@ -6962,7 +6962,7 @@
     </sp>
    </div>
    <div>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -6982,7 +6982,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -6997,7 +6997,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -7037,7 +7037,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7047,7 +7047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7077,7 +7077,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7087,7 +7087,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7097,7 +7097,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7107,7 +7107,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7117,7 +7117,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7127,7 +7127,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7137,7 +7137,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7147,7 +7147,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7172,7 +7172,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7192,7 +7192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7207,7 +7207,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7232,7 +7232,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7247,7 +7247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7257,7 +7257,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7267,7 +7267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7280,7 +7280,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7353,7 +7353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7363,7 +7363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7378,7 +7378,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7424,7 +7424,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7434,7 +7434,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7459,7 +7459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7469,7 +7469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7499,7 +7499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7509,7 +7509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7519,7 +7519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7577,7 +7577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7597,7 +7597,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7622,7 +7622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7632,7 +7632,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7647,7 +7647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7657,7 +7657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7702,7 +7702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -7712,7 +7712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7725,7 +7725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7775,7 +7775,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7785,7 +7785,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7805,7 +7805,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7837,7 +7837,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7853,7 +7853,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7873,7 +7873,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -7900,7 +7900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7910,7 +7910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7920,7 +7920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7930,7 +7930,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -7940,7 +7940,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7953,7 +7953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7966,7 +7966,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7976,7 +7976,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -7986,7 +7986,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -7999,7 +7999,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8060,7 +8060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8070,7 +8070,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -8085,7 +8085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8095,7 +8095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8130,7 +8130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8190,7 +8190,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8235,7 +8235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8245,7 +8245,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8255,7 +8255,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8285,7 +8285,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -8325,7 +8325,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8380,7 +8380,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -8395,7 +8395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8530,7 +8530,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8567,7 +8567,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -8577,7 +8577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -8627,7 +8627,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8637,7 +8637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8647,7 +8647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8657,7 +8657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8682,7 +8682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8742,7 +8742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8787,7 +8787,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8802,7 +8802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8812,7 +8812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8822,7 +8822,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8852,7 +8852,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8867,7 +8867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8887,7 +8887,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8907,7 +8907,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8942,7 +8942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -8962,7 +8962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -8972,7 +8972,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9027,7 +9027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9037,7 +9037,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9047,7 +9047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9067,7 +9067,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9082,7 +9082,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9095,7 +9095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9218,7 +9218,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -9253,7 +9253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9377,7 +9377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm khlk shni">
+    <sp who="#sm khlk shni">
      <speaker>
       תם חלק שני.
      </speaker>
@@ -9386,7 +9386,7 @@
    <div>
    </div>
    <div>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9402,7 +9402,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9417,7 +9417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmntskh">
+    <sp who="#hmntskh">
      <speaker>
       המנצח
      </speaker>
@@ -9427,7 +9427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9437,7 +9437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmntskh">
+    <sp who="#hmntskh">
      <speaker>
       המנצח
      </speaker>
@@ -9447,7 +9447,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9457,7 +9457,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmntskh">
+    <sp who="#hmntskh">
      <speaker>
       המנצח
      </speaker>
@@ -9467,7 +9467,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9492,7 +9492,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmntskh">
+    <sp who="#hmntskh">
      <speaker>
       המנצח
      </speaker>
@@ -9502,7 +9502,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9522,7 +9522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmntskh">
+    <sp who="#hmntskh">
      <speaker>
       המנצח
      </speaker>
@@ -9532,7 +9532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9550,7 +9550,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9560,7 +9560,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9570,7 +9570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9595,7 +9595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -9610,7 +9610,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9628,7 +9628,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9638,7 +9638,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9663,7 +9663,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9691,7 +9691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9711,7 +9711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -9771,7 +9771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9791,7 +9791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -9806,7 +9806,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9821,7 +9821,7 @@
     </sp>
    </div>
    <div>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -9846,7 +9846,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -9856,7 +9856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -9866,7 +9866,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="htsilim">
+    <sp who="#htsilim">
      <speaker>
       האצילים
      </speaker>
@@ -9881,7 +9881,7 @@
     </sp>
    </div>
    <div>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -9896,7 +9896,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -9911,7 +9911,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -9931,7 +9931,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -9946,7 +9946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -9971,7 +9971,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -10006,7 +10006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10068,7 +10068,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -10078,7 +10078,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -10088,7 +10088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10098,7 +10098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -10113,7 +10113,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10126,7 +10126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10136,7 +10136,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10146,7 +10146,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10156,7 +10156,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10166,7 +10166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10186,7 +10186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10196,7 +10196,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10216,7 +10216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10226,7 +10226,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10261,7 +10261,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10271,7 +10271,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10291,7 +10291,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10301,7 +10301,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10311,7 +10311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10321,7 +10321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10331,7 +10331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10341,7 +10341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10351,7 +10351,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10366,7 +10366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10451,7 +10451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10466,7 +10466,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10511,7 +10511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10531,7 +10531,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10541,7 +10541,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10551,7 +10551,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -10567,7 +10567,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10587,7 +10587,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10597,7 +10597,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10607,7 +10607,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10622,7 +10622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10637,7 +10637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10652,7 +10652,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10662,7 +10662,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10672,7 +10672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10687,7 +10687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10697,7 +10697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10712,7 +10712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10722,7 +10722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10732,7 +10732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10742,7 +10742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10752,7 +10752,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10762,7 +10762,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10822,7 +10822,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10832,7 +10832,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10877,7 +10877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10892,7 +10892,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10902,7 +10902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -10917,7 +10917,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10937,7 +10937,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -10962,7 +10962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11007,7 +11007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11022,7 +11022,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11072,7 +11072,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11082,7 +11082,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11117,7 +11117,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11127,7 +11127,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11142,7 +11142,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11152,7 +11152,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11187,7 +11187,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11197,7 +11197,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11222,7 +11222,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11327,7 +11327,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11397,7 +11397,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11407,7 +11407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11427,7 +11427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11437,7 +11437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11467,7 +11467,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11477,7 +11477,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11487,7 +11487,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11497,7 +11497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11532,7 +11532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11542,7 +11542,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11567,7 +11567,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11582,7 +11582,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11597,7 +11597,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11607,7 +11607,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11667,7 +11667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11692,7 +11692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11705,7 +11705,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11725,7 +11725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11795,7 +11795,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11805,7 +11805,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -11818,7 +11818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11950,7 +11950,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -11970,7 +11970,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -11980,7 +11980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -11995,7 +11995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12005,7 +12005,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -12020,7 +12020,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12042,7 +12042,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -12055,7 +12055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12116,7 +12116,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12126,7 +12126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12136,7 +12136,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12146,7 +12146,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12156,7 +12156,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12166,7 +12166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12181,7 +12181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12191,7 +12191,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12206,7 +12206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12216,7 +12216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12236,7 +12236,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12246,7 +12246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12261,7 +12261,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12274,7 +12274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -12289,7 +12289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12364,7 +12364,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12374,7 +12374,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12384,7 +12384,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12404,7 +12404,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12414,7 +12414,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12449,7 +12449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12459,7 +12459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12534,7 +12534,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12544,7 +12544,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12577,7 +12577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12587,7 +12587,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12607,7 +12607,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12617,7 +12617,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12647,7 +12647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12677,7 +12677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12687,7 +12687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12702,7 +12702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12747,7 +12747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12767,7 +12767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12777,7 +12777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12792,7 +12792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12802,7 +12802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12862,7 +12862,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12877,7 +12877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12932,7 +12932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiִּkְrָ">
+    <sp who="#uַiִּkְrָ">
      <speaker>
       וַיִּקְרָא
      </speaker>
@@ -12953,7 +12953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12963,7 +12963,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -12973,7 +12973,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -12988,7 +12988,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13003,7 +13003,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13013,7 +13013,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13033,7 +13033,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13043,7 +13043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13063,7 +13063,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13073,7 +13073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13093,7 +13093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13148,7 +13148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13158,7 +13158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13168,7 +13168,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13178,7 +13178,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13235,7 +13235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13273,7 +13273,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13298,7 +13298,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13313,7 +13313,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13338,7 +13338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -13353,7 +13353,7 @@
     </sp>
    </div>
    <div>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13363,7 +13363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13373,7 +13373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13383,7 +13383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13398,7 +13398,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13408,7 +13408,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13423,7 +13423,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13433,7 +13433,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13448,7 +13448,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13458,7 +13458,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13468,7 +13468,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13488,7 +13488,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlts">
+    <sp who="#hlts">
      <speaker>
       הלץ
      </speaker>
@@ -13506,7 +13506,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13516,7 +13516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -13526,7 +13526,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13546,7 +13546,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -13556,7 +13556,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13571,7 +13571,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -13581,7 +13581,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13604,7 +13604,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13623,7 +13623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13633,7 +13633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13643,7 +13643,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13658,7 +13658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13688,7 +13688,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13703,7 +13703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13718,7 +13718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13733,7 +13733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13743,7 +13743,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13753,7 +13753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13768,7 +13768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13778,7 +13778,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13788,7 +13788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13798,7 +13798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13808,7 +13808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13818,7 +13818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13878,7 +13878,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13888,7 +13888,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13923,7 +13923,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13933,7 +13933,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13943,7 +13943,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13953,7 +13953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13963,7 +13963,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13973,7 +13973,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -13983,7 +13983,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -13993,7 +13993,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14003,7 +14003,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14013,7 +14013,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14023,7 +14023,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14033,7 +14033,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14043,7 +14043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14063,7 +14063,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14073,7 +14073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14088,7 +14088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14098,7 +14098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14108,7 +14108,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14118,7 +14118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14138,7 +14138,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14148,7 +14148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14158,7 +14158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14171,7 +14171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14181,7 +14181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14201,7 +14201,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14226,12 +14226,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug ukhshd">
+    <sp who="#dug ukhshd">
      <speaker>
       דואג וכשד
      </speaker>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14246,7 +14246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14256,7 +14256,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14311,7 +14311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14361,7 +14361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14371,7 +14371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14381,7 +14381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14416,7 +14416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14484,7 +14484,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14499,7 +14499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14509,7 +14509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14529,7 +14529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14539,7 +14539,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -14549,7 +14549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -14569,7 +14569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14586,7 +14586,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14611,7 +14611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14641,7 +14641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14673,7 +14673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14698,7 +14698,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14728,7 +14728,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14738,7 +14738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14768,7 +14768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14778,7 +14778,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14793,7 +14793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14803,7 +14803,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14813,7 +14813,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14828,7 +14828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -14843,7 +14843,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -14865,7 +14865,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm khlk shlishi">
+    <sp who="#sm khlk shlishi">
      <speaker>
       תם חלק שלישי.
      </speaker>
@@ -14874,7 +14874,7 @@
    <div>
    </div>
    <div>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14884,7 +14884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14894,7 +14894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14904,7 +14904,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14914,7 +14914,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14929,7 +14929,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14954,7 +14954,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14969,7 +14969,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14979,7 +14979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -14989,7 +14989,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -14999,7 +14999,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15019,7 +15019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15044,7 +15044,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15054,7 +15054,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15064,7 +15064,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15089,7 +15089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15099,7 +15099,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15114,7 +15114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15124,7 +15124,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15134,7 +15134,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15144,7 +15144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15154,7 +15154,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15164,7 +15164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15174,7 +15174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15226,7 +15226,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15263,7 +15263,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15273,7 +15273,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15283,7 +15283,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15293,7 +15293,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15340,7 +15340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15350,7 +15350,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15370,7 +15370,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15385,7 +15385,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15400,7 +15400,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15410,7 +15410,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15465,7 +15465,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15475,7 +15475,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15565,7 +15565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15584,7 +15584,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15655,7 +15655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15670,7 +15670,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15692,7 +15692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15702,7 +15702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15715,7 +15715,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15725,7 +15725,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15735,7 +15735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15748,7 +15748,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15758,7 +15758,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15776,7 +15776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15791,7 +15791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15804,7 +15804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15824,7 +15824,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15837,7 +15837,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15847,7 +15847,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15857,7 +15857,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -15867,7 +15867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15880,7 +15880,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15900,7 +15900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15918,7 +15918,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15943,7 +15943,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15956,7 +15956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -15971,7 +15971,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -15999,7 +15999,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16009,7 +16009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16026,7 +16026,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16041,7 +16041,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -16086,7 +16086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16101,7 +16101,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16114,7 +16114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -16132,7 +16132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16142,7 +16142,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16152,7 +16152,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16162,7 +16162,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16172,7 +16172,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16182,7 +16182,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -16192,7 +16192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16209,7 +16209,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16219,7 +16219,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16229,7 +16229,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16239,7 +16239,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16249,7 +16249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16259,7 +16259,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16279,7 +16279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16299,7 +16299,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16309,7 +16309,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16339,7 +16339,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16349,7 +16349,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16379,7 +16379,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16389,7 +16389,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16399,7 +16399,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16409,7 +16409,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16424,7 +16424,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16439,7 +16439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16449,7 +16449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16459,7 +16459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16469,7 +16469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16479,7 +16479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16504,7 +16504,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16519,7 +16519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16529,7 +16529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16551,7 +16551,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16561,7 +16561,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16576,12 +16576,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="(lud, sns umshrsim)">
+    <sp who="#(lud, sns umshrsim)">
      <speaker>
       (לוד, אסנת ומשרתים)
      </speaker>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16591,7 +16591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16601,7 +16601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16618,7 +16618,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16635,7 +16635,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16645,7 +16645,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16655,7 +16655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16665,7 +16665,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -16675,7 +16675,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16690,7 +16690,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16700,7 +16700,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16710,7 +16710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16723,7 +16723,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16738,7 +16738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16753,7 +16753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16763,7 +16763,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16773,7 +16773,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16783,7 +16783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16793,7 +16793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16808,7 +16808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16818,7 +16818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16828,7 +16828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16838,7 +16838,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16848,7 +16848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16858,7 +16858,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16871,7 +16871,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16881,7 +16881,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16901,7 +16901,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16926,7 +16926,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16939,7 +16939,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16954,7 +16954,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16964,7 +16964,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -16974,7 +16974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -16984,7 +16984,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -16994,7 +16994,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17060,7 +17060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -17090,7 +17090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -17100,7 +17100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -17110,7 +17110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -17130,7 +17130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -17140,7 +17140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -17155,7 +17155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -17170,7 +17170,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -17195,7 +17195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -17207,7 +17207,7 @@
     </sp>
    </div>
    <div>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17217,7 +17217,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17227,7 +17227,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17237,7 +17237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17252,7 +17252,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17262,7 +17262,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17272,7 +17272,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17282,7 +17282,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17292,7 +17292,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17302,7 +17302,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17312,7 +17312,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17322,7 +17322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17367,7 +17367,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17412,7 +17412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17422,7 +17422,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17432,7 +17432,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17442,7 +17442,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17452,7 +17452,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17462,7 +17462,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17497,7 +17497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17512,7 +17512,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17522,7 +17522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17532,7 +17532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17562,7 +17562,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17572,7 +17572,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17582,7 +17582,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17592,7 +17592,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17602,7 +17602,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17637,7 +17637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17712,7 +17712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17722,7 +17722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17747,7 +17747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17757,7 +17757,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17802,7 +17802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17812,7 +17812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17822,7 +17822,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17852,7 +17852,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17862,7 +17862,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17872,7 +17872,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17882,7 +17882,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17892,7 +17892,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -17942,7 +17942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17957,7 +17957,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17967,7 +17967,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17977,7 +17977,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -17987,7 +17987,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -17997,7 +17997,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18007,7 +18007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18017,7 +18017,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18047,7 +18047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18060,7 +18060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18087,7 +18087,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18097,7 +18097,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18122,7 +18122,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18132,7 +18132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18147,7 +18147,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18157,7 +18157,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18167,7 +18167,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18177,7 +18177,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18192,7 +18192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18202,7 +18202,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18217,7 +18217,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18232,7 +18232,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18252,7 +18252,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18262,7 +18262,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18277,7 +18277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18287,7 +18287,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18312,7 +18312,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18322,7 +18322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18332,7 +18332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18387,7 +18387,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18397,7 +18397,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -18417,7 +18417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18427,7 +18427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18512,7 +18512,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18532,7 +18532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -18542,7 +18542,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18591,7 +18591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18601,7 +18601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18611,7 +18611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18641,7 +18641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18651,7 +18651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18666,7 +18666,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18676,7 +18676,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18716,7 +18716,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18726,7 +18726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18746,7 +18746,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18756,7 +18756,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18786,7 +18786,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18796,7 +18796,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18811,7 +18811,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18841,7 +18841,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18851,7 +18851,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18891,7 +18891,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18906,7 +18906,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18921,7 +18921,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18931,7 +18931,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18956,7 +18956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18966,7 +18966,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -18981,7 +18981,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -18991,7 +18991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -19051,7 +19051,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -19061,7 +19061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -19080,7 +19080,7 @@
     </sp>
    </div>
    <div>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -19090,7 +19090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -19100,7 +19100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -19110,7 +19110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19120,7 +19120,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -19135,7 +19135,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19145,7 +19145,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -19165,7 +19165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19182,7 +19182,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19192,7 +19192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19207,7 +19207,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19217,7 +19217,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19237,7 +19237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19247,7 +19247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19267,7 +19267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19277,7 +19277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19302,7 +19302,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19312,7 +19312,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19357,7 +19357,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19367,7 +19367,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19382,7 +19382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19392,7 +19392,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19402,7 +19402,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19508,7 +19508,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19550,7 +19550,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19560,7 +19560,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19580,7 +19580,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19590,7 +19590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19600,7 +19600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19610,7 +19610,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19620,7 +19620,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19635,7 +19635,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19645,7 +19645,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19655,7 +19655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19665,7 +19665,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19705,7 +19705,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19720,7 +19720,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19740,7 +19740,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19750,7 +19750,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -19845,7 +19845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -19867,7 +19867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm khlk rbyei">
+    <sp who="#sm khlk rbyei">
      <speaker>
       תם חלק רביעי.
      </speaker>
@@ -19883,7 +19883,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -19918,7 +19918,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -19928,7 +19928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -19945,7 +19945,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -19977,7 +19977,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20044,7 +20044,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20061,7 +20061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20088,7 +20088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20105,7 +20105,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20125,7 +20125,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -20135,7 +20135,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20145,7 +20145,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -20155,7 +20155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20165,7 +20165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -20219,7 +20219,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20234,7 +20234,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20244,7 +20244,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20254,7 +20254,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20264,7 +20264,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20274,7 +20274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20294,7 +20294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20311,7 +20311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20321,7 +20321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20331,7 +20331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20341,7 +20341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20351,7 +20351,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20361,7 +20361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20371,7 +20371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20381,7 +20381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20391,7 +20391,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20401,7 +20401,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20411,7 +20411,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20426,7 +20426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20436,7 +20436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20451,7 +20451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20461,7 +20461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20471,7 +20471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20481,7 +20481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20498,7 +20498,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdi">
+    <sp who="#rdi">
      <speaker>
       רדי
      </speaker>
@@ -20513,7 +20513,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20533,7 +20533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20543,7 +20543,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20553,7 +20553,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -20563,7 +20563,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20578,7 +20578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20588,7 +20588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20598,7 +20598,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20608,7 +20608,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20623,7 +20623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -20633,7 +20633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20643,7 +20643,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -20658,7 +20658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20673,7 +20673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20683,7 +20683,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20693,7 +20693,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20708,7 +20708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -20718,7 +20718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20758,7 +20758,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20768,7 +20768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20778,7 +20778,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20788,7 +20788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20803,7 +20803,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20813,7 +20813,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20830,7 +20830,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -20840,7 +20840,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20873,7 +20873,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -20883,7 +20883,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20928,7 +20928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -20938,7 +20938,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20958,7 +20958,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -20968,7 +20968,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -20991,7 +20991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -21001,7 +21001,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -21011,7 +21011,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -21021,7 +21021,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="enh">
+    <sp who="#enh">
      <speaker>
       ענה
      </speaker>
@@ -21036,7 +21036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -21046,7 +21046,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -21085,7 +21085,7 @@
     </sp>
    </div>
    <div>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21211,7 +21211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21221,7 +21221,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21231,7 +21231,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21241,7 +21241,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21251,7 +21251,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21261,7 +21261,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21276,7 +21276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21286,7 +21286,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21306,7 +21306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21316,7 +21316,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21326,7 +21326,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21336,7 +21336,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21346,7 +21346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21356,7 +21356,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21366,7 +21366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21391,7 +21391,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21401,7 +21401,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21411,7 +21411,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21421,7 +21421,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21451,7 +21451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21461,7 +21461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21471,7 +21471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21486,7 +21486,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21501,7 +21501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21516,7 +21516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21526,7 +21526,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21556,7 +21556,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21566,7 +21566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21576,7 +21576,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21601,7 +21601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21626,7 +21626,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21646,7 +21646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21656,7 +21656,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21666,7 +21666,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21676,7 +21676,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21686,7 +21686,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21696,7 +21696,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21706,7 +21706,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21721,7 +21721,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21731,7 +21731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21746,7 +21746,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21756,7 +21756,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21766,7 +21766,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21776,7 +21776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21786,7 +21786,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21796,7 +21796,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21806,7 +21806,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21816,7 +21816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21826,7 +21826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -21836,7 +21836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21849,7 +21849,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -21867,7 +21867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21897,7 +21897,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -21910,7 +21910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21920,7 +21920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -21933,7 +21933,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -21988,7 +21988,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22028,7 +22028,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22038,7 +22038,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22048,7 +22048,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22058,7 +22058,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22073,7 +22073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22083,7 +22083,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22093,7 +22093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22103,7 +22103,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22118,7 +22118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -22128,7 +22128,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22138,7 +22138,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22148,7 +22148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22163,7 +22163,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -22173,7 +22173,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22183,7 +22183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sns">
+    <sp who="#sns">
      <speaker>
       אסנת
      </speaker>
@@ -22206,7 +22206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22216,7 +22216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22226,7 +22226,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22236,7 +22236,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22246,7 +22246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22261,7 +22261,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22276,7 +22276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22286,7 +22286,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22296,7 +22296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22306,7 +22306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22321,7 +22321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22341,7 +22341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22351,7 +22351,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22361,7 +22361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22371,7 +22371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22396,7 +22396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22406,7 +22406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22426,7 +22426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22436,7 +22436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22446,7 +22446,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22461,7 +22461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22476,7 +22476,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22501,7 +22501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22511,7 +22511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22526,7 +22526,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22536,7 +22536,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22578,7 +22578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -22588,7 +22588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22603,7 +22603,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -22613,7 +22613,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22638,7 +22638,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -22658,7 +22658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22668,7 +22668,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -22678,7 +22678,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22703,7 +22703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -22718,7 +22718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22733,7 +22733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -22743,7 +22743,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22753,7 +22753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22763,7 +22763,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -22773,7 +22773,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -22783,7 +22783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22813,7 +22813,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -22823,7 +22823,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22843,7 +22843,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22856,7 +22856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22871,7 +22871,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22899,7 +22899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -22924,7 +22924,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -22964,7 +22964,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -22974,7 +22974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -22984,7 +22984,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23019,7 +23019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -23029,7 +23029,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23046,7 +23046,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23056,7 +23056,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23076,7 +23076,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -23086,7 +23086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23101,7 +23101,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -23111,7 +23111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23138,7 +23138,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23148,7 +23148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23158,7 +23158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23168,7 +23168,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23178,7 +23178,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="knz">
+    <sp who="#knz">
      <speaker>
       קנז
      </speaker>
@@ -23210,7 +23210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23235,7 +23235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhh">
+    <sp who="#mlkhh">
      <speaker>
       מלכה
      </speaker>
@@ -23283,7 +23283,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23303,7 +23303,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23318,7 +23318,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23340,7 +23340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23350,7 +23350,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23462,7 +23462,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23472,7 +23472,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23482,7 +23482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23492,7 +23492,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23519,7 +23519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23529,7 +23529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -23539,7 +23539,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23554,7 +23554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23574,7 +23574,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23594,7 +23594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23609,7 +23609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23619,7 +23619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -23629,7 +23629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23649,7 +23649,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -23664,7 +23664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23674,7 +23674,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23684,7 +23684,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23694,7 +23694,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23719,7 +23719,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23729,7 +23729,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -23739,7 +23739,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23754,7 +23754,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23774,7 +23774,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -23794,7 +23794,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23804,7 +23804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -23834,7 +23834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23877,7 +23877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -23975,7 +23975,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -23985,7 +23985,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gsr">
+    <sp who="#gsr">
      <speaker>
       גתר
      </speaker>
@@ -23995,7 +23995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="isil">
+    <sp who="#isil">
      <speaker>
       איתיאל
      </speaker>
@@ -24025,7 +24025,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khshd">
+    <sp who="#khshd">
      <speaker>
       כשד
      </speaker>
@@ -24040,7 +24040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lud">
+    <sp who="#lud">
      <speaker>
       לוד
      </speaker>
@@ -24115,12 +24115,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sm hsfr">
+    <sp who="#sm hsfr">
      <speaker>
       תם הספר.
      </speaker>
     </sp>
-    <sp who='herh ms hmu"l'>
+    <sp who='#herh ms hmu"l'>
      <speaker>
       הערה מאת המו"ל
      </speaker>

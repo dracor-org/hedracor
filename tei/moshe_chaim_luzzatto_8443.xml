@@ -78,7 +78,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="u">
+   <sp who="#u">
     <speaker>
      או
     </speaker>
@@ -1946,7 +1946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>

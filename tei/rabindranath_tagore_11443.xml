@@ -49,24 +49,39 @@
   <profileDesc>
    <particDesc>
     <listPerson>
+     <person xml:id="usnt">
+      <persName>
+       וסנטא
+      </persName>
+     </person>
      <person xml:id="ryun">
       <persName>
-       אריונא
-      </persName>
-     </person>
-     <person xml:id="khִitְrָ">
-      <persName>
-       חִיטְרָא
-      </persName>
-     </person>
-     <person xml:id="mַdַּn">
-      <persName>
-       מַדַּנא
+       אריוּנא
       </persName>
      </person>
      <person xml:id="nshi khfr">
       <persName>
        אנשי כפר
+      </persName>
+     </person>
+     <person xml:id="dud frishmn">
+      <persName>
+       דוד פרישמאן
+      </persName>
+     </person>
+     <person xml:id="mdn">
+      <persName>
+       מדנא
+      </persName>
+     </person>
+     <person xml:id="khn">
+      <persName>
+       כן
+      </persName>
+     </person>
+     <person xml:id="arְyun">
+      <persName>
+       אַרְיוּנא
       </persName>
      </person>
      <person xml:id="ֵlִim">
@@ -79,6 +94,46 @@
        מַדַּנָּא
       </persName>
      </person>
+     <person xml:id="khִitְrָ">
+      <persName>
+       חִיטְרָא
+      </persName>
+     </person>
+     <person xml:id="khitr">
+      <persName>
+       חיטרא
+      </persName>
+     </person>
+     <person xml:id="mַdַּn">
+      <persName>
+       מַדַּנא
+      </persName>
+     </person>
+     <person xml:id="uַsַּnt">
+      <persName>
+       וַסַּנטא
+      </persName>
+     </person>
+     <person xml:id="ryun">
+      <persName>
+       אריונא
+      </persName>
+     </person>
+     <person xml:id="uַsַּnְtָ">
+      <persName>
+       וַסַּנְטָא
+      </persName>
+     </person>
+     <person xml:id="nshׁi khfr">
+      <persName>
+       אנשׁי כפר
+      </persName>
+     </person>
+     <person xml:id="mַdַּnָּ uuַsַּnְtָ">
+      <persName>
+       מַדַּנָּא וּוַסַּנְטָא
+      </persName>
+     </person>
      <person xml:id="anְshֵׁi khְfָr">
       <persName>
        אַנְשֵׁי כְפָר
@@ -87,61 +142,6 @@
      <person xml:id="bni dm">
       <persName>
        בני אדם
-      </persName>
-     </person>
-     <person xml:id="ryun">
-      <persName>
-       אריוּנא
-      </persName>
-     </person>
-     <person xml:id="mַdַּnָּ uuַsַּnְtָ">
-      <persName>
-       מַדַּנָּא וּוַסַּנְטָא
-      </persName>
-     </person>
-     <person xml:id="usnt">
-      <persName>
-       וסנטא
-      </persName>
-     </person>
-     <person xml:id="khitr">
-      <persName>
-       חיטרא
-      </persName>
-     </person>
-     <person xml:id="mdn">
-      <persName>
-       מדנא
-      </persName>
-     </person>
-     <person xml:id="uַsַּnְtָ">
-      <persName>
-       וַסַּנְטָא
-      </persName>
-     </person>
-     <person xml:id="dud frishmn">
-      <persName>
-       דוד פרישמאן
-      </persName>
-     </person>
-     <person xml:id="arְyun">
-      <persName>
-       אַרְיוּנא
-      </persName>
-     </person>
-     <person xml:id="nshׁi khfr">
-      <persName>
-       אנשׁי כפר
-      </persName>
-     </person>
-     <person xml:id="uַsַּnt">
-      <persName>
-       וַסַּנטא
-      </persName>
-     </person>
-     <person xml:id="khn">
-      <persName>
-       כן
       </persName>
      </person>
     </listPerson>
@@ -184,7 +184,7 @@
      על-ידי
     </p>
    </sp>
-   <sp who="dud frishmn">
+   <sp who="#dud frishmn">
     <speaker>
      דוד פרישמאן
     </speaker>
@@ -231,7 +231,7 @@
     </sp>
    </div>
    <div>
-    <sp who="ֵlִim">
+    <sp who="#ֵlִim">
      <speaker>
       אֵלִים:
      </speaker>
@@ -252,7 +252,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bni dm">
+    <sp who="#bni dm">
      <speaker>
       בני אדם
      </speaker>
@@ -270,7 +270,7 @@
     </sp>
    </div>
    <div>
-    <sp who="khִitְrָ">
+    <sp who="#khִitְrָ">
      <speaker>
       חִיטְרָא
      </speaker>
@@ -280,7 +280,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּnָּ">
+    <sp who="#mַdַּnָּ">
      <speaker>
       מַדַּנָּא
      </speaker>
@@ -291,7 +291,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -302,7 +302,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַsַּnְtָ">
+    <sp who="#uַsַּnְtָ">
      <speaker>
       וַסַּנְטָא
      </speaker>
@@ -314,7 +314,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -324,7 +324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּnָּ">
+    <sp who="#mַdַּnָּ">
      <speaker>
       מַדַּנָּא
      </speaker>
@@ -336,7 +336,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -350,7 +350,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -361,7 +361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -374,7 +374,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -386,7 +386,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -407,7 +407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -418,7 +418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -446,7 +446,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -457,7 +457,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -481,7 +481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -493,7 +493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -522,7 +522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּn">
+    <sp who="#mַdַּn">
      <speaker>
       מַדַּנא
      </speaker>
@@ -532,7 +532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַsַּnְtָ">
+    <sp who="#uַsַּnְtָ">
      <speaker>
       וַסַּנְטָא
      </speaker>
@@ -545,7 +545,7 @@
     </sp>
    </div>
    <div>
-    <sp who="arְyun">
+    <sp who="#arְyun">
      <speaker>
       אַרְיוּנא
      </speaker>
@@ -582,7 +582,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -594,7 +594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -605,7 +605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריוּנא
      </speaker>
@@ -616,7 +616,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -626,7 +626,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריוּנא
      </speaker>
@@ -637,7 +637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -648,7 +648,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -663,7 +663,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -673,7 +673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -684,7 +684,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -695,7 +695,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -708,7 +708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -720,7 +720,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -730,7 +730,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -741,7 +741,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -751,7 +751,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -765,7 +765,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -777,7 +777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -787,7 +787,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -798,7 +798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -809,7 +809,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -820,7 +820,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -837,7 +837,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -851,7 +851,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -866,7 +866,7 @@
     </sp>
    </div>
    <div>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -884,7 +884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּnָּ uuַsַּnְtָ">
+    <sp who="#mַdַּnָּ uuַsַּnְtָ">
      <speaker>
       מַדַּנָּא וּוַסַּנְטָא
      </speaker>
@@ -894,7 +894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּnָּ">
+    <sp who="#mַdַּnָּ">
      <speaker>
       מַדַּנָּא
      </speaker>
@@ -904,7 +904,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -922,7 +922,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַsַּnְtָ">
+    <sp who="#uַsַּnְtָ">
      <speaker>
       וַסַּנְטָא
      </speaker>
@@ -932,7 +932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּnָּ">
+    <sp who="#mַdַּnָּ">
      <speaker>
       מַדַּנָּא
      </speaker>
@@ -942,7 +942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -981,7 +981,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -1004,7 +1004,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1014,7 +1014,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -1025,7 +1025,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1039,7 +1039,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -1052,7 +1052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1064,7 +1064,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="usnt">
+    <sp who="#usnt">
      <speaker>
       וסנטא
      </speaker>
@@ -1080,7 +1080,7 @@
     </sp>
    </div>
    <div>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1090,7 +1090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1102,7 +1102,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1112,7 +1112,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1124,7 +1124,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1134,7 +1134,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1144,7 +1144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1159,7 +1159,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1169,18 +1169,18 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
     </sp>
-    <sp who="khn">
+    <sp who="#khn">
      <speaker>
       כן
      </speaker>
      זה ולא אַחֵר! אך מה לנו התאונן? זה אשר טוב ליָמים סְפוּרִים, אל נא
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1194,7 +1194,7 @@
     </sp>
    </div>
    <div>
-    <sp who="uַsַּnt">
+    <sp who="#uַsַּnt">
      <speaker>
       וַסַּנטא
      </speaker>
@@ -1208,7 +1208,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mַdַּn">
+    <sp who="#mַdַּn">
      <speaker>
       מַדַּנא
      </speaker>
@@ -1224,7 +1224,7 @@
     </sp>
    </div>
    <div>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1244,7 +1244,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1254,7 +1254,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1278,7 +1278,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1296,7 +1296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1309,7 +1309,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1324,7 +1324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1335,7 +1335,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1345,7 +1345,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1360,7 +1360,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1371,7 +1371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1383,7 +1383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1401,7 +1401,7 @@
     </sp>
    </div>
    <div>
-    <sp who="mַdַּnָּ">
+    <sp who="#mַdַּnָּ">
      <speaker>
       מַדַּנָּא
      </speaker>
@@ -1411,7 +1411,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַsַּnt">
+    <sp who="#uַsַּnt">
      <speaker>
       וַסַּנטא
      </speaker>
@@ -1425,7 +1425,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1437,7 +1437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mdn">
+    <sp who="#mdn">
      <speaker>
       מדנא
      </speaker>
@@ -1449,7 +1449,7 @@
     </sp>
    </div>
    <div>
-    <sp who="anְshֵׁi khְfָr">
+    <sp who="#anְshֵׁi khְfָr">
      <speaker>
       אַנְשֵׁי כְפָר
      </speaker>
@@ -1459,7 +1459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1469,7 +1469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nshׁi khfr">
+    <sp who="#nshׁi khfr">
      <speaker>
       אנשׁי כפר
      </speaker>
@@ -1480,7 +1480,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1490,7 +1490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nshi khfr">
+    <sp who="#nshi khfr">
      <speaker>
       אנשי כפר
      </speaker>
@@ -1503,7 +1503,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1513,7 +1513,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nshi khfr">
+    <sp who="#nshi khfr">
      <speaker>
       אנשי כפר
      </speaker>
@@ -1533,7 +1533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1543,7 +1543,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1555,7 +1555,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1566,7 +1566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1576,7 +1576,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1600,7 +1600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1610,7 +1610,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1620,7 +1620,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1631,7 +1631,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1642,7 +1642,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1654,7 +1654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1670,7 +1670,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1681,7 +1681,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1697,7 +1697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1712,7 +1712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1722,7 +1722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>
@@ -1741,7 +1741,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khitr">
+    <sp who="#khitr">
      <speaker>
       חיטרא
      </speaker>
@@ -1769,7 +1769,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ryun">
+    <sp who="#ryun">
      <speaker>
       אריונא
      </speaker>

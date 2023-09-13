@@ -49,9 +49,24 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="mַkְhֵlָh">
+     <person xml:id="lֵmֹr">
       <persName>
-       מַקְהֵלָה
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="mִzְbְּkhuֹsֶikhָ">
+      <persName>
+       מִזְבְּחוֹתֶיךָ
+      </persName>
+     </person>
+     <person xml:id="dַּe">
+      <persName>
+       דַּע
+      </persName>
+     </person>
+     <person xml:id="hַgִּidu">
+      <persName>
+       הַגִּידוּ
       </persName>
      </person>
      <person xml:id="hַgֵּd">
@@ -59,14 +74,19 @@
        הַגֵּד
       </persName>
      </person>
-     <person xml:id="kְrֵyuֹn">
-      <persName>
-       קְרֵיאוֹן
-      </persName>
-     </person>
      <person xml:id="[ֵfuֹrְbuֹs]">
       <persName>
        [אֵפוֹרְבּוֹס]
+      </persName>
+     </person>
+     <person xml:id="ִisְmֵnָh">
+      <persName>
+       אִיסְמֵנָה
+      </persName>
+     </person>
+     <person xml:id="tֵirֶsִyas">
+      <persName>
+       טֵירֶסִיאַס
       </persName>
      </person>
      <person xml:id="iֹmְru">
@@ -79,54 +99,14 @@
        אַנְטִיגוֹנָה
       </persName>
      </person>
-     <person xml:id="ִisְmֵnָh">
-      <persName>
-       אִיסְמֵנָה
-      </persName>
-     </person>
-     <person xml:id="ִyuֹkַsְtָh">
-      <persName>
-       אִיוֹקַסְטָה
-      </persName>
-     </person>
-     <person xml:id="dָּbֵr">
-      <persName>
-       דָּבֵּר
-      </persName>
-     </person>
-     <person xml:id="mִzְbְּkhuֹsֶikhָ">
-      <persName>
-       מִזְבְּחוֹתֶיךָ
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
-      </persName>
-     </person>
      <person xml:id="ruֹeֵh">
       <persName>
        רוֹעֵה
       </persName>
      </person>
-     <person xml:id="hַgִּidu">
+     <person xml:id="hַgִּidָh">
       <persName>
-       הַגִּידוּ
-      </persName>
-     </person>
-     <person xml:id="hִgִּid">
-      <persName>
-       הִגִּיד
-      </persName>
-     </person>
-     <person xml:id="dַּe">
-      <persName>
-       דַּע
-      </persName>
-     </person>
-     <person xml:id="mְshָׁrֵs">
-      <persName>
-       מְשָׁרֵת
+       הַגִּידָה
       </persName>
      </person>
      <person xml:id="kֹhֵn">
@@ -134,9 +114,29 @@
        כֹּהֵן
       </persName>
      </person>
-     <person xml:id="tֵirֶsִyas">
+     <person xml:id="dָּbֵr">
       <persName>
-       טֵירֶסִיאַס
+       דָּבֵּר
+      </persName>
+     </person>
+     <person xml:id="mַkְhֵlָh">
+      <persName>
+       מַקְהֵלָה
+      </persName>
+     </person>
+     <person xml:id="hִgִּid">
+      <persName>
+       הִגִּיד
+      </persName>
+     </person>
+     <person xml:id="ִyuֹkַsְtָh">
+      <persName>
+       אִיוֹקַסְטָה
+      </persName>
+     </person>
+     <person xml:id="kְrֵyuֹn">
+      <persName>
+       קְרֵיאוֹן
       </persName>
      </person>
      <person xml:id="ֵidִipus">
@@ -144,9 +144,9 @@
        אֵידִיפּוּס
       </persName>
      </person>
-     <person xml:id="hַgִּidָh">
+     <person xml:id="mְshָׁrֵs">
       <persName>
-       הַגִּידָה
+       מְשָׁרֵת
       </persName>
      </person>
     </listPerson>
@@ -431,7 +431,7 @@
     </p>
    </sp>
    <div>
-    <sp who="ֵidִipus">
+    <sp who="#ֵidִipus">
      <speaker>
       אֵידִיפּוּס
      </speaker>
@@ -439,7 +439,7 @@
       מלך תֶּבֵּי
      </p>
     </sp>
-    <sp who="ִyuֹkַsְtָh">
+    <sp who="#ִyuֹkַsְtָh">
      <speaker>
       אִיוֹקַסְטָה
      </speaker>
@@ -447,7 +447,7 @@
       אשתו
      </p>
     </sp>
-    <sp who="anְtִiguֹnָh">
+    <sp who="#anְtִiguֹnָh">
      <speaker>
       אַנְטִיגוֹנָה
      </speaker>
@@ -455,7 +455,7 @@
       בנותיהם הקטנות
      </p>
     </sp>
-    <sp who="ִisְmֵnָh">
+    <sp who="#ִisְmֵnָh">
      <speaker>
       אִיסְמֵנָה
      </speaker>
@@ -463,7 +463,7 @@
       בנותיהם הקטנות
      </p>
     </sp>
-    <sp who="kְrֵyuֹn">
+    <sp who="#kְrֵyuֹn">
      <speaker>
       קְרֵיאוֹן
      </speaker>
@@ -471,7 +471,7 @@
       רוזן, אחי איוקסטה
      </p>
     </sp>
-    <sp who="tֵirֶsִyas">
+    <sp who="#tֵirֶsִyas">
      <speaker>
       טֵירֶסִיאַס
      </speaker>
@@ -479,7 +479,7 @@
       הרואה, עיוור ישיש
      </p>
     </sp>
-    <sp who="kֹhֵn">
+    <sp who="#kֹhֵn">
      <speaker>
       כֹּהֵן
      </speaker>
@@ -487,7 +487,7 @@
       לְזֶבְס
      </p>
     </sp>
-    <sp who="[ֵfuֹrְbuֹs]">
+    <sp who="#[ֵfuֹrְbuֹs]">
      <speaker>
       [אֵפוֹרְבּוֹס]
      </speaker>
@@ -495,7 +495,7 @@
       מלאך מִקּוֹרִינת
      </p>
     </sp>
-    <sp who="ruֹeֵh">
+    <sp who="#ruֹeֵh">
      <speaker>
       רוֹעֵה
      </speaker>
@@ -503,7 +503,7 @@
       צאנו של לַיוֹס
      </p>
     </sp>
-    <sp who="mְshָׁrֵs">
+    <sp who="#mְshָׁrֵs">
      <speaker>
       מְשָׁרֵת
      </speaker>
@@ -511,7 +511,7 @@
       בביתו של אידיפוס
      </p>
     </sp>
-    <sp who="mַkְhֵlָh">
+    <sp who="#mַkְhֵlָh">
      <speaker>
       מַקְהֵלָה
      </speaker>
@@ -588,7 +588,7 @@
       אֲבָל הַגֵּד, זָקֵן, כִּי מְאֹד לְךָ יָאֶה
      </p>
     </sp>
-    <sp who="dָּbֵr">
+    <sp who="#dָּbֵr">
      <speaker>
       דָּבֵּר
      </speaker>
@@ -619,7 +619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mִzְbְּkhuֹsֶikhָ">
+    <sp who="#mִzְbְּkhuֹsֶikhָ">
      <speaker>
       מִזְבְּחוֹתֶיךָ
      </speaker>
@@ -1199,7 +1199,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hִgִּid">
+    <sp who="#hִgִּid">
      <speaker>
       הִגִּיד
      </speaker>
@@ -3856,7 +3856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַgִּidָh">
+    <sp who="#hַgִּidָh">
      <speaker>
       הַגִּידָה
      </speaker>
@@ -5040,7 +5040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dַּe">
+    <sp who="#dַּe">
      <speaker>
       דַּע
      </speaker>
@@ -5176,7 +5176,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -7521,7 +7521,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַgִּidu">
+    <sp who="#hַgִּidu">
      <speaker>
       הַגִּידוּ
      </speaker>
@@ -9665,7 +9665,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַgֵּd">
+    <sp who="#hַgֵּd">
      <speaker>
       הַגֵּד
      </speaker>
@@ -10143,7 +10143,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iֹmְru">
+    <sp who="#iֹmְru">
      <speaker>
       יֹאמְרוּ
      </speaker>

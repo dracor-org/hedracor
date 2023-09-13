@@ -49,9 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="brhm’l">
+     <person xml:id="kul shh">
       <persName>
-       אברהמ’ל
+       קול אשה
+      </persName>
+     </person>
+     <person xml:id="zrkh">
+      <persName>
+       זרח
       </persName>
      </person>
      <person xml:id="mirl">
@@ -59,19 +64,9 @@
        מירל
       </persName>
      </person>
-     <person xml:id="kul shh">
+     <person xml:id="brhm’l">
       <persName>
-       קול אשה
-      </persName>
-     </person>
-     <person xml:id="hkudms">
-      <persName>
-       הקודמת
-      </persName>
-     </person>
-     <person xml:id="nkhmh">
-      <persName>
-       נחמה
+       אברהמ’ל
       </persName>
      </person>
      <person xml:id="mshh’l">
@@ -79,14 +74,19 @@
        משה’ל
       </persName>
      </person>
+     <person xml:id="hkudms">
+      <persName>
+       הקודמת
+      </persName>
+     </person>
      <person xml:id="lh">
       <persName>
        לאה
       </persName>
      </person>
-     <person xml:id="zrkh">
+     <person xml:id="nkhmh">
       <persName>
-       זרח
+       נחמה
       </persName>
      </person>
     </listPerson>
@@ -109,7 +109,7 @@
  <text>
   <body>
    <div>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -117,7 +117,7 @@
       אלמנת שוחט, עניה מטופלת, כבת מ'.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -133,7 +133,7 @@
       אחיותיה. משרתות.
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -141,7 +141,7 @@
       בנה הקטן של מירל; לומד תורה בחדר.
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -159,7 +159,7 @@
     </sp>
    </div>
    <div>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -169,7 +169,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -179,7 +179,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -187,7 +187,7 @@
       : הוי, כפוי טובה, הדודות אוהבות אותך כל כך, ואתה – –
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -198,7 +198,7 @@
       אבל קר לי, איני יכול להמתין עוד.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -209,7 +209,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -217,7 +217,7 @@
       : ואַת?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -229,7 +229,7 @@
       ועתה השקט…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -240,7 +240,7 @@
       אמי…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -248,7 +248,7 @@
       : ומה אתה רוצה תכשיטי, למדן שלי?…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -256,7 +256,7 @@
       : רוצה אני אל אחיותי…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -264,7 +264,7 @@
       : עוד מעט, יתומי שני… הדודות תבואנה, עלינו להוָעד ליום מחר… יודע אתה מה הוא יום מחר?
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -272,7 +272,7 @@
       : יודע אני, היאָרציי“ט של אבא ז”ל.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -280,7 +280,7 @@
       : כן, ושלשתנו נלך יחד להשתטח על הקבר… ולהתפלל…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -291,7 +291,7 @@
       גם הן – הדודות?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -299,7 +299,7 @@
       : בוַדאי…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -307,7 +307,7 @@
       : אני אלך לבדי… אשכים ואלך…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -315,7 +315,7 @@
       : יהי כן, אבל עכשיו הלא רעב אתה, מן הבוקר לא אכלת עוד… ואני אשה קשת רוח, לא השׂתכרתי היום אף פרוטה… וגם האחיות שם… רעבות, והדודות תבאנה ותביאינה דברים טובים לאכול…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -323,7 +323,7 @@
       : אני איני רעב.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -334,7 +334,7 @@
       והדודה נחמה ביקשה ממני להביאך מן החדר…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -342,7 +342,7 @@
       : בטוּל תורה לחינם…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -350,7 +350,7 @@
       : אבל היא רוצה לראותך, לנשקך…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -361,7 +361,7 @@
       אבל איני רוצה!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -369,7 +369,7 @@
       : שוטה שלי, לדודה מותר. וגם שמעה, שאתה משתעל קצת, והיא רוצה ללכת עמך אל הרופא…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -380,7 +380,7 @@
       ואני איני רוצה!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -388,7 +388,7 @@
       : וללמוד תורה אתה רוצה?
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -396,7 +396,7 @@
       : ללמוד תורה אני רוצה!…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -404,7 +404,7 @@
       : ומי ישלם שׂכר לימוד? גם היום תביאינה מעות קטנות…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -415,7 +415,7 @@
       מצוָה הבאה בעבירה!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -426,7 +426,7 @@
       מה אתה אומר?
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -434,7 +434,7 @@
       : אני יודע מה שאני אומר!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -442,7 +442,7 @@
       : מה אתה יודע?
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -450,7 +450,7 @@
       : הרבה אני יודע… איני רוצה לנבּל פי… חברי ספרו לי…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -458,7 +458,7 @@
       : אותם השקצים!
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -473,7 +473,7 @@
       איני רוצה לחכות לאותן הדודות!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -484,7 +484,7 @@
       לך כפוי טובה, לך!
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -495,7 +495,7 @@
       אבל מחר אלך לבדי אל הקבר…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -506,7 +506,7 @@
       ואמור, שיבעירו אש… אביא תפוחי אדמה…
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -517,7 +517,7 @@
       אבל הלא אמרת, שלא השׂתכרת היום? היתנו לך בחנות בהקפה?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -525,7 +525,7 @@
       : לך! אין זה עסק שלך! מאשר אקח, אקח!
      </p>
     </sp>
-    <sp who="brhm’l">
+    <sp who="#brhm’l">
      <speaker>
       אברהמ’ל
      </speaker>
@@ -556,7 +556,7 @@
       אוֹי לַגָּבֶר!…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -569,7 +569,7 @@
     </sp>
    </div>
    <div>
-    <sp who="hkudms">
+    <sp who="#hkudms">
      <speaker>
       הקודמת
      </speaker>
@@ -590,7 +590,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -598,7 +598,7 @@
       : לקראתנו באה שלך!
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -609,7 +609,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -623,7 +623,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -634,7 +634,7 @@
       ערב טוב! עכּבוני הגבירות, ימח שמן…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -645,7 +645,7 @@
       אין דבר. את קול חתנך שמעתי… למה נס מפניך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -656,7 +656,7 @@
       ואיה אברהמ’ל?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -664,7 +664,7 @@
       : היה והלך; קר לו… והוא עזבך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -676,7 +676,7 @@
       נתת בעבוֹט?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -684,7 +684,7 @@
       : עטפתי את אברהמ’ל… קר היה לו.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -692,7 +692,7 @@
       : ואני כה התגעגעתי לנשקו.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -700,7 +700,7 @@
       : אבל הוא אינו רוצה… “דברים טובים” שמע עליכן מפי חבריו…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -708,7 +708,7 @@
       : ואולי מפיך.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -716,7 +716,7 @@
       : אני מחשה.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -728,7 +728,7 @@
       אבל היום, אומרת אני לך מראש, איני יכולה לשמוע את מוסרך… די לי! אזני צבות ולבי נובל בי.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -736,7 +736,7 @@
       : אוי לי, שראיתיך בכך… אוי ואבוי… ואם אני אשתוק, הישתקו שם בשמים?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -752,7 +752,7 @@
       סוכּר… תּה… שיירי אכילה… וזה התופין בשביל אברהמ’ל, שיחיה… ועוד חתיכת דונג.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -763,7 +763,7 @@
       מאין יש לך דונג?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -771,7 +771,7 @@
       : קנו דבש ולקחתי לי את הדונג.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -779,7 +779,7 @@
       : איני רוצה בזה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -787,7 +787,7 @@
       : משוגעת! הלא מחר יום הקבורה וצריך לנר-שעוָה!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -798,7 +798,7 @@
       מה אַת אומרת? נר נשמה גנוב!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -809,7 +809,7 @@
       לקחתי ולא גנבתי… ויש לי הזכות לקחת… את דמי הם מוצצים.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -817,7 +817,7 @@
       : כל מה שאינו שיירי אכילה, איני לוקחת, שומעת אַת?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -829,7 +829,7 @@
       וגם מעט כסף לשׂכר-למודו של אברהמ’ל, שיחיה… חצי רובל.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -837,7 +837,7 @@
       : מאין לקחת?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -845,7 +845,7 @@
       : סוחר בא מחוץ לארץ, התאכסן אצלנו ונסע, והשאיר לי…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -856,7 +856,7 @@
       בחינם, בלא דבר?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -871,7 +871,7 @@
       היום בבוקר, עודני ישנה – עד אחר חצות צריך היה לשרת – עודני ישנה, ובעל הבית בא… הוא ופאותיו וחוטמו הגס…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -882,7 +882,7 @@
       ומה רצה?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -893,7 +893,7 @@
       ומה רוצים הגברים?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -901,7 +901,7 @@
       : ומה עשׂית?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -922,7 +922,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -932,7 +932,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -943,7 +943,7 @@
       לאן?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -951,7 +951,7 @@
       : שם אחותך הצנועה…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -962,7 +962,7 @@
       אינך אהוּב עליה כל עיקר. לך!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -970,7 +970,7 @@
       : ומחר בבוקר נתראה?
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -988,7 +988,7 @@
       הקודמים בלי זרח
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -998,7 +998,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1009,7 +1009,7 @@
       ערב טוב.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1020,7 +1020,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1031,7 +1031,7 @@
       ואַת, אין כבודך לענות לי? ואיה אברהמ’ל?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1039,7 +1039,7 @@
       : הלך מזה, קר היה לו.
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1047,7 +1047,7 @@
       : ואני חפצתי לנשקו…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1055,7 +1055,7 @@
       : יש לך, ברוך השם, למי לנשק! אברהמ’ל אינו רוצה.
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1063,7 +1063,7 @@
       : כשיזקין – יערים…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1071,7 +1071,7 @@
       : ארורה, אל תפתחי ה לשׂטן!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1079,7 +1079,7 @@
       : דומי, גבאית!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1089,7 +1089,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1099,7 +1099,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1107,7 +1107,7 @@
       : מהרי, מהרי! הלא ידך רועדת מקוצר רוח, אין לך פנאי! כן, כן, חושי… אקח ואלך, ואפנה מקום – –
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1121,7 +1121,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1132,7 +1132,7 @@
       שובי עוד אלי, נחמה, עצובה אני…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1143,7 +1143,7 @@
       נשוב, נשוב!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1151,7 +1151,7 @@
       : בלשון רבים!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1169,7 +1169,7 @@
       הקודמות בלי נחמה.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1179,7 +1179,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1187,7 +1187,7 @@
       : שבי עוד מעט. יראה אני להשאר יחידה.
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1195,7 +1195,7 @@
       : לכי הביתה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1203,7 +1203,7 @@
       : הלכו כולם, אין איש בבית, והבדידות איומה…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1211,7 +1211,7 @@
       : עוד מעט ויבואו הם…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1222,7 +1222,7 @@
       מירל, תני לה לשאוף רוח!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1230,7 +1230,7 @@
       : כן, כן… הגיני עליה… משכי אותה אחריך אל הנהר… אַת טובעת, תצלול גם היא…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1238,7 +1238,7 @@
       : אני איני מושכת…כל איש יש לו שׂכלו שלו ורצונו שלו… צעירה היא וחפצה חיים – תחיה כאוַת נפשה – – ואני איני, חס ושלום, טובעת!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1249,7 +1249,7 @@
       אינך טובעת?! חס ושלום! מתקנאים בך! בתולה כשרה וצנועה, שדכנים דופקים על דלתותיך – – ומה יהי בסופך, לאה?!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1257,7 +1257,7 @@
       : בסופי?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1265,7 +1265,7 @@
       : כאילו אינך מבינה! חכמה שלי! ולמה אַת חיורת כסיד? ומה הכתמים האדומים על לובן פניך? ולמה צבות אשמורותיך? ולמה כה דולקות עיניך? ולמה נהלכת כצל? ומה היא ה“מרה שחורה” שלך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1276,7 +1276,7 @@
       ועל מה צריכה אני לשׂמוח? על גורלי הטוב! על ששפחה נחרפת אני ונעבדת בפרך…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1284,7 +1284,7 @@
       : אבל קודם לזה היית שׂמחה ועליזה כצפור.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1295,7 +1295,7 @@
       קודם למה?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1306,7 +1306,7 @@
       קודם שעזבך ה“ימח שמו” – הגלב!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1314,7 +1314,7 @@
       : וגם בזה אני אשמה?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1322,7 +1322,7 @@
       : לכל הפחות לא אני… אם עזבך – דברים בגו! אחרי נשיקות-חינם אין צורך בחופה וקדושין…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1337,7 +1337,7 @@
       יסורי גיהנום… מלח על פצעים חיים… שמן על האש…: מה אַת רוצה ממני, מירל! מה אַת רוצה ממני, מלאך המות שלי! חוסי עלי… שלוש אחיות… שלוש אחיות אנחנו…
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1352,7 +1352,7 @@
       ואם יתפרסם הדבר ביותר, מי יאספך, לאה?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1363,7 +1363,7 @@
       מי יאספני? האין אני עובדת? האין אני מבשלת, מנקה, מכבדת ותופרת? חס ושלום, עצלה אני, חולנית?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1378,7 +1378,7 @@
       הכול רוצים בכשרה, בצנועה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1389,7 +1389,7 @@
       מירל… הלא כך אי אפשר… אלמנה אַת וקשת-רוח… אבל לכול גבול… שלוש אחיות אנחנו… אחת אלמנה ושתי יתומות, יתומות עזובות… ונניח שאני, שאני – כמו שאת אומרת – איני כשרה כל כך, אבל – הלא אחות אַת… אחות בכירה! פגעו בי, בגדו בי, רצחוני נפש… שׂמוני, כמו שאַת אומרת – ללעג ולקלס… יצחק לו העולם… אבל אַת, את!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1399,7 +1399,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1410,7 +1410,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1421,7 +1421,7 @@
       שובי!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1432,7 +1432,7 @@
       מה אַת רוצה ממני?
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1443,7 +1443,7 @@
       שובי כרגע!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1454,7 +1454,7 @@
       למה אַת צועקת? הלא הולכת אני!
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1462,7 +1462,7 @@
       : כרגע חושי!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1472,7 +1472,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mirl">
+    <sp who="#mirl">
      <speaker>
       מירל
      </speaker>
@@ -1508,7 +1508,7 @@
     </sp>
    </div>
    <div>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1523,7 +1523,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1596,7 +1596,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1607,7 +1607,7 @@
       קרב, קרב!… יש לי מה להגיד לך, לבשׂר לך.
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1622,7 +1622,7 @@
       אבל –
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1633,7 +1633,7 @@
       אבל מה?
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1641,7 +1641,7 @@
       : פנאי אין לי… עבודה רבה שם; מחכים… רציתי אך לקנות מה לעשן.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1652,7 +1652,7 @@
       ומתוך כיסך שעל החזה נשקפות סיגריות.
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1663,7 +1663,7 @@
       כן, כן… העבודה כל-כך רבה, הראש סחרחר, ושכחתי… ועלי לשוב כרגע!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1674,7 +1674,7 @@
       כן, כן… אבל אך שתים-שלוש מילים…
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1685,7 +1685,7 @@
       אבל במטותא, בלי זלזולים… הלא שנינו אין אנו יראי שמים, ברוך השם!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1696,7 +1696,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1707,7 +1707,7 @@
       הברכה שלי… ולא שלו… ואת הנעשה אין להשיב…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1715,7 +1715,7 @@
       : ולא יותר?
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1723,7 +1723,7 @@
       : יותר אי אפשר, שני מתים אינם יוצאים במחול…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1734,7 +1734,7 @@
       לך!
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1745,7 +1745,7 @@
       אבל אני עוד אשוב אליך ונדבר עוד בזה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1756,7 +1756,7 @@
       אל תבוא!
      </p>
     </sp>
-    <sp who="mshh’l">
+    <sp who="#mshh’l">
      <speaker>
       משה’ל
      </speaker>
@@ -1764,7 +1764,7 @@
       : אבל, לאה!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1775,7 +1775,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1783,7 +1783,7 @@
       : עודך כאן, לאה?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1791,7 +1791,7 @@
       : ערב טוב!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1801,7 +1801,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1812,7 +1812,7 @@
       לאה, מה לך? פניך כפני מת, מה היה לך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1820,7 +1820,7 @@
       : אין דבר שיני כואבות… מה אני אומרת? חשה אני בראשי… כן… גדול הכאב…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1831,7 +1831,7 @@
       לאה, ההיה כאן הגלב?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1841,7 +1841,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1852,7 +1852,7 @@
       היה? העלעבך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1862,7 +1862,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1873,7 +1873,7 @@
       הגלב הבליעל!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1881,7 +1881,7 @@
       : יפול נא בידי! הוא התחיל להתקרב אלי. אני אפרע ממנו!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1892,7 +1892,7 @@
       נחמה!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1900,7 +1900,7 @@
       : אל תירא!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1908,7 +1908,7 @@
       : קור עובר באברי… החולירע חוטפני!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1920,7 +1920,7 @@
       כצאתי בבוקר לקנות בשׂר, פגשתיו בקצה הגינה, עמד לו אצל מרים הארורה – נשקו זה לזה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1928,7 +1928,7 @@
       : יעשׂה לה מה שלבו חפץ…אין זה נוגע אלי עוד.
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1938,7 +1938,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1949,7 +1949,7 @@
       אכן… זו היא עלמה טובה… שׂבעת ודייך – לך לך! תבוא עליה ברכה!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1957,7 +1957,7 @@
       : מה אתה דובר שם?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -1965,7 +1965,7 @@
       : אני? אמרתי, שאם יקרב אליך, אתקע בו מרצע!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1973,7 +1973,7 @@
       : עדיין אינך אפוטרופוס לי… עוד קודם “הרי אַת”…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -1985,7 +1985,7 @@
       ביני לבינך.
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -1996,7 +1996,7 @@
       לך לך מזה… סוב במשעול. אם ארצה אקרא לך!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2007,7 +2007,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2021,7 +2021,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2032,7 +2032,7 @@
       ומובטחת אַת, שהוא שלך!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2040,7 +2040,7 @@
       : בלי ספק…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2048,7 +2048,7 @@
       : לאורך ימים?
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2056,7 +2056,7 @@
       : אני אומרת: ברוך ה' יום יום…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2064,7 +2064,7 @@
       : ומחר, אם יאמר: לא?…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2072,7 +2072,7 @@
       : ילך לעזאזל!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2080,7 +2080,7 @@
       : אינך רוצה להנשׂא לו?
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2088,7 +2088,7 @@
       : אני רוצה, אבל אין זה הכרח… רואה אני את מזלה של אחותנו מירל, ודי לי…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2096,7 +2096,7 @@
       : לא כל הבעלים מתים, ולא כל הנשים נשארות אלמנות עם יתומים… ולהיות משרתת וערירית כל הימים…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2104,7 +2104,7 @@
       : אמת… ולא כל הבעלים מתים… וזה גבר אלים – והשד לא יקחנו… ואפשר להשאר בלי יתומים…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2112,7 +2112,7 @@
       : מה אַת דוברת, נחמה?
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2120,7 +2120,7 @@
       : את האמת אני דוברת, כן הוא מזלה של משרתת עניה.
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2131,7 +2131,7 @@
       אבל נחמה… כך אסור… חטא גדול… הקב"ה פורע את חובותיו… מני כבר נפרע… קחי מוסר…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2139,7 +2139,7 @@
       : שמעי נא, לאה! השאירי את התחינות ליום מחר, כשנלך אל הקבר…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2147,7 +2147,7 @@
       : לא נלך!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2158,7 +2158,7 @@
       מדוע?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2166,7 +2166,7 @@
       : מירל אינה רוצה!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2174,7 +2174,7 @@
       : ומי ישמע בקולה… ומשום מה אינה רוצה?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2182,7 +2182,7 @@
       : הצדק אתה. היא אומרת שאנחנו מחללות את הקבר…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2193,7 +2193,7 @@
       חס ושלום, אני לא עשׂיתי עוד דבר רע…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2201,7 +2201,7 @@
       : אבל מי יודע מה תעשׂי מחר… דרכנו מוליכה במורד…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2216,7 +2216,7 @@
       זרח, היפה אני?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2224,7 +2224,7 @@
       : כשמש בצהרים!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2235,7 +2235,7 @@
       ואהובה אני?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2243,7 +2243,7 @@
       : כשאני רואה אותך תוקפתני הקדחת!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2251,7 +2251,7 @@
       : וכשאתה מנשק לי?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2259,7 +2259,7 @@
       : דמי סוער ודולק כזפת רותחת!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2267,7 +2267,7 @@
       : ותעמיד חופה?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2278,7 +2278,7 @@
       כשארויח…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2289,7 +2289,7 @@
       זרח! אבל יקחך אופל, אם לא תרצה, לא תעמיד!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2307,7 +2307,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="kul shh">
+    <sp who="#kul shh">
      <speaker>
       קול אשה
      </speaker>
@@ -2315,7 +2315,7 @@
       : נחמה, אַיך? האם בגן, שובבה, אַת? זכרך יבוא הביתה תחתיך, רבונו של עולם!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2326,7 +2326,7 @@
       הוי, לוּלא מירל ואפרוחיה… הגיהנום! לולא אברהמ’ל החולני…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2337,7 +2337,7 @@
       לכי…
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2348,7 +2348,7 @@
       ואתה השאר פה, שב אצלה ודבּר על לבה; נחם אותה…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2356,7 +2356,7 @@
       : בנעימות!
      </p>
     </sp>
-    <sp who="nkhmh">
+    <sp who="#nkhmh">
      <speaker>
       נחמה
      </speaker>
@@ -2370,7 +2370,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2381,7 +2381,7 @@
       ועתה, יפתי…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2392,7 +2392,7 @@
       אך בלי מחאות…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2402,7 +2402,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2413,7 +2413,7 @@
       יתומות אנחנו… עזובות… אין אפוטרופוס, אין יועץ, אין דובר אמת… מירל יש לה חמשה אפרוחים… לא היה לה פנאי לטפל בנו…גדלנו פראות…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2424,7 +2424,7 @@
       אבל הסכנה אינה גדולה כל כך!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2435,7 +2435,7 @@
       זרח!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2443,7 +2443,7 @@
       : ומה חפצך ומה בקשתך, לאה האהובה!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2451,7 +2451,7 @@
       : גם אותי אתה אוהב…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2463,7 +2463,7 @@
       אבל גם אַת יפה, לאה, יפה מאד… שוטה גדול הוא הגלב… פונה לכאן ולכאן, הלא סוף סוף ישוב אליך; טובה ויפה ממך לא ימצא…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2474,7 +2474,7 @@
       אמרתי שאיני רוצה.
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2482,7 +2482,7 @@
       : תרצי, תסלחי לשׂיה התועה… מה בכך? גם אצל הגבירים יקרו מעשׂים כאלה… הלא סוף סוף תפקחנה עיניו…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2493,7 +2493,7 @@
       ואתה, זרח…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2501,7 +2501,7 @@
       מעמיד פניו בשאלה).
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2509,7 +2509,7 @@
       : ואתה אוהב את אחותי, באמת ובתמים?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2520,7 +2520,7 @@
       כן, בלא ספק! אם יעבור יום ואיני רואה אותה, מדומה לי שלא חייתי באותו יום… וגעגועי בלילות! אומר אני לך, החלומות שלי – אש מתלקחת!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2528,7 +2528,7 @@
       : ותקדש אותה כדת משה וישראל?…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2539,7 +2539,7 @@
       דבר זה אינו תלוי בי… מלבושים, הוצאות החתונה… והעבודה מועטה…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2551,7 +2551,7 @@
       אל תגע בה, זרח!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2559,7 +2559,7 @@
       : בל אגע בה?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2567,7 +2567,7 @@
       : שמעני, עשׂה זאת למעני!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2575,7 +2575,7 @@
       : למענך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2583,7 +2583,7 @@
       : כן… ואם ישיאך יצרך – חוסה עליה, ואל תזלזל בה, זרח… ואם מוכרח אתה להפיג את יצרך – הלא הרבה “סחורה” יש בעיר… הרבה, הרבה נערות…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2613,7 +2613,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2624,7 +2624,7 @@
       למה אַת מונעת ממני את ידך?
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2632,7 +2632,7 @@
       : ולמה לך ידי?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2646,7 +2646,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2657,7 +2657,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2672,7 +2672,7 @@
       הלא גיסתי אַת… אחות נחמה שלי… כשאני מנשק לך דומה אני – – –
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2683,7 +2683,7 @@
       שאתה מנשק לנחמה שלך?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2694,7 +2694,7 @@
       כן…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2705,7 +2705,7 @@
       אף-על-פי שאנחנו כל כך שונות זו מזו.
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2713,7 +2713,7 @@
       : אף-על-פי – – –
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2723,7 +2723,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2734,7 +2734,7 @@
       אה, אל תתאכזרי לי…
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2745,7 +2745,7 @@
       להפך! יש לי אליך בקשה, זרח!
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2753,7 +2753,7 @@
       : באש ובמים!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2764,7 +2764,7 @@
       אתה לאהוב אותי?
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2772,7 +2772,7 @@
       : תמיד!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2780,7 +2780,7 @@
       : אין צורך ב“תמיד”… אבל זרח, השבע לי. לבל תעשׂה לנחמה רעה…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2791,7 +2791,7 @@
       אני לנחמה – רעה?!
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>
@@ -2799,7 +2799,7 @@
       : כן, אל תפתה אותה… ואם יתקפך יצרך… ואם לא תוכל להתאפק – – בוא תבוא אלי… הלא מוצאת אני חן בעיניך – לפעמים? תוכל לבוא…
      </p>
     </sp>
-    <sp who="zrkh">
+    <sp who="#zrkh">
      <speaker>
       זרח
      </speaker>
@@ -2809,7 +2809,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="lh">
+    <sp who="#lh">
      <speaker>
       לאה
      </speaker>

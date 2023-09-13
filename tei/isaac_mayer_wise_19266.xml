@@ -49,49 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khl hnsfim ikhd">
-      <persName>
-       כל הנאספים יחד
-      </persName>
-     </person>
-     <person xml:id="mrim shsu">
-      <persName>
-       מרים אשתו
-      </persName>
-     </person>
      <person xml:id="mrim">
       <persName>
        מרים
-      </persName>
-     </person>
-     <person xml:id="tsufh">
-      <persName>
-       צופה
-      </persName>
-     </person>
-     <person xml:id="yukhnn">
-      <persName>
-       יוחנן
-      </persName>
-     </person>
-     <person xml:id="sisif">
-      <persName>
-       סיסיפ
-      </persName>
-     </person>
-     <person xml:id="rbkh">
-      <persName>
-       רבקה
-      </persName>
-     </person>
-     <person xml:id="sureym khureim ushrim">
-      <persName>
-       סוריים כורעים ושרים
-      </persName>
-     </person>
-     <person xml:id="ihudh hmkhbi">
-      <persName>
-       יהודה המכבי
       </persName>
      </person>
      <person xml:id="sfzih">
@@ -99,239 +59,9 @@
        אספזיה
       </persName>
      </person>
-     <person xml:id="mֵnֵlַiְ hkhhn hgdul">
+     <person xml:id="tsufh">
       <persName>
-       מֵנֵלַיְ הכהן הגדול
-      </persName>
-     </person>
-     <person xml:id="hem">
-      <persName>
-       העם
-      </persName>
-     </person>
-     <person xml:id="lezr hkhurni">
-      <persName>
-       אלעזר החורני
-      </persName>
-     </person>
-     <person xml:id="hntsib">
-      <persName>
-       הנציב
-      </persName>
-     </person>
-     <person xml:id="apuֹluֹn">
-      <persName>
-       אַפּוֹלוֹן
-      </persName>
-     </person>
-     <person xml:id="eud khs mhem">
-      <persName>
-       עוד אחת מהעם
-      </persName>
-     </person>
-     <person xml:id="htsufh">
-      <persName>
-       הצופה
-      </persName>
-     </person>
-     <person xml:id="mssihu">
-      <persName>
-       מתתיהו
-      </persName>
-     </person>
-     <person xml:id="emrm">
-      <persName>
-       עמרם
-      </persName>
-     </person>
-     <person xml:id="mshrs">
-      <persName>
-       משרת
-      </persName>
-     </person>
-     <person xml:id="yukhnn hkdshi">
-      <persName>
-       יוחנן הקדשי
-      </persName>
-     </person>
-     <person xml:id="fulun">
-      <persName>
-       אפולון
-      </persName>
-     </person>
-     <person xml:id="kulus mbkhuts">
-      <persName>
-       קולות מבחוץ
-      </persName>
-     </person>
-     <person xml:id="hmshrs">
-      <persName>
-       המשרת
-      </persName>
-     </person>
-     <person xml:id="nbkhr khr">
-      <persName>
-       נבחר אחר
-      </persName>
-     </person>
-     <person xml:id="khd mkhubbi hkhrus">
-      <persName>
-       אחד מחובבי החרות
-      </persName>
-     </person>
-     <person xml:id="ntsib surih">
-      <persName>
-       נציב סוריה
-      </persName>
-     </person>
-     <person xml:id="mnli">
-      <persName>
-       מנלי
-      </persName>
-     </person>
-     <person xml:id="rbi yusi">
-      <persName>
-       רבי יוסי
-      </persName>
-     </person>
-     <person xml:id="khlm ikhd">
-      <persName>
-       כלם יחד
-      </persName>
-     </person>
-     <person xml:id="khd mhkhubbim">
-      <persName>
-       אחד מהחובבים
-      </persName>
-     </person>
-     <person xml:id="nshi htsb">
-      <persName>
-       אנשי הצבא
-      </persName>
-     </person>
-     <person xml:id="lyezr">
-      <persName>
-       אליעזר
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="khd mnbkhri khnss hem">
-      <persName>
-       אחד מנבחרי כנסת העם
-      </persName>
-     </person>
-     <person xml:id="yunsn hufsi">
-      <persName>
-       יונתן הופסי
-      </persName>
-     </person>
-     <person xml:id="hfkid">
-      <persName>
-       הפקיד
-      </persName>
-     </person>
-     <person xml:id="kul mkhuri hdls">
-      <persName>
-       קול מאחורי הדלת
-      </persName>
-     </person>
-     <person xml:id="khd hbim">
-      <persName>
-       אחד הבאים
-      </persName>
-     </person>
-     <person xml:id="hkudm">
-      <persName>
-       הקודם
-      </persName>
-     </person>
-     <person xml:id="fgnih bsu">
-      <persName>
-       אפגניה בתו
-      </persName>
-     </person>
-     <person xml:id="khd mhem">
-      <persName>
-       אחד מהעם
-      </persName>
-     </person>
-     <person xml:id="mssihu hkhshmuni">
-      <persName>
-       מתתיהו החשמונאי
-      </persName>
-     </person>
-     <person xml:id="alְkִim">
-      <persName>
-       אַלְקִים
-      </persName>
-     </person>
-     <person xml:id="sisip">
-      <persName>
-       סיסיפּ
-      </persName>
-     </person>
-     <person xml:id="shri hkhil">
-      <persName>
-       שרי החיל
-      </persName>
-     </person>
-     <person xml:id="yusi bn yukhnn ish irushlm">
-      <persName>
-       יוסי בן יוחנן איש ירושלם
-      </persName>
-     </person>
-     <person xml:id="mlkh">
-      <persName>
-       מלאך
-      </persName>
-     </person>
-     <person xml:id="yusi bn yuezr ish tsrdh">
-      <persName>
-       יוסי בן יועזר איש צרדה
-      </persName>
-     </person>
-     <person xml:id="lkim">
-      <persName>
-       אלקים
-      </persName>
-     </person>
-     <person xml:id="ihudh">
-      <persName>
-       יהודה
-      </persName>
-     </person>
-     <person xml:id="yunsn">
-      <persName>
-       יונתן
-      </persName>
-     </person>
-     <person xml:id="fgnih">
-      <persName>
-       אפגניה
-      </persName>
-     </person>
-     <person xml:id="rbkh bsu">
-      <persName>
-       רבקה בתו
-      </persName>
-     </person>
-     <person xml:id="hkhshmunim: drָmָh bels khmsh merkhus">
-      <persName>
-       החשמונאים: דרָמָה בעלת חמש מערכות
-      </persName>
-     </person>
-     <person xml:id="nַshָr">
-      <persName>
-       נַשָר
-      </persName>
-     </person>
-     <person xml:id="kulus">
-      <persName>
-       קולות
+       צופה
       </persName>
      </person>
      <person xml:id="shmeun hsrsi">
@@ -339,14 +69,284 @@
        שמעון התרסי
       </persName>
      </person>
-     <person xml:id="fl">
+     <person xml:id="khl hnsfim ikhd">
       <persName>
-       אפל
+       כל הנאספים יחד
+      </persName>
+     </person>
+     <person xml:id="khd hbim">
+      <persName>
+       אחד הבאים
+      </persName>
+     </person>
+     <person xml:id="fgnih bsu">
+      <persName>
+       אפגניה בתו
+      </persName>
+     </person>
+     <person xml:id="sisip">
+      <persName>
+       סיסיפּ
+      </persName>
+     </person>
+     <person xml:id="rbi yusi">
+      <persName>
+       רבי יוסי
+      </persName>
+     </person>
+     <person xml:id="mssihu">
+      <persName>
+       מתתיהו
       </persName>
      </person>
      <person xml:id="shmeun">
       <persName>
        שמעון
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="ihudh hmkhbi">
+      <persName>
+       יהודה המכבי
+      </persName>
+     </person>
+     <person xml:id="khd mnbkhri khnss hem">
+      <persName>
+       אחד מנבחרי כנסת העם
+      </persName>
+     </person>
+     <person xml:id="ihudh">
+      <persName>
+       יהודה
+      </persName>
+     </person>
+     <person xml:id="nַshָr">
+      <persName>
+       נַשָר
+      </persName>
+     </person>
+     <person xml:id="shri hkhil">
+      <persName>
+       שרי החיל
+      </persName>
+     </person>
+     <person xml:id="mlkh">
+      <persName>
+       מלאך
+      </persName>
+     </person>
+     <person xml:id="fl">
+      <persName>
+       אפל
+      </persName>
+     </person>
+     <person xml:id="mnli">
+      <persName>
+       מנלי
+      </persName>
+     </person>
+     <person xml:id="lyezr">
+      <persName>
+       אליעזר
+      </persName>
+     </person>
+     <person xml:id="alְkִim">
+      <persName>
+       אַלְקִים
+      </persName>
+     </person>
+     <person xml:id="ntsib surih">
+      <persName>
+       נציב סוריה
+      </persName>
+     </person>
+     <person xml:id="kulus mbkhuts">
+      <persName>
+       קולות מבחוץ
+      </persName>
+     </person>
+     <person xml:id="mrim shsu">
+      <persName>
+       מרים אשתו
+      </persName>
+     </person>
+     <person xml:id="yusi bn yukhnn ish irushlm">
+      <persName>
+       יוסי בן יוחנן איש ירושלם
+      </persName>
+     </person>
+     <person xml:id="khd mhem">
+      <persName>
+       אחד מהעם
+      </persName>
+     </person>
+     <person xml:id="sisif">
+      <persName>
+       סיסיפ
+      </persName>
+     </person>
+     <person xml:id="mssihu hkhshmuni">
+      <persName>
+       מתתיהו החשמונאי
+      </persName>
+     </person>
+     <person xml:id="sureym khureim ushrim">
+      <persName>
+       סוריים כורעים ושרים
+      </persName>
+     </person>
+     <person xml:id="nbkhr khr">
+      <persName>
+       נבחר אחר
+      </persName>
+     </person>
+     <person xml:id="fgnih">
+      <persName>
+       אפגניה
+      </persName>
+     </person>
+     <person xml:id="apuֹluֹn">
+      <persName>
+       אַפּוֹלוֹן
+      </persName>
+     </person>
+     <person xml:id="rbkh bsu">
+      <persName>
+       רבקה בתו
+      </persName>
+     </person>
+     <person xml:id="nshi htsb">
+      <persName>
+       אנשי הצבא
+      </persName>
+     </person>
+     <person xml:id="mshrs">
+      <persName>
+       משרת
+      </persName>
+     </person>
+     <person xml:id="hfkid">
+      <persName>
+       הפקיד
+      </persName>
+     </person>
+     <person xml:id="hmshrs">
+      <persName>
+       המשרת
+      </persName>
+     </person>
+     <person xml:id="khd mkhubbi hkhrus">
+      <persName>
+       אחד מחובבי החרות
+      </persName>
+     </person>
+     <person xml:id="htsufh">
+      <persName>
+       הצופה
+      </persName>
+     </person>
+     <person xml:id="khlm ikhd">
+      <persName>
+       כלם יחד
+      </persName>
+     </person>
+     <person xml:id="emrm">
+      <persName>
+       עמרם
+      </persName>
+     </person>
+     <person xml:id="mֵnֵlַiְ hkhhn hgdul">
+      <persName>
+       מֵנֵלַיְ הכהן הגדול
+      </persName>
+     </person>
+     <person xml:id="hkudm">
+      <persName>
+       הקודם
+      </persName>
+     </person>
+     <person xml:id="yusi bn yuezr ish tsrdh">
+      <persName>
+       יוסי בן יועזר איש צרדה
+      </persName>
+     </person>
+     <person xml:id="kul mkhuri hdls">
+      <persName>
+       קול מאחורי הדלת
+      </persName>
+     </person>
+     <person xml:id="yunsn hufsi">
+      <persName>
+       יונתן הופסי
+      </persName>
+     </person>
+     <person xml:id="kulus">
+      <persName>
+       קולות
+      </persName>
+     </person>
+     <person xml:id="eud khs mhem">
+      <persName>
+       עוד אחת מהעם
+      </persName>
+     </person>
+     <person xml:id="yukhnn hkdshi">
+      <persName>
+       יוחנן הקדשי
+      </persName>
+     </person>
+     <person xml:id="lezr hkhurni">
+      <persName>
+       אלעזר החורני
+      </persName>
+     </person>
+     <person xml:id="yukhnn">
+      <persName>
+       יוחנן
+      </persName>
+     </person>
+     <person xml:id="rbkh">
+      <persName>
+       רבקה
+      </persName>
+     </person>
+     <person xml:id="hem">
+      <persName>
+       העם
+      </persName>
+     </person>
+     <person xml:id="lkim">
+      <persName>
+       אלקים
+      </persName>
+     </person>
+     <person xml:id="fulun">
+      <persName>
+       אפולון
+      </persName>
+     </person>
+     <person xml:id="hkhshmunim: drָmָh bels khmsh merkhus">
+      <persName>
+       החשמונאים: דרָמָה בעלת חמש מערכות
+      </persName>
+     </person>
+     <person xml:id="yunsn">
+      <persName>
+       יונתן
+      </persName>
+     </person>
+     <person xml:id="khd mhkhubbim">
+      <persName>
+       אחד מהחובבים
+      </persName>
+     </person>
+     <person xml:id="hntsib">
+      <persName>
+       הנציב
       </persName>
      </person>
     </listPerson>
@@ -369,7 +369,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hkhshmunim: drָmָh bels khmsh merkhus">
+   <sp who="#hkhshmunim: drָmָh bels khmsh merkhus">
     <speaker>
      החשמונאים: דרָמָה בעלת חמש מערכות
     </speaker>
@@ -435,12 +435,12 @@
    <sp>
    </sp>
    <div>
-    <sp who="mssihu hkhshmuni">
+    <sp who="#mssihu hkhshmuni">
      <speaker>
       מתתיהו החשמונאי
      </speaker>
     </sp>
-    <sp who="mrim shsu">
+    <sp who="#mrim shsu">
      <speaker>
       מרים אשתו
      </speaker>
@@ -450,12 +450,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn hkdshi">
+    <sp who="#yukhnn hkdshi">
      <speaker>
       יוחנן הקדשי
      </speaker>
     </sp>
-    <sp who="shmeun hsrsi">
+    <sp who="#shmeun hsrsi">
      <speaker>
       שמעון התרסי
      </speaker>
@@ -467,17 +467,17 @@
       </a>
      </p>
     </sp>
-    <sp who="ihudh hmkhbi">
+    <sp who="#ihudh hmkhbi">
      <speaker>
       יהודה המכבי
      </speaker>
     </sp>
-    <sp who="lezr hkhurni">
+    <sp who="#lezr hkhurni">
      <speaker>
       אלעזר החורני
      </speaker>
     </sp>
-    <sp who="yunsn hufsi">
+    <sp who="#yunsn hufsi">
      <speaker>
       יונתן הופסי
      </speaker>
@@ -485,7 +485,7 @@
       אוהב אפגניה
      </p>
     </sp>
-    <sp who="rbkh bsu">
+    <sp who="#rbkh bsu">
      <speaker>
       רבקה בתו,
      </speaker>
@@ -493,7 +493,7 @@
       אוהבת את עמרם.
      </p>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -501,12 +501,12 @@
       בן איש עשיר משמרון, אוהב את רבקה.
      </p>
     </sp>
-    <sp who="mֵnֵlַiְ hkhhn hgdul">
+    <sp who="#mֵnֵlַiְ hkhhn hgdul">
      <speaker>
       מֵנֵלַיְ הכהן הגדול
      </speaker>
     </sp>
-    <sp who="fgnih bsu">
+    <sp who="#fgnih bsu">
      <speaker>
       אפגניה בתו,
      </speaker>
@@ -514,7 +514,7 @@
       אוהבת את יונתן.
      </p>
     </sp>
-    <sp who="alְkִim">
+    <sp who="#alְkִim">
      <speaker>
       אַלְקִים,
      </speaker>
@@ -522,7 +522,7 @@
       חביב מנלי אוהב אפגניה.
      </p>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -530,12 +530,12 @@
       , כהנת במקדש ונוס, אהבת את יונתן
      </p>
     </sp>
-    <sp who="yusi bn yuezr ish tsrdh">
+    <sp who="#yusi bn yuezr ish tsrdh">
      <speaker>
       יוסי בן יועזר איש צרדה.
      </speaker>
     </sp>
-    <sp who="yusi bn yukhnn ish irushlm">
+    <sp who="#yusi bn yukhnn ish irushlm">
      <speaker>
       יוסי בן יוחנן איש ירושלם.
      </speaker>
@@ -562,7 +562,7 @@
       הקודמים, יוחנן בא מדרך, בגדיו מלאים אבק.
      </p>
     </sp>
-    <sp who="apuֹluֹn">
+    <sp who="#apuֹluֹn">
      <speaker>
       אַפּוֹלוֹן
      </speaker>
@@ -570,7 +570,7 @@
       נציב סוריה
      </p>
     </sp>
-    <sp who="sisip">
+    <sp who="#sisip">
      <speaker>
       סיסיפּ
      </speaker>
@@ -578,7 +578,7 @@
       מלאך אנטיוך.
      </p>
     </sp>
-    <sp who="ntsib surih">
+    <sp who="#ntsib surih">
      <speaker>
       נציב סוריה
      </speaker>
@@ -588,7 +588,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="fl">
+    <sp who="#fl">
      <speaker>
       אפל
      </speaker>
@@ -606,7 +606,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -622,7 +622,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן.
      </speaker>
@@ -643,7 +643,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
@@ -655,7 +655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן.
      </speaker>
@@ -727,7 +727,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
@@ -739,7 +739,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
@@ -749,7 +749,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -761,7 +761,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
@@ -773,7 +773,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -785,7 +785,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
@@ -797,7 +797,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -809,7 +809,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן.
      </speaker>
@@ -828,7 +828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -838,7 +838,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
@@ -850,7 +850,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים.
      </speaker>
@@ -871,7 +871,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -883,7 +883,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -893,7 +893,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -916,7 +916,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -928,7 +928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -938,7 +938,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -963,7 +963,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -978,7 +978,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1029,7 +1029,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1050,7 +1050,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1074,7 +1074,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -1086,7 +1086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1104,7 +1104,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1126,7 +1126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1141,7 +1141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1154,7 +1154,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -1166,7 +1166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1176,7 +1176,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1199,7 +1199,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -1211,7 +1211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1221,7 +1221,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1235,7 +1235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1253,7 +1253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -1265,7 +1265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1287,7 +1287,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -1303,7 +1303,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="sureym khureim ushrim">
+    <sp who="#sureym khureim ushrim">
      <speaker>
       סוריים כורעים ושרים.
      </speaker>
@@ -1355,7 +1355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nַshָr">
+    <sp who="#nַshָr">
      <speaker>
       נַשָר
      </speaker>
@@ -1367,7 +1367,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -1379,7 +1379,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1390,7 +1390,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fl">
+    <sp who="#fl">
      <speaker>
       אפל.
      </speaker>
@@ -1405,7 +1405,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1419,7 +1419,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fl">
+    <sp who="#fl">
      <speaker>
       אפל.
      </speaker>
@@ -1434,7 +1434,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1454,7 +1454,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1464,7 +1464,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1479,7 +1479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
@@ -1491,7 +1491,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1501,7 +1501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1517,7 +1517,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1527,7 +1527,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1549,7 +1549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם.
      </speaker>
@@ -1559,7 +1559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1569,7 +1569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd mhem">
+    <sp who="#khd mhem">
      <speaker>
       אחד מהעם.
      </speaker>
@@ -1579,7 +1579,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus">
+    <sp who="#kulus">
      <speaker>
       קולות.
      </speaker>
@@ -1598,7 +1598,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkudm">
+    <sp who="#hkudm">
      <speaker>
       הקודם
      </speaker>
@@ -1610,7 +1610,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1622,7 +1622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eud khs mhem">
+    <sp who="#eud khs mhem">
      <speaker>
       עוד אחת מהעם.
      </speaker>
@@ -1633,7 +1633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1643,7 +1643,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkudm">
+    <sp who="#hkudm">
      <speaker>
       הקודם.
      </speaker>
@@ -1656,7 +1656,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1666,7 +1666,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1677,7 +1677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus">
+    <sp who="#kulus">
      <speaker>
       קולות.
      </speaker>
@@ -1695,7 +1695,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -1707,7 +1707,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1717,7 +1717,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1728,7 +1728,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1741,7 +1741,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -1751,7 +1751,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו.
      </speaker>
@@ -1775,7 +1775,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -1793,7 +1793,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -1807,7 +1807,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -1822,7 +1822,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -1835,7 +1835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -1851,7 +1851,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="htsufh">
+    <sp who="#htsufh">
      <speaker>
       הצופה.
      </speaker>
@@ -1902,7 +1902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -1938,7 +1938,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -1948,7 +1948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1958,7 +1958,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -1968,7 +1968,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -1984,7 +1984,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2000,7 +2000,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -2012,7 +2012,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -2024,7 +2024,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2040,7 +2040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים
      </speaker>
@@ -2052,7 +2052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2067,7 +2067,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -2077,7 +2077,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2088,7 +2088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -2098,7 +2098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2109,7 +2109,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -2119,7 +2119,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2132,7 +2132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים
      </speaker>
@@ -2144,7 +2144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2154,7 +2154,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -2179,7 +2179,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -2193,7 +2193,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2203,7 +2203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2213,7 +2213,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2223,7 +2223,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2233,7 +2233,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2246,7 +2246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2256,7 +2256,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2266,7 +2266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2276,7 +2276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2292,7 +2292,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2310,7 +2310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2320,7 +2320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2332,7 +2332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2342,7 +2342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2352,7 +2352,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2364,7 +2364,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2377,7 +2377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2402,7 +2402,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -2414,7 +2414,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2425,7 +2425,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2435,7 +2435,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2445,7 +2445,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2455,7 +2455,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2465,7 +2465,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2477,7 +2477,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2496,7 +2496,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -2508,7 +2508,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2529,7 +2529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -2554,7 +2554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -2568,7 +2568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -2597,7 +2597,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2609,7 +2609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2625,7 +2625,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2635,7 +2635,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2648,7 +2648,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2658,7 +2658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2671,7 +2671,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2683,7 +2683,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2693,7 +2693,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2703,7 +2703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2720,7 +2720,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -2732,7 +2732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2742,7 +2742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2756,7 +2756,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -2768,7 +2768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2778,7 +2778,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2788,7 +2788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2804,7 +2804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -2816,7 +2816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2827,7 +2827,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2851,7 +2851,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת.
      </speaker>
@@ -2861,7 +2861,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2875,7 +2875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2886,7 +2886,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2900,7 +2900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2910,7 +2910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2922,7 +2922,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2934,7 +2934,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2948,7 +2948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2959,7 +2959,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -2969,7 +2969,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -2979,7 +2979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3006,7 +3006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3017,7 +3017,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3027,7 +3027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3037,7 +3037,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3047,7 +3047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3057,7 +3057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3069,7 +3069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3079,7 +3079,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3089,7 +3089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3100,7 +3100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -3111,7 +3111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3129,7 +3129,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3141,7 +3141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3151,7 +3151,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3164,7 +3164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3174,7 +3174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3192,7 +3192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3204,7 +3204,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3216,7 +3216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3229,7 +3229,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3242,7 +3242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3254,7 +3254,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3266,7 +3266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3277,7 +3277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3296,7 +3296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3313,7 +3313,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3324,7 +3324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3337,7 +3337,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3347,7 +3347,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3363,7 +3363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3375,7 +3375,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3385,7 +3385,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3414,7 +3414,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3426,7 +3426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3438,7 +3438,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3450,7 +3450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3460,7 +3460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3485,7 +3485,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3499,7 +3499,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3520,7 +3520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3550,7 +3550,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3562,7 +3562,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3583,7 +3583,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3595,7 +3595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3622,7 +3622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3634,7 +3634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -3646,7 +3646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -3659,7 +3659,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3672,7 +3672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fulun">
+    <sp who="#fulun">
      <speaker>
       אפולון.
      </speaker>
@@ -3692,7 +3692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3702,7 +3702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fulun">
+    <sp who="#fulun">
      <speaker>
       אפולון.
      </speaker>
@@ -3712,7 +3712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3722,7 +3722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fulun">
+    <sp who="#fulun">
      <speaker>
       אפולון.
      </speaker>
@@ -3738,7 +3738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -3749,7 +3749,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fulun">
+    <sp who="#fulun">
      <speaker>
       אפולון.
      </speaker>
@@ -3768,7 +3768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -3780,7 +3780,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -3792,7 +3792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fulun">
+    <sp who="#fulun">
      <speaker>
       אפולון.
      </speaker>
@@ -3822,7 +3822,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3834,7 +3834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3851,7 +3851,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3862,7 +3862,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3877,7 +3877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -3888,7 +3888,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3899,7 +3899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3910,7 +3910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3943,7 +3943,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3955,7 +3955,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -3983,7 +3983,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -3995,7 +3995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -4015,7 +4015,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4025,7 +4025,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -4039,7 +4039,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4049,7 +4049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -4085,7 +4085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4097,7 +4097,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -4112,7 +4112,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4122,7 +4122,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -4153,7 +4153,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4169,7 +4169,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -4179,7 +4179,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4196,7 +4196,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4206,7 +4206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4216,7 +4216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4227,7 +4227,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4237,7 +4237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4247,7 +4247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4266,7 +4266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4276,7 +4276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4312,7 +4312,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4322,7 +4322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -4332,7 +4332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4342,7 +4342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -4355,7 +4355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4365,7 +4365,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -4381,7 +4381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4391,7 +4391,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -4426,7 +4426,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="tsufh">
+    <sp who="#tsufh">
      <speaker>
       צופה
      </speaker>
@@ -4436,7 +4436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4455,7 +4455,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -4465,7 +4465,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4477,7 +4477,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4487,7 +4487,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4497,7 +4497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -4507,7 +4507,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4517,7 +4517,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -4527,7 +4527,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4570,7 +4570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shri hkhil">
+    <sp who="#shri hkhil">
      <speaker>
       שרי החיל
      </speaker>
@@ -4582,7 +4582,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -4594,7 +4594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nshi htsb">
+    <sp who="#nshi htsb">
      <speaker>
       אנשי הצבא.
      </speaker>
@@ -4622,7 +4622,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -4634,7 +4634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -4646,7 +4646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -4657,7 +4657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -4667,7 +4667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -4685,7 +4685,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -4710,7 +4710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -4722,7 +4722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -4739,7 +4739,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -4751,7 +4751,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -4765,7 +4765,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -4776,7 +4776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -4795,7 +4795,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -4819,7 +4819,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -4837,7 +4837,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4848,7 +4848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -4863,7 +4863,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4874,7 +4874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -4892,7 +4892,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4902,7 +4902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -4916,7 +4916,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4929,7 +4929,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -4943,7 +4943,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khl hnsfim ikhd">
+    <sp who="#khl hnsfim ikhd">
      <speaker>
       כל הנאספים יחד.
      </speaker>
@@ -4953,7 +4953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה.
      </speaker>
@@ -4967,7 +4967,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -4983,7 +4983,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -4994,7 +4994,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5004,7 +5004,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים.
      </speaker>
@@ -5014,7 +5014,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5045,7 +5045,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים
      </speaker>
@@ -5057,7 +5057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -5069,7 +5069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -5085,7 +5085,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון.
      </speaker>
@@ -5098,7 +5098,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5114,7 +5114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5125,7 +5125,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר.
      </speaker>
@@ -5135,7 +5135,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן.
      </speaker>
@@ -5149,7 +5149,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5159,7 +5159,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון.
      </speaker>
@@ -5175,7 +5175,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5191,7 +5191,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -5203,7 +5203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר.
      </speaker>
@@ -5232,7 +5232,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm ikhd">
+    <sp who="#khlm ikhd">
      <speaker>
       כלם יחד.
      </speaker>
@@ -5242,7 +5242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים.
      </speaker>
@@ -5256,7 +5256,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="htsufh">
+    <sp who="#htsufh">
      <speaker>
       הצופה.
      </speaker>
@@ -5266,7 +5266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5281,7 +5281,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -5293,7 +5293,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5317,7 +5317,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -5329,7 +5329,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם
      </speaker>
@@ -5341,7 +5341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5351,7 +5351,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5366,7 +5366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5376,7 +5376,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5386,7 +5386,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5396,7 +5396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5407,7 +5407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5418,7 +5418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5429,7 +5429,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5439,7 +5439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5449,7 +5449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5459,7 +5459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5469,7 +5469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5479,7 +5479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5490,7 +5490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5500,7 +5500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5511,7 +5511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5521,7 +5521,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5532,7 +5532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה.
      </speaker>
@@ -5543,7 +5543,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5561,7 +5561,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5579,7 +5579,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -5591,7 +5591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5607,7 +5607,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbkh">
+    <sp who="#rbkh">
      <speaker>
       רבקה
      </speaker>
@@ -5619,7 +5619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5634,7 +5634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5644,7 +5644,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5655,7 +5655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5665,7 +5665,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5675,7 +5675,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5685,7 +5685,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5697,7 +5697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5712,7 +5712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5722,7 +5722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5732,7 +5732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5742,7 +5742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5762,7 +5762,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="emrm">
+    <sp who="#emrm">
      <speaker>
       עמרם.
      </speaker>
@@ -5774,7 +5774,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -5806,7 +5806,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -5818,7 +5818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshrs">
+    <sp who="#mshrs">
      <speaker>
       משרת.
      </speaker>
@@ -5828,7 +5828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -5848,7 +5848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sisif">
+    <sp who="#sisif">
      <speaker>
       סיסיפ.
      </speaker>
@@ -5858,7 +5858,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -5870,7 +5870,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sisif">
+    <sp who="#sisif">
      <speaker>
       סיסיפ.
      </speaker>
@@ -5887,7 +5887,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -5899,7 +5899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sisif">
+    <sp who="#sisif">
      <speaker>
       סיסיפ
      </speaker>
@@ -5925,7 +5925,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -5937,7 +5937,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sisif">
+    <sp who="#sisif">
      <speaker>
       סיסיפ.
      </speaker>
@@ -5962,7 +5962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -5974,7 +5974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mshrs">
+    <sp who="#mshrs">
      <speaker>
       משרת
      </speaker>
@@ -5990,7 +5990,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="mlkh">
+    <sp who="#mlkh">
      <speaker>
       מלאך
      </speaker>
@@ -6002,7 +6002,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -6031,7 +6031,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב
      </speaker>
@@ -6042,7 +6042,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -6054,7 +6054,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kul mkhuri hdls">
+    <sp who="#kul mkhuri hdls">
      <speaker>
       קול מאחורי הדלת.
      </speaker>
@@ -6074,7 +6074,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -6086,7 +6086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -6096,7 +6096,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -6110,7 +6110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה
      </speaker>
@@ -6122,7 +6122,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6136,7 +6136,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -6148,7 +6148,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6164,7 +6164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -6176,7 +6176,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6188,7 +6188,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -6203,7 +6203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6213,7 +6213,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי.
      </speaker>
@@ -6224,7 +6224,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6234,7 +6234,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6282,7 +6282,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mnli">
+    <sp who="#mnli">
      <speaker>
       מנלי
      </speaker>
@@ -6294,7 +6294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6320,7 +6320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sisif">
+    <sp who="#sisif">
      <speaker>
       סיסיפ
      </speaker>
@@ -6332,7 +6332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsufh">
+    <sp who="#tsufh">
      <speaker>
       צופה
      </speaker>
@@ -6344,7 +6344,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6355,7 +6355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd hbim">
+    <sp who="#khd hbim">
      <speaker>
       אחד הבאים.
      </speaker>
@@ -6368,7 +6368,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -6380,7 +6380,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6395,7 +6395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6406,7 +6406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6416,7 +6416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfzih">
+    <sp who="#sfzih">
      <speaker>
       אספזיה.
      </speaker>
@@ -6427,7 +6427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6442,7 +6442,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus mbkhuts">
+    <sp who="#kulus mbkhuts">
      <speaker>
       קולות מבחוץ.
      </speaker>
@@ -6456,7 +6456,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -6468,7 +6468,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus">
+    <sp who="#kulus">
      <speaker>
       קולות.
      </speaker>
@@ -6481,7 +6481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd mkhubbi hkhrus">
+    <sp who="#khd mkhubbi hkhrus">
      <speaker>
       אחד מחובבי החרות
      </speaker>
@@ -6493,7 +6493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hntsib">
+    <sp who="#hntsib">
      <speaker>
       הנציב.
      </speaker>
@@ -6503,7 +6503,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -6516,7 +6516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -6528,7 +6528,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -6548,7 +6548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd mhkhubbim">
+    <sp who="#khd mhkhubbim">
      <speaker>
       אחד מהחובבים
      </speaker>
@@ -6564,7 +6564,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6576,7 +6576,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6586,7 +6586,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6596,7 +6596,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6612,7 +6612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -6624,7 +6624,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6634,7 +6634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6646,7 +6646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6657,7 +6657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6673,7 +6673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6688,7 +6688,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6698,7 +6698,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6709,7 +6709,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6719,7 +6719,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rbi yusi">
+    <sp who="#rbi yusi">
      <speaker>
       רבי יוסי.
      </speaker>
@@ -6733,7 +6733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lkim">
+    <sp who="#lkim">
      <speaker>
       אלקים.
      </speaker>
@@ -6776,7 +6776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -6792,7 +6792,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה
      </speaker>
@@ -6804,7 +6804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -6816,7 +6816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -6829,7 +6829,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן.
      </speaker>
@@ -6879,7 +6879,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="yusi bn yukhnn ish irushlm">
+    <sp who="#yusi bn yukhnn ish irushlm">
      <speaker>
       יוסי בן יוחנן איש ירושלם
      </speaker>
@@ -6891,7 +6891,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -6903,7 +6903,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd mnbkhri khnss hem">
+    <sp who="#khd mnbkhri khnss hem">
      <speaker>
       אחד מנבחרי כנסת העם
      </speaker>
@@ -6915,7 +6915,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nbkhr khr">
+    <sp who="#nbkhr khr">
      <speaker>
       נבחר אחר.
      </speaker>
@@ -6930,7 +6930,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים.
      </speaker>
@@ -7015,7 +7015,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fgnih">
+    <sp who="#fgnih">
      <speaker>
       אפגניה.
      </speaker>
@@ -7027,7 +7027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrim">
+    <sp who="#mrim">
      <speaker>
       מרים
      </speaker>

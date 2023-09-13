@@ -49,29 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khulm">
+     <person xml:id="mlits khd mni lf (ltsd bn eubd)">
       <persName>
-       כולם
-      </persName>
-     </person>
-     <person xml:id="iktn (nisr mmkumu)">
-      <persName>
-       יקטן (ניתר ממקומו)
-      </persName>
-     </person>
-     <person xml:id="hihudih">
-      <persName>
-       היהודיה
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (bshtsf ktsf)">
-      <persName>
-       מליץ אחד מני אלף (בשצף קצף)
-      </persName>
-     </person>
-     <person xml:id="(hmskh yurd)">
-      <persName>
-       (המסך יורד)
+       מליץ אחד מני אלף (לצד בן עובד)
       </persName>
      </person>
      <person xml:id="iktn (kufts mmkumu)">
@@ -79,39 +59,9 @@
        יקטן (קופץ ממקומו)
       </persName>
      </person>
-     <person xml:id="mlits khd mni lf (mtsltsl bfemun, mkhzik bkhnf bgdu shl iktn)">
+     <person xml:id="mlits khd mni lf (ltsd iktn)">
       <persName>
-       מליץ אחד מני אלף (מצלצל בפעמון, מחזיק בכנף בגדו של יקטן)
-      </persName>
-     </person>
-     <person xml:id="bn eubd (mftft bhslhbus)">
-      <persName>
-       בן עובד (מפטפט בהתלהבות)
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (mtsltsl bfemun)">
-      <persName>
-       מליץ אחד מני אלף (מצלצל בפעמון)
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (bhsrgshus etsumh)">
-      <persName>
-       מליץ אחד מני אלף (בהתרגשות עצומה)
-      </persName>
-     </person>
-     <person xml:id="hmshkhkim">
-      <persName>
-       המשחקים
-      </persName>
-     </person>
-     <person xml:id="bn eubd (khmshsh)">
-      <persName>
-       בן עובד (כמשתאה)
-      </persName>
-     </person>
-     <person xml:id="iktn (kufts el hshulkhn)">
-      <persName>
-       יקטן (קופץ על השולחן)
+       מליץ אחד מני אלף (לצד יקטן)
       </persName>
      </person>
      <person xml:id="hihudih (nbhlh unreshh)">
@@ -119,64 +69,14 @@
        היהודיה (נבהלה ונרעשה)
       </persName>
      </person>
-     <person xml:id="hebrih (mushith s idh l hihudih khush bhbh oydidus)">
+     <person xml:id="iktn (kufts brsh)">
       <persName>
-       העבריה (מושיטה את ידה אל היהודיה אחותה באהבה וידידות)
+       יקטן (קופץ בראש)
       </persName>
      </person>
-     <person xml:id="iktn">
+     <person xml:id="hmshkhkim">
       <persName>
-       יקטן
-      </persName>
-     </person>
-     <person xml:id="'hkur hnkhbd'">
-      <persName>
-       'הקורא הנכבד'
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (ltsd bn eubd)">
-      <persName>
-       מליץ אחד מני אלף (לצד בן עובד)
-      </persName>
-     </person>
-     <person xml:id="iktn (khmshsumm)">
-      <persName>
-       יקטן (כמשתומם)
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (khues)">
-      <persName>
-       מליץ אחד מני אלף (כועס)
-      </persName>
-     </person>
-     <person xml:id="hebrih">
-      <persName>
-       העבריה
-      </persName>
-     </person>
-     <person xml:id="'kur nkhbd'">
-      <persName>
-       'קורא נכבד'
-      </persName>
-     </person>
-     <person xml:id="bn eubd">
-      <persName>
-       בן עובד
-      </persName>
-     </person>
-     <person xml:id="eubd">
-      <persName>
-       עובד
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf">
-      <persName>
-       מליץ אחד מני אלף
-      </persName>
-     </person>
-     <person xml:id="mlits khd mni lf (ltsd iktn)">
-      <persName>
-       מליץ אחד מני אלף (לצד יקטן)
+       המשחקים
       </persName>
      </person>
      <person xml:id="hebrih (bmsinus)">
@@ -184,14 +84,114 @@
        העבריה (במתינות)
       </persName>
      </person>
+     <person xml:id="iktn (kufts el hshulkhn)">
+      <persName>
+       יקטן (קופץ על השולחן)
+      </persName>
+     </person>
+     <person xml:id="hebrih (mushith s idh l hihudih khush bhbh oydidus)">
+      <persName>
+       העבריה (מושיטה את ידה אל היהודיה אחותה באהבה וידידות)
+      </persName>
+     </person>
+     <person xml:id="(hmskh yurd)">
+      <persName>
+       (המסך יורד)
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf (mtsltsl bfemun)">
+      <persName>
+       מליץ אחד מני אלף (מצלצל בפעמון)
+      </persName>
+     </person>
+     <person xml:id="iktn (khmshsumm)">
+      <persName>
+       יקטן (כמשתומם)
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf">
+      <persName>
+       מליץ אחד מני אלף
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf (mtsltsl bfemun, mkhzik bkhnf bgdu shl iktn)">
+      <persName>
+       מליץ אחד מני אלף (מצלצל בפעמון, מחזיק בכנף בגדו של יקטן)
+      </persName>
+     </person>
+     <person xml:id="hihudih">
+      <persName>
+       היהודיה
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf (khues)">
+      <persName>
+       מליץ אחד מני אלף (כועס)
+      </persName>
+     </person>
+     <person xml:id="eubd">
+      <persName>
+       עובד
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf (bshtsf ktsf)">
+      <persName>
+       מליץ אחד מני אלף (בשצף קצף)
+      </persName>
+     </person>
+     <person xml:id="bn eubd (khmshsh)">
+      <persName>
+       בן עובד (כמשתאה)
+      </persName>
+     </person>
+     <person xml:id="mlits khd mni lf (bhsrgshus etsumh)">
+      <persName>
+       מליץ אחד מני אלף (בהתרגשות עצומה)
+      </persName>
+     </person>
+     <person xml:id="'kur nkhbd'">
+      <persName>
+       'קורא נכבד'
+      </persName>
+     </person>
+     <person xml:id="hebrih">
+      <persName>
+       העבריה
+      </persName>
+     </person>
+     <person xml:id="iktn (nisr mmkumu)">
+      <persName>
+       יקטן (ניתר ממקומו)
+      </persName>
+     </person>
+     <person xml:id="'hkur hnkhbd'">
+      <persName>
+       'הקורא הנכבד'
+      </persName>
+     </person>
+     <person xml:id="iktn">
+      <persName>
+       יקטן
+      </persName>
+     </person>
+     <person xml:id="bn eubd (mftft bhslhbus)">
+      <persName>
+       בן עובד (מפטפט בהתלהבות)
+      </persName>
+     </person>
+     <person xml:id="khulm">
+      <persName>
+       כולם
+      </persName>
+     </person>
+     <person xml:id="bn eubd">
+      <persName>
+       בן עובד
+      </persName>
+     </person>
      <person xml:id="mlits khd mni lf (mtsltsl bfemun ltsd iktn)">
       <persName>
        מליץ אחד מני אלף (מצלצל בפעמון לצד יקטן)
-      </persName>
-     </person>
-     <person xml:id="iktn (kufts brsh)">
-      <persName>
-       יקטן (קופץ בראש)
       </persName>
      </person>
     </listPerson>
@@ -214,7 +214,7 @@
  <text>
   <body>
    <div>
-    <sp who="hmshkhkim">
+    <sp who="#hmshkhkim">
      <speaker>
       המשחקים
      </speaker>
@@ -250,7 +250,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (mtsltsl bfemun)">
+    <sp who="#mlits khd mni lf (mtsltsl bfemun)">
      <speaker>
       מליץ אחד מני אלף (מצלצל בפעמון)
      </speaker>
@@ -260,7 +260,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn (nisr mmkumu)">
+    <sp who="#iktn (nisr mmkumu)">
      <speaker>
       יקטן (ניתר ממקומו)
      </speaker>
@@ -270,7 +270,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (ltsd iktn)">
+    <sp who="#mlits khd mni lf (ltsd iktn)">
      <speaker>
       מליץ אחד מני אלף (לצד יקטן)
      </speaker>
@@ -284,7 +284,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hebrih (bmsinus)">
+    <sp who="#hebrih (bmsinus)">
      <speaker>
       העבריה (במתינות)
      </speaker>
@@ -294,7 +294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn (kufts mmkumu)">
+    <sp who="#iktn (kufts mmkumu)">
      <speaker>
       יקטן (קופץ ממקומו)
      </speaker>
@@ -304,7 +304,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (mtsltsl bfemun ltsd iktn)">
+    <sp who="#mlits khd mni lf (mtsltsl bfemun ltsd iktn)">
      <speaker>
       מליץ אחד מני אלף (מצלצל בפעמון לצד יקטן)
      </speaker>
@@ -314,7 +314,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hebrih">
+    <sp who="#hebrih">
      <speaker>
       העבריה
      </speaker>
@@ -324,7 +324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (bhsrgshus etsumh)">
+    <sp who="#mlits khd mni lf (bhsrgshus etsumh)">
      <speaker>
       מליץ אחד מני אלף (בהתרגשות עצומה)
      </speaker>
@@ -334,7 +334,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd (mftft bhslhbus)">
+    <sp who="#bn eubd (mftft bhslhbus)">
      <speaker>
       בן עובד (מפטפט בהתלהבות)
      </speaker>
@@ -344,7 +344,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn (kufts brsh)">
+    <sp who="#iktn (kufts brsh)">
      <speaker>
       יקטן (קופץ בראש)
      </speaker>
@@ -354,7 +354,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (ltsd bn eubd)">
+    <sp who="#mlits khd mni lf (ltsd bn eubd)">
      <speaker>
       מליץ אחד מני אלף (לצד בן עובד)
      </speaker>
@@ -364,7 +364,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd (khmshsh)">
+    <sp who="#bn eubd (khmshsh)">
      <speaker>
       בן עובד (כמשתאה)
      </speaker>
@@ -374,7 +374,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -384,7 +384,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -394,7 +394,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -404,7 +404,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -414,7 +414,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -424,7 +424,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -439,7 +439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn (kufts el hshulkhn)">
+    <sp who="#iktn (kufts el hshulkhn)">
      <speaker>
       יקטן (קופץ על השולחן)
      </speaker>
@@ -449,7 +449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (mtsltsl bfemun, mkhzik bkhnf bgdu shl iktn)">
+    <sp who="#mlits khd mni lf (mtsltsl bfemun, mkhzik bkhnf bgdu shl iktn)">
      <speaker>
       מליץ אחד מני אלף (מצלצל בפעמון, מחזיק בכנף בגדו של יקטן)
      </speaker>
@@ -459,7 +459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -469,7 +469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubd">
+    <sp who="#eubd">
      <speaker>
       עובד
      </speaker>
@@ -479,7 +479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hihudih (nbhlh unreshh)">
+    <sp who="#hihudih (nbhlh unreshh)">
      <speaker>
       היהודיה (נבהלה ונרעשה)
      </speaker>
@@ -489,7 +489,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hebrih (mushith s idh l hihudih khush bhbh oydidus)">
+    <sp who="#hebrih (mushith s idh l hihudih khush bhbh oydidus)">
      <speaker>
       העבריה (מושיטה את ידה אל היהודיה אחותה באהבה וידידות)
      </speaker>
@@ -499,7 +499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -509,7 +509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'kur nkhbd'">
+    <sp who="#'kur nkhbd'">
      <speaker>
       'קורא נכבד'
      </speaker>
@@ -519,7 +519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn (khmshsumm)">
+    <sp who="#iktn (khmshsumm)">
      <speaker>
       יקטן (כמשתומם)
      </speaker>
@@ -529,7 +529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'kur nkhbd'">
+    <sp who="#'kur nkhbd'">
      <speaker>
       'קורא נכבד'
      </speaker>
@@ -539,7 +539,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -549,7 +549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'kur nkhbd'">
+    <sp who="#'kur nkhbd'">
      <speaker>
       'קורא נכבד'
      </speaker>
@@ -559,7 +559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -569,7 +569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf">
+    <sp who="#mlits khd mni lf">
      <speaker>
       מליץ אחד מני אלף
      </speaker>
@@ -579,7 +579,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -589,7 +589,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -599,7 +599,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -609,7 +609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (mtsltsl bfemun)">
+    <sp who="#mlits khd mni lf (mtsltsl bfemun)">
      <speaker>
       מליץ אחד מני אלף (מצלצל בפעמון)
      </speaker>
@@ -619,7 +619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -629,7 +629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'kur nkhbd'">
+    <sp who="#'kur nkhbd'">
      <speaker>
       'קורא נכבד'
      </speaker>
@@ -639,7 +639,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -649,7 +649,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'kur nkhbd'">
+    <sp who="#'kur nkhbd'">
      <speaker>
       'קורא נכבד'
      </speaker>
@@ -659,7 +659,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (bshtsf ktsf)">
+    <sp who="#mlits khd mni lf (bshtsf ktsf)">
      <speaker>
       מליץ אחד מני אלף (בשצף קצף)
      </speaker>
@@ -683,7 +683,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlits khd mni lf (khues)">
+    <sp who="#mlits khd mni lf (khues)">
      <speaker>
       מליץ אחד מני אלף (כועס)
      </speaker>
@@ -693,7 +693,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iktn">
+    <sp who="#iktn">
      <speaker>
       יקטן
      </speaker>
@@ -703,7 +703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn eubd">
+    <sp who="#bn eubd">
      <speaker>
       בן עובד
      </speaker>
@@ -713,7 +713,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hebrih">
+    <sp who="#hebrih">
      <speaker>
       העבריה
      </speaker>
@@ -723,7 +723,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hihudih">
+    <sp who="#hihudih">
      <speaker>
       היהודיה
      </speaker>
@@ -733,7 +733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'hkur hnkhbd'">
+    <sp who="#'hkur hnkhbd'">
      <speaker>
       'הקורא הנכבד'
      </speaker>
@@ -743,7 +743,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khulm">
+    <sp who="#khulm">
      <speaker>
       כולם
      </speaker>
@@ -753,7 +753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="(hmskh yurd)">
+    <sp who="#(hmskh yurd)">
      <speaker>
       (המסך יורד)
      </speaker>

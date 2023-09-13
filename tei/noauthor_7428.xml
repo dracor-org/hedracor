@@ -49,6 +49,16 @@
   <profileDesc>
    <particDesc>
     <listPerson>
+     <person xml:id="(hmskh nufl)">
+      <persName>
+       (המסך נופל)
+      </persName>
+     </person>
+     <person xml:id="dug">
+      <persName>
+       דואג
+      </persName>
+     </person>
      <person xml:id="khimn">
       <persName>
        אחימן
@@ -59,9 +69,9 @@
        שולמית
       </persName>
      </person>
-     <person xml:id="dug">
+     <person xml:id="reih">
       <persName>
-       דואג
+       רעיה
       </persName>
      </person>
      <person xml:id="hmskh nufl">
@@ -69,24 +79,14 @@
        המסך נופל
       </persName>
      </person>
-     <person xml:id="(hmskh nufl)">
-      <persName>
-       (המסך נופל)
-      </persName>
-     </person>
-     <person xml:id="shmus hmdbrim">
-      <persName>
-       שמות המדברים
-      </persName>
-     </person>
      <person xml:id="shׁulmis">
       <persName>
        שׁולמית
       </persName>
      </person>
-     <person xml:id="reih">
+     <person xml:id="shmus hmdbrim">
       <persName>
-       רעיה
+       שמות המדברים
       </persName>
      </person>
     </listPerson>
@@ -108,7 +108,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="shmus hmdbrim">
+   <sp who="#shmus hmdbrim">
     <speaker>
      שמות המדברים
     </speaker>
@@ -168,7 +168,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khimn">
+    <sp who="#khimn">
      <speaker>
       אחימן
      </speaker>
@@ -180,7 +180,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -195,7 +195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khimn">
+    <sp who="#khimn">
      <speaker>
       אחימן
      </speaker>
@@ -205,7 +205,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shׁulmis">
+    <sp who="#shׁulmis">
      <speaker>
       שׁולמית
      </speaker>
@@ -267,7 +267,7 @@
     </sp>
    </div>
    <div>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -283,7 +283,7 @@
     </sp>
    </div>
    <div>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -313,7 +313,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khimn">
+    <sp who="#khimn">
      <speaker>
       אחימן
      </speaker>
@@ -409,7 +409,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -421,7 +421,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khimn">
+    <sp who="#khimn">
      <speaker>
       אחימן
      </speaker>
@@ -434,7 +434,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -451,7 +451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmskh nufl">
+    <sp who="#hmskh nufl">
      <speaker>
       המסך נופל
      </speaker>
@@ -484,7 +484,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -504,7 +504,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="reih">
+    <sp who="#reih">
      <speaker>
       רעיה
      </speaker>
@@ -514,7 +514,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -529,7 +529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="reih">
+    <sp who="#reih">
      <speaker>
       רעיה
      </speaker>
@@ -559,7 +559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -577,7 +577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="reih">
+    <sp who="#reih">
      <speaker>
       רעיה
      </speaker>
@@ -589,7 +589,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -599,7 +599,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="reih">
+    <sp who="#reih">
      <speaker>
       רעיה
      </speaker>
@@ -609,7 +609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -629,7 +629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmskh nufl">
+    <sp who="#hmskh nufl">
      <speaker>
       המסך נופל
      </speaker>
@@ -643,7 +643,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -716,7 +716,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="reih">
+    <sp who="#reih">
      <speaker>
       רעיה
      </speaker>
@@ -726,7 +726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -840,7 +840,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -876,7 +876,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -894,7 +894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khimn">
+    <sp who="#khimn">
      <speaker>
       אחימן
      </speaker>
@@ -948,7 +948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -996,7 +996,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="dug">
+    <sp who="#dug">
      <speaker>
       דואג
      </speaker>
@@ -1006,7 +1006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shulmis">
+    <sp who="#shulmis">
      <speaker>
       שולמית
      </speaker>
@@ -1035,7 +1035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="(hmskh nufl)">
+    <sp who="#(hmskh nufl)">
      <speaker>
       (המסך נופל)
      </speaker>

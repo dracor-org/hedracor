@@ -49,564 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="shtufbr">
-      <persName>
-       שטופבר
-      </persName>
-     </person>
-     <person xml:id="ִitֶl rֶdִinְgְּ">
-      <persName>
-       אִיטֶל רֶדִינְגְּ
-      </persName>
-     </person>
-     <person xml:id="uִilְhֶlְm tֶl">
-      <persName>
-       וִילְהֶלְם טֶל
-      </persName>
-     </person>
-     <person xml:id="yuhn fritsidh">
-      <persName>
-       יוהן פריצידה
-      </persName>
-     </person>
-     <person xml:id="rudi">
-      <persName>
-       רודי
-      </persName>
-     </person>
-     <person xml:id="ruduֹlְf ִishׁ hָrָs">
-      <persName>
-       רוּדוֹלְף אִישׁ הָרָס
-      </persName>
-     </person>
-     <person xml:id="mur">
-      <persName>
-       מואר
-      </persName>
-     </person>
-     <person xml:id="mir">
-      <persName>
-       מיאר
-      </persName>
-     </person>
-     <person xml:id="pָrָshֵׁi gֶsְlֶr uְlַnְdֶּnְbֶrְgְּ">
-      <persName>
-       פָּרָשֵׁי גֶסְלֶר וְלַנְדֶּנְבֶּרְגְּ
-      </persName>
-     </person>
-     <person xml:id="rmgrdh">
-      <persName>
-       ארמגרדה
-      </persName>
-     </person>
-     <person xml:id="oynklird">
-      <persName>
-       וינקלירד
-      </persName>
-     </person>
-     <person xml:id="kunrd">
-      <persName>
-       קונרד
-      </persName>
-     </person>
-     <person xml:id="ulsr tl">
-      <persName>
-       ולתר טל
-      </persName>
-     </person>
-     <person xml:id="rudnts">
-      <persName>
-       רודנץ
-      </persName>
-     </person>
-     <person xml:id="kuֹnְrַd buֹmְgַּrְtֶn">
-      <persName>
-       קוֹנְרַד בּוֹמְגַּרְטֶן
-      </persName>
-     </person>
-     <person xml:id="sfi">
-      <persName>
-       ספי
-      </persName>
-     </person>
-     <person xml:id="kunְts ִishׁ gֶּrְsָb">
-      <persName>
-       קוּנְץ אִישׁ גֶּרְסָב
-      </persName>
-     </person>
-     <person xml:id="kuni urudi">
-      <persName>
-       קוני ורודי
-      </persName>
-     </person>
-     <person xml:id="ish flui">
-      <persName>
-       איש פלואי
-      </persName>
-     </person>
-     <person xml:id="hkhruz">
-      <persName>
-       הכרוז
-      </persName>
-     </person>
-     <person xml:id="hnzir">
-      <persName>
-       הנזיר
-      </persName>
-     </person>
-     <person xml:id="hmkrin shr luri">
-      <persName>
-       המקרין אשר לאורי
-      </persName>
-     </person>
-     <person xml:id="rdin">
-      <persName>
-       רדינ
-      </persName>
-     </person>
-     <person xml:id="mkhsildh">
-      <persName>
-       מכתילדה
-      </persName>
-     </person>
-     <person xml:id="frsh rshun">
-      <persName>
-       פרש ראשון
-      </persName>
-     </person>
-     <person xml:id="hsushbim">
-      <persName>
-       התושבים
-      </persName>
-     </person>
-     <person xml:id="uַlְtֶr">
-      <persName>
-       וַלְתֶּר
-      </persName>
-     </person>
-     <person xml:id="hmrkhl">
-      <persName>
-       האמרכל
-      </persName>
-     </person>
-     <person xml:id="rslmn umlkhsl">
-      <persName>
-       רסלמן ומלכתל
-      </persName>
-     </person>
-     <person xml:id="rֶsֶlְmַn hַkֹhֵn">
-      <persName>
-       רֶסֶלְמַן הַכֹּהֵן
-      </persName>
-     </person>
-     <person xml:id="brsh">
-      <persName>
-       ברתה
-      </persName>
-     </person>
-     <person xml:id="hַpָkִid">
-      <persName>
-       הַפָּקִיד
-      </persName>
-     </person>
-     <person xml:id="tl lbumgrtn">
-      <persName>
-       טל לבומגרטן
-      </persName>
-     </person>
-     <person xml:id="yuֹhַn pָrִitsִidָh">
-      <persName>
-       יוֹהַן פָּרִיצִידָה
-      </persName>
-     </person>
-     <person xml:id="lmlkhsl">
-      <persName>
-       למלכתל
-      </persName>
-     </person>
-     <person xml:id="tinghuzn urudnts">
-      <persName>
-       אטינגהוזן ורודנץ
-      </persName>
-     </person>
-     <person xml:id="flui">
-      <persName>
-       פלואי
-      </persName>
-     </person>
-     <person xml:id="fritsidh">
-      <persName>
-       פריצידה
-      </persName>
-     </person>
-     <person xml:id="bֶrְtָh">
-      <persName>
-       בֶּרְתָּה
-      </persName>
-     </person>
-     <person xml:id="hֶrְmַn gֶּsְlֶr">
-      <persName>
-       הֶרְמַן גֶּסְלֶר
-      </persName>
-     </person>
-     <person xml:id="u. first">
-      <persName>
-       ו. פירסט
-      </persName>
-     </person>
-     <person xml:id="hִilְdֶּgַrְdָּh">
-      <persName>
-       הִילְדֶּגַרְדָּה
-      </persName>
-     </person>
-     <person xml:id="em hrts">
-      <persName>
-       עם הארץ
-      </persName>
-     </person>
-     <person xml:id="uִilְhֶlְm">
-      <persName>
-       וִילְהֶלְם
-      </persName>
-     </person>
-     <person xml:id="oylr">
-      <persName>
-       וילר
-      </persName>
-     </person>
-     <person xml:id="uֶrְnִi hַtsַּiָd">
-      <persName>
-       וֶרְנִי הַצַּיָד
-      </persName>
-     </person>
-     <person xml:id="bְgִּisְgְּrַd">
-      <persName>
-       בְּגִּיסְגְּרַד
-      </persName>
-     </person>
-     <person xml:id="lithuld">
-      <persName>
-       ליטהולד
-      </persName>
-     </person>
-     <person xml:id="frsh shni">
-      <persName>
-       פרש שני
-      </persName>
-     </person>
-     <person xml:id="sֶpִi">
-      <persName>
-       סֶפִּי
-      </persName>
-     </person>
-     <person xml:id="ruֹdִi hַdַּiָּg">
-      <persName>
-       רוֹדִי הַדַּיָּג
-      </persName>
-     </person>
-     <person xml:id="ulsr first">
-      <persName>
-       ולתר פירסט
-      </persName>
-     </person>
-     <person xml:id="iֶ’nִּi">
-      <persName>
-       יֶ’נִּי
-      </persName>
-     </person>
-     <person xml:id="kulus rbim">
-      <persName>
-       קולות רבים
-      </persName>
-     </person>
-     <person xml:id="hֶdְuִigָh">
-      <persName>
-       הֶדְוִיגָה
-      </persName>
-     </person>
-     <person xml:id="kunrd hun">
-      <persName>
-       קונרד הון
-      </persName>
-     </person>
-     <person xml:id="ulsr">
-      <persName>
-       ולתר
-      </persName>
-     </person>
-     <person xml:id="gslr">
-      <persName>
-       גסלר
-      </persName>
-     </person>
-     <person xml:id="tinghuznֶ">
-      <persName>
-       אטינגהוזןֶ
-      </persName>
-     </person>
-     <person xml:id="hrueim uuֶrni">
-      <persName>
-       הרועים וּוֶרני
-      </persName>
-     </person>
-     <person xml:id="hdig uhner">
-      <persName>
-       הדיג והנער
-      </persName>
-     </person>
-     <person xml:id="oynklrid">
-      <persName>
-       וינקלריד
-      </persName>
-     </person>
-     <person xml:id="frishrt">
-      <persName>
-       פריסהרט
-      </persName>
-     </person>
-     <person xml:id="burְkְhַrְtְ buhֶl">
-      <persName>
-       בּוּרְקְהַרְטְ בּוּהֶל
-      </persName>
-     </person>
-     <person xml:id="hdig">
-      <persName>
-       הדיג
-      </persName>
-     </person>
-     <person xml:id="urni">
-      <persName>
-       ורני
-      </persName>
-     </person>
-     <person xml:id="arְnuֹlְdְּ ִishׁ mֶlְkhְtַl">
-      <persName>
-       אַרְנוֹלְדְּ אִישׁ מֶלְכְתַּל
-      </persName>
-     </person>
-     <person xml:id="sְtְrut ִishׁ uִinְkֶlְrִid">
-      <persName>
-       סְטְרוּט אִישׁ וִינְקֶלְרִיד
-      </persName>
-     </person>
-     <person xml:id="ffifr">
-      <persName>
-       פפיפר
-      </persName>
-     </person>
-     <person xml:id="ftrmn">
-      <persName>
-       פטרמן
-      </persName>
-     </person>
-     <person xml:id="buhl">
-      <persName>
-       בוהל
-      </persName>
-     </person>
-     <person xml:id="anְshֵׁi hַtsַּid">
-      <persName>
-       אַנְשֵׁי הַצַּיִד
-      </persName>
-     </person>
-     <person xml:id="mַkְrִin urִi">
-      <persName>
-       מַקְרִין אוּרִי
-      </persName>
-     </person>
-     <person xml:id="arְmְgַּrְdָּh">
-      <persName>
-       אַרְמְגַּרְדָּה
-      </persName>
-     </person>
-     <person xml:id="uַlְtֶr fִirְsְtְ">
-      <persName>
-       וַלְתֶּר פִירְסְטְ
-      </persName>
-     </person>
-     <person xml:id="spi">
-      <persName>
-       ספּי
-      </persName>
-     </person>
-     <person xml:id="hem">
-      <persName>
-       העם
-      </persName>
-     </person>
-     <person xml:id="ptrmn">
-      <persName>
-       פּטרמן
-      </persName>
-     </person>
-     <person xml:id="urni mlmelh">
-      <persName>
-       ורני מלמעלה
-      </persName>
-     </person>
-     <person xml:id="mlkhsl">
-      <persName>
-       מלכתל
-      </persName>
-     </person>
-     <person xml:id="fְrִisְhַrְtְ">
-      <persName>
-       פְרִיסְהַרְטְ
-      </persName>
-     </person>
-     <person xml:id="rding">
-      <persName>
-       רדינג
-      </persName>
-     </person>
-     <person xml:id="tsִir hַmֶּlֶkhְ">
-      <persName>
-       צִיר הַמֶּלֶךְ
-      </persName>
-     </person>
-     <person xml:id="ulsr first umlkhsl">
-      <persName>
-       ולתר פירסט וּמלכתל
-      </persName>
-     </person>
-     <person xml:id="hsgn">
-      <persName>
-       הסגן
-      </persName>
-     </person>
-     <person xml:id="uֶrְnֶr">
-      <persName>
-       וֶרְנֶר
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="ֱlִishַׁbְeַs">
-      <persName>
-       אֱלִישַׁבְעַת
-      </persName>
-     </person>
-     <person xml:id="hfkid">
-      <persName>
-       הפקיד
-      </persName>
-     </person>
-     <person xml:id="kuֹnְrַd bumgַrְtֶn">
-      <persName>
-       קוֹנְרַד בומגַרְטֶן
-      </persName>
-     </person>
-     <person xml:id="hmrkhlim">
-      <persName>
-       האמרכלים
-      </persName>
-     </person>
-     <person xml:id="ish oynklrid">
-      <persName>
-       איש וינקלריד
-      </persName>
-     </person>
-     <person xml:id="akhֵi rַkhֲmִim">
-      <persName>
-       אַחֵי רַחֲמִים
-      </persName>
-     </person>
-     <person xml:id="shְׁtusִi">
-      <persName>
-       שְׁטוּסִי
-      </persName>
-     </person>
-     <person xml:id="mrkhl shni">
-      <persName>
-       אמרכל שני
-      </persName>
-     </person>
-     <person xml:id="tl">
-      <persName>
-       טל
-      </persName>
-     </person>
-     <person xml:id="ֻlְrִikhְ lbis rudֶnְts">
-      <persName>
-       אֻלְרִיךְ לבית רוּדֶנְץ
-      </persName>
-     </person>
-     <person xml:id="hnshim">
-      <persName>
-       הנשים
-      </persName>
-     </person>
-     <person xml:id="bumgrtn">
-      <persName>
-       בומגרטן
-      </persName>
-     </person>
-     <person xml:id="gֶּrְtְrudָh">
-      <persName>
-       גֶּרְטְרוּדָה
-      </persName>
-     </person>
      <person xml:id="hַkָruֹzִim">
       <persName>
        הַכָּרוֹזִים
-      </persName>
-     </person>
-     <person xml:id="shtufkhr">
-      <persName>
-       שטופכר
-      </persName>
-     </person>
-     <person xml:id="lishbes">
-      <persName>
-       אלישבעת
-      </persName>
-     </person>
-     <person xml:id="kuֹnִi hָruֹeֶh">
-      <persName>
-       קוֹנִי הָרוֹעֶה
-      </persName>
-     </person>
-     <person xml:id="grtrudh">
-      <persName>
-       גרטרודה
-      </persName>
-     </person>
-     <person xml:id="hַnְs muֶֹr">
-      <persName>
-       הַנְס מוֹאֶר
-      </persName>
-     </person>
-     <person xml:id="hgudr">
-      <persName>
-       הגודר
-      </persName>
-     </person>
-     <person xml:id="ֻlְrִikhְ shְׁmִid">
-      <persName>
-       אֻלְרִיךְ שְׁמִיד
-      </persName>
-     </person>
-     <person xml:id="huf">
-      <persName>
-       הוף
-      </persName>
-     </person>
-     <person xml:id="kuֹnְrַd hun">
-      <persName>
-       קוֹנְרַד הוּן
-      </persName>
-     </person>
-     <person xml:id="mֶkhְtִilְdָּh">
-      <persName>
-       מֶכְתִּילְדָּה
-      </persName>
-     </person>
-     <person xml:id="syuh">
-      <persName>
-       סיוה
       </persName>
      </person>
      <person xml:id="hner">
@@ -614,144 +59,29 @@
        הנער
       </persName>
      </person>
-     <person xml:id="kuni">
+     <person xml:id="lithuld">
       <persName>
-       קוני
+       ליטהולד
       </persName>
      </person>
-     <person xml:id="rudvlf ish hrs">
+     <person xml:id="fְrִisְhַrְtְ">
       <persName>
-       רודוולף איש הרס
+       פְרִיסְהַרְטְ
       </persName>
      </person>
-     <person xml:id="arְnuֹlְdְּ ִishׁ sֵyuָh">
+     <person xml:id="rudnts">
       <persName>
-       אַרְנוֹלְדְּ אִישׁ סֵיוָה
+       רודנץ
       </persName>
      </person>
-     <person xml:id="oynkkhrid">
+     <person xml:id="sְtְrut ִishׁ uִinְkֶlְrִid">
       <persName>
-       וינקךריד
+       סְטְרוּט אִישׁ וִינְקֶלְרִיד
       </persName>
      </person>
-     <person xml:id="tinghuzn">
+     <person xml:id="ruduֹlְf ִishׁ hָrָs">
       <persName>
-       אטינגהוזן
-      </persName>
-     </person>
-     <person xml:id="kְluֹz ִishׁ fְluֶi">
-      <persName>
-       קְלוֹז אִישׁ פְלוּאֶי
-      </persName>
-     </person>
-     <person xml:id="lshtufkhr">
-      <persName>
-       לשטופכר
-      </persName>
-     </person>
-     <person xml:id="pְfַiְfֶr ִishׁ lutsֶrְn">
-      <persName>
-       פְּפַיְפֶר אִישׁ לוּצֶרְן
-      </persName>
-     </person>
-     <person xml:id="fuel zkn">
-      <persName>
-       פועל זקן
-      </persName>
-     </person>
-     <person xml:id="kunts">
-      <persName>
-       קונץ
-      </persName>
-     </person>
-     <person xml:id="mַiְֶr ִishׁ sַrְnֶn">
-      <persName>
-       מַיְאֶר אִישׁ סַרְנֶן
-      </persName>
-     </person>
-     <person xml:id="hgudr uhmrkhl">
-      <persName>
-       הגודר והאמרכל
-      </persName>
-     </person>
-     <person xml:id="ulsr first ushtufkhr">
-      <persName>
-       ולתר פירסט ושטופכר
-      </persName>
-     </person>
-     <person xml:id="ish syuh">
-      <persName>
-       איש סיוה
-      </persName>
-     </person>
-     <person xml:id="tinhuzn">
-      <persName>
-       אטינהוזן
-      </persName>
-     </person>
-     <person xml:id="shtusi">
-      <persName>
-       שטוסי
-      </persName>
-     </person>
-     <person xml:id="pֶtֶrְmַn hַsְּgָn">
-      <persName>
-       פֶּטֶרְמַן הַסְּגָן
-      </persName>
-     </person>
-     <person xml:id="tinghuz">
-      <persName>
-       אטינגהוז
-      </persName>
-     </person>
-     <person xml:id="mrkhl rshun">
-      <persName>
-       אמרכל ראשון
-      </persName>
-     </person>
-     <person xml:id="rudulf ish hrs">
-      <persName>
-       רודולף איש הרס
-      </persName>
-     </person>
-     <person xml:id="oylhlm tl">
-      <persName>
-       וילהלם טל
-      </persName>
-     </person>
-     <person xml:id="rudulf">
-      <persName>
-       רודולף
-      </persName>
-     </person>
-     <person xml:id="oylhlm">
-      <persName>
-       וילהלם
-      </persName>
-     </person>
-     <person xml:id="rslmn">
-      <persName>
-       רסלמן
-      </persName>
-     </person>
-     <person xml:id="yuֹrְgְּ huֹf">
-      <persName>
-       יוֹרְגְּ הוֹף
-      </persName>
-     </person>
-     <person xml:id="mur">
-      <persName>
-       מאור
-      </persName>
-     </person>
-     <person xml:id="gּuֹdֵr, puֹeֲlִim uְsַbָlִim">
-      <persName>
-       גּוֹדֵר, פּוֹעֲלִים וְסַבָּלִים
-      </persName>
-     </person>
-     <person xml:id="uֶrְnֶr shְׁtuֹfָkhֶr">
-      <persName>
-       וֶרְנֶר שְׁטוֹפָכֶר
+       רוּדוֹלְף אִישׁ הָרָס
       </persName>
      </person>
      <person xml:id="i’ni">
@@ -759,9 +89,679 @@
        י’ני
       </persName>
      </person>
+     <person xml:id="urni">
+      <persName>
+       ורני
+      </persName>
+     </person>
+     <person xml:id="hsushbim">
+      <persName>
+       התושבים
+      </persName>
+     </person>
+     <person xml:id="sֶpִi">
+      <persName>
+       סֶפִּי
+      </persName>
+     </person>
+     <person xml:id="ish flui">
+      <persName>
+       איש פלואי
+      </persName>
+     </person>
+     <person xml:id="oylr">
+      <persName>
+       וילר
+      </persName>
+     </person>
+     <person xml:id="hdig">
+      <persName>
+       הדיג
+      </persName>
+     </person>
+     <person xml:id="lshtufkhr">
+      <persName>
+       לשטופכר
+      </persName>
+     </person>
+     <person xml:id="spi">
+      <persName>
+       ספּי
+      </persName>
+     </person>
+     <person xml:id="lishbes">
+      <persName>
+       אלישבעת
+      </persName>
+     </person>
+     <person xml:id="iֶ’nִּi">
+      <persName>
+       יֶ’נִּי
+      </persName>
+     </person>
+     <person xml:id="tinghuz">
+      <persName>
+       אטינגהוז
+      </persName>
+     </person>
+     <person xml:id="yuhn fritsidh">
+      <persName>
+       יוהן פריצידה
+      </persName>
+     </person>
      <person xml:id="hdoygh">
       <persName>
        הדויגה
+      </persName>
+     </person>
+     <person xml:id="ֻlְrִikhְ lbis rudֶnְts">
+      <persName>
+       אֻלְרִיךְ לבית רוּדֶנְץ
+      </persName>
+     </person>
+     <person xml:id="fritsidh">
+      <persName>
+       פריצידה
+      </persName>
+     </person>
+     <person xml:id="yuֹhַn pָrִitsִidָh">
+      <persName>
+       יוֹהַן פָּרִיצִידָה
+      </persName>
+     </person>
+     <person xml:id="ish syuh">
+      <persName>
+       איש סיוה
+      </persName>
+     </person>
+     <person xml:id="ulsr first umlkhsl">
+      <persName>
+       ולתר פירסט וּמלכתל
+      </persName>
+     </person>
+     <person xml:id="rudulf">
+      <persName>
+       רודולף
+      </persName>
+     </person>
+     <person xml:id="tinhuzn">
+      <persName>
+       אטינהוזן
+      </persName>
+     </person>
+     <person xml:id="bְgִּisְgְּrַd">
+      <persName>
+       בְּגִּיסְגְּרַד
+      </persName>
+     </person>
+     <person xml:id="hrueim uuֶrni">
+      <persName>
+       הרועים וּוֶרני
+      </persName>
+     </person>
+     <person xml:id="sfi">
+      <persName>
+       ספי
+      </persName>
+     </person>
+     <person xml:id="burְkְhַrְtְ buhֶl">
+      <persName>
+       בּוּרְקְהַרְטְ בּוּהֶל
+      </persName>
+     </person>
+     <person xml:id="kunts">
+      <persName>
+       קונץ
+      </persName>
+     </person>
+     <person xml:id="ffifr">
+      <persName>
+       פפיפר
+      </persName>
+     </person>
+     <person xml:id="shtufbr">
+      <persName>
+       שטופבר
+      </persName>
+     </person>
+     <person xml:id="hmkrin shr luri">
+      <persName>
+       המקרין אשר לאורי
+      </persName>
+     </person>
+     <person xml:id="tl">
+      <persName>
+       טל
+      </persName>
+     </person>
+     <person xml:id="kulus rbim">
+      <persName>
+       קולות רבים
+      </persName>
+     </person>
+     <person xml:id="uֶrְnֶr">
+      <persName>
+       וֶרְנֶר
+      </persName>
+     </person>
+     <person xml:id="hַpָkִid">
+      <persName>
+       הַפָּקִיד
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="hmrkhlim">
+      <persName>
+       האמרכלים
+      </persName>
+     </person>
+     <person xml:id="kunְts ִishׁ gֶּrְsָb">
+      <persName>
+       קוּנְץ אִישׁ גֶּרְסָב
+      </persName>
+     </person>
+     <person xml:id="ֱlִishַׁbְeַs">
+      <persName>
+       אֱלִישַׁבְעַת
+      </persName>
+     </person>
+     <person xml:id="uֶrְnֶr shְׁtuֹfָkhֶr">
+      <persName>
+       וֶרְנֶר שְׁטוֹפָכֶר
+      </persName>
+     </person>
+     <person xml:id="rdin">
+      <persName>
+       רדינ
+      </persName>
+     </person>
+     <person xml:id="kuֹnִi hָruֹeֶh">
+      <persName>
+       קוֹנִי הָרוֹעֶה
+      </persName>
+     </person>
+     <person xml:id="rudvlf ish hrs">
+      <persName>
+       רודוולף איש הרס
+      </persName>
+     </person>
+     <person xml:id="mlkhsl">
+      <persName>
+       מלכתל
+      </persName>
+     </person>
+     <person xml:id="tinghuzn urudnts">
+      <persName>
+       אטינגהוזן ורודנץ
+      </persName>
+     </person>
+     <person xml:id="rmgrdh">
+      <persName>
+       ארמגרדה
+      </persName>
+     </person>
+     <person xml:id="hnshim">
+      <persName>
+       הנשים
+      </persName>
+     </person>
+     <person xml:id="ish oynklrid">
+      <persName>
+       איש וינקלריד
+      </persName>
+     </person>
+     <person xml:id="kuni">
+      <persName>
+       קוני
+      </persName>
+     </person>
+     <person xml:id="u. first">
+      <persName>
+       ו. פירסט
+      </persName>
+     </person>
+     <person xml:id="anְshֵׁi hַtsַּid">
+      <persName>
+       אַנְשֵׁי הַצַּיִד
+      </persName>
+     </person>
+     <person xml:id="mur">
+      <persName>
+       מאור
+      </persName>
+     </person>
+     <person xml:id="oynklird">
+      <persName>
+       וינקלירד
+      </persName>
+     </person>
+     <person xml:id="kuni urudi">
+      <persName>
+       קוני ורודי
+      </persName>
+     </person>
+     <person xml:id="yuֹrְgְּ huֹf">
+      <persName>
+       יוֹרְגְּ הוֹף
+      </persName>
+     </person>
+     <person xml:id="pֶtֶrְmַn hַsְּgָn">
+      <persName>
+       פֶּטֶרְמַן הַסְּגָן
+      </persName>
+     </person>
+     <person xml:id="rudulf ish hrs">
+      <persName>
+       רודולף איש הרס
+      </persName>
+     </person>
+     <person xml:id="ִitֶl rֶdִinְgְּ">
+      <persName>
+       אִיטֶל רֶדִינְגְּ
+      </persName>
+     </person>
+     <person xml:id="buhl">
+      <persName>
+       בוהל
+      </persName>
+     </person>
+     <person xml:id="oylhlm">
+      <persName>
+       וילהלם
+      </persName>
+     </person>
+     <person xml:id="ulsr first">
+      <persName>
+       ולתר פירסט
+      </persName>
+     </person>
+     <person xml:id="tinghuzn">
+      <persName>
+       אטינגהוזן
+      </persName>
+     </person>
+     <person xml:id="oynklrid">
+      <persName>
+       וינקלריד
+      </persName>
+     </person>
+     <person xml:id="gֶּrְtְrudָh">
+      <persName>
+       גֶּרְטְרוּדָה
+      </persName>
+     </person>
+     <person xml:id="pָrָshֵׁi gֶsְlֶr uְlַnְdֶּnְbֶrְgְּ">
+      <persName>
+       פָּרָשֵׁי גֶסְלֶר וְלַנְדֶּנְבֶּרְגְּ
+      </persName>
+     </person>
+     <person xml:id="kunrd">
+      <persName>
+       קונרד
+      </persName>
+     </person>
+     <person xml:id="mur">
+      <persName>
+       מואר
+      </persName>
+     </person>
+     <person xml:id="kuֹnְrַd bumgַrְtֶn">
+      <persName>
+       קוֹנְרַד בומגַרְטֶן
+      </persName>
+     </person>
+     <person xml:id="kuֹnְrַd buֹmְgַּrְtֶn">
+      <persName>
+       קוֹנְרַד בּוֹמְגַּרְטֶן
+      </persName>
+     </person>
+     <person xml:id="hַnְs muֶֹr">
+      <persName>
+       הַנְס מוֹאֶר
+      </persName>
+     </person>
+     <person xml:id="arְnuֹlְdְּ ִishׁ mֶlְkhְtַl">
+      <persName>
+       אַרְנוֹלְדְּ אִישׁ מֶלְכְתַּל
+      </persName>
+     </person>
+     <person xml:id="urni mlmelh">
+      <persName>
+       ורני מלמעלה
+      </persName>
+     </person>
+     <person xml:id="rslmn umlkhsl">
+      <persName>
+       רסלמן ומלכתל
+      </persName>
+     </person>
+     <person xml:id="mir">
+      <persName>
+       מיאר
+      </persName>
+     </person>
+     <person xml:id="ftrmn">
+      <persName>
+       פטרמן
+      </persName>
+     </person>
+     <person xml:id="uִilְhֶlְm tֶl">
+      <persName>
+       וִילְהֶלְם טֶל
+      </persName>
+     </person>
+     <person xml:id="uִilְhֶlְm">
+      <persName>
+       וִילְהֶלְם
+      </persName>
+     </person>
+     <person xml:id="hsgn">
+      <persName>
+       הסגן
+      </persName>
+     </person>
+     <person xml:id="ulsr tl">
+      <persName>
+       ולתר טל
+      </persName>
+     </person>
+     <person xml:id="em hrts">
+      <persName>
+       עם הארץ
+      </persName>
+     </person>
+     <person xml:id="rudi">
+      <persName>
+       רודי
+      </persName>
+     </person>
+     <person xml:id="ֻlְrִikhְ shְׁmִid">
+      <persName>
+       אֻלְרִיךְ שְׁמִיד
+      </persName>
+     </person>
+     <person xml:id="frishrt">
+      <persName>
+       פריסהרט
+      </persName>
+     </person>
+     <person xml:id="uַlְtֶr fִirְsְtְ">
+      <persName>
+       וַלְתֶּר פִירְסְטְ
+      </persName>
+     </person>
+     <person xml:id="mַiְֶr ִishׁ sַrְnֶn">
+      <persName>
+       מַיְאֶר אִישׁ סַרְנֶן
+      </persName>
+     </person>
+     <person xml:id="flui">
+      <persName>
+       פלואי
+      </persName>
+     </person>
+     <person xml:id="tsִir hַmֶּlֶkhְ">
+      <persName>
+       צִיר הַמֶּלֶךְ
+      </persName>
+     </person>
+     <person xml:id="rding">
+      <persName>
+       רדינג
+      </persName>
+     </person>
+     <person xml:id="ulsr first ushtufkhr">
+      <persName>
+       ולתר פירסט ושטופכר
+      </persName>
+     </person>
+     <person xml:id="hgudr">
+      <persName>
+       הגודר
+      </persName>
+     </person>
+     <person xml:id="lmlkhsl">
+      <persName>
+       למלכתל
+      </persName>
+     </person>
+     <person xml:id="arְmְgַּrְdָּh">
+      <persName>
+       אַרְמְגַּרְדָּה
+      </persName>
+     </person>
+     <person xml:id="syuh">
+      <persName>
+       סיוה
+      </persName>
+     </person>
+     <person xml:id="tinghuznֶ">
+      <persName>
+       אטינגהוזןֶ
+      </persName>
+     </person>
+     <person xml:id="huf">
+      <persName>
+       הוף
+      </persName>
+     </person>
+     <person xml:id="grtrudh">
+      <persName>
+       גרטרודה
+      </persName>
+     </person>
+     <person xml:id="arְnuֹlְdְּ ִishׁ sֵyuָh">
+      <persName>
+       אַרְנוֹלְדְּ אִישׁ סֵיוָה
+      </persName>
+     </person>
+     <person xml:id="akhֵi rַkhֲmִim">
+      <persName>
+       אַחֵי רַחֲמִים
+      </persName>
+     </person>
+     <person xml:id="ulsr">
+      <persName>
+       ולתר
+      </persName>
+     </person>
+     <person xml:id="mַkְrִin urִi">
+      <persName>
+       מַקְרִין אוּרִי
+      </persName>
+     </person>
+     <person xml:id="hֶdְuִigָh">
+      <persName>
+       הֶדְוִיגָה
+      </persName>
+     </person>
+     <person xml:id="hgudr uhmrkhl">
+      <persName>
+       הגודר והאמרכל
+      </persName>
+     </person>
+     <person xml:id="mֶkhְtִilְdָּh">
+      <persName>
+       מֶכְתִּילְדָּה
+      </persName>
+     </person>
+     <person xml:id="kְluֹz ִishׁ fְluֶi">
+      <persName>
+       קְלוֹז אִישׁ פְלוּאֶי
+      </persName>
+     </person>
+     <person xml:id="ptrmn">
+      <persName>
+       פּטרמן
+      </persName>
+     </person>
+     <person xml:id="uֶrְnִi hַtsַּiָd">
+      <persName>
+       וֶרְנִי הַצַּיָד
+      </persName>
+     </person>
+     <person xml:id="brsh">
+      <persName>
+       ברתה
+      </persName>
+     </person>
+     <person xml:id="hmrkhl">
+      <persName>
+       האמרכל
+      </persName>
+     </person>
+     <person xml:id="mkhsildh">
+      <persName>
+       מכתילדה
+      </persName>
+     </person>
+     <person xml:id="bumgrtn">
+      <persName>
+       בומגרטן
+      </persName>
+     </person>
+     <person xml:id="fuel zkn">
+      <persName>
+       פועל זקן
+      </persName>
+     </person>
+     <person xml:id="hnzir">
+      <persName>
+       הנזיר
+      </persName>
+     </person>
+     <person xml:id="shְׁtusִi">
+      <persName>
+       שְׁטוּסִי
+      </persName>
+     </person>
+     <person xml:id="shtufkhr">
+      <persName>
+       שטופכר
+      </persName>
+     </person>
+     <person xml:id="gslr">
+      <persName>
+       גסלר
+      </persName>
+     </person>
+     <person xml:id="frsh rshun">
+      <persName>
+       פרש ראשון
+      </persName>
+     </person>
+     <person xml:id="tl lbumgrtn">
+      <persName>
+       טל לבומגרטן
+      </persName>
+     </person>
+     <person xml:id="ruֹdִi hַdַּiָּg">
+      <persName>
+       רוֹדִי הַדַּיָּג
+      </persName>
+     </person>
+     <person xml:id="hֶrְmַn gֶּsְlֶr">
+      <persName>
+       הֶרְמַן גֶּסְלֶר
+      </persName>
+     </person>
+     <person xml:id="gּuֹdֵr, puֹeֲlִim uְsַbָlִim">
+      <persName>
+       גּוֹדֵר, פּוֹעֲלִים וְסַבָּלִים
+      </persName>
+     </person>
+     <person xml:id="oynkkhrid">
+      <persName>
+       וינקךריד
+      </persName>
+     </person>
+     <person xml:id="hkhruz">
+      <persName>
+       הכרוז
+      </persName>
+     </person>
+     <person xml:id="rֶsֶlְmַn hַkֹhֵn">
+      <persName>
+       רֶסֶלְמַן הַכֹּהֵן
+      </persName>
+     </person>
+     <person xml:id="frsh shni">
+      <persName>
+       פרש שני
+      </persName>
+     </person>
+     <person xml:id="uַlְtֶr">
+      <persName>
+       וַלְתֶּר
+      </persName>
+     </person>
+     <person xml:id="hfkid">
+      <persName>
+       הפקיד
+      </persName>
+     </person>
+     <person xml:id="kunrd hun">
+      <persName>
+       קונרד הון
+      </persName>
+     </person>
+     <person xml:id="mrkhl rshun">
+      <persName>
+       אמרכל ראשון
+      </persName>
+     </person>
+     <person xml:id="rslmn">
+      <persName>
+       רסלמן
+      </persName>
+     </person>
+     <person xml:id="oylhlm tl">
+      <persName>
+       וילהלם טל
+      </persName>
+     </person>
+     <person xml:id="pְfַiְfֶr ִishׁ lutsֶrְn">
+      <persName>
+       פְּפַיְפֶר אִישׁ לוּצֶרְן
+      </persName>
+     </person>
+     <person xml:id="hִilְdֶּgַrְdָּh">
+      <persName>
+       הִילְדֶּגַרְדָּה
+      </persName>
+     </person>
+     <person xml:id="kuֹnְrַd hun">
+      <persName>
+       קוֹנְרַד הוּן
+      </persName>
+     </person>
+     <person xml:id="bֶrְtָh">
+      <persName>
+       בֶּרְתָּה
+      </persName>
+     </person>
+     <person xml:id="mrkhl shni">
+      <persName>
+       אמרכל שני
+      </persName>
+     </person>
+     <person xml:id="shtusi">
+      <persName>
+       שטוסי
+      </persName>
+     </person>
+     <person xml:id="hem">
+      <persName>
+       העם
+      </persName>
+     </person>
+     <person xml:id="hdig uhner">
+      <persName>
+       הדיג והנער
       </persName>
      </person>
     </listPerson>
@@ -783,7 +783,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hֶrְmַn gֶּsְlֶr">
+   <sp who="#hֶrְmַn gֶּsְlֶr">
     <speaker>
      הֶרְמַן גֶּסְלֶר
     </speaker>
@@ -791,7 +791,7 @@
      , נציב המלך בשויץ ובאוּרִי
     </p>
    </sp>
-   <sp who="uֶrְnֶr">
+   <sp who="#uֶrְnֶr">
     <speaker>
      וֶרְנֶר
     </speaker>
@@ -799,7 +799,7 @@
      , הָאַלּוּף לבית אַטִּינְגְּהוֹזֶן, דַּגָּל
     </p>
    </sp>
-   <sp who="ֻlְrִikhְ lbis rudֶnְts">
+   <sp who="#ֻlְrִikhְ lbis rudֶnְts">
     <speaker>
      אֻלְרִיךְ לבית רוּדֶנְץ
     </speaker>
@@ -807,32 +807,32 @@
      , בן אחותו
     </p>
    </sp>
-   <sp who="uֶrְnֶr shְׁtuֹfָkhֶr">
+   <sp who="#uֶrְnֶr shְׁtuֹfָkhֶr">
     <speaker>
      וֶרְנֶר שְׁטוֹפָכֶר
     </speaker>
    </sp>
-   <sp who="kuֹnְrַd hun">
+   <sp who="#kuֹnְrַd hun">
     <speaker>
      קוֹנְרַד הוּן
     </speaker>
    </sp>
-   <sp who="ִitֶl rֶdִinְgְּ">
+   <sp who="#ִitֶl rֶdִinְgְּ">
     <speaker>
      אִיטֶל רֶדִינְגְּ
     </speaker>
    </sp>
-   <sp who="hַnְs muֶֹr">
+   <sp who="#hַnְs muֶֹr">
     <speaker>
      הַנְס מוֹאֶר
     </speaker>
    </sp>
-   <sp who="yuֹrְgְּ huֹf">
+   <sp who="#yuֹrְgְּ huֹf">
     <speaker>
      יוֹרְגְּ הוֹף
     </speaker>
    </sp>
-   <sp who="ֻlְrִikhְ shְׁmִid">
+   <sp who="#ֻlְrִikhְ shְׁmִid">
     <speaker>
      אֻלְרִיךְ שְׁמִיד
     </speaker>
@@ -846,37 +846,37 @@
    </sp>
    <sp>
    </sp>
-   <sp who="uַlְtֶr fִirְsְtְ">
+   <sp who="#uַlְtֶr fִirְsְtְ">
     <speaker>
      וַלְתֶּר פִירְסְטְ
     </speaker>
    </sp>
-   <sp who="uִilְhֶlְm tֶl">
+   <sp who="#uִilְhֶlְm tֶl">
     <speaker>
      וִילְהֶלְם טֶל
     </speaker>
    </sp>
-   <sp who="rֶsֶlְmַn hַkֹhֵn">
+   <sp who="#rֶsֶlְmַn hַkֹhֵn">
     <speaker>
      רֶסֶלְמַן הַכֹּהֵן
     </speaker>
    </sp>
-   <sp who="pֶtֶrְmַn hַsְּgָn">
+   <sp who="#pֶtֶrְmַn hַsְּgָn">
     <speaker>
      פֶּטֶרְמַן הַסְּגָן
     </speaker>
    </sp>
-   <sp who="kuֹnִi hָruֹeֶh">
+   <sp who="#kuֹnִi hָruֹeֶh">
     <speaker>
      קוֹנִי הָרוֹעֶה
     </speaker>
    </sp>
-   <sp who="uֶrְnִi hַtsַּiָd">
+   <sp who="#uֶrְnִi hַtsַּiָd">
     <speaker>
      וֶרְנִי הַצַּיָד
     </speaker>
    </sp>
-   <sp who="ruֹdִi hַdַּiָּg">
+   <sp who="#ruֹdִi hַdַּiָּg">
     <speaker>
      רוֹדִי הַדַּיָּג
     </speaker>
@@ -886,54 +886,54 @@
    </sp>
    <sp>
    </sp>
-   <sp who="arְnuֹlְdְּ ִishׁ mֶlְkhְtַl">
+   <sp who="#arְnuֹlְdְּ ִishׁ mֶlְkhְtַl">
     <speaker>
      אַרְנוֹלְדְּ אִישׁ מֶלְכְתַּל
     </speaker>
    </sp>
-   <sp who="kuֹnְrַd buֹmְgַּrְtֶn">
+   <sp who="#kuֹnְrַd buֹmְgַּrְtֶn">
     <speaker>
      קוֹנְרַד בּוֹמְגַּרְטֶן
     </speaker>
    </sp>
-   <sp who="mַiְֶr ִishׁ sַrְnֶn">
+   <sp who="#mַiְֶr ִishׁ sַrְnֶn">
     <speaker>
      מַיְאֶר אִישׁ סַרְנֶן
     </speaker>
    </sp>
-   <sp who="sְtְrut ִishׁ uִinְkֶlְrִid">
+   <sp who="#sְtְrut ִishׁ uִinְkֶlְrִid">
     <speaker>
      סְטְרוּט אִישׁ וִינְקֶלְרִיד
     </speaker>
    </sp>
-   <sp who="kְluֹz ִishׁ fְluֶi">
+   <sp who="#kְluֹz ִishׁ fְluֶi">
     <speaker>
      קְלוֹז אִישׁ פְלוּאֶי
     </speaker>
    </sp>
-   <sp who="burְkְhַrְtְ buhֶl">
+   <sp who="#burְkְhַrְtְ buhֶl">
     <speaker>
      בּוּרְקְהַרְטְ בּוּהֶל
     </speaker>
    </sp>
-   <sp who="arְnuֹlְdְּ ִishׁ sֵyuָh">
+   <sp who="#arְnuֹlְdְּ ִishׁ sֵyuָh">
     <speaker>
      אַרְנוֹלְדְּ אִישׁ סֵיוָה
     </speaker>
    </sp>
-   <sp who="pְfַiְfֶr ִishׁ lutsֶrְn">
+   <sp who="#pְfַiְfֶr ִishׁ lutsֶrְn">
     <speaker>
      פְּפַיְפֶר אִישׁ לוּצֶרְן
     </speaker>
    </sp>
-   <sp who="kunְts ִishׁ gֶּrְsָb">
+   <sp who="#kunְts ִishׁ gֶּrְsָb">
     <speaker>
      קוּנְץ אִישׁ גֶּרְסָב
     </speaker>
     <p>
     </p>
    </sp>
-   <sp who="iֶ’nִּi">
+   <sp who="#iֶ’nִּi">
     <speaker>
      יֶ’נִּי
     </speaker>
@@ -941,7 +941,7 @@
      , נער הדַּיג
     </p>
    </sp>
-   <sp who="sֶpִi">
+   <sp who="#sֶpִi">
     <speaker>
      סֶפִּי
     </speaker>
@@ -951,7 +951,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="gֶּrְtְrudָh">
+   <sp who="#gֶּrְtְrudָh">
     <speaker>
      גֶּרְטְרוּדָה
     </speaker>
@@ -959,7 +959,7 @@
      , אשת שטופכר
     </p>
    </sp>
-   <sp who="hֶdְuִigָh">
+   <sp who="#hֶdְuִigָh">
     <speaker>
      הֶדְוִיגָה
     </speaker>
@@ -967,7 +967,7 @@
      , אשת טֶל, בת פירסט
     </p>
    </sp>
-   <sp who="bֶrְtָh">
+   <sp who="#bֶrְtָh">
     <speaker>
      בֶּרְתָּה
     </speaker>
@@ -975,22 +975,22 @@
      לבית בְּרוּנֶק, רבת נחלה והון
     </p>
    </sp>
-   <sp who="arְmְgַּrְdָּh">
+   <sp who="#arְmְgַּrְdָּh">
     <speaker>
      אַרְמְגַּרְדָּה
     </speaker>
    </sp>
-   <sp who="mֶkhְtִilְdָּh">
+   <sp who="#mֶkhְtִilְdָּh">
     <speaker>
      מֶכְתִּילְדָּה
     </speaker>
    </sp>
-   <sp who="ֱlִishַׁbְeַs">
+   <sp who="#ֱlִishַׁbְeַs">
     <speaker>
      אֱלִישַׁבְעַת
     </speaker>
    </sp>
-   <sp who="hִilְdֶּgַrְdָּh">
+   <sp who="#hִilְdֶּgַrְdָּh">
     <speaker>
      הִילְדֶּגַרְדָּה
     </speaker>
@@ -1000,12 +1000,12 @@
    </sp>
    <sp>
    </sp>
-   <sp who="uַlְtֶr">
+   <sp who="#uַlְtֶr">
     <speaker>
      וַלְתֶּר
     </speaker>
    </sp>
-   <sp who="uִilְhֶlְm">
+   <sp who="#uִilְhֶlְm">
     <speaker>
      וִילְהֶלְם
     </speaker>
@@ -1015,7 +1015,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fְrִisְhַrְtְ">
+   <sp who="#fְrִisְhַrְtְ">
     <speaker>
      פְרִיסְהַרְטְ
     </speaker>
@@ -1025,7 +1025,7 @@
      שכירי צבא
     </p>
    </sp>
-   <sp who="ruduֹlְf ִishׁ hָrָs">
+   <sp who="#ruduֹlְf ִishׁ hָrָs">
     <speaker>
      רוּדוֹלְף אִישׁ הָרָס
     </speaker>
@@ -1033,7 +1033,7 @@
      , שליש גסלר
     </p>
    </sp>
-   <sp who="yuֹhַn pָrִitsִidָh">
+   <sp who="#yuֹhַn pָrִitsִidָh">
     <speaker>
      יוֹהַן פָּרִיצִידָה
     </speaker>
@@ -1041,7 +1041,7 @@
      , נְסִיך שוַבּיה
     </p>
    </sp>
-   <sp who="shְׁtusִi">
+   <sp who="#shְׁtusִi">
     <speaker>
      שְׁטוּסִי
     </speaker>
@@ -1049,7 +1049,7 @@
      , שומר השדות
     </p>
    </sp>
-   <sp who="mַkְrִin urִi">
+   <sp who="#mַkְrִin urִi">
     <speaker>
      מַקְרִין אוּרִי
     </speaker>
@@ -1057,12 +1057,12 @@
      , התוקע בשופר
     </p>
    </sp>
-   <sp who="tsִir hַmֶּlֶkhְ">
+   <sp who="#tsִir hַmֶּlֶkhְ">
     <speaker>
      צִיר הַמֶּלֶךְ
     </speaker>
    </sp>
-   <sp who="hַpָkִid">
+   <sp who="#hַpָkִid">
     <speaker>
      הַפָּקִיד
     </speaker>
@@ -1070,22 +1070,22 @@
      אשר על הפועלים
     </p>
    </sp>
-   <sp who="gּuֹdֵr, puֹeֲlִim uְsַbָlִim">
+   <sp who="#gּuֹdֵr, puֹeֲlִim uְsַbָlִim">
     <speaker>
      גּוֹדֵר, פּוֹעֲלִים וְסַבָּלִים
     </speaker>
    </sp>
-   <sp who="hַkָruֹzִim">
+   <sp who="#hַkָruֹzִim">
     <speaker>
      הַכָּרוֹזִים
     </speaker>
    </sp>
-   <sp who="akhֵi rַkhֲmִim">
+   <sp who="#akhֵi rַkhֲmִim">
     <speaker>
      אַחֵי רַחֲמִים
     </speaker>
    </sp>
-   <sp who="pָrָshֵׁi gֶsְlֶr uְlַnְdֶּnְbֶrְgְּ">
+   <sp who="#pָrָshֵׁi gֶsְlֶr uְlַnְdֶּnְbֶrְgְּ">
     <speaker>
      פָּרָשֵׁי גֶסְלֶר וְלַנְדֶּנְבֶּרְגְּ
     </speaker>
@@ -1217,7 +1217,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="i’ni">
+    <sp who="#i’ni">
      <speaker>
       י’ני
      </speaker>
@@ -1249,7 +1249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1281,7 +1281,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1317,7 +1317,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1325,7 +1325,7 @@
       הדיג יוצא מתוך הסכה;
      </p>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1333,7 +1333,7 @@
       הציד יורד מן הצור;
      </p>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1344,7 +1344,7 @@
       אחריו.
      </p>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1374,7 +1374,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1389,7 +1389,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1407,7 +1407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1417,7 +1417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfi">
+    <sp who="#sfi">
      <speaker>
       ספי
      </speaker>
@@ -1427,7 +1427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1437,7 +1437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1447,7 +1447,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1457,7 +1457,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1472,7 +1472,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1482,7 +1482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1497,7 +1497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1507,7 +1507,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1540,7 +1540,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1550,7 +1550,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1560,7 +1560,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1570,7 +1570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1585,7 +1585,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1595,7 +1595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1605,7 +1605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuֹnְrַd bumgַrְtֶn">
+    <sp who="#kuֹnְrַd bumgַrְtֶn">
      <speaker>
       קוֹנְרַד בומגַרְטֶן
      </speaker>
@@ -1613,7 +1613,7 @@
       בא כל עוד נשמה בו, דחוף ומבהל.
      </p>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1623,7 +1623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1633,7 +1633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1648,7 +1648,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1658,7 +1658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1677,7 +1677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1691,7 +1691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1701,7 +1701,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1711,7 +1711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1726,7 +1726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1736,7 +1736,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1746,7 +1746,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1771,7 +1771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1791,7 +1791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1801,7 +1801,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1816,7 +1816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1826,7 +1826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1841,7 +1841,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1886,7 +1886,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -1896,7 +1896,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1911,7 +1911,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1931,7 +1931,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1941,7 +1941,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -1956,7 +1956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -1980,7 +1980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -1994,7 +1994,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2012,7 +2012,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -2022,7 +2022,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2032,7 +2032,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2047,7 +2047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2097,7 +2097,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -2115,7 +2115,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2125,7 +2125,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2140,7 +2140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2150,7 +2150,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2185,7 +2185,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2205,7 +2205,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2220,7 +2220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2230,7 +2230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2245,7 +2245,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2260,7 +2260,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2278,7 +2278,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hrueim uuֶrni">
+    <sp who="#hrueim uuֶrni">
      <speaker>
       הרועים וּוֶרני
      </speaker>
@@ -2288,7 +2288,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2308,7 +2308,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2328,7 +2328,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2338,7 +2338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2353,7 +2353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2363,7 +2363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2373,7 +2373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -2383,7 +2383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -2429,7 +2429,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2441,7 +2441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2479,7 +2479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2493,7 +2493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2507,7 +2507,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sfi">
+    <sp who="#sfi">
      <speaker>
       ספי
      </speaker>
@@ -2517,7 +2517,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2532,7 +2532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frsh rshun">
+    <sp who="#frsh rshun">
      <speaker>
       פרש ראשון
      </speaker>
@@ -2542,7 +2542,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frsh shni">
+    <sp who="#frsh shni">
      <speaker>
       פרש שני
      </speaker>
@@ -2552,7 +2552,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni urudi">
+    <sp who="#kuni urudi">
      <speaker>
       קוני ורודי
      </speaker>
@@ -2565,7 +2565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frsh rshun">
+    <sp who="#frsh rshun">
      <speaker>
       פרש ראשון
      </speaker>
@@ -2575,7 +2575,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni mlmelh">
+    <sp who="#urni mlmelh">
      <speaker>
       ורני מלמעלה
      </speaker>
@@ -2590,7 +2590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frsh shni">
+    <sp who="#frsh shni">
      <speaker>
       פרש שני
      </speaker>
@@ -2617,7 +2617,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frsh rshun">
+    <sp who="#frsh rshun">
      <speaker>
       פרש ראשון
      </speaker>
@@ -2631,7 +2631,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="spi">
+    <sp who="#spi">
      <speaker>
       ספּי
      </speaker>
@@ -2641,7 +2641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -2651,7 +2651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="urni">
+    <sp who="#urni">
      <speaker>
       ורני
      </speaker>
@@ -2667,7 +2667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -2681,7 +2681,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="ffifr">
+    <sp who="#ffifr">
      <speaker>
       פפיפר
      </speaker>
@@ -2711,7 +2711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -2726,7 +2726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ffifr">
+    <sp who="#ffifr">
      <speaker>
       פפיפר
      </speaker>
@@ -2771,7 +2771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -2861,7 +2861,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -2876,7 +2876,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -2886,7 +2886,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -2991,7 +2991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3086,7 +3086,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3096,7 +3096,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3176,7 +3176,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3186,7 +3186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3276,7 +3276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3366,7 +3366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3381,7 +3381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3396,7 +3396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3411,7 +3411,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3426,7 +3426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3441,7 +3441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3456,7 +3456,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3471,7 +3471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3486,7 +3486,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="grtrudh">
+    <sp who="#grtrudh">
      <speaker>
       גרטרודה
      </speaker>
@@ -3561,7 +3561,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3609,7 +3609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl lbumgrtn">
+    <sp who="#tl lbumgrtn">
      <speaker>
       טל לבומגרטן
      </speaker>
@@ -3664,7 +3664,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -3684,7 +3684,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -3699,7 +3699,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -3714,7 +3714,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fuel zkn">
+    <sp who="#fuel zkn">
      <speaker>
       פועל זקן
      </speaker>
@@ -3734,7 +3734,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -3744,7 +3744,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr uhmrkhl">
+    <sp who="#hgudr uhmrkhl">
      <speaker>
       הגודר והאמרכל
      </speaker>
@@ -3754,7 +3754,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -3764,7 +3764,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl shni">
+    <sp who="#mrkhl shni">
      <speaker>
       אמרכל שני
      </speaker>
@@ -3774,7 +3774,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -3789,7 +3789,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmrkhl">
+    <sp who="#hmrkhl">
      <speaker>
       האמרכל
      </speaker>
@@ -3799,7 +3799,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -3809,7 +3809,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmrkhl">
+    <sp who="#hmrkhl">
      <speaker>
       האמרכל
      </speaker>
@@ -3819,7 +3819,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -3834,7 +3834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -3854,7 +3854,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3864,7 +3864,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -3874,7 +3874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3884,7 +3884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -3904,7 +3904,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -3914,7 +3914,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -3924,7 +3924,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -3949,7 +3949,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -3959,7 +3959,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -3969,7 +3969,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhruz">
+    <sp who="#hkhruz">
      <speaker>
       הכרוז
      </speaker>
@@ -3979,7 +3979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmrkhlim">
+    <sp who="#hmrkhlim">
      <speaker>
       האמרכלים
      </speaker>
@@ -3989,7 +3989,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhruz">
+    <sp who="#hkhruz">
      <speaker>
       הכרוז
      </speaker>
@@ -4034,7 +4034,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -4054,7 +4054,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -4069,7 +4069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -4089,7 +4089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -4109,7 +4109,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmrkhlim">
+    <sp who="#hmrkhlim">
      <speaker>
       האמרכלים
      </speaker>
@@ -4119,7 +4119,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -4137,7 +4137,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4147,7 +4147,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4157,7 +4157,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4167,7 +4167,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4177,7 +4177,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4187,7 +4187,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4197,7 +4197,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4207,7 +4207,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4217,7 +4217,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4257,7 +4257,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4267,7 +4267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4292,7 +4292,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4302,7 +4302,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4312,7 +4312,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4322,7 +4322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4332,7 +4332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4342,7 +4342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4352,7 +4352,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4385,7 +4385,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -4405,7 +4405,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -4415,7 +4415,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mrkhl rshun">
+    <sp who="#mrkhl rshun">
      <speaker>
       אמרכל ראשון
      </speaker>
@@ -4430,7 +4430,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -4450,7 +4450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -4500,7 +4500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -4510,7 +4510,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -4528,7 +4528,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -4538,7 +4538,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4548,7 +4548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -4588,7 +4588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4608,7 +4608,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -4653,7 +4653,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4668,7 +4668,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -4703,7 +4703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4738,7 +4738,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -4748,7 +4748,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4836,7 +4836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4846,7 +4846,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4896,7 +4896,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4911,7 +4911,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4926,7 +4926,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -4946,7 +4946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -4956,7 +4956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5006,7 +5006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5031,7 +5031,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5061,7 +5061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5076,7 +5076,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5101,7 +5101,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5111,7 +5111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5131,7 +5131,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5141,7 +5141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5174,7 +5174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5184,7 +5184,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5209,7 +5209,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5233,7 +5233,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5247,7 +5247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5266,7 +5266,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5276,7 +5276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5286,7 +5286,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5296,7 +5296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5306,7 +5306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5319,7 +5319,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5329,7 +5329,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5339,7 +5339,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5349,7 +5349,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5364,7 +5364,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5379,7 +5379,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5389,7 +5389,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5464,7 +5464,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5494,7 +5494,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5574,7 +5574,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5594,7 +5594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5660,7 +5660,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5672,7 +5672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5737,7 +5737,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5752,7 +5752,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5767,7 +5767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5875,7 +5875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5885,7 +5885,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -5900,7 +5900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -5940,7 +5940,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -5970,7 +5970,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -6005,7 +6005,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -6020,7 +6020,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -6035,7 +6035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -6060,7 +6060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -6095,7 +6095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -6110,7 +6110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -6125,7 +6125,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -6145,7 +6145,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lmlkhsl">
+    <sp who="#lmlkhsl">
      <speaker>
       למלכתל
      </speaker>
@@ -6155,7 +6155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lshtufkhr">
+    <sp who="#lshtufkhr">
      <speaker>
       לשטופכר
      </speaker>
@@ -6195,7 +6195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -6230,7 +6230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first umlkhsl">
+    <sp who="#ulsr first umlkhsl">
      <speaker>
       ולתר פירסט וּמלכתל
      </speaker>
@@ -6245,7 +6245,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -6304,7 +6304,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6314,7 +6314,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6393,7 +6393,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kuni">
+    <sp who="#kuni">
      <speaker>
       קוני
      </speaker>
@@ -6403,7 +6403,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6415,7 +6415,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6435,12 +6435,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn urudnts">
+    <sp who="#tinghuzn urudnts">
      <speaker>
       אטינגהוזן ורודנץ
      </speaker>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6455,7 +6455,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6465,7 +6465,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6480,7 +6480,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6513,7 +6513,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuz">
+    <sp who="#tinghuz">
      <speaker>
       אטינגהוז
      </speaker>
@@ -6533,7 +6533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6548,7 +6548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6593,7 +6593,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6663,7 +6663,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6673,7 +6673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6723,7 +6723,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6743,7 +6743,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -6833,7 +6833,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -6973,7 +6973,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -7088,7 +7088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -7163,7 +7163,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -7183,7 +7183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -7288,7 +7288,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -7298,7 +7298,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -7347,7 +7347,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -7375,7 +7375,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -7496,7 +7496,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7510,7 +7510,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynklird">
+    <sp who="#oynklird">
      <speaker>
       וינקלירד
      </speaker>
@@ -7520,7 +7520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish syuh">
+    <sp who="#ish syuh">
      <speaker>
       איש סיוה
      </speaker>
@@ -7530,7 +7530,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -7545,7 +7545,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7555,7 +7555,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -7570,7 +7570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -7580,7 +7580,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="buhl">
+    <sp who="#buhl">
      <speaker>
       בוהל
      </speaker>
@@ -7595,7 +7595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish flui">
+    <sp who="#ish flui">
      <speaker>
       איש פלואי
      </speaker>
@@ -7605,7 +7605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7630,7 +7630,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="syuh">
+    <sp who="#syuh">
      <speaker>
       סיוה
      </speaker>
@@ -7645,7 +7645,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="buhl">
+    <sp who="#buhl">
      <speaker>
       בוהל
      </speaker>
@@ -7655,7 +7655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynklrid">
+    <sp who="#oynklrid">
      <speaker>
       וינקלריד
      </speaker>
@@ -7670,7 +7670,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -7685,7 +7685,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7695,7 +7695,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish flui">
+    <sp who="#ish flui">
      <speaker>
       איש פלואי
      </speaker>
@@ -7710,7 +7710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish syuh">
+    <sp who="#ish syuh">
      <speaker>
       איש סיוה
      </speaker>
@@ -7720,7 +7720,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -7730,7 +7730,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7750,7 +7750,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -7760,7 +7760,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="buhl">
+    <sp who="#buhl">
      <speaker>
       בוהל
      </speaker>
@@ -7798,7 +7798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7808,7 +7808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -7822,7 +7822,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -7834,7 +7834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -7859,7 +7859,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -7894,7 +7894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8084,7 +8084,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8094,7 +8094,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8169,7 +8169,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8179,7 +8179,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8209,7 +8209,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8219,7 +8219,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8244,7 +8244,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8284,7 +8284,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -8304,7 +8304,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8324,7 +8324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish oynklrid">
+    <sp who="#ish oynklrid">
      <speaker>
       איש וינקלריד
      </speaker>
@@ -8346,7 +8346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8362,7 +8362,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8382,7 +8382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunrd hun">
+    <sp who="#kunrd hun">
      <speaker>
       קונרד הון
      </speaker>
@@ -8392,7 +8392,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -8417,7 +8417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8427,7 +8427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynklrid">
+    <sp who="#oynklrid">
      <speaker>
       וינקלריד
      </speaker>
@@ -8442,7 +8442,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מואר
      </speaker>
@@ -8467,7 +8467,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -8487,7 +8487,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -8517,7 +8517,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8532,7 +8532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -8572,7 +8572,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufbr">
+    <sp who="#shtufbr">
      <speaker>
       שטופבר
      </speaker>
@@ -8587,7 +8587,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8602,7 +8602,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunrd">
+    <sp who="#kunrd">
      <speaker>
       קונרד
      </speaker>
@@ -8617,7 +8617,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -8632,7 +8632,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מואר
      </speaker>
@@ -8647,7 +8647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ftrmn">
+    <sp who="#ftrmn">
      <speaker>
       פטרמן
      </speaker>
@@ -8657,7 +8657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -8672,7 +8672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -8687,7 +8687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8702,7 +8702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -8717,7 +8717,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -8732,7 +8732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -8747,7 +8747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8757,7 +8757,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="huf">
+    <sp who="#huf">
      <speaker>
       הוף
      </speaker>
@@ -8767,7 +8767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מאור
      </speaker>
@@ -8782,7 +8782,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8797,7 +8797,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -8859,7 +8859,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -8883,7 +8883,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -8903,7 +8903,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynkkhrid">
+    <sp who="#oynkkhrid">
      <speaker>
       וינקךריד
      </speaker>
@@ -8928,7 +8928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -9103,7 +9103,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -9116,7 +9116,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -9126,7 +9126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -9166,7 +9166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -9181,7 +9181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -9236,7 +9236,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -9246,7 +9246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -9311,7 +9311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="huf">
+    <sp who="#huf">
      <speaker>
       הוף
      </speaker>
@@ -9326,7 +9326,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -9542,7 +9542,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -9552,7 +9552,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -9572,7 +9572,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מאור
      </speaker>
@@ -9582,7 +9582,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="buhl">
+    <sp who="#buhl">
      <speaker>
       בוהל
      </speaker>
@@ -9592,7 +9592,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynklrid">
+    <sp who="#oynklrid">
      <speaker>
       וינקלריד
      </speaker>
@@ -9607,7 +9607,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -9617,7 +9617,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="syuh">
+    <sp who="#syuh">
      <speaker>
       סיוה
      </speaker>
@@ -9632,7 +9632,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="flui">
+    <sp who="#flui">
      <speaker>
       פלואי
      </speaker>
@@ -9647,7 +9647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -9662,7 +9662,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מואר
      </speaker>
@@ -9682,7 +9682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -9708,7 +9708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -9718,7 +9718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -9728,7 +9728,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -9748,7 +9748,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylr">
+    <sp who="#oylr">
      <speaker>
       וילר
      </speaker>
@@ -9758,7 +9758,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -9804,7 +9804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunrd hun">
+    <sp who="#kunrd hun">
      <speaker>
       קונרד הון
      </speaker>
@@ -9919,7 +9919,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mur">
+    <sp who="#mur">
      <speaker>
       מאור
      </speaker>
@@ -9934,7 +9934,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -9970,7 +9970,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -9992,7 +9992,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10002,7 +10002,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10012,7 +10012,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylr">
+    <sp who="#oylr">
      <speaker>
       וילר
      </speaker>
@@ -10022,7 +10022,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10032,7 +10032,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -10042,7 +10042,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10052,7 +10052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10062,7 +10062,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10102,7 +10102,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -10122,7 +10122,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10137,7 +10137,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10167,7 +10167,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10182,7 +10182,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10192,7 +10192,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -10202,7 +10202,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10217,7 +10217,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10227,7 +10227,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ftrmn">
+    <sp who="#ftrmn">
      <speaker>
       פטרמן
      </speaker>
@@ -10243,7 +10243,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10255,7 +10255,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -10265,7 +10265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mir">
+    <sp who="#mir">
      <speaker>
       מיאר
      </speaker>
@@ -10280,7 +10280,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rdin">
+    <sp who="#rdin">
      <speaker>
       רדינ
      </speaker>
@@ -10300,7 +10300,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oynklrid">
+    <sp who="#oynklrid">
      <speaker>
       וינקלריד
      </speaker>
@@ -10365,7 +10365,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -10395,7 +10395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -10418,7 +10418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10428,7 +10428,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10463,7 +10463,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10493,7 +10493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -10518,7 +10518,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rding">
+    <sp who="#rding">
      <speaker>
       רדינג
      </speaker>
@@ -10553,7 +10553,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -10568,7 +10568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -10633,7 +10633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -10754,7 +10754,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -10790,7 +10790,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -10805,7 +10805,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -10815,7 +10815,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -10825,7 +10825,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -10835,7 +10835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -10855,7 +10855,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -10875,7 +10875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -10905,7 +10905,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -10995,7 +10995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11035,7 +11035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11045,7 +11045,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11055,7 +11055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11065,7 +11065,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11075,7 +11075,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11095,7 +11095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11110,7 +11110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11130,7 +11130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11140,7 +11140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11165,7 +11165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11180,7 +11180,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11200,7 +11200,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11210,7 +11210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11225,7 +11225,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11240,7 +11240,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11250,7 +11250,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11265,7 +11265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -11275,7 +11275,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11290,7 +11290,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -11300,7 +11300,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11310,7 +11310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11320,7 +11320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11335,7 +11335,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11350,7 +11350,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11360,7 +11360,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11375,7 +11375,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11385,7 +11385,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11485,7 +11485,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11505,7 +11505,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11520,7 +11520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11535,7 +11535,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11545,7 +11545,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11555,7 +11555,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11565,7 +11565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11575,7 +11575,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -11585,7 +11585,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11595,7 +11595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -11605,7 +11605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11615,7 +11615,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -11635,7 +11635,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm">
+    <sp who="#oylhlm">
      <speaker>
       וילהלם
      </speaker>
@@ -11650,7 +11650,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -11677,7 +11677,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -11687,7 +11687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -11717,7 +11717,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -11732,7 +11732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -11804,7 +11804,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -11820,7 +11820,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -11835,7 +11835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -11860,7 +11860,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -11870,7 +11870,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -11955,7 +11955,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -11975,7 +11975,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12010,7 +12010,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12020,7 +12020,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12035,7 +12035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12055,7 +12055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12085,7 +12085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12100,7 +12100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12125,7 +12125,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12150,7 +12150,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12165,7 +12165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12175,7 +12175,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12235,7 +12235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12325,7 +12325,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12340,7 +12340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12385,7 +12385,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12440,7 +12440,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12475,7 +12475,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12515,7 +12515,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -12530,7 +12530,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -12555,7 +12555,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="anְshֵׁi hַtsַּid">
+    <sp who="#anְshֵׁi hַtsַּid">
      <speaker>
       אַנְשֵׁי הַצַּיִד
      </speaker>
@@ -12587,7 +12587,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -12612,7 +12612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -12637,7 +12637,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -12692,7 +12692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -12727,7 +12727,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -12747,7 +12747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -12772,7 +12772,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mkhsildh">
+    <sp who="#mkhsildh">
      <speaker>
       מכתילדה
      </speaker>
@@ -12782,7 +12782,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishbes">
+    <sp who="#lishbes">
      <speaker>
       אלישבעת
      </speaker>
@@ -12797,7 +12797,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -12831,7 +12831,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -12845,7 +12845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -12855,7 +12855,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -12875,7 +12875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -12895,7 +12895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -12910,7 +12910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -12935,7 +12935,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -12950,7 +12950,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -12995,7 +12995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13015,7 +13015,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13035,7 +13035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13050,7 +13050,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13060,7 +13060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13070,7 +13070,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13080,7 +13080,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13090,7 +13090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13100,7 +13100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13110,7 +13110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13120,7 +13120,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13130,7 +13130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13140,7 +13140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13155,7 +13155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13170,7 +13170,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13180,7 +13180,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13195,7 +13195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13208,7 +13208,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13218,7 +13218,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13243,7 +13243,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13253,7 +13253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13288,7 +13288,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ftrmn">
+    <sp who="#ftrmn">
      <speaker>
       פטרמן
      </speaker>
@@ -13298,7 +13298,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -13308,7 +13308,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13321,7 +13321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13331,7 +13331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -13346,7 +13346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13361,7 +13361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13371,7 +13371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13396,7 +13396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13406,7 +13406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -13416,7 +13416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -13426,7 +13426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -13436,7 +13436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -13451,7 +13451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13466,7 +13466,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -13481,7 +13481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hsgn">
+    <sp who="#hsgn">
      <speaker>
       הסגן
      </speaker>
@@ -13496,7 +13496,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13522,7 +13522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13542,7 +13542,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -13552,7 +13552,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first ushtufkhr">
+    <sp who="#ulsr first ushtufkhr">
      <speaker>
       ולתר פירסט ושטופכר
      </speaker>
@@ -13578,7 +13578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshim">
+    <sp who="#hnshim">
      <speaker>
       הנשים
      </speaker>
@@ -13591,7 +13591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13601,7 +13601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -13611,7 +13611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn umlkhsl">
+    <sp who="#rslmn umlkhsl">
      <speaker>
       רסלמן ומלכתל
      </speaker>
@@ -13624,7 +13624,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13634,7 +13634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -13649,7 +13649,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf ish hrs">
+    <sp who="#rudulf ish hrs">
      <speaker>
       רודולף איש הרס
      </speaker>
@@ -13659,7 +13659,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13704,7 +13704,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -13759,7 +13759,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13777,7 +13777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13808,7 +13808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13820,7 +13820,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -13835,7 +13835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13845,7 +13845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13855,7 +13855,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13865,7 +13865,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13875,7 +13875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13885,7 +13885,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13895,7 +13895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13940,7 +13940,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13965,7 +13965,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -13980,7 +13980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -13995,7 +13995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14010,7 +14010,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -14030,7 +14030,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14075,7 +14075,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -14095,7 +14095,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14140,7 +14140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudvlf ish hrs">
+    <sp who="#rudvlf ish hrs">
      <speaker>
       רודוולף איש הרס
      </speaker>
@@ -14179,7 +14179,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="u. first">
+    <sp who="#u. first">
      <speaker>
       ו. פירסט
      </speaker>
@@ -14189,7 +14189,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -14211,7 +14211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14293,7 +14293,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="u. first">
+    <sp who="#u. first">
      <speaker>
       ו. פירסט
      </speaker>
@@ -14309,7 +14309,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -14334,7 +14334,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -14344,7 +14344,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -14362,7 +14362,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14372,7 +14372,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -14402,7 +14402,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf ish hrs">
+    <sp who="#rudulf ish hrs">
      <speaker>
       רודולף איש הרס
      </speaker>
@@ -14412,7 +14412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -14458,7 +14458,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -14470,7 +14470,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -14485,7 +14485,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -14528,7 +14528,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14554,7 +14554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -14577,7 +14577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -14587,7 +14587,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshim">
+    <sp who="#hnshim">
      <speaker>
       הנשים
      </speaker>
@@ -14606,7 +14606,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -14620,7 +14620,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14673,7 +14673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -14683,7 +14683,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -14693,7 +14693,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -14709,7 +14709,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14719,7 +14719,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -14754,7 +14754,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14764,7 +14764,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -14802,7 +14802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -14812,7 +14812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -14867,7 +14867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14877,7 +14877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -14948,7 +14948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -14960,7 +14960,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -14988,7 +14988,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -14998,7 +14998,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -15031,7 +15031,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -15049,7 +15049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -15059,7 +15059,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15069,7 +15069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -15079,7 +15079,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf ish hrs">
+    <sp who="#rudulf ish hrs">
      <speaker>
       רודולף איש הרס
      </speaker>
@@ -15099,7 +15099,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15114,7 +15114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -15129,7 +15129,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15144,7 +15144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -15159,7 +15159,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15169,7 +15169,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15179,7 +15179,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15202,7 +15202,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15212,7 +15212,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15237,7 +15237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15277,7 +15277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15322,7 +15322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15342,7 +15342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15362,7 +15362,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -15377,7 +15377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -15436,7 +15436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -15448,7 +15448,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15458,7 +15458,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15468,7 +15468,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15497,7 +15497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lithuld">
+    <sp who="#lithuld">
      <speaker>
       ליטהולד
      </speaker>
@@ -15507,7 +15507,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15523,7 +15523,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -15533,7 +15533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15543,7 +15543,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -15565,7 +15565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -15585,7 +15585,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunts">
+    <sp who="#kunts">
      <speaker>
       קונץ
      </speaker>
@@ -15600,7 +15600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15620,7 +15620,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunts">
+    <sp who="#kunts">
      <speaker>
       קונץ
      </speaker>
@@ -15650,7 +15650,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15680,7 +15680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunts">
+    <sp who="#kunts">
      <speaker>
       קונץ
      </speaker>
@@ -15695,7 +15695,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15715,7 +15715,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kunts">
+    <sp who="#kunts">
      <speaker>
       קונץ
      </speaker>
@@ -15740,7 +15740,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15770,7 +15770,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -15825,7 +15825,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -15840,7 +15840,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15910,7 +15910,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -15935,7 +15935,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -15985,7 +15985,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -15995,7 +15995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16035,7 +16035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16050,7 +16050,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16100,7 +16100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16115,7 +16115,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16135,7 +16135,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16165,7 +16165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16216,7 +16216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm tl">
+    <sp who="#oylhlm tl">
      <speaker>
       וילהלם טל
      </speaker>
@@ -16226,7 +16226,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16236,7 +16236,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16255,7 +16255,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16265,7 +16265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16277,7 +16277,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16292,7 +16292,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16308,7 +16308,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16318,7 +16318,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig uhner">
+    <sp who="#hdig uhner">
      <speaker>
       הדיג והנער
      </speaker>
@@ -16328,7 +16328,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16338,7 +16338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16348,7 +16348,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16361,7 +16361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hner">
+    <sp who="#hner">
      <speaker>
       הנער
      </speaker>
@@ -16371,7 +16371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16381,7 +16381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16396,7 +16396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16406,7 +16406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig uhner">
+    <sp who="#hdig uhner">
      <speaker>
       הדיג והנער
      </speaker>
@@ -16416,7 +16416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16431,7 +16431,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16456,7 +16456,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16471,7 +16471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16501,7 +16501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16511,7 +16511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16641,7 +16641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16661,7 +16661,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16731,7 +16731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16761,7 +16761,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16781,7 +16781,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16791,7 +16791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16801,7 +16801,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16816,7 +16816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16826,7 +16826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16858,7 +16858,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16874,7 +16874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16889,7 +16889,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16909,7 +16909,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16919,7 +16919,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16944,7 +16944,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16954,7 +16954,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -16964,7 +16964,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdig">
+    <sp who="#hdig">
      <speaker>
       הדיג
      </speaker>
@@ -16986,7 +16986,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -16996,7 +16996,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17030,7 +17030,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17040,7 +17040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -17052,7 +17052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17067,7 +17067,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17077,7 +17077,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17093,7 +17093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17103,7 +17103,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr tl">
+    <sp who="#ulsr tl">
      <speaker>
       ולתר טל
      </speaker>
@@ -17113,7 +17113,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17143,7 +17143,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17158,7 +17158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17173,7 +17173,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17188,7 +17188,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17223,7 +17223,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -17233,7 +17233,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17258,7 +17258,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -17314,7 +17314,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17346,7 +17346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17361,7 +17361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17426,7 +17426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17441,7 +17441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -17476,7 +17476,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -17489,7 +17489,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17499,7 +17499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17509,7 +17509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17524,7 +17524,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17534,7 +17534,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17554,7 +17554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinhuzn">
+    <sp who="#tinhuzn">
      <speaker>
       אטינהוזן
      </speaker>
@@ -17564,7 +17564,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17574,7 +17574,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17589,7 +17589,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17604,7 +17604,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17629,7 +17629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17649,7 +17649,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17689,7 +17689,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17707,7 +17707,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17717,7 +17717,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -17752,7 +17752,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17801,7 +17801,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuznֶ">
+    <sp who="#tinghuznֶ">
      <speaker>
       אטינגהוזןֶ
      </speaker>
@@ -17811,7 +17811,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -17821,7 +17821,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17831,7 +17831,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -17891,7 +17891,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -17923,7 +17923,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -17937,7 +17937,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tinghuzn">
+    <sp who="#tinghuzn">
      <speaker>
       אטינגהוזן
      </speaker>
@@ -18090,7 +18090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18100,7 +18100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -18139,7 +18139,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18163,7 +18163,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -18220,7 +18220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18256,7 +18256,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -18271,7 +18271,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -18286,7 +18286,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18311,7 +18311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -18341,7 +18341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18370,7 +18370,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18470,7 +18470,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -18495,7 +18495,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -18505,7 +18505,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18520,7 +18520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -18535,7 +18535,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18580,7 +18580,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -18590,7 +18590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18640,7 +18640,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -18650,7 +18650,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -18700,7 +18700,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -18735,7 +18735,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -19072,7 +19072,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19270,7 +19270,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19305,7 +19305,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19315,7 +19315,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19345,7 +19345,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19355,7 +19355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19375,7 +19375,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19395,7 +19395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19430,7 +19430,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19445,7 +19445,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19460,7 +19460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19475,7 +19475,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19490,7 +19490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19510,7 +19510,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19520,7 +19520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -19530,7 +19530,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19568,7 +19568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19578,7 +19578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19588,7 +19588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19598,7 +19598,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19608,7 +19608,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19653,7 +19653,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -19667,7 +19667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19679,7 +19679,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19697,7 +19697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19707,7 +19707,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -19722,7 +19722,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19732,7 +19732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frishrt">
+    <sp who="#frishrt">
      <speaker>
       פריסהרט
      </speaker>
@@ -19752,7 +19752,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -19797,7 +19797,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -19832,7 +19832,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19847,7 +19847,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -19892,7 +19892,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -19902,7 +19902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -19942,7 +19942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19952,7 +19952,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -19967,7 +19967,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -19987,7 +19987,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -19997,7 +19997,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20027,7 +20027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20072,7 +20072,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20097,7 +20097,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20112,7 +20112,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20137,7 +20137,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20171,7 +20171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20195,7 +20195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20230,7 +20230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20240,7 +20240,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20275,7 +20275,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20295,7 +20295,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20310,7 +20310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20360,7 +20360,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20382,7 +20382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20394,7 +20394,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20406,7 +20406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20436,7 +20436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -20452,7 +20452,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -20462,7 +20462,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20478,7 +20478,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם
      </speaker>
@@ -20490,7 +20490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20515,7 +20515,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -20525,7 +20525,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus rbim">
+    <sp who="#kulus rbim">
      <speaker>
       קולות רבים
      </speaker>
@@ -20535,7 +20535,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20580,7 +20580,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="gslr">
+    <sp who="#gslr">
      <speaker>
       גסלר
      </speaker>
@@ -20598,7 +20598,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -20616,7 +20616,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20626,7 +20626,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20654,7 +20654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnshim">
+    <sp who="#hnshim">
      <speaker>
       הנשים
      </speaker>
@@ -20664,7 +20664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20694,7 +20694,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -20710,7 +20710,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -20720,7 +20720,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudulf">
+    <sp who="#rudulf">
      <speaker>
       רודולף
      </speaker>
@@ -20785,7 +20785,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rmgrdh">
+    <sp who="#rmgrdh">
      <speaker>
       ארמגרדה
      </speaker>
@@ -20795,7 +20795,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtusi">
+    <sp who="#shtusi">
      <speaker>
       שטוסי
      </speaker>
@@ -20864,7 +20864,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -20874,7 +20874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -20884,7 +20884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -20894,7 +20894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -20904,7 +20904,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -20924,7 +20924,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -20939,7 +20939,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -20949,7 +20949,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -20959,7 +20959,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmkrin shr luri">
+    <sp who="#hmkrin shr luri">
      <speaker>
       המקרין אשר לאורי
      </speaker>
@@ -20974,7 +20974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -21004,7 +21004,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21034,7 +21034,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -21049,7 +21049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -21069,7 +21069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hgudr">
+    <sp who="#hgudr">
      <speaker>
       הגודר
      </speaker>
@@ -21084,7 +21084,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -21099,7 +21099,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21114,7 +21114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21129,7 +21129,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21144,7 +21144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21164,7 +21164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21174,7 +21174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21224,7 +21224,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21239,7 +21239,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21279,7 +21279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21289,7 +21289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21329,7 +21329,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21339,7 +21339,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21394,7 +21394,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21404,7 +21404,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21459,7 +21459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21489,7 +21489,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21509,7 +21509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -21519,7 +21519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21529,7 +21529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus rbim">
+    <sp who="#kulus rbim">
      <speaker>
       קולות רבים
      </speaker>
@@ -21544,7 +21544,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21569,7 +21569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21594,7 +21594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21624,7 +21624,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21644,7 +21644,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudi">
+    <sp who="#rudi">
      <speaker>
       רודי
      </speaker>
@@ -21659,7 +21659,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bumgrtn">
+    <sp who="#bumgrtn">
      <speaker>
       בומגרטן
      </speaker>
@@ -21682,7 +21682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -21692,7 +21692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hsushbim">
+    <sp who="#hsushbim">
      <speaker>
       התושבים
      </speaker>
@@ -21702,7 +21702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -21712,7 +21712,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21727,7 +21727,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hsushbim">
+    <sp who="#hsushbim">
      <speaker>
       התושבים
      </speaker>
@@ -21737,7 +21737,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -21747,7 +21747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -21757,7 +21757,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -21767,7 +21767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21782,7 +21782,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -21797,7 +21797,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21812,7 +21812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -21832,7 +21832,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -21842,7 +21842,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -21867,7 +21867,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -21882,7 +21882,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -21941,7 +21941,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22061,7 +22061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -22076,7 +22076,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22156,7 +22156,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -22166,7 +22166,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22191,7 +22191,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22211,7 +22211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22249,7 +22249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22259,7 +22259,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22274,7 +22274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22294,7 +22294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22324,7 +22324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ptrmn">
+    <sp who="#ptrmn">
      <speaker>
       פּטרמן
      </speaker>
@@ -22337,7 +22337,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -22347,7 +22347,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ptrmn">
+    <sp who="#ptrmn">
      <speaker>
       פּטרמן
      </speaker>
@@ -22369,7 +22369,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -22379,7 +22379,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22393,7 +22393,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus rbim">
+    <sp who="#kulus rbim">
      <speaker>
       קולות רבים
      </speaker>
@@ -22415,7 +22415,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22431,7 +22431,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -22441,7 +22441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rslmn">
+    <sp who="#rslmn">
      <speaker>
       רסלמן
      </speaker>
@@ -22477,7 +22477,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr first">
+    <sp who="#ulsr first">
      <speaker>
       ולתר פירסט
      </speaker>
@@ -22499,7 +22499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kulus rbim">
+    <sp who="#kulus rbim">
      <speaker>
       קולות רבים
      </speaker>
@@ -22509,7 +22509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22638,7 +22638,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mlkhsl">
+    <sp who="#mlkhsl">
      <speaker>
       מלכתל
      </speaker>
@@ -22691,7 +22691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shtufkhr">
+    <sp who="#shtufkhr">
      <speaker>
       שטופכר
      </speaker>
@@ -22713,7 +22713,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22733,7 +22733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -22753,7 +22753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22783,7 +22783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm">
+    <sp who="#oylhlm">
      <speaker>
       וילהלם
      </speaker>
@@ -22798,7 +22798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22826,7 +22826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm">
+    <sp who="#oylhlm">
      <speaker>
       וילהלם
      </speaker>
@@ -22836,7 +22836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -22849,7 +22849,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -22859,7 +22859,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -22877,7 +22877,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -22887,7 +22887,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22912,7 +22912,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -22932,7 +22932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22947,7 +22947,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -22972,7 +22972,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -22997,7 +22997,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -23007,7 +23007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23028,7 +23028,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -23040,7 +23040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23070,7 +23070,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm">
+    <sp who="#oylhlm">
      <speaker>
       וילהלם
      </speaker>
@@ -23080,7 +23080,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -23090,7 +23090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oylhlm">
+    <sp who="#oylhlm">
      <speaker>
       וילהלם
      </speaker>
@@ -23100,7 +23100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23112,7 +23112,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ulsr">
+    <sp who="#ulsr">
      <speaker>
       ולתר
      </speaker>
@@ -23127,7 +23127,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23163,7 +23163,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23185,7 +23185,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23200,7 +23200,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23215,7 +23215,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23225,7 +23225,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23265,7 +23265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23283,7 +23283,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -23293,7 +23293,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23303,7 +23303,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -23321,7 +23321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23331,7 +23331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnzir">
+    <sp who="#hnzir">
      <speaker>
       הנזיר
      </speaker>
@@ -23361,7 +23361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23381,7 +23381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23391,7 +23391,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23416,7 +23416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -23431,7 +23431,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23446,7 +23446,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuhn fritsidh">
+    <sp who="#yuhn fritsidh">
      <speaker>
       יוהן פריצידה
      </speaker>
@@ -23461,7 +23461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23481,7 +23481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23496,7 +23496,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23521,7 +23521,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23536,7 +23536,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23601,7 +23601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23616,7 +23616,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23644,7 +23644,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23654,7 +23654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23694,7 +23694,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23744,7 +23744,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23779,7 +23779,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23794,7 +23794,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23809,7 +23809,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23859,7 +23859,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23869,7 +23869,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23884,7 +23884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23920,7 +23920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -23932,7 +23932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23961,7 +23961,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -23991,7 +23991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -24001,7 +24001,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24016,7 +24016,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -24036,7 +24036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24066,7 +24066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24091,7 +24091,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -24106,7 +24106,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24171,7 +24171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -24186,7 +24186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24262,7 +24262,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -24276,7 +24276,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fritsidh">
+    <sp who="#fritsidh">
      <speaker>
       פריצידה
      </speaker>
@@ -24296,7 +24296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hdoygh">
+    <sp who="#hdoygh">
      <speaker>
       הדויגה
      </speaker>
@@ -24306,7 +24306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tl">
+    <sp who="#tl">
      <speaker>
       טל
      </speaker>
@@ -24338,7 +24338,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -24353,7 +24353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -24383,7 +24383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="em hrts">
+    <sp who="#em hrts">
      <speaker>
       עם הארץ
      </speaker>
@@ -24393,7 +24393,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brsh">
+    <sp who="#brsh">
      <speaker>
       ברתה
      </speaker>
@@ -24413,7 +24413,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rudnts">
+    <sp who="#rudnts">
      <speaker>
       רודנץ
      </speaker>
@@ -24919,7 +24919,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bְgִּisְgְּrַd">
+    <sp who="#bְgִּisְgְּrַd">
      <speaker>
       בְּגִּיסְגְּרַד
      </speaker>

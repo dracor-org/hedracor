@@ -159,6 +159,11 @@
        יונה
       </persName>
      </person>
+     <person xml:id="eubd">
+      <persName>
+       עובד
+      </persName>
+     </person>
      <person xml:id="sm khlk rbyei">
       <persName>
        תם חלק רביעי
@@ -177,6 +182,11 @@
      <person xml:id="mngnim">
       <persName>
        מנגנים
+      </persName>
+     </person>
+     <person xml:id="ididih">
+      <persName>
+       ידידיה
       </persName>
      </person>
      <person xml:id="fshkhur">
@@ -3905,7 +3915,7 @@
       אשתומם על המראה!
      </p>
     </sp>
-    <sp who="eubd">
+    <sp who="#eubd">
      <speaker>
       עובד
      </speaker>
@@ -4310,7 +4320,7 @@
 אחריו ולא נודע מקום אביך איו.
      </p>
     </sp>
-    <sp who="ididih">
+    <sp who="#ididih">
      <speaker>
       ידידיה
      </speaker>

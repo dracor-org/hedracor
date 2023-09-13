@@ -49,14 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="mnkhm">
-      <persName>
-       מנחם
-      </persName>
-     </person>
      <person xml:id="mrim">
       <persName>
        מרים
+      </persName>
+     </person>
+     <person xml:id="mnkhm">
+      <persName>
+       מנחם
       </persName>
      </person>
     </listPerson>
@@ -97,31 +97,31 @@
      לבדך את, מרים?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     בוַדאי; אבי בקבר ואמי במאסר.
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     עוד הפעם?…
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     תרנגולת גנבה… רעבנו…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     הלא חפצתי – –
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -134,61 +134,61 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     תני לי לבוא אליך הביתה.
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     מה חפצך?
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     לנחמך… אני אשב לרגלך ואנחמך… אדבר אליך דברים טובים, אני ארגיעך…
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     שקטה אני… שוב הביתה!
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אַת שקטה?…
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     שוב הביתה, מנחם…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     למה תגרשיני היום, מרים?
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     צר לי מאד, שלא גרשתיך גם תמול וגם שלשום, כי ידעתיך…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     מרים!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -203,19 +203,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     איננה יודעת, ולא אמרה לי דבר! אבל אשה טובה היא אמך, מנחם! אשה טובה מאד! צר לה מאד, על כי הובאה אמי בית הכלא בגלל תרנגולת קלה! ביחוד צר לה, על כי נהיה הדבר עתה…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     ומה הוא ?
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -229,7 +229,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -244,13 +244,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     אל תגיד מאומה… אפשר, שלא בי האשמה…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
@@ -265,61 +265,61 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אל תזכירי ראשונות, מרים…
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     אם לא תלך, אז תזכירם אתה! וגם אני עוד שוב אשוב אליהן!
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     היה לא תהיה, מרים.
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     זה הוא גורלי ורצוני, מנחם.
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     היה לא תהיה! דבּרי דבר, הוציאי מפיך אך מילה אחת, אך הגה קל, וינתקו אסורי, ואני שלך!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     את המילה הזאת לא אוציא מפי לעולם! איש לא מנוסה אתה, מנחם, ואהבתך תעוור עיניך! אבל אני… אני יודעת הרבה, אני חושבת הרבה… אני יודעת מה טיבה של אותה המילה, אני יודעת מה צפון בהגה זה…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אושר צפון בו… המלה תפתח לי שערי שמים, שערי גן עדן…
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     לשבוע או לחודש… אך אין דבר! גם יום אחד של אושר שווה הרבה, הרבה מאד… אך המלה הזאת סם מות הוא לאחרים…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     למי, מרים?
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -334,49 +334,49 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     אבל אני יודעת… גם אני הייתי עלמה חפה וזכה, ויודעת אני… היא אוהבת אותך, ואיננה ישנה בלילות מגעגועים ועריגת הנפש… ולנפש עלמה חפה מפשע תכונה מיוחדת, תכונה נפלאה… כשׂממית היא מתפשׂת… מוציאה היא מקרבה חוטים, חוטים דקים מן הדקים… חוטים יפים, חוטים מזהירים כאור הלבנה וכאור החמה, חוטים רבי הצבעים… והעלמה אורגת מן החוטים הללו – ערפלי טוהר, ערפלי זיו… ואת הערפל היא מלבישה את אהובה, את בחירה, שרצתה נפשה בו… ובתוך הערפל הזה יגדל בחירה והיה לענק, למלאך אלוהים… יתגדל ויתקדש… בתוך הערפל עיניו מאירות ככוכבי בוקר, מתוך הערפל ישָמע קולו כמנגינה, כשׂיח שׂרפי קודש… אם תקרע את הערפל, יקָרע לב העלמה; ואם ימעל בה בחירה מעל מוֹת תמות העלמה, בנפשה הוא!
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אֵל אלוהים!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     כן תעשׂה! קרא לאלהים… אני קראתי ולא שמע אלי, ונפלתי! מזלי גרם, כוח לא היה בי…
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אני לא אסור ממך, לא אעזבך, ויהי מה!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     האם אתה אוהב אותי, מנחם?
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אהבה עזה כמות!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
     מי יודע! אבל אם אוהב אתה אותי, אל תשׂיא עלי עוד עוונות! די לנשמתי במה שדבק בה מכבר, ולא תכּתם בדם אוהביך ואהוביך!
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
@@ -391,13 +391,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mnkhm">
+   <sp who="#mnkhm">
     <speaker>
      מנחם
     </speaker>
     אינני חפץ לדעת זאת!
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>

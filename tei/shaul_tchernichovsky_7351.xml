@@ -49,9 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khֲbִibִh">
+     <person xml:id="bַr-dְּruֹmָ">
       <persName>
-       חֲבִיבִה
+       בַּר-דְּרוֹמָא
+      </persName>
+     </person>
+     <person xml:id="drmh bs rbe elilus">
+      <persName>
+       דרמה בת ארבע עלילות
       </persName>
      </person>
      <person xml:id="hzmn">
@@ -59,14 +64,24 @@
        הזמן
       </persName>
      </person>
+     <person xml:id="uֹmְrִim">
+      <persName>
+       אוֹמְרִים
+      </persName>
+     </person>
+     <person xml:id="omַrְtָ">
+      <persName>
+       אָמַרְתָּ
+      </persName>
+     </person>
      <person xml:id="yuֹdֵeַ">
       <persName>
        יוֹדֵעַ
       </persName>
      </person>
-     <person xml:id="uֹmְrִim">
+     <person xml:id="eַbְdּuֹ">
       <persName>
-       אוֹמְרִים
+       עַבְדּוֹ
       </persName>
      </person>
      <person xml:id="omַrְtִi">
@@ -79,24 +94,9 @@
        בְּבַקָּשָׁה
       </persName>
      </person>
-     <person xml:id="eַbְdּuֹ">
+     <person xml:id="khֲbִibִh">
       <persName>
-       עַבְדּוֹ
-      </persName>
-     </person>
-     <person xml:id="bַr-dְּruֹmָ">
-      <persName>
-       בַּר-דְּרוֹמָא
-      </persName>
-     </person>
-     <person xml:id="omַrְtָ">
-      <persName>
-       אָמַרְתָּ
-      </persName>
-     </person>
-     <person xml:id="drmh bs rbe elilus">
-      <persName>
-       דרמה בת ארבע עלילות
+       חֲבִיבִה
       </persName>
      </person>
     </listPerson>
@@ -118,7 +118,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="drmh bs rbe elilus">
+   <sp who="#drmh bs rbe elilus">
     <speaker>
      דרמה בת ארבע עלילות
     </speaker>
@@ -139,7 +139,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khֲbִibִh">
+    <sp who="#khֲbִibִh">
      <speaker>
       חֲבִיבִה
      </speaker>
@@ -175,7 +175,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bַr-dְּruֹmָ">
+    <sp who="#bַr-dְּruֹmָ">
      <speaker>
       בַּר-דְּרוֹמָא
      </speaker>
@@ -201,7 +201,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzmn">
+    <sp who="#hzmn">
      <speaker>
       הזמן
      </speaker>
@@ -660,7 +660,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uֹmְrִim">
+    <sp who="#uֹmְrִim">
      <speaker>
       אוֹמְרִים
      </speaker>
@@ -711,7 +711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>
@@ -2726,7 +2726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yuֹdֵeַ">
+    <sp who="#yuֹdֵeַ">
      <speaker>
       יוֹדֵעַ
      </speaker>
@@ -6445,7 +6445,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="omַrְtָ">
+    <sp who="#omַrְtָ">
      <speaker>
       אָמַרְתָּ
      </speaker>
@@ -6606,7 +6606,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bְbַkָּshָׁh">
+    <sp who="#bְbַkָּshָׁh">
      <speaker>
       בְּבַקָּשָׁה
      </speaker>
@@ -9181,7 +9181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eַbְdּuֹ">
+    <sp who="#eַbְdּuֹ">
      <speaker>
       עַבְדּוֹ
      </speaker>

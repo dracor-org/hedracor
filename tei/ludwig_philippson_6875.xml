@@ -89,14 +89,14 @@
        חמוטל וזבידה
       </persName>
      </person>
-     <person xml:id="ishְׁal">
-      <persName>
-       יִשְׁאַל
-      </persName>
-     </person>
      <person xml:id="yukhnn b mfskh hbis, khryu shlikh">
       <persName>
        יוחנן בא מפתח הבית, אחריו שליח
+      </persName>
+     </person>
+     <person xml:id="ishְׁal">
+      <persName>
+       יִשְׁאַל
       </persName>
      </person>
      <person xml:id="khshdi uhkudmim">
@@ -12085,7 +12085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ishְׁal">
+    <sp who="#ishְׁal">
      <speaker>
       יִשְׁאַל
      </speaker>

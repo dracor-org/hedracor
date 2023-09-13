@@ -54,11 +54,6 @@
        שלשת האזרחים כֻּלם
       </persName>
      </person>
-     <person xml:id="hִnֵּh-rָts">
-      <persName>
-       הִנֵּה-רָץ
-      </persName>
-     </person>
      <person xml:id="titus">
       <persName>
        טיטוס
@@ -82,6 +77,11 @@
      <person xml:id="kuminyus">
       <persName>
        קומיניוס
+      </persName>
+     </person>
+     <person xml:id="uַiִּzְeֲku">
+      <persName>
+       וַיִּזְעֲקוּ
       </persName>
      </person>
      <person xml:id="khl hzrkhim">
@@ -114,6 +114,11 @@
        אזרח חמישי
       </persName>
      </person>
+     <person xml:id="ulְhֶfֶkhְ">
+      <persName>
+       וּלְהֶפֶךְ
+      </persName>
+     </person>
      <person xml:id="brutus">
       <persName>
        בּרוטוס
@@ -127,6 +132,11 @@
      <person xml:id="mnnyus grf">
       <persName>
        מנניוס אגרפא
+      </persName>
+     </person>
+     <person xml:id="hֲַmֶn-lִi">
+      <persName>
+       הַאֲמֶן-לִי
       </persName>
      </person>
      <person xml:id="l htrbunim">
@@ -149,6 +159,11 @@
        מרציוס
       </persName>
      </person>
+     <person xml:id="lָkhֶm">
+      <persName>
+       לָכֶם
+      </persName>
+     </person>
      <person xml:id="nshi shni">
       <persName>
        נשיא שני
@@ -169,14 +184,14 @@
        מנניוס
       </persName>
      </person>
-     <person xml:id="uַiּuֹsֶf">
-      <persName>
-       וַיּוֹסֶף
-      </persName>
-     </person>
      <person xml:id="mshrs shni">
       <persName>
        משרת שני
+      </persName>
+     </person>
+     <person xml:id="dַּe-nָ">
+      <persName>
+       דַּע-נָא
       </persName>
      </person>
      <person xml:id="ftritsi shni">
@@ -244,6 +259,11 @@
        אזרח ראשון
       </persName>
      </person>
+     <person xml:id="iְhִi-khִdְbָrַikhְ">
+      <persName>
+       יְהִי-כִדְבָרַיִךְ
+      </persName>
+     </person>
      <person xml:id="hmbshr">
       <persName>
        המבשר
@@ -267,11 +287,6 @@
      <person xml:id="hmskshrim kֻlm">
       <persName>
        המתקשרים כֻּלם
-      </persName>
-     </person>
-     <person xml:id="rְֵh-nָ">
-      <persName>
-       רְאֵה-נָא
       </persName>
      </person>
      <person xml:id="mshrs shlishi">
@@ -369,6 +384,11 @@
        הַנַּעַר מַרְצְיוּס
       </persName>
      </person>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
      <person xml:id="sinturim uftritsim">
       <persName>
        סינטורים ופטריצים
@@ -387,6 +407,11 @@
      <person xml:id="sintur shni">
       <persName>
        סינטור שני
+      </persName>
+     </person>
+     <person xml:id="hִnֵּh-rָts">
+      <persName>
+       הִנֵּה-רָץ
       </persName>
      </person>
      <person xml:id="vlumnih">
@@ -409,24 +434,24 @@
        האזרח
       </persName>
      </person>
+     <person xml:id="hַgֶּd-nָ">
+      <persName>
+       הַגֶּד-נָא
+      </persName>
+     </person>
      <person xml:id="rumi shni">
       <persName>
        רומי שני
       </persName>
      </person>
-     <person xml:id="iְhִi-khִdְbָrַikhְ">
+     <person xml:id="al-nָ">
       <persName>
-       יְהִי-כִדְבָרַיִךְ
+       אַל-נָא
       </persName>
      </person>
      <person xml:id="mrtsyus hktn">
       <persName>
        מרציוס הקטן
-      </persName>
-     </person>
-     <person xml:id="uַiִּzְeֲku">
-      <persName>
-       וַיִּזְעֲקוּ
       </persName>
      </person>
      <person xml:id="shnihm">
@@ -464,11 +489,6 @@
        וִירְגִּילִיָּה
       </persName>
      </person>
-     <person xml:id="dַּe-nָ">
-      <persName>
-       דַּע-נָא
-      </persName>
-     </person>
      <person xml:id="brutus">
       <persName>
        ברוטוס
@@ -499,11 +519,6 @@
        מְשָׁרְתוֹת
       </persName>
      </person>
-     <person xml:id="rְu-nָ">
-      <persName>
-       רְאוּ-נָא
-      </persName>
-     </person>
      <person xml:id="hpkid">
       <persName>
        הפּקיד
@@ -524,9 +539,9 @@
        קוֹמיניוס
       </persName>
      </person>
-     <person xml:id="al-nָ">
+     <person xml:id="uַiּuֹsֶf">
       <persName>
-       אַל-נָא
+       וַיּוֹסֶף
       </persName>
      </person>
      <person xml:id="rts">
@@ -542,6 +557,11 @@
      <person xml:id="tulus uֹfִidְyus">
       <persName>
        טוּלוּס אוֹפִידְיוּס
+      </persName>
+     </person>
+     <person xml:id="rְֵh-nָ">
+      <persName>
+       רְאֵה-נָא
       </persName>
      </person>
      <person xml:id="tsir">
@@ -574,19 +594,9 @@
        וירגיליה
       </persName>
      </person>
-     <person xml:id="hַgֶּd-nָ">
-      <persName>
-       הַגֶּד-נָא
-      </persName>
-     </person>
      <person xml:id="tִitus lַrְtsְyus">
       <persName>
        טִיטוּס לַרְצְיוּס
-      </persName>
-     </person>
-     <person xml:id="ubְkhֵn">
-      <persName>
-       וּבְכֵן
       </persName>
      </person>
      <person xml:id="hrumi">
@@ -604,19 +614,9 @@
        אזרח שני
       </persName>
      </person>
-     <person xml:id="hֲַmֶn-lִi">
-      <persName>
-       הַאֲמֶן-לִי
-      </persName>
-     </person>
      <person xml:id="hsinturim">
       <persName>
        הסינטורים
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
       </persName>
      </person>
      <person xml:id="shlshsm">
@@ -654,6 +654,11 @@
        מתקשר שני
       </persName>
      </person>
+     <person xml:id="rְu-nָ">
+      <persName>
+       רְאוּ-נָא
+      </persName>
+     </person>
      <person xml:id="kuֹshְׁrִim">
       <persName>
        קוֹשְׁרִים
@@ -684,14 +689,14 @@
        קוריולנוס
       </persName>
      </person>
-     <person xml:id="ulְhֶfֶkhְ">
-      <persName>
-       וּלְהֶפֶךְ
-      </persName>
-     </person>
      <person xml:id="brutus">
       <persName>
        ברוּטוס
+      </persName>
+     </person>
+     <person xml:id="ubְkhֵn">
+      <persName>
+       וּבְכֵן
       </persName>
      </person>
      <person xml:id="hvֹlski">
@@ -707,11 +712,6 @@
      <person xml:id="vֹlumnih">
       <persName>
        ווֹלומניה
-      </persName>
-     </person>
-     <person xml:id="lָkhֶm">
-      <persName>
-       לָכֶם
       </persName>
      </person>
      <person xml:id="sitsinyus">
@@ -1333,7 +1333,7 @@
       מנניוס
      </speaker>
     </sp>
-    <sp who="ubְkhֵn">
+    <sp who="#ubְkhֵn">
      <speaker>
       וּבְכֵן
      </speaker>
@@ -2025,7 +2025,7 @@
       מנניוס
      </speaker>
     </sp>
-    <sp who="al-nָ">
+    <sp who="#al-nָ">
      <speaker>
       אַל-נָא
      </speaker>
@@ -2231,7 +2231,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rְֵh-nָ">
+    <sp who="#rְֵh-nָ">
      <speaker>
       רְאֵה-נָא
      </speaker>
@@ -2678,7 +2678,7 @@
       סיציניוס
      </speaker>
     </sp>
-    <sp who="ulְhֶfֶkhְ">
+    <sp who="#ulְhֶfֶkhְ">
      <speaker>
       וּלְהֶפֶךְ
      </speaker>
@@ -3571,7 +3571,7 @@
       ולריה
      </speaker>
     </sp>
-    <sp who="iְhִi-khִdְbָrַikhְ">
+    <sp who="#iְhִi-khִdְbָrַikhְ">
      <speaker>
       יְהִי-כִדְבָרַיִךְ
      </speaker>
@@ -3599,7 +3599,7 @@
       מרציוס
      </speaker>
     </sp>
-    <sp who="hִnֵּh-rָts">
+    <sp who="#hִnֵּh-rָts">
      <speaker>
       הִנֵּה-רָץ
      </speaker>
@@ -3645,7 +3645,7 @@
       מרציוס
      </speaker>
     </sp>
-    <sp who="hַgֶּd-nָ">
+    <sp who="#hַgֶּd-nָ">
      <speaker>
       הַגֶּד-נָא
      </speaker>
@@ -3976,7 +3976,7 @@
       מרציוס
      </speaker>
     </sp>
-    <sp who="rְu-nָ">
+    <sp who="#rְu-nָ">
      <speaker>
       רְאוּ-נָא
      </speaker>
@@ -5009,7 +5009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ubְkhֵn">
+    <sp who="#ubְkhֵn">
      <speaker>
       וּבְכֵן
      </speaker>
@@ -7303,7 +7303,7 @@
       סיציניוס
      </speaker>
     </sp>
-    <sp who="hֲַmֶn-lִi">
+    <sp who="#hֲַmֶn-lִi">
      <speaker>
       הַאֲמֶן-לִי
      </speaker>
@@ -9734,7 +9734,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -17753,7 +17753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dַּe-nָ">
+    <sp who="#dַּe-nָ">
      <speaker>
       דַּע-נָא
      </speaker>
@@ -18811,7 +18811,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiִּzְeֲku">
+    <sp who="#uַiִּzְeֲku">
      <speaker>
       וַיִּזְעֲקוּ
      </speaker>
@@ -19817,7 +19817,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lָkhֶm">
+    <sp who="#lָkhֶm">
      <speaker>
       לָכֶם
      </speaker>
@@ -20414,7 +20414,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiּuֹsֶf">
+    <sp who="#uַiּuֹsֶf">
      <speaker>
       וַיּוֹסֶף
      </speaker>

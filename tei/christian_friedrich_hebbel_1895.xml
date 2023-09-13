@@ -49,104 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="hshni">
+     <person xml:id="mlkhi rm">
       <persName>
-       השני
-      </persName>
-     </person>
-     <person xml:id="osd">
-      <persName>
-       אָסד
-      </persName>
-     </person>
-     <person xml:id="hzknim uhkhhnim">
-      <persName>
-       הזקנים והכהנים
-      </persName>
-     </person>
-     <person xml:id="hnkhd">
-      <persName>
-       הנכד
-      </persName>
-     </person>
-     <person xml:id="hm">
-      <persName>
-       האם
-      </persName>
-     </person>
-     <person xml:id="hzknim">
-      <persName>
-       הזקנים
-      </persName>
-     </person>
-     <person xml:id="hkhhn hshni">
-      <persName>
-       הכהן השני
-      </persName>
-     </person>
-     <person xml:id="hlufrnsh">
-      <persName>
-       הלופרנש
-      </persName>
-     </person>
-     <person xml:id="hmun hem">
-      <persName>
-       המון העם
-      </persName>
-     </person>
-     <person xml:id="benh">
-      <persName>
-       בּענה
-      </persName>
-     </person>
-     <person xml:id="hzkn">
-      <persName>
-       הזקן
-      </persName>
-     </person>
-     <person xml:id="khhn">
-      <persName>
-       כהן
-      </persName>
-     </person>
-     <person xml:id="shmul">
-      <persName>
-       שמואל
-      </persName>
-     </person>
-     <person xml:id="shh">
-      <persName>
-       אשה
-      </persName>
-     </person>
-     <person xml:id="srtsh">
-      <persName>
-       תרצה
-      </persName>
-     </person>
-     <person xml:id="hem">
-      <persName>
-       העם
-      </persName>
-     </person>
-     <person xml:id="hkhhn hrsh">
-      <persName>
-       הכהן הראש
-      </persName>
-     </person>
-     <person xml:id="hkhd">
-      <persName>
-       האחד
-      </persName>
-     </person>
-     <person xml:id="mnun">
-      <persName>
-       אמנון
-      </persName>
-     </person>
-     <person xml:id="dnil">
-      <persName>
-       דניאל
+       מלאכי ארם
       </persName>
      </person>
      <person xml:id="shlishi">
@@ -154,69 +59,9 @@
        שלישי
       </persName>
      </person>
-     <person xml:id="hkhhnim uhzknim">
+     <person xml:id="shmul">
       <persName>
-       הכהנים והזקנים
-      </persName>
-     </person>
-     <person xml:id="kulus mkrb hem">
-      <persName>
-       קולות מקרב העם
-      </persName>
-     </person>
-     <person xml:id="ish htsb">
-      <persName>
-       איש הצבא
-      </persName>
-     </person>
-     <person xml:id="akhyur">
-      <persName>
-       אַכיור
-      </persName>
-     </person>
-     <person xml:id="fkid tsb">
-      <persName>
-       פקיד צבא
-      </persName>
-     </person>
-     <person xml:id="akhd hzknim">
-      <persName>
-       אַחד הזקנים
-      </persName>
-     </person>
-     <person xml:id="frim">
-      <persName>
-       אפרים
-      </persName>
-     </person>
-     <person xml:id="shlish">
-      <persName>
-       שליש
-      </persName>
-     </person>
-     <person xml:id="hrshun">
-      <persName>
-       הראשון
-      </persName>
-     </person>
-     <person xml:id="shlish shni">
-      <persName>
-       שליש שני
-      </persName>
-     </person>
-     <person xml:id="hֶkhd">
-      <persName>
-       האֶחד
-      </persName>
-     </person>
-     <person xml:id="fkid">
-      <persName>
-       פקיד
-      </persName>
-     </person>
-     <person xml:id="khhn shni">
-      <persName>
-       כהן שני
+       שמואל
       </persName>
      </person>
      <person xml:id="hkhhn hrshun">
@@ -224,59 +69,14 @@
        הכהן הראשון
       </persName>
      </person>
-     <person xml:id="shmeihu">
+     <person xml:id="hm">
       <persName>
-       שמעיהו
+       האם
       </persName>
      </person>
-     <person xml:id="akhd hshlishim">
+     <person xml:id="kulus mkrb hem">
       <persName>
-       אַחד השלישים
-      </persName>
-     </person>
-     <person xml:id="ֵm">
-      <persName>
-       אֵם
-      </persName>
-     </person>
-     <person xml:id="shni">
-      <persName>
-       שני
-      </persName>
-     </person>
-     <person xml:id="mlkhi rm">
-      <persName>
-       מלאכי ארם
-      </persName>
-     </person>
-     <person xml:id="akhd hkhhnim">
-      <persName>
-       אַחד הכהנים
-      </persName>
-     </person>
-     <person xml:id="shumr hsf">
-      <persName>
-       שומר הסף
-      </persName>
-     </person>
-     <person xml:id="shh khrs">
-      <persName>
-       אשה אחרת
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="hfkid">
-      <persName>
-       הפקיד
-      </persName>
-     </person>
-     <person xml:id="bn-eir shlishi">
-      <persName>
-       בן-עיר שלישי
+       קולות מקרב העם
       </persName>
      </person>
      <person xml:id="khyur">
@@ -284,44 +84,14 @@
        אכיור
       </persName>
      </person>
-     <person xml:id="hushe">
-      <persName>
-       הושע
-      </persName>
-     </person>
-     <person xml:id="hhmun">
-      <persName>
-       ההמון
-      </persName>
-     </person>
-     <person xml:id="ihudis">
-      <persName>
-       יהודית
-      </persName>
-     </person>
      <person xml:id="benh">
       <persName>
-       בענה
+       בּענה
       </persName>
      </person>
-     <person xml:id="khd hhmun">
+     <person xml:id="shmeihu">
       <persName>
-       אחד ההמון
-      </persName>
-     </person>
-     <person xml:id="dlih">
-      <persName>
-       דליה
-      </persName>
-     </person>
-     <person xml:id="khd hem">
-      <persName>
-       אחד העם
-      </persName>
-     </person>
-     <person xml:id="fkid htsb">
-      <persName>
-       פקיד הצבא
+       שמעיהו
       </persName>
      </person>
      <person xml:id="hkhhn">
@@ -329,24 +99,44 @@
        הכהן
       </persName>
      </person>
-     <person xml:id="hshlishim">
+     <person xml:id="akhyuֹr">
       <persName>
-       השלישים
+       אַכיוֹר
       </persName>
      </person>
-     <person xml:id="hshh">
+     <person xml:id="akhd hzknim">
       <persName>
-       האשה
+       אַחד הזקנים
       </persName>
      </person>
-     <person xml:id="nshim">
+     <person xml:id="khd hem">
       <persName>
-       נשים
+       אחד העם
       </persName>
      </person>
-     <person xml:id="hmlkh">
+     <person xml:id="dnil">
       <persName>
-       המלאך
+       דניאל
+      </persName>
+     </person>
+     <person xml:id="dlih">
+      <persName>
+       דליה
+      </persName>
+     </person>
+     <person xml:id="khhn">
+      <persName>
+       כהן
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="fkid tsb">
+      <persName>
+       פקיד צבא
       </persName>
      </person>
      <person xml:id="hshlish">
@@ -354,29 +144,24 @@
        השליש
       </persName>
      </person>
-     <person xml:id="akhyuֹr">
+     <person xml:id="ֵm">
       <persName>
-       אַכיוֹר
+       אֵם
       </persName>
      </person>
-     <person xml:id="khd hmlkhim">
+     <person xml:id="akhd hkhhnim">
       <persName>
-       אחד המלאכים
+       אַחד הכהנים
       </persName>
      </person>
-     <person xml:id="ihushe">
+     <person xml:id="hshh">
       <persName>
-       יהושע
+       האשה
       </persName>
      </person>
-     <person xml:id="khd hshlishim">
+     <person xml:id="shh">
       <persName>
-       אחד השלישים
-      </persName>
-     </person>
-     <person xml:id="hmlkhim">
-      <persName>
-       המלאכים
+       אשה
       </persName>
      </person>
      <person xml:id="hshumrim">
@@ -384,14 +169,229 @@
        השומרים
       </persName>
      </person>
-     <person xml:id="hmshrs">
+     <person xml:id="osd">
       <persName>
-       המשרת
+       אָסד
+      </persName>
+     </person>
+     <person xml:id="hmlkh">
+      <persName>
+       המלאך
+      </persName>
+     </person>
+     <person xml:id="frim">
+      <persName>
+       אפרים
+      </persName>
+     </person>
+     <person xml:id="khhn shni">
+      <persName>
+       כהן שני
+      </persName>
+     </person>
+     <person xml:id="ihudis">
+      <persName>
+       יהודית
+      </persName>
+     </person>
+     <person xml:id="hnkhd">
+      <persName>
+       הנכד
+      </persName>
+     </person>
+     <person xml:id="shni">
+      <persName>
+       שני
+      </persName>
+     </person>
+     <person xml:id="hzknim uhkhhnim">
+      <persName>
+       הזקנים והכהנים
+      </persName>
+     </person>
+     <person xml:id="shlish">
+      <persName>
+       שליש
+      </persName>
+     </person>
+     <person xml:id="hmlkhim">
+      <persName>
+       המלאכים
+      </persName>
+     </person>
+     <person xml:id="hmun hem">
+      <persName>
+       המון העם
+      </persName>
+     </person>
+     <person xml:id="hhmun">
+      <persName>
+       ההמון
+      </persName>
+     </person>
+     <person xml:id="hkhhn hrsh">
+      <persName>
+       הכהן הראש
+      </persName>
+     </person>
+     <person xml:id="srtsh">
+      <persName>
+       תרצה
+      </persName>
+     </person>
+     <person xml:id="hzkn">
+      <persName>
+       הזקן
       </persName>
      </person>
      <person xml:id="sd">
       <persName>
        אסד
+      </persName>
+     </person>
+     <person xml:id="ihushe">
+      <persName>
+       יהושע
+      </persName>
+     </person>
+     <person xml:id="hshni">
+      <persName>
+       השני
+      </persName>
+     </person>
+     <person xml:id="hfkid">
+      <persName>
+       הפקיד
+      </persName>
+     </person>
+     <person xml:id="hlufrnsh">
+      <persName>
+       הלופרנש
+      </persName>
+     </person>
+     <person xml:id="mnun">
+      <persName>
+       אמנון
+      </persName>
+     </person>
+     <person xml:id="hshlishim">
+      <persName>
+       השלישים
+      </persName>
+     </person>
+     <person xml:id="hmshrs">
+      <persName>
+       המשרת
+      </persName>
+     </person>
+     <person xml:id="benh">
+      <persName>
+       בענה
+      </persName>
+     </person>
+     <person xml:id="shumr hsf">
+      <persName>
+       שומר הסף
+      </persName>
+     </person>
+     <person xml:id="khd hhmun">
+      <persName>
+       אחד ההמון
+      </persName>
+     </person>
+     <person xml:id="hֶkhd">
+      <persName>
+       האֶחד
+      </persName>
+     </person>
+     <person xml:id="akhd hshlishim">
+      <persName>
+       אַחד השלישים
+      </persName>
+     </person>
+     <person xml:id="hushe">
+      <persName>
+       הושע
+      </persName>
+     </person>
+     <person xml:id="khd hshlishim">
+      <persName>
+       אחד השלישים
+      </persName>
+     </person>
+     <person xml:id="shlish shni">
+      <persName>
+       שליש שני
+      </persName>
+     </person>
+     <person xml:id="hkhd">
+      <persName>
+       האחד
+      </persName>
+     </person>
+     <person xml:id="nshim">
+      <persName>
+       נשים
+      </persName>
+     </person>
+     <person xml:id="khd hmlkhim">
+      <persName>
+       אחד המלאכים
+      </persName>
+     </person>
+     <person xml:id="hrshun">
+      <persName>
+       הראשון
+      </persName>
+     </person>
+     <person xml:id="fkid htsb">
+      <persName>
+       פקיד הצבא
+      </persName>
+     </person>
+     <person xml:id="bn-eir shlishi">
+      <persName>
+       בן-עיר שלישי
+      </persName>
+     </person>
+     <person xml:id="shh khrs">
+      <persName>
+       אשה אחרת
+      </persName>
+     </person>
+     <person xml:id="hkhhn hshni">
+      <persName>
+       הכהן השני
+      </persName>
+     </person>
+     <person xml:id="akhyur">
+      <persName>
+       אַכיור
+      </persName>
+     </person>
+     <person xml:id="ish htsb">
+      <persName>
+       איש הצבא
+      </persName>
+     </person>
+     <person xml:id="hem">
+      <persName>
+       העם
+      </persName>
+     </person>
+     <person xml:id="fkid">
+      <persName>
+       פקיד
+      </persName>
+     </person>
+     <person xml:id="hkhhnim uhzknim">
+      <persName>
+       הכהנים והזקנים
+      </persName>
+     </person>
+     <person xml:id="hzknim">
+      <persName>
+       הזקנים
       </persName>
      </person>
     </listPerson>
@@ -413,7 +413,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="ihudis">
+   <sp who="#ihudis">
     <speaker>
      יהודית
     </speaker>
@@ -831,7 +831,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -839,7 +839,7 @@
       .   הגישו הזבח!
      </p>
     </sp>
-    <sp who="hkhhn hrsh">
+    <sp who="#hkhhn hrsh">
      <speaker>
       הכהן הראש
      </speaker>
@@ -847,7 +847,7 @@
       .  למי מאלהינו האדירים?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -855,7 +855,7 @@
       .   ולמי הקריבו אתמול?
      </p>
     </sp>
-    <sp who="hkhhn hrsh">
+    <sp who="#hkhhn hrsh">
      <speaker>
       הכהן הראש
      </speaker>
@@ -863,7 +863,7 @@
       .  אתה צוית להפיל גורלות, ויעל הזבח בגורל הבעל.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -871,7 +871,7 @@
       .   אם כן אפוא הבעל איננו רעב עוד היום. ועתה קטר יקטרו לאל אשר תדעוהו כלכם ואף גם זאת לא תדעוהו!
      </p>
     </sp>
-    <sp who="hkhhn hrsh">
+    <sp who="#hkhhn hrsh">
      <speaker>
       הכהן הראש
      </speaker>
@@ -882,7 +882,7 @@
       הלופרנש מצוה להקטיר לאל אשר נדע כלנו ואף גם זאת לא נדענו!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -895,7 +895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -903,7 +903,7 @@
       .   שליש!
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -911,7 +911,7 @@
       . מה יצוה הלופרנש?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -919,7 +919,7 @@
       .   מי בכל אנשי חילי אשר דבר לו להתאונן על פקידו, יגש אלי. הודיעה זאת!
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -930,7 +930,7 @@
       מי בכם אשר דבר לו להתאונן על פקידו יגש לפני הלופרנש!
      </p>
     </sp>
-    <sp who="ish htsb">
+    <sp who="#ish htsb">
      <speaker>
       איש הצבא
      </speaker>
@@ -938,7 +938,7 @@
       .   קובל אני על פקידי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -946,7 +946,7 @@
       .   על מה?
      </p>
     </sp>
-    <sp who="ish htsb">
+    <sp who="#ish htsb">
      <speaker>
       איש הצבא
      </speaker>
@@ -954,7 +954,7 @@
       .   תמול שביתי לי בסערת המלחמה עלמה יפת תאר מאד. מברק עיניה השחורות והגדולות חתי, נסוגותי אחור ולא ערבתי את לבי לנגע בה. לפנות ערב יצאתי מאהלי ואעש כה וכה, והנה זה בא הפקיד את האהל ובראותו את הנערה חמד יפיה בלבבו וינסה דבר אליה, וכאשר התקוממה לו, דקר אותה בחרבו וימיתנה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -968,7 +968,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ish htsb">
+    <sp who="#ish htsb">
      <speaker>
       איש הצבא
      </speaker>
@@ -976,7 +976,7 @@
       .   הגם אותי צוית להמית?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -984,7 +984,7 @@
       .   על עזותך. הן אך לנסותכם הוצאתי את הפקודה הזאת; כי אם אטה אֹזן לתלונות אנשי הצבא על פקידיהם לשפט משפטם, מי הוא זה אשר יסך לי מתלונות פקידי הצבא אשר ילונו עלי!
      </p>
     </sp>
-    <sp who="ish htsb">
+    <sp who="#ish htsb">
      <speaker>
       איש הצבא
      </speaker>
@@ -992,7 +992,7 @@
       .   אך למענך נמנעתי מנגע בה; אמר אמרתי להביאנה אליך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1002,7 +1002,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1013,7 +1013,7 @@
       צו לאסור את הגמלים!
      </p>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -1021,7 +1021,7 @@
       . כדברך עשיתי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1029,7 +1029,7 @@
       .   עשית? הכבר צויתיך לעשות זאת?
      </p>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -1037,7 +1037,7 @@
       . לא; אך אמור אמרתי: עוד מעט וצוית לעשות כדבר הזה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1045,7 +1045,7 @@
       .   מי אתה, כי תערב את לבך לגנב את מחשבות לבבי? אין לי חפץ בדבר הזה! רצוני הוא האחד והמעשה אשר תעשון – השנים, ולא להפך. השמעתי?!
      </p>
     </sp>
-    <sp who="hfkid">
+    <sp who="#hfkid">
      <speaker>
       הפקיד
      </speaker>
@@ -1056,7 +1056,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1067,7 +1067,7 @@
       אך זו היא חכמה להתחפש ולהסתר תמיד, להיות מעֻלף בחידות עולמים – רואה ואינו נראה! וזאת החכמה, המים לא ידעוה; כבר בא האדם עד תכונתם ויבן לים חפי מבטחים ויפלג לשטף הנהר תעלה. גם האש לא באה בסודה; כבר נודע טבעה גם לטבחות הנבערות אשר אחר הכירים, ועתה יתעמר בה כל נבזה וחדל אישים ויבשל בה את תבשילו. השמש גם היא לא תבן לה; האדם הבין דרכה במרום השמים וידע מוצאה ומבואה ותקופתה בכל נתיבותיה, וכל חיט וסנדלר ימד לצלה את העת לשעות ולרגעים. אני אך אני אדענה. פה יארבו לי מסביב, יביטו וישקיפו מבעד לחרכי נפשי ואֶשנבּיה אל קרבי פנימה; מכל הגה, מכל מלה אשר תתמלט מפי יאמרו לעשות להם מפתח לחדר לבי הסגור ומסגר; אך לשוא עמלם! היום אינני עוד את אשר הייתי אתמול, אף לא אחד הפתאים הנני, אשר בגאות אולתם יכרעו ברך לפני גדלם ותפארתם הם; בחפ לב אקרע לגזרים את הלופרנש החי היום ואת הגזרים האלה אתן לברות להלופרנש אשר יהיה מחר. לא העבודה הננאסה למלא ולהשׂביע את המעים היא החיים בעיני, כי אם התחדשות ההויה והתילדותה התמידית. אמנם יש אשר אדמה כי בכל ההמון הגס והנבער הזה אך אני הוא האחד החי והמרגיש, ורבבות היצורים האלה יחלו לחוש את נפשם אך בעת שברי אזרועם מקנה, או ברגע הסירי את ראשי מעליהם. גם המה כבר החלו להבין זאת יותר ויותר, אך תחת לבקש את קרבתי ולהתרומם עלי, יסוגו אחור בשפלות רוחם וינוסו מפני כאשר תנוס הארנבת מפני הלהבה פן תבער ותלחך את שערה. הוי! לוּ היה לי אך אויב אחד, אך אחד, אשר יערב את לבו להתיצב בפני, כי אז חבקתיו ונשקתיו מנשיקות פי, ובשומי אותו מרמס לרגלי, אחרי מלחמה קשה וארוכה, התנפלתי עליו ומתי עמו יחד! זה האיש נבוכדנצר אינו אלא מספר גדול, אשר יבלה את עתו אך בהשנותו ובהכפלו בעצמו בלי הרף. כאשר יגָרע מן המספר הזה אני ואַשוּר לא ישאר ממנו בלתי אם עור אדם ממֻלא בשר וחֵלב. את כל עמי הארץ אכניע לפניו ואז – אשוב ולקחתים ממנו!
      </p>
     </sp>
-    <sp who="fkid">
+    <sp who="#fkid">
      <speaker>
       פקיד
      </speaker>
@@ -1075,7 +1075,7 @@
       .  מלאך בא הנה מכבוד אדוננו המלך הגדול.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1087,7 +1087,7 @@
       ערף, העודך רך כקנה כי תִכף לפניו? נבוכדנצר דואג לך תמיד לבל תשכח את התורה הזאת.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1095,7 +1095,7 @@
       . נבוכדנצר, המביט לארץ ותרעד, ואשר לו העז והממשלה ממזרח שמש עד מבואו, שולח לשר צבאו להלופרנש את ברכתו, ברכת העז.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1103,7 +1103,7 @@
       .   בהכנעה אחכה לשמוע את פקודותיו.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1111,7 +1111,7 @@
       . אין חפץ למלך כי יעבדו אלהים אחרים על פניו.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1122,7 +1122,7 @@
       לא אפונה כי שמע נצחונותי החדשים העיר חפץ כזה בלבבו.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1130,7 +1130,7 @@
       . נבוכדנצר מצוה להקטיר זבח ומנחה אך לו לבדו, ולנתץ ולאבד את כל היכלי אלהים אחרים ולהרס את מזבחותיהם.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1145,7 +1145,7 @@
       אין זאת כי לא ידע המלך כאב-שנים בחדש הזה.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1153,7 +1153,7 @@
       . הודות והלל לכל האלהים האדירים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1161,7 +1161,7 @@
       .   הלא כה תאמר: הודות והלל לו בעצמו.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1169,7 +1169,7 @@
       . נבוכדנצר מצוה להקטיר לו זבח ומנחה בבקר בבקר בזרוח השמש על הארץ.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1177,7 +1177,7 @@
       .   אם כן אחרת לבוא היום; וכבוא השמש נקטיר לו היום את הזבח לריח ניחוח.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1185,7 +1185,7 @@
       . אך הואיל נבוכדנצר לצות לך, הלופרנש, כי תשמור את נפשך מאד לבלתי שום נפש בכף בכל מקרה ופגע במלחמה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1193,7 +1193,7 @@
       .   כן, ידידי, לוּ יכלו החרבות לעשות תושיה מבלי אשר תאחז בהן יד האדם! ואמנם – הנה אין דבר אשר יכשיל כחי ככוס היין, אשר אשא תמיד לחיי המלך, וממנה הן לא אוכל לחדל.
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1201,7 +1201,7 @@
       . נבוכדנצר אומר, כי אין איש בכל עבדיו, אשר יוכל למלא את מקומך וכי רבה עוד העבודה לפניך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1211,7 +1211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1219,7 +1219,7 @@
       .   שליש!
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -1227,7 +1227,7 @@
       . מה יצוה הלופרנש?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1235,7 +1235,7 @@
       .   אין אלהים זולתי נבוכדנצר. צא והכרז.
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -1248,7 +1248,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1256,7 +1256,7 @@
       .   השמעת, כהן, את אשר צויתי להכריז?
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -1264,7 +1264,7 @@
       . שמעתי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1272,7 +1272,7 @@
       .   לך אפוא ושברת את הבעל לרסיסים. את עצו נתתי לך לתשורה.
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -1280,7 +1280,7 @@
       . אבל איך אוכל ושברתי את אשר עבדתי וכבדתי עד עתה?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1288,7 +1288,7 @@
       .   אם אלהים הוא ירב לו. ואתה תעשה אחת משתי אלה: או תשבר את הבעל או תתלה על עץ.
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -1300,7 +1300,7 @@
       צמידי זהב על אזרועות הבעל.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1310,7 +1310,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1318,7 +1318,7 @@
       .   הַנֻפַּץ הבעל?
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -1326,7 +1326,7 @@
       . הנה הוא בוער באש; יסלח נא לעוני.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1334,7 +1334,7 @@
       .   אין אלהים זולתי נבוכדנצר. ואתה צֻוית להעמיק חקר ולהמציא יסודות האמונה החדשה הזאת, ואני אשלם לך בזהב שכר התורה הזאת. ראה נתתי לך מועד שלשת ימים.
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -1345,7 +1345,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="fkid tsb">
+    <sp who="#fkid tsb">
      <speaker>
       פקיד צבא
      </speaker>
@@ -1353,7 +1353,7 @@
       .   מלאכים באו הנה לשחר פניך בשם מלכם.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1361,7 +1361,7 @@
       .   מה שמו כי אדע?
      </p>
     </sp>
-    <sp who="fkid htsb">
+    <sp who="#fkid htsb">
      <speaker>
       פקיד הצבא
      </speaker>
@@ -1369,7 +1369,7 @@
       .  סלח נא; זכרוני ילא לקרא בשם את כל המלכים הנכנעים לפניך, ועל כן לא אדע לענותך הפעם.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1380,7 +1380,7 @@
       הא לך שכר אי-הדעת הנעימה הזאת. הביאם הנה.
      </p>
     </sp>
-    <sp who="hmlkhim">
+    <sp who="#hmlkhim">
      <speaker>
       המלאכים
      </speaker>
@@ -1391,7 +1391,7 @@
       ככה ישתחוה מלך לוב לפניך אפים ארצה, כאשר תואיל להופיע בעיר מלכותו.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1399,7 +1399,7 @@
       .   ומדוע לא באתם אלי תמול, שלשם?
      </p>
     </sp>
-    <sp who="hmlkhim">
+    <sp who="#hmlkhim">
      <speaker>
       המלאכים
      </speaker>
@@ -1407,7 +1407,7 @@
       .   אדונינו!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1415,7 +1415,7 @@
       .   הרחוק מכם הדרך או החפץ להכנע מפני?
      </p>
     </sp>
-    <sp who="hmlkhim">
+    <sp who="#hmlkhim">
      <speaker>
       המלאכים
      </speaker>
@@ -1423,7 +1423,7 @@
       .   אוי לנו!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1438,7 +1438,7 @@
       קומו ואמרו לאדוניכם המלך –
      </p>
     </sp>
-    <sp who="fkid tsb">
+    <sp who="#fkid tsb">
      <speaker>
       פקיד צבא
      </speaker>
@@ -1449,7 +1449,7 @@
       מלאכים באו מארם נהרים!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1457,7 +1457,7 @@
       .   הביאם הנה.
      </p>
     </sp>
-    <sp who="mlkhi rm">
+    <sp who="#mlkhi rm">
      <speaker>
       מלאכי ארם
      </speaker>
@@ -1468,7 +1468,7 @@
       ארם נהרים תכנע ביראת הכבוד לפני הלופרנש הגדול, אם אך יאיר פניו אליה ונטה לה חסד.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1476,7 +1476,7 @@
       .   את חסדי לא אמכר במחיר, כי בנדבה אתנהו.
      </p>
     </sp>
-    <sp who="mlkhi rm">
+    <sp who="#mlkhi rm">
      <speaker>
       מלאכי ארם
      </speaker>
@@ -1484,7 +1484,7 @@
       .  לא כן; ארם נכנעת לפניך בלי כל תנאי, אך היא מקוה לחסדך הגדול.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1492,7 +1492,7 @@
       .   ואני טרם אדע אם תבוא תקותה זאת. מדוע התמהמהתם עד הנה?
      </p>
     </sp>
-    <sp who="hmlkhim">
+    <sp who="#hmlkhim">
      <speaker>
       המלאכים
      </speaker>
@@ -1500,7 +1500,7 @@
       .   לא בארצנו התמהמהנו, כי אם בדרך הרחוקה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1508,7 +1508,7 @@
       .   אחת היא לי. כבר נשבעתי באפי להשמיד ולאבד את העם אשר יכנע לפני לאחרונה, ואת שבועתי לא אחלל.
      </p>
     </sp>
-    <sp who="hmlkhim">
+    <sp who="#hmlkhim">
      <speaker>
       המלאכים
      </speaker>
@@ -1516,7 +1516,7 @@
       .   איננו האחרוני, אדוני. בהיותנו בדרך שמענו כי עם העברים הוא העם האחד בכל עמי הארץ אשר יעז להתקומם נגדך וכבר בנה מצדות וצריחים להתבצר מפניך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1532,7 +1532,7 @@
       מי המה העברים?
      </p>
     </sp>
-    <sp who="khd hmlkhim">
+    <sp who="#khd hmlkhim">
      <speaker>
       אחד המלאכים
      </speaker>
@@ -1540,7 +1540,7 @@
       . אדוני, עם תועי לבב הם. הן גאות עזותם לבדה להתקומם נגדך תען בם, כי אין ברוחם נכונה. ואף גם זאת כי יעבדו ויתפללו לאל אשר לא יראו פניו ולא ישמעו את קולו, ואין מהם יודע איה מקום מנוחתו; ובכל זאת יקטיור לו זבחים ועולות לכפר פניו, כאלו השקיף אליהם מעל המזבח בחמת זעם כאחד מאלהינו האדירים. הנה הם יושבים שם בין ההרים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1548,7 +1548,7 @@
       .   מה הערים אשר הם יושבים בהן, מה מצבם, מה שם המלך המושל בהם ומה מספר אנשי מלחמתם?
      </p>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -1556,7 +1556,7 @@
       . זה עם לבדד ישכון, עם לא אֵמון בו ושונא לכל העמים. כל דרכיהם ועלילותיהם, מצבם וגבורתם נעלמו מאתנו כאשר נעלם מהם אלהיהם המסתתר. דבר אין להם עם העמים שכניהם; לא יאכלו מלחמנו, ולא ישתו מייננו, אך הִלָחֵם הם נלחמים אתנו.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1574,7 +1574,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1582,7 +1582,7 @@
       .   מה הוא העם היושב שם בין ההרים?
      </p>
     </sp>
-    <sp who="akhyuֹr">
+    <sp who="#akhyuֹr">
      <speaker>
       אַכיוֹר
      </speaker>
@@ -1590,7 +1590,7 @@
       . ידעתי, אדוני, את העם הזה ויכול אוכל להגיד לך את דרכיו ומשפטו. העם הזה נתעב ונאלח בצאתו חמוש בחרבות ורמחים נגד האויב; הנשק אך כלי משחק הוא בידיהם, אשר ישבר ויתמולל ביד אלהיהם; כי אין לו חפץ בגבורת ימינם המגאָלה בדמים, אך ידו הוא תרעץ את אויביהם. אבל נורא הוא העם הזה בהיותו תמים עם אלהיו, בהכניעו את לבבו הערל, בכרעו ברך לפניו ויתפלל אליו בבכי ובתחנונים ושק ואפר יציע; כי אז כמו ישֻנוּ פני התבל, הטבע ישכח את חקיו ומשטריו, ואשר לא יוכל היות יקום ויהיה; הים יבקע, משבריו האדירים יערמו ויעמדו כמו נד, וביניהם תעברנה מסלות לעמו אשר אהב, משמים ימטיר להם לחם לשבע ומחלמיש צורים יזלו פלגימים!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1598,7 +1598,7 @@
       .   ומה שם אלהיהם?
      </p>
     </sp>
-    <sp who="akhyuֹr">
+    <sp who="#akhyuֹr">
      <speaker>
       אַכיוֹר
      </speaker>
@@ -1606,7 +1606,7 @@
       . עון פלילי הוא לקרא לו בשם, ואיש מבני הנכר בנקבו שם אלהיהם, ומת כרגע.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1614,7 +1614,7 @@
       .   ומה שם הערים אשר הם יושבים בהן?
      </p>
     </sp>
-    <sp who="akhyuֹr">
+    <sp who="#akhyuֹr">
      <speaker>
       אַכיוֹר
      </speaker>
@@ -1625,7 +1625,7 @@
       בּתוּל שם העיר ההיא הקרובה אלינו ואשר תראה משם לעיניו, ובה התבצרו עתה מפנינו; ושם עירם הראשה ירושלים. אני הייתי בה וארא שם את מקדש אלהיהם אשר אין על עפר משלו ביפי והדר. בעמדי לפנים משתאה ומשתומם כרעו ברכי מבלי משים, ראשי השתוחח לארץ ואפל אפים ארצה ואני לא ידעתי, כמו היתה עלי יד חזקה ותשליכני ארצה. עוד מעט וסקלוני שמה, כי בקומי ואעמד על רגלי גבר בי החפץ לחדר אל המקדש הנהדר והנאדר בקדש פנימה, והאיש העושה זאת אחת דתו להמית. נערה יפה אחת חסמה לפני את הדרך ותאמר לי כדברים האלה; לא אדע אם מחמלתה על ימי עלומי ואם מדאגה מדבר פן יחֻלל המקדש בבוא בשעריו איש נכרי אשר מבני הגוים. ועתה שמעני נא, אדוני, ושים לבך לדברי: חקר נא ודרש היטב אם חטא העם הזה לאלהיו; אם עשו ככה, הבה, נקומה ונעלה עליהם למלחמה ונתנם אלהיהם בידך והיו למרמס תחת כפות רגליך; אך אם נאמנה רוחם את אלהיהם ואת בריתו לא חללו, שטה מעליהם ועבר, כי אלהיהם הגדול יסך עליהם ואנחנו נהיה ללעג ולקלס לכל עמי הארץ. אמנם גבור נערץ אתה, אדוני, אך אלהיהם יגבר ממך. אם אין עוד גבור כמוך בכל הארץ, אשר יבחר בו להקימהו נגדך, יש לאל ידו להקים את נפשך לאויב לך ובידיך אתה תהגה את הלופרנש מן המסלה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -1647,7 +1647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1655,7 +1655,7 @@
       . ומה תאמרי לחלומי זה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1663,7 +1663,7 @@
       . הלא תשמעי לאשר אני מדברת אליך הפעם.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1671,7 +1671,7 @@
       . הלכתי, הלכתי ואמהר מאד מבלי דעת אנה זה תשאוני רגלי. יש אשר עמדתי רגע לנוח ואצלל בים מחשבות – פתאֹם התעוררתי, ויהי לי הדבר הזה כעון גדול מנשא. “הלאה! הלאה!” הקשבתי קול עולה ממעמקי נפשי, ואמהר לרוץ מבראשונה.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1679,7 +1679,7 @@
       . זה עתה עבר אפרים לפני ביתנו, ופניו היו נוגים ועצובים מאד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1690,7 +1690,7 @@
       ופתאם והנה אני עומדת על הר גבוה ונשא מאד וראשי סחרחר; אז גבה לבבי, השמש קרובה אלי מאד ואני אניד לה בראשי ואביט מעלה מעלה. מבלי משים העיפותי עיני למטה והנה – תהום רובצת לרגלי, תהום עמֻקה ורחבה, אפלה ומלאה עשן וקיטור. ראיתי כי לא אוכל עוד לשוב על עקבי אף לא לעמוד על עמדי במנוחה! ובראש סובב עלי כגלגל העפלתי עלות הלאה, מעלה; אלי, אלי! קראתי במצוקת נפשי – וקול עלה באזני ממעמקי התהום, קול נעים ורך, מלא אהבה ורחמים: הנני, הנני! - - קפצתי התהומה, וזרועות אהבה קדמוני ותחבקנה ותלחצנה אותי אל חזה איש אשר לא ראיתי, ואתענג ענג אין-קץ, אך הזרועות הנעימות לא תעצרנה כח להחזיק בי עוד והנני טובעת, טובעת מטה, מטה, ואזני תשמענה קול בכי תמרורי ממעל לראשי ודמעות רותחות תזלנה, תפלנה על לחיי. –
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1698,7 +1698,7 @@
       . אני יודעת איש היודע חלום לפתר אותו; האלך וקראתיו לבוא אליך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1706,7 +1706,7 @@
       . התורה תצונו לבלי עשות כדבר הזה. אך זאת אדע נאמנה, כי החלומות כאלה לא קלי-ערך המה! שמעי נא את אשר יחשב לבבי על דבר החלומות. כאשר יישן האדם, תֻּתַּר הנפש מעבותות החמר ולא תכלא עוד בחוג הצר של דעת עצמותה, אז יעור חוש העתידות והדף מפניו את מחזות ההוה ומחשבותיו, ומקרי הימים הבאים יעברו לפניה כצללים והכינו את לבבנו והזהירונו ונחמונו. הוא הדבר, אשר אין מקרה ופגע אשר יבואנו ואשר נאמר עליו: ראה זה חדש הוא, אשר לא פללנו ולא עלה על לבנו שככה יקרנו; אל הטוב אשר יבואנו נקוה בבטחה מראש, ומפני הרע נגור בלי דעת עוד בטרם יבוא. יש אשר אשאל לנפשי אם יחלם האדם גם ברגעי חייו האחרונים.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1714,7 +1714,7 @@
       . מדוע זה תמאני שמע תמיד בדַבּרי באפרים?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1722,7 +1722,7 @@
       . יען כי פלצות תאחזני מפני הגברים.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1730,7 +1730,7 @@
       . ובכל זאת נשאת לאיש?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1738,7 +1738,7 @@
       . הפעם אגלה לך סוד כמוס עמדי: אישי היה – משגע.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1746,7 +1746,7 @@
       . אי-אפשר! כי איככה נעלם הדבר הזה מעיני?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1754,7 +1754,7 @@
       . כן, הוא היה משגע; אחרת לא אוכל להגיד, אם לא אפחד ואבהל מנפשי אני, אם לא אֹבה להאמין כי יצור מבהיל ונורא אני, כי מפלצת הנני, או כי אין ברוחי נכונה. הנה בטרם מלאו לי עוד ארבע עשרה שנה הביאוני אל בית מנשה להיות לו לאשה. הן זכור תזכרי עוד את הערב ההוא, כי אז נלוית אלי גם את; בכל צעד ושעל אשר הלכתי הלוך וקרוב אל ביתו נרעש ונפעם לבבי יותר ויותר. יש אשר חשבתי, כי עוד מעט ובא הקץ לחיי, ויש אשר עלה על לבבי כי עוד מעט והחלותי לחיות ולהתענג בהחיי, והערב ההוא, הה, מה רב החן, מה רב הקסם והנעימות אשר מלאוהו! הרוח הצח אשר נשף וינפנף וישתעשע בשולי צעיפי הסרוח לארץ התרומם רגע ויסר את הצעיף מעל פני, כמו היה עם לבבו להגיד לי חרש: “הנה באה העת!” אך ידי אחזה מהר בצעיף, כי ידעתי את פני והנם אדומים כתולע ברגעים ההם, ואבוש מאד. אבי הלך על ידי שקוע במחשבותיו, שפתיו דובבו אלי בדממה מלים מספר, אך אזני כבדו אז משמוע. יש אשר נשאתי עיני ואביט אל פניו אשר אמרתי בלבי: מה שונים פני מנשה מן הפנים האלה. הלא התבוננת אז אל כל אלה? הן גם את היית אז עמדי.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1762,7 +1762,7 @@
       . התבוננתי ואבוש גם אני עמך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1770,7 +1770,7 @@
       . אז באתי אל ביתו, ואמו הזקנה קדמה פני בשמחה וגיל. מה כבד אז ממני לקרא לה: “אמי”! האמנתי כי אמי תחוש זאת בקבר, ונפשה תאבל עליה מאד. אז נגשת אלי ותסוכיני בשמן המור ובתמרוקי נרד ואהלות, ועצבת נוראה לחצה את לבבי ברגעים ההם: נדמה נדמה לי כמו מתה הנני, ואת היא המושחת בשמן את גויתי הקרה! אף אמרתי לי אז כי פני חורו מאד. אז הופיע מנשה החדרה ויבט אלי לראשונה בבשת פנים, אחר התבונן בי בבטחה, ולאחרונה, כאשר נגש אלי ויחבק את ידי, אף פתח שפתיו לדבר אתי ולא יכל, כי פתאם נאלם דומיה, - אז נדמה לי כמו להטה בי אש תפת ולהבת שלהבת תתפרץ מקרב לבבי ותשתפך מסביב לי בנהרי נחלי אש. – סלחי נא לחטאת שפתי.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1778,7 +1778,7 @@
       . אז כסתי פניך בצעיף רגעים מספר ואחרי כן התרוממת מהר ממושבך ותפלי על צואריו. ואני חרדתי אליך חרדה גדולה מאד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1786,7 +1786,7 @@
       . ראיתי זאת ואשחק לחרדת לבבך, כי הייתי אז בעיני כמו חכמתי רגע הרבה יתר ממך. ועתה שמעיני, תרצה. אז הלכנו שנינו החדרה; הזקנה עשתה לעינינו דברים זרים שונים, שפתיה נעו בדממה, כמו לחשו לנו ברכה; ואולם אך יצאה מאת פנינו ונשארנו שנינו בבית בא פחד בלבבי ורוחי נפעם שנית. שלשה נרותה אירו את החדר ומנשה הרים ידו לכבותם; אל נא, אל נא! התחנני אליו; הוי, פתיה נעימה! קרא אלי וימשכני אליו – אז כבה נר אחד, ואנחנו לא התבוננו; הוא חבקני וישק לי, אז כבה הנר השני, מנשה נבעת פתאם ויתנודד ואני אחריו; אך כרגע התאושש ויאמר בצחוק: ואת השלישי אכבה אני; מהרה, חושה, קראתי אליו, וכל גוי רעד כמו מקרה; ויעש כן. קוי אור הירח חדרו בעד החלון החדרה ויפיצו בו אור נעים; שכבתי על המטה, אור-הירח הבהיר נפל על פני, ומנשה קרא: ההני רואה אותך, יהודית, כלאור השמש בצהרים, ויגש אלי; פתאם נשאר נצב על מקומו כנציב שיש, כמו אחזה בו יד חזקה השלוחה אליו מתחתית האדמה; הבטתי אליו ונבהלתי מאד. גשה נא, גשה נא אלי! קראתי ולא בושתי עוד בדברי כזאת. לא אוכל! ענני בגרון נחר, - לא אוכל! קרא אלי שנית ויבט בי בעינים מפיצות זועה ופחד, ואחר נדחף אל החלון ושפתיו דובבו שם פעמים מספר: לא אוכל, לא אוכל! אז נדמה לי כי לא תמונתי, כי אם תמונה אחרת המלאה לה חתת ובלהות לנגד עיניו.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1794,7 +1794,7 @@
       . אמללה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1806,7 +1806,7 @@
       ששה חדשים הייתי לו לאשה – והוא לא נגע בי.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1818,7 +1818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1828,7 +1828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1839,7 +1839,7 @@
       אך טוב עשית לו קראת לך ברגעים כאלה את המראָה לעזרה. לא אפונה כי למראה הוד נעוריך ויפעת יפיך תעברנה כרגע מחשבות העצב מלבך וחלפו לבלי שוב עוד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1847,7 +1847,7 @@
       . הוי, פתיה! הידעת את הפרי אשר יתענג על מתקו וטעמו הוא? הלא טוב טוב לך היות רעת-מראה וזקנה מהיות יפה וצעירה לב לבדך. האשה היא – אין ואפס; אך בהיות לה איש תהיה לדבר-מה: אז תהיה לאם. הילד אשר תלד הוא התודה האחת אשר תוכל להשיב לטבע על מציאותה; אמללות הן העקרות ואמללה שבעתים הנני אני, כי אינני נערה וגם אשה אינני! –
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1855,7 +1855,7 @@
       . ומי זה ימנעך מהיות יפה וצעירה לאיש זולתך, לבעל נעורים, אשר יאהבך כנפשו? האם לא תוכלי לבחר לך איש מנדיבי עמנו?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1866,7 +1866,7 @@
       הנני רואה כי לא תביני לרעי עד מה. יפיי הוא ענב-רוש, אשר כל אוכליו יֻכוּ בשגעון ומות!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1877,7 +1877,7 @@
       הנה שאננות תשבנה פה והלופרנש סמך אל העיר!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -1885,7 +1885,7 @@
       . ישועתך, אלהים, תשגבני!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1893,7 +1893,7 @@
       . האמיני לי, יהודית, כי לוּ ראתה עינך את אשר ראיתי הפעם, כי עתה התחלחלת. אכן כל אשר יפיל אימה ופחד, חתת ובהלה ימצא במחנה הערלים האלה. מה רב מספר גמליו, ופרשיו מה עצמו, אין מספר למחי קבלו, ומרכבותיו מחול תרבינה! באשרנו כי אין עינים לחומה ולסוללות! לו ראו את כל הנוראות ההן התמוללו כרגע מפחד!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1901,7 +1901,7 @@
       . אין זאת, כי היטבת לראות את מחנה האויב מכל אנשי העיר.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1909,7 +1909,7 @@
       . הגדתי לך, יהודית, כי אין לב בבתוּל אשר לא נמס כדונג ואין פנים אשר לא קבצו פארור. את, כאשר אדמה, לא שמעת את שמעו ולא תדעי מעלילותיו עד מה, ואולם אנכי רבות ידעתי על אדות העריץ הנורא הזה. ניד שפתיו – כליון ומות וחמתו – מוקדי עולם. בערב, עת החשך יכסה ארץ - -
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1917,7 +1917,7 @@
       . יצוה להאיר נר.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1925,7 +1925,7 @@
       . כן אנחנו עושים, אני ואת! אבל הוא יצית אש בערים ובכפרים ויאמר: אלה הם לפידי! בלי כסף ובלי מחיר יאירו לי הלילה. ומה ייטב לבו בצַותו למרט לו חרב ולצלות לו צלי לפני האש הגדולה הבוערת לעיניו. אף שמעתי אומרים, כי בראותו את בתול שאל את טבחו בלעג? התוכל לצלות לי ביצת היענה לאִשּׁהּ?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1937,7 +1937,7 @@
       מה זאת אמרתי!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1945,7 +1945,7 @@
       . אוֹי אוי לך אם תֵּרָאִי לעיניו! הלופרנש ממית את הנשים בנשיקות פיו ובחבקו אותן בזרועותיו כאשר ימית את הגברים בחרב וחנית. לוּ ידע אותך יושבת בחומות העיר הזאת, כי עתה קרא מלחמה על העיר אך בגללך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1956,7 +1956,7 @@
       לו אך היה כדבר הזה! כי אז יצאתי אליו ואת העיר ואת הארץ הצלתי!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1964,7 +1964,7 @@
       . אך לך המשפט לחשוב מחשבה נוראה כזאת.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1972,7 +1972,7 @@
       . ומדוע לא? נפש אחת כפר לרבבות, והאחת, הלא היא השואלת תמיד מבלי מצא מענה: למה תחיי עלי אדמות? ואם לא למעני בא הנה, האין כל עצה ותחבולה להכין את לבבו להאמין כי למעני אך למעני בא הנה? אם כה ירים הענק לשמים שיאו וראשו למרומי שחקים עד בלי יכלת לכם, קטני ארץ, להגיע עדיו, הבה, השליכו נא אבן יקרה לרגליו; או אז ישח לארץ להרימה ויכלתם לו על נקלה.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -1987,7 +1987,7 @@
       יהודית, אמץ לבך הנפלא יעיב הוד יפיך בעיני.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -1995,7 +1995,7 @@
       . אם איש אתה, לך המשפט להגיד לי כזאת!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2003,7 +2003,7 @@
       . איש אני ולי המשפט להגיד עוד יותר מזאת. שמעיני נא, יהודית! הנה ימים באים לארצנו, ימים רעים ונוראים, אין בהם השקט ובטחון בלתי אם לישני עפר. היעדמ להיות לעת כזאת באין אב, באין אח, וגם באין איש לך מפחד אויב?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2011,7 +2011,7 @@
       . הן לא תאמר נפשך לבחר בהלופרנש לשדכן לך.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2019,7 +2019,7 @@
       . לעגי לי כאות נפשך, לעגי ושמעיני. ידעתי כי תבוזי לי, ולולא שֻׁנוּ פתאם פני התלב לרעה לא באתי עוד להראות לפניך. ראי נא המאכלת הזאת!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2027,7 +2027,7 @@
       . המאכלת מרוטה היטב עד אשר אוכל לראות בה את תמונתי.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2035,7 +2035,7 @@
       . ביום אשר גרשתני מעל פניך בשחוק-בוז מרטתיה לי. ואמנם, לולא חנו האשורים סביב עירנו, כבר נתקעה בבטני! או אז לא יכלת עוד לראות בה את תמונתך, כי דמי כבר קלקל את פניה והעלה עליה חלודה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2047,7 +2047,7 @@
       בוז לך! ואתה עוד תערב לבבך לדבר כדברים האלה, עת תחרד תבהל אף בגעת בך אפס קצה!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2057,7 +2057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2065,7 +2065,7 @@
       . אהבתיך, יהודית, ואת שנאתיני. לא אפקד עליך עוז שנאתך, כאשר לא אשים נפשי אשמה באהבתי. ואולם התדעי לך, יהודית, את המכאוב לאהוב ולהתעב? לא, אין מכאוב כמכאוב הזה! אם יקחו ממני היום דבר, אלמד מחר להסתפק בלתו; אם יכוני הכה ופצוע, עוד יש לי תקוה לגהות ממני מזור; אבל אם יחשבו לי את אהבתי לחטאה ואולת, אז יחללו בקרבי כל קדש, כל מרום ונשגב בשקר ימירוֹ; כי אם הרגש אשר ימשכני אליך יכזב בי, מי זה יערבני כי גם הרגש אשר ימשכני וירוממני אל האלהים איננו שוא נתעה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2073,7 +2073,7 @@
       . הלב אבן לך, יהודית?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2081,7 +2081,7 @@
       . התהי לי האהבה לחובה? אם אהיה לאיש הזה לאשה אך למען יניח ידו מן המאכלת? היהיה כדבר הזה?
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2089,7 +2089,7 @@
       . שמעיני נא אך הפעם ותני נא ידך לי! לאמר, תניני נא למות עליך, לא אבקש ממך מאומה, בלתי אם את הרשות לסוכך עליך ולהיות למגן לך, למען אשר תקהה בי החרב החודרת אליך!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2097,7 +2097,7 @@
       . הזה הוא האיש אשר לבו נמס כדונג אך למראה מחנה האויב ונפשו יצאה בדברו בו? הזה הוא אשר היה בעיני כמבקש ממני להשאילו אחת משמלותי? הנה עיניו להכות ואגרופו יתרומם בכח ועז! הה, אלי! מה מאד אחפץ לכבד ולהוקיר; רגש הבוז יכאיב ויפלח לבבי כרחב שנונה! הכעסתיך תמרורים, אפרים, ועל זה דוה לבי מאד! אמור אמרתי להסב לבך ממני, כי לא יכלתי לעשות את שאלתך, על כן שפכתי עליך לעג כמים. עתה הנני לגמלך טוב, אף יכול אוכל לעשות זאת! ואולם אוי, אוי לך אם לא תבין הפעם לשכל מלי, אם לא יתרומם רוחך ברגע התמלט הדבר מפתחי פי מלעשותו, אם לא יחוש לבך כרגע, כי רק לזאת נוצרת, כי רק למען תוכל לעשות את המעשה הגדול, אשר אני דורשת ממך, ראית חיים על פני האדמה. לך והרג את הלופרנש! אז – אז תדרש ממני את הגמול אשר תתאו נפשך!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2105,7 +2105,7 @@
       . כדבר אחת הפתיות תדברי! להמית את הלופרנש קרב מחנהו? איככה זה אוכל לעשות כדבר הזה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2113,7 +2113,7 @@
       . איככה? לו ידעתי זאת אזי עשיתיה אני! אך זאת אדע כי דרוש הדבר ונחוץ מאד.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2121,7 +2121,7 @@
       . לא ראיתי מעודי, אך עיני תשורנו.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2129,7 +2129,7 @@
       . אף אני כמוך. הפנים פני שחל, עיניו ברק-זעם ומתחת רגליו כמו תנוט הארץ. אבל הלא היו ימים והעריץ הנוראה הזה טרם יהיה בארץ, ומדוע אפוא לא ישובו הימים ההם, הימים אשר בהם יחדל העריץ מהיות עוד בארץ?
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2137,7 +2137,7 @@
       . תני לו את הרעם, אך הרחיקי את חילו מעליו, ויצאתי לקראתו, ואולם עתה –
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2145,7 +2145,7 @@
       . יהי נא עם לבבך לעשותו, וממרומי השמים מעָל ירדו ויחרדו אליך צבאות מלאכי עז וממעמקי התהום מתחת ירומו המונים מרוחות השחת, והתחברו והיו יחד בעזרך לבצע את חפצך הגדול! כי החפץ הזה הוא חפץ כל החי, על כן יעשן בו אף האלהים, גם התולדה תחרק שניה ליליד חיקה זה, אשר תחרד ותבהל מפניו, ואשר לא תלד עוד ענק נורא כמוהו, ואם תלד – אך למען אשר ישמיד את הראשון מעל פני האדמה.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2153,7 +2153,7 @@
       . אך יען כי שנאתיני, יען כי חפצה את במותי תדרשי ממני כדבר הזה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2164,7 +2164,7 @@
       לא, הפעם צדקתי ממך! הגם מחשבה נשגבה כזאת לא תוכל לרומם את רוחך? אם לא תשכיר את נפשך רגע? אני, אהובת נפשך, אני אשר אמרתי לרומם אותך עליך בעצמך, למען אוכל להשיב אהבה אל חיקך, שמתי את הרעיון הנעלה הזה בלבבך, והוא, תחת לרוממך ולתתך עליון בעיני על כל קטני הנפש עוד יהיה עליך למשא אשר יעיק עליך וישקיעך עוד יותר בעפר. הנה לוּ מצא הרעיון מסלות בלבבך ובתרועת גיל ובנפש סוערת אחזה ידך בחרב לבצע את המעשה הגדול הזה, מבלי האציל לך אף רגע לברכני בשלום, אזי, הוי, זאת אחוש בנפשי, אזי התנפלתי לרגליך ואבך ואתחנן לך לבל תשליך נפשך מנגד, אזי בכיתי והתחננתי במצוקת לב החרד לנפש אהובו, ולא נתתיך ללכת או- הלכתי עמך גם אני. ועתה – עתה לי הצדקה ולך בשת הפנים! כן, אהבתך אותי היא מוסר נפשך השפלה, האהבה הזאת תהפך לך לקללה ותביאך עד שערי מות תחת היותה לך לברכה ולמקור כל ענג בחיים. הוי, מה שנאתי מאסתי עתה את נפשי, לו חשתי בקרב לבבי איזה רגש חמלה עליך! עתה ידעתיך, אפרים, ידעתי, כי הנשגב והנעלה אך שפל ונקלה הוא בעיניך, כי תוכל אך לצחק וללעג עת אתפללה אני!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -2172,7 +2172,7 @@
       . תעביני! אך הראיני נא את האיש אשר יוכל, או אשר אך יערב את לבו לעשות נפלאות כאלה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2186,7 +2186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2199,7 +2199,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2210,7 +2210,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2233,7 +2233,7 @@
       כל אלה לך הנה, הלופרנש; אין לי חלק בהן עוד; רוחי, נפשי, כל עצמותי אספתי עמק עמק אל קרבי פנימה. קחן לך, קחן ורגזה בהיות אלה לך! אז יקום והיה אשר לא פללת! אז אתפרץ מקרבי כדב שכול ממאורתו והיתה לי נפשך במחירי! אז אחבקך בזרועותיו, אשקך מנשיקות פי, – אך מחנק בזרועותי, ושפתי – רעל ומות! אלי! ישחת נא, יתעיב עלילה לעיני; אך שמרני נא, העבר עיני מראות בו דבר טוב!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2241,7 +2241,7 @@
       . הקראת לי, יהודית?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2249,7 +2249,7 @@
       . לא, – כן. תרצה, הלבישיני נא שמלותי החמודות.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2257,7 +2257,7 @@
       . הלא תאוה נפשך לאכל דבר-מה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2265,7 +2265,7 @@
       . לא, אך לעדות עדי אחפצה.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2273,7 +2273,7 @@
       . אכלי נא, יהודית, פן אגוע לעיניך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2281,7 +2281,7 @@
       . אַת?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2289,7 +2289,7 @@
       . הנה מאז חדלת לאכל ולשתות, נשבעתי לבלתי אכל ושתות גם אני! וזה לי שלשה ימים אשר לא טעמתי מאומה. ועתה אם לא יקרה נפשך אַת בעיניך, תיקר נא נפשי בעיניך. אנכי הגדתי לך את זאת זה כבר, אך את לא שמעת עד כה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2297,7 +2297,7 @@
       . מי יתן ואשוה באהבה רבה ונאמנה כזאת.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2305,7 +2305,7 @@
       . נאכל נא ונשתה אך הפעם; עוד מעט ותם הלחם ואפסו המים מן העיר. צנורות המים נפצו; גם אל הבאר הקטנה אשר לפני החומה לא יהין איש לגשת, כי מצב האויב חונה שמה. אף היו אנשים אשר הלכו שמה, כי בחרו למות בחרב האויב מענוֹת עוד בצמא. על אחד מאלה יספר, כי אחרי נפלו לארץ, מדקר בחרב האויב, זחל אל הבאר להשיב נפשו מעט בטרם ילך ואיננו! אך בטרם הגיש אל פיו את מעט המים אשר שאב כבר בידיו, נפחה נפשו וימת על פי הבאר. אכזריות-האויב הזאת נודעה לכל, ובין כה וכה יחזק הצמא מיום ליום, והאיש אשר מעט מים לו יסתירהו, כאוצר כל יקר.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2313,7 +2313,7 @@
       . הה, נורא הדבר! לקבע את צרכי הנפש מבלי יכלת להגירה על ידי חרב! השחיתו, המיתו בחרב, הציתו באש, אך צרכי החיים אל תקחו ממנו עת שפע כל טוב לנו מסביב! ואני, הה, כמעט שאחרתי המועד!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2321,7 +2321,7 @@
       . אפרים הביא לי מעט מים למענך. הלא יהיה לך המעשה הזה לאות על עזוז אהבתו אותך, בתתו לך את אשר מנע גם מאחיו!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2329,7 +2329,7 @@
       . בוז לו! האיש הזה הוא אחד מאלה החוטאים בנפשותם גם בעת אשר ידמו לעשות טוב וחסד!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2337,7 +2337,7 @@
       . גם בעיני לא ישר הדבר הזה; ובכל זאת לא תזכי בהליכותיך עמו.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2345,7 +2345,7 @@
       . לא, הגדתי לך הפעם, לא! לכל אשה המשפט והצדקה לדרש מן האיש החפץ קרבתה, כי יהיה אמיץ לב, עשוי לבלי חת. ואַת האם לא יחוש לבבך בעת אשר תראי תביטי אל איש, כמו ראית את אשר חפצת, התאוית להיות את – אך האיש יסלח לפעמים למרך-לב רעהו, לא האשה. הנסלח למשענת כי תרוץ בכפנו, אם לא נוכל לסלח לנפשנו על אשר נצטרך למשענת?!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2353,7 +2353,7 @@
       . אולם היכלת לקות, כי ישמע אפרים ועשה את פקודתך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2361,7 +2361,7 @@
       . מאיש אשר אמר לשלח יד בנפשו, אשר חיים כאפס נחשבו בעיניו, מאיש אשר כזה יכלתי לקות, כי יעשה את פקודתי. הנה הכיתי בו, כאשר יכה איש בצור, מבלי דעת האקחהו לי או אשליכהו מעל פני; לוּ התמלט ממנו אף נצוץ אחד – ובא הניצוץ כרגע אל לבבי. עתה ארמס אבן-אפל זאת ברגלי!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2369,7 +2369,7 @@
       . אבל איככה יוכל לעשות כדבר הזה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2381,7 +2381,7 @@
       הוי, שם במרומים ראיתיה מרחפת כיונה אשר תתור קן לה למלט ולבקע בצתה; הנפש הראשונה, הנפש האחת, אשר התרוממה בחמה כלהבת שלהבת בתוך הקפאון השורר לה מסביב, הכרחה לקבל עליה רעיון הגאולה. ואולם – לכי לך, תרצה, וסעדי לבך, אחר תלבישיני!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -2389,7 +2389,7 @@
       . לא אטעם מאומה עד אם טעמת אַתּ!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -2404,7 +2404,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khd hem">
+    <sp who="#khd hem">
      <speaker>
       אחד העם
      </speaker>
@@ -2415,7 +2415,7 @@
       מה תאמר, אמנון?
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2423,7 +2423,7 @@
       . אני שואל אותך, הושע, מה טוב לנו: הלמות בחרב מיתה קלה ויפה, אשר תבוא בן רגע בטרם נספיק לחוש אותה ולירוא ממנה, אם לגוע ולהתעטף לאט לאט במצוקות הרעב והצמא?
      </p>
     </sp>
-    <sp who="hushe">
+    <sp who="#hushe">
      <speaker>
       הושע
      </speaker>
@@ -2431,7 +2431,7 @@
       . בחפץ לבב עניתיך, לולא נחר גרוני ונשתה לשוני בצמא. הדבור מגדיל את הצמא.
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2439,7 +2439,7 @@
       . צדקת הפעם.
      </p>
     </sp>
-    <sp who="benh">
+    <sp who="#benh">
      <speaker>
       בּענה
      </speaker>
@@ -2453,7 +2453,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hushe">
+    <sp who="#hushe">
      <speaker>
       הושע
      </speaker>
@@ -2461,7 +2461,7 @@
       אף דבר טוב נמצא בצמא, כי ישכיחנו את הרעב.
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2469,7 +2469,7 @@
       . הלחם לא תם עוד מן העיר.
      </p>
     </sp>
-    <sp who="hushe">
+    <sp who="#hushe">
      <speaker>
       הושע
      </speaker>
@@ -2477,7 +2477,7 @@
       . אבל הימצא לנו לימים רבים? ומה גם בהיות בקרבנו אנשים כמוך, אשר יוכלו שאת בקבתם רב יתר מאשר על שכמם.
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2485,7 +2485,7 @@
       . ומה לך ולי? הן משלי אני אוכל.
      </p>
     </sp>
-    <sp who="hushe">
+    <sp who="#hushe">
      <speaker>
       הושע
      </speaker>
@@ -2495,7 +2495,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hushe">
+    <sp who="#hushe">
      <speaker>
       הושע
      </speaker>
@@ -2503,7 +2503,7 @@
       . חלילה לי מהשיב לך כגמול ידך הפעם, אולם אל תקוה עוד למצא בי עזר בצרתה לך, קרוב היום ונקמני הלופרנש ממך.
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2511,7 +2511,7 @@
       . הוי, כפוי-טובה! כי יכה איש את רעהו, אך שריון קשקשים יעשה לו מעורו. המכה אשר הכית היום תמנעך מהרגיש את המכה הנכונה לך ביום מחר.
      </p>
     </sp>
-    <sp who="benh">
+    <sp who="#benh">
      <speaker>
       בּענה
      </speaker>
@@ -2519,7 +2519,7 @@
       . הוי, פתאים! למה תריבו יחד ותשכחו, כי עוד מעט ועמדתם על המשמר בחיל?
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2527,7 +2527,7 @@
       . אך חכמים אנחנו; כל עוד נריב ונתקוטט הלא נסיח דעתנו מן הרעה אשר מצאתנו.
      </p>
     </sp>
-    <sp who="benh">
+    <sp who="#benh">
      <speaker>
       בענה
      </speaker>
@@ -2535,7 +2535,7 @@
       . לכו ונלכה מזה!
      </p>
     </sp>
-    <sp who="mnun">
+    <sp who="#mnun">
      <speaker>
       אמנון
      </speaker>
@@ -2543,7 +2543,7 @@
       . אבל טוב נעשה לפתוח שערי העיר לפני הלופרנש; מובטחני, כי את האיש העושה זאת לא ימית בחרב.
      </p>
     </sp>
-    <sp who="benh">
+    <sp who="#benh">
      <speaker>
       בענה
      </speaker>
@@ -2556,7 +2556,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2564,7 +2564,7 @@
       . השמעת עוד מתועבות הלופרנש?
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -2572,7 +2572,7 @@
       . אמנם כן.
      </p>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2580,7 +2580,7 @@
       . איזה דרך תבאנה אליך השמועות האלה? אבל ספרה נא לי!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -2588,7 +2588,7 @@
       . הנה הוא עומד ומספר עם אחד מפקידי הצבא; פתאם התבונן כי אחד מאנשי הצבא עומד בקרבתו. השמעת – שאלהו – את אשר נדברנו פה? לא, ענה האיש. באשרך – קרא העריץ – כי עתה צוית להסיר את ראשך מעליך, על אשר אזנים לו!
      </p>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2596,7 +2596,7 @@
       . האמנתי כי אך לשמע הדברים הנוראים האלה תאחז את השומע פלצות ונפל מת ארצה מפחד. אך זו רעה גדולה בפחד כי לא ימית את כל האיש בלתי אם את רוחו ואמץ לבו.
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -2609,7 +2609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2617,7 +2617,7 @@
       . שירו לאדני שיר חדש, כי לעולם חסדו!
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2629,7 +2629,7 @@
       שמואל צמא למים. נכדי, מדוע לא תביא לי מעט מים חיים?
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2637,7 +2637,7 @@
       . אבי, האויב חונה על העיר! כבר שכח זאת!
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2645,7 +2645,7 @@
       . המזמור! שירה בקול! למה תחשה?!
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2661,7 +2661,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2672,7 +2672,7 @@
       האין די מים בבאר להשקות את שמואל הצמא בפעם האחרונה? אם תקצר יד נכדו לשאב לו ממנה בחם היום?
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2683,7 +2683,7 @@
       שם חרב האויב מסביב לבאר, חניתות ורמחים סבוה. אהה, יד הערלים תעז על ישראל!
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2698,7 +2698,7 @@
       שמועל הכה את אהרן נפש; חדה היתה היתד, רכה הרקה ונעימה שנת אהרן בחיק רעיתו. שמואל לקח לו את אשת אהרן לאשה ותלד לו את חם, אך פלצות אחזתה למראה הילד ותמת גם היא, כי נכרוּ עקבות היתד ברקתו. אז תתעטף נפש שמואל בקרבו ורוחו להבת תאכלהו.
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2706,7 +2706,7 @@
       . אבי! אבי! הן אתה הוא שמואל, ואני נכדך, בן חם בנך!
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2714,7 +2714,7 @@
       . אז גלח שמואל את ראשו ויעמד בפתח אהלו ויחכה לחרב נוקמת שתבוא ותשיב לו גמולו בראשו, כאשר יחכה איש לישועה; ככה חכה ימים רבים, זה שבעים שנה ויותר, עד אשר חדל לספר את ימיו כי רבו; אבל הדֶּבר עבר בארץ ויפסח על פתח שמואל, הרעב כבר הרבה חלליו, ועליו לא עברה רעתו, המות שת קציר מסביב, אך בו לא נגעה לרעה. הנקמה לא סרה עוד אליו, והוא – ידיו רפו מעשות אותה בנפשו.
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2725,7 +2725,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2733,7 +2733,7 @@
       . אַיכּה, בן אהרן, או בן בנו, או אחיו, כי טרם תבוא חרבכם בלב שמואל, ורגלכם טרם תרמסנו כתולעת? “עין תחת עין – אמר אדני – שן תחת שן, נפש תחת נפש!”
      </p>
     </sp>
-    <sp who="hnkhd">
+    <sp who="#hnkhd">
      <speaker>
       הנכד
      </speaker>
@@ -2741,7 +2741,7 @@
       . גם בן אהרן, גם בן בנו, גם אחיו וכל קרוביו וגואליו ספו תמו ואינם!
      </p>
     </sp>
-    <sp who="shmul">
+    <sp who="#shmul">
      <speaker>
       שמואל
      </speaker>
@@ -2754,7 +2754,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2762,7 +2762,7 @@
       . הגדתי לך, כי לא כל בני העיר יצמאו למים. יש בקרבנו אנשים אשר די מים להם לשתות לרויה וגם לרחץ פעמים מספר ביום.
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -2770,7 +2770,7 @@
       . יוכל היות. עתה שמעני ואספרה לך דבר-מה. לאָסף שכני היתה עז בריאה אשר רעתה בגני הנשען אל ביתי; ובהביטי פעם בפעם בעד חלוני אל הגן וארא את העז ואת עטיניה המלאים, חשתי בנפשי את אשר תחוש אשה הרה המתאוה תאוה ואין. אתמול באתי אל ביתו ואבקש ממנו מעט חלב, אך הוא השיב את פני; אז דרכתי את קשתי וחץ מות פלח פתאם כליות העז, ואחר שלחתי לו כסף מחירה, אף היטבתי עשו, כי העז הזאת הקשתה את לבבו מחמלה על עמיתו.
      </p>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2778,7 +2778,7 @@
       . רק אתה יכלת לעשות את הדבר הזה! ומי לא ידע עז אפך, אם גם בעודך ילד קטן ערבת את לבבך להמיר כבוד נערה באֵם!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -2786,7 +2786,7 @@
       . מה!
      </p>
     </sp>
-    <sp who="hkhd">
+    <sp who="#hkhd">
      <speaker>
       האחד
      </speaker>
@@ -2799,7 +2799,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -2811,7 +2811,7 @@
       הקשיבו נא מפי דברי יהויקים הכהן הגדול אשר שלחני אליכם!
      </p>
     </sp>
-    <sp who="osd">
+    <sp who="#osd">
      <speaker>
       אָסד
      </speaker>
@@ -2822,7 +2822,7 @@
       שימו לבבכם, הכהן הגדול דורש ממנו להיות כאריות עת לבו לב ארנבת.
      </p>
     </sp>
-    <sp who="khd hem">
+    <sp who="#khd hem">
      <speaker>
       אחד העם
      </speaker>
@@ -2830,7 +2830,7 @@
       .   אל נא תחרף.
      </p>
     </sp>
-    <sp who="osd">
+    <sp who="#osd">
      <speaker>
       אָסד
      </speaker>
@@ -2838,7 +2838,7 @@
       .  לא מלב איש נדלה לנו עצה ונחומים, הבאר, אך היא תהיה לנו לישועה!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -2846,7 +2846,7 @@
       .  זכרו נא את משה איש האלהים, אשר לא בחרב ובחנית, כי בתפלה ותחנונים גבר על עמלק; אל תיראו מחיל האויב ומחרבו הקשה אל תחתו, כי אדני יתן אמר ואבדו כלם והיו כלא היום!
      </p>
     </sp>
-    <sp who="osd">
+    <sp who="#osd">
      <speaker>
       אָסד
      </speaker>
@@ -2854,7 +2854,7 @@
       .  איה איפא משה? והקדושים אשר בארץ אַים?
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -2862,7 +2862,7 @@
       .  אמצו איפא רוחכם ודעו נא וראו כי רעה נשקפת למקדש אלהים.
      </p>
     </sp>
-    <sp who="osd">
+    <sp who="#osd">
      <speaker>
       אָסד
      </speaker>
@@ -2870,7 +2870,7 @@
       .  ואני אמרתי, כי אלהינו יסך לנו ומקדשו יהיה עלינו לסתרה, ועתה – הנה נטל עלינו להגן עליו ועל מקדשו!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -2878,7 +2878,7 @@
       .  אף גם זאת אל תשכחו, כי אם כלה היא מעמו כי תסופו בחרב וברעב על כבוד שמו, הלא יחשוב לכם את המות לצדקה, והטיב ייטיב לבניכם ולבני בניכם עד אלף דור.
      </p>
     </sp>
-    <sp who="osd">
+    <sp who="#osd">
      <speaker>
       אָסד
      </speaker>
@@ -2894,7 +2894,7 @@
       צוה כרגע, ולא – ועשינו זאת למרות רצונך!
      </p>
     </sp>
-    <sp who="dnil">
+    <sp who="#dnil">
      <speaker>
       דניאל
      </speaker>
@@ -2905,7 +2905,7 @@
       סקול יסקל! סקול יסקל!
      </p>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם
      </speaker>
@@ -2913,7 +2913,7 @@
       .  האם לא אלם האיש הזה מעודו?
      </p>
     </sp>
-    <sp who="sd">
+    <sp who="#sd">
      <speaker>
       אסד
      </speaker>
@@ -2924,7 +2924,7 @@
       אלם ועור. אחי הוא. כבר מלאו לו שלשים שנה ולא דבר מעודו אף מלה אחת.
      </p>
     </sp>
-    <sp who="dnil">
+    <sp who="#dnil">
      <speaker>
       דניאל
      </speaker>
@@ -2936,7 +2936,7 @@
       סקול יסקל! סקול יסקל!
      </p>
     </sp>
-    <sp who="sd">
+    <sp who="#sd">
      <speaker>
       אסד
      </speaker>
@@ -2946,7 +2946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -2957,7 +2957,7 @@
       אהה! מה תעשו!
      </p>
     </sp>
-    <sp who="dnil">
+    <sp who="#dnil">
      <speaker>
       דניאל
      </speaker>
@@ -2968,7 +2968,7 @@
       הנני בא, הנני בא, אמר אלהי ישראל; אך אל נא תשאלו: מאַין? ואמתרם: כבר באה העת לחננה? לא! אנכי, אנכי יודע עת לכל חפץ!
      </p>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם
      </speaker>
@@ -2976,7 +2976,7 @@
       .  נביא הוא נביא הוא!
      </p>
     </sp>
-    <sp who="dnil">
+    <sp who="#dnil">
      <speaker>
       דניאל
      </speaker>
@@ -2986,7 +2986,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmun hem">
+    <sp who="#hmun hem">
      <speaker>
       המון העם
      </speaker>
@@ -2997,7 +2997,7 @@
       אשרינו! אשרינו!
      </p>
     </sp>
-    <sp who="dnil">
+    <sp who="#dnil">
      <speaker>
       דניאל
      </speaker>
@@ -3017,7 +3017,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3030,7 +3030,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3051,7 +3051,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3061,7 +3061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3072,7 +3072,7 @@
       אל נא תשעו בדברי שקר. האם לא חשה נפשכם קרבת אלהים בהתרומם רוחכם רגע אל על, וברכיכם כרעו מבלי משים לארץ? ואיככה זה תוכלו תקשיבו במנוחה באמר האיש הזה לחלל את הרגש העמק והנעלה הזה ולשומו לאל?
      </p>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3088,7 +3088,7 @@
       צדק מאד!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3099,7 +3099,7 @@
       התאמר להורות לפני האלהים את הדרך ילך בה ואת המעשה אשר יעשה? האם לא תישר כל דרך יען כי הוא הולך בה, אם לא ייטב כל מעשה באשר הוא עושהו?
      </p>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3107,7 +3107,7 @@
       .    הדבר המתנגד לטבע מתנגד גם לחפץ האלהים. אמנם לאבותינו עשה מופתים ונפלאות, אם הם טובים ממנו. לוּ חפץ האלהים לעשות עמנו ככל נפלאותיו מימי קדם, מדוע לא ימטיר לנו גשם מן השמים? מדוע לא יפליא חסדו בלב הלופרנש לעוררו כי יעל מעלינו?
      </p>
     </sp>
-    <sp who="khd hem">
+    <sp who="#khd hem">
      <speaker>
       אחד העם
      </speaker>
@@ -3118,7 +3118,7 @@
       מות, בליעל, על אשר התעית את העם הזה לתת עלינו דם נקי וצדיק!
      </p>
     </sp>
-    <sp who="shmeihu">
+    <sp who="#shmeihu">
      <speaker>
       שמעיהו
      </speaker>
@@ -3139,7 +3139,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3150,7 +3150,7 @@
       ומדוע זה הֻכינו בסנורים עד עתה? לא נוכל ולא נאבה לחכות עוד, אף לא שעה אחת! הבה ונפתח את השערים. לכו ונלכה!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3161,7 +3161,7 @@
       ובמי האשם, כי לא נכנענו לפני שר צבא מלך אשור ככל הגוים אשר סביבותינו? מי התענו בשוא להקשות את ערפנו ולהתיצב נגדו כצר? מי צונו לשאת עינינו למרום ולשכח את הארץ אשר מתחת לרגלינו?
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3169,7 +3169,7 @@
       . מי המה אפוא, אם לא זקנינו וכהנינו?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3181,7 +3181,7 @@
       הוי, התמצאו חפץ להוכיח, כי תשוו ברעה המוצאת אתכם?!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3196,7 +3196,7 @@
       למה בא הלופרנש? הלא אך להכניענו כי נסור למשמעתו; ולוּ עשינו חפצו בטרם הקריב אל העיר, אזי שב על עקביו כלעמת שבא, אזי ישבנו כיום לבטח איש תחת גפנו ותחת תאנתו ולא חסרנו כל. ועתה עינינו תלויות אך אל התלאות והענויים הנכונים לנו בחיים המרים ממות.
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3204,7 +3204,7 @@
       . אוי, אוי לנו!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3212,7 +3212,7 @@
       . ואנחנו נקיים, אנחנו לא התקוממנו לו, אנחנו פחדנו תמיד. אבל הלופרנש רחק עוד ממנו, והזקנים והכהנים הקרובים אלינו הפילו פחדם עלינו! אז שכחנו את הרעה הנשקפת לנו. עשו זאת אפוא: גרשו כיום את הכהנים והזקנים מן העיר, ואמרתם להלופרנש: אלה הם הפושעים והמורדים בך! והיה אם יחמל עליהם וסלח לעונם, טוב; ולא, הלא טוב טוב לנו לבכות ולנוד להם מאשר נבכה וננוד לנו כיום הזה!
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3220,7 +3220,7 @@
       . הבזאת נושע?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3228,7 +3228,7 @@
       . הלא כאשר יקום איש לרצח נפש החָרש בחרב, אשר נתן לו, מבלי יכלת להגן בה על נפשו מפני אויב, כן הדבר הזה.
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3236,7 +3236,7 @@
       . התהיה זאת לנו לישועה?
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3244,7 +3244,7 @@
       . ומדוע לא? נסירה את ראשינו מעלינו ולא נדע מכאוב עוד.
      </p>
     </sp>
-    <sp who="hmun hem">
+    <sp who="#hmun hem">
      <speaker>
       המון העם
      </speaker>
@@ -3252,7 +3252,7 @@
       .   כן, אך זה הוא המעשה אשר עלינו לעשות!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3263,7 +3263,7 @@
       ומה תאמר אתה לדבר הזה?
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3271,7 +3271,7 @@
       .  גם אני יעצתי כזאת, לוּ ידעתי כי בזאת תושעו. הנה אני זקנתי ושבתי, אף מלאו לי היום שבעים ושלש שנים, עוד מעט ושכבתי עם אבותי; מה יתן ומה יוסיף לי אפוא אם אראה אור ואשאף רוח עוד ימים מספר? אמנם, בחור אבחר למות בכבוד ולמצא קבר בחיק האדמה מהקבר בבטן חיתו טרף. אולם אם תחשבו למשפט, כי במותי מות-נבל אהיה לכם לישועה, הנני אמותה! הא לכם ראש-שיבתי, קחוהו; אך מהרו נא להסירו מעלי, פן יקדמכם המות והציל את תשורתי זאת מידכם והשליכה לבאר תחתיה. אך הרשוני נא לנוד לכם רגע במו ראשי, אשר לא לי הוא עוד; הן לא אותי לבדי תקריבו הפעם אשם להלופרנש, כי אם גם את כל הזקנים והכהנים; התואילו אפוא לדעת מספר הקרבנות האלה בטרם תגשו אל הזבח?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3282,7 +3282,7 @@
       ודברים כאלה תקשיבו במנוחה, ולבכם לא יככם וברכיכם לא תכרענה להתנפל ולנשק רגלי הישיש הזה? הוי, מי יתן ויכלתי לאחז ביד הלופרנש ולהביאו העירה, - בידי אני מרטתי את חרבו, אם קהה הנה, למען יוכל להסיר כרגע ראשי האנשים האלה!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3294,7 +3294,7 @@
       לא אפונה כי לא אל לבך לבדו נגעו הדברים אשר דבר.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3302,7 +3302,7 @@
       . אמנם, בידינו הוא לעשות בו כטוב בעינינו, אבל הן לא קצרה ידו לסכל את עצתכם הרעה בשלחו יד בנפשו! אף ראיתי כי כבר אחזה ידו הרועדת בחרב, ואֹמר לגשת אליו ולהניאהו מחפצו זה; אך פתאם אורו פניו ועיניו הפיקו ברק נצחון פנימי, אז השיב ידו אחור ויבט למעלה.
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3310,7 +3310,7 @@
       .  אינני שוה בכל הכבוד אשר רחש לבך עלי, אולם לא לנפשי נגע הדבר הזה, כי אם לכל אלה פה!
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3318,7 +3318,7 @@
       . לא טובה עצתך, יהושע! לא נאבה ולא נשמע אליך!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3326,7 +3326,7 @@
       . קבלו נא את תודתי!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3338,7 +3338,7 @@
       צוה נא! ובדבר עצתי הרעה עליך אבקש את סליחתך מחר, אם אחיה עוד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3349,7 +3349,7 @@
       חלילה לך!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3357,7 +3357,7 @@
       .  אני מצוה, כי לא אדע עוד מאין יבוא עזרנו.
      </p>
     </sp>
-    <sp who="akhyur">
+    <sp who="#akhyur">
      <speaker>
       אַכיור
      </speaker>
@@ -3368,7 +3368,7 @@
       פתחו השערים, אך אל נא תשיאו את נפשכם לקַות לחסדי הלופרנש. הוא נשבע באפו להאביד ולהשמיד מעל פני האדמה את העם, אשר יכנע לפניו לאחרונה, ולבלי השאיר לו שריד. ואתם האחרונים!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3376,7 +3376,7 @@
       . האמנם נשבע לעשות כדבר הזה?
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3384,7 +3384,7 @@
       . באזני. וזה לכם האות, כי הקים יקים את שבועתו זאת: קצוף קצף עלי בסַפרי לו מגבורת אלהיכם, חמתו בערה בו כאש, וחמת הלופרנש – מות ושחת. אך תחת להסיר את ראשי מעלי כרגע, צוה, כאשר ידעתם, להביאני אליכם. בינו נא אפוא מה מאד סמוך לבו בטוח, כי אבוד תאבדון מהר, בשלחו מיד את איש חרמו, אשר אמר לשקל את ראשו בזהב, יען אותה נפשו להנקם ממנו ומכם יחד. וכה רחק לבו מחמלה עליכם, עד אשר לא מצא לאויבו ענש יתר קשה מן הענש אשר יחשב לעשות לכם!
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3392,7 +3392,7 @@
       . אל תפָּתח העיר. אם נגזר עלינו למות בחרב, הלא טוב טוב לנו למות בחרבותינו אנו!
      </p>
     </sp>
-    <sp who="ihushe">
+    <sp who="#ihushe">
      <speaker>
       יהושע
      </speaker>
@@ -3400,7 +3400,7 @@
       . נשימה לנו מועד. האין קץ לתלאותינו?
      </p>
     </sp>
-    <sp who="hhmun">
+    <sp who="#hhmun">
      <speaker>
       ההמון
      </speaker>
@@ -3408,7 +3408,7 @@
       . מועד! מועד!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3416,7 +3416,7 @@
       . שמעוני נא, אחי! נחכה נא עוד חמשה ימים ונקוה לישועת ה'!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3424,7 +3424,7 @@
       . ואם ידרוש אלהים ממנו עוד חמשה ימים?
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3432,7 +3432,7 @@
       .  אז כלנו מתים! אם חפץ בנו אדני, יושיענו בחמשת הימים האלה; אם תאחר ישועתו לבוא, לא תמצאנו עוד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3443,7 +3443,7 @@
       הנה כי כן מות יומת האיש הזה בעוד חמשה ימים!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3451,7 +3451,7 @@
       .  עלינו לעשות כל אשר נוכל למען אשר נאריך נפשנו עד קץ המועד הזה. עלינו למנע מנחה ונסך מבית אלהינו, ואת היין ואת השמן נחלק בינינו. אויה לי כי נטל עלי להגיד לכם כדבר הזה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3463,7 +3463,7 @@
       אנשי בתול, נסו נא להתנפל על מצב האויב החונה על הבאר! הבאר הקנה קרובה מאד אל החומה; החלקו אפוא לשני ראשים, הראש האחד יסוכך על שערי העיר והראש השני יתנפל על חיל המשמר, ושאבתם מים בששון והבאתם העירה!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3471,7 +3471,7 @@
       .  הראית אפוא, כי אין עונה מכל העם הזה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3483,7 +3483,7 @@
       טוב אפוא. אם לא תמצאו את לבבכם לצאת ולהלחם במתי מעט מחיל האויב החונה על הבאר, הן לא תרהיבו עז בנפשכם לשלח יד ברֶשע לנסך ולמנחה, אשר למזבח אלהינו, להעיר כל חמתו עליכם!
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3491,7 +3491,7 @@
       .  אבל הדבר נחוץ. עצתך אַתּ דורשת זהירות והתבוננות יתרה; השער הפתוח פצע מות יהיה לעירנו. גם דוד אכל מלחם הקדש בהתעטף נפשו ברעב ולא מת בעונו.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3499,7 +3499,7 @@
       . דוד היה משיח אלהי ישראל. היו נא ראשונה את אשר היה דוד לעמו או אז תאכלו. אכלו ושתו, אך התקדשו ראשונה!
      </p>
     </sp>
-    <sp who="khd hhmun">
+    <sp who="#khd hhmun">
      <speaker>
       אחד ההמון
      </speaker>
@@ -3507,7 +3507,7 @@
       .  מי זה ישמע לה?
      </p>
     </sp>
-    <sp who="shni">
+    <sp who="#shni">
      <speaker>
       שני
      </speaker>
@@ -3515,7 +3515,7 @@
       .  הלא יבוש האיש, אשר לא ישמע לה! הלא כמלאך האלהים היא בעינינו!
      </p>
     </sp>
-    <sp who="shlishi">
+    <sp who="#shlishi">
      <speaker>
       שלישי
      </speaker>
@@ -3523,7 +3523,7 @@
       . אכן אשה יראת אלהים היא, מאין כמוה בכל העיר. כל עוד לא ראינו רעה ומחסור לא ידענו, ישבה כלואה בחדרה, ועין לא ראַתּה בלתי אם בלכתה לזבח או להתפלל. אך עתה כאשר נגעה הרעה עד הנפש, תעזב את ביתה להתהלך עמנו ולהטיף לנו כטל דברים טובים, דברים נחומים.
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -3531,7 +3531,7 @@
       . עשירה היא מאד ונכסים רבים לה. אבל הידעתכם את אשר הגידה באחד הימים? “אך סוכנת אני על הנכסים האלה, אשר לא לי המה, כי אם לעניי עמי”. ולא אך בפיה דברה, כי גם בידיה תמלא תמיד אחרי הדברים האלה. ואני חושב, כי אף על כן תשיב ריקם פני האנשים החפצים לקחתה לאשה, כי אז הלא לא תוכל עוד להיות אם ליתומים ועניים מרודים. אם יושיענו ה', יושיענו אך בגללה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3542,7 +3542,7 @@
       הלא ידעת את הלופרנש, ספרה נא לי על אדותיו.
      </p>
     </sp>
-    <sp who="akhyur">
+    <sp who="#akhyur">
      <speaker>
       אַכיור
      </speaker>
@@ -3550,7 +3550,7 @@
       . ידעתי כי צמא הנו לדמי, ואף גם זאת לא אתעבהו! האמיני לי, כי לוּ עמד נגדי בחרבו השלופה ואמר לי: הרגנו נא הרוג, ולא, אמיתך כרגע, - לא אדע עוד במה בחרתי.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3558,7 +3558,7 @@
       . כן ירחש לבך עתה, כי היית בידו וישלחך לנפשך.
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3566,7 +3566,7 @@
       . לא, לא! הדבר הזה אך ירעימני מאד; דמי ירתחו בקרבי בהשיבי אל לבבי, מה מאד נקלותי בעיניו בתתו חרב בידי וישלחנו אל אויבו.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3574,7 +3574,7 @@
       . אך זה עריץ!
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3582,7 +3582,7 @@
       . אמנם כן. ואולם בבטן נוצר האיש הזה לערץ הארץ בעמד איש לפניו יחשב את נפשו ואת כל התבל ומלואה לאפס ואין. פעם אחת רכבנו אני והוא במקום נשכח מני רגל, בין רכסי הרים וסלעי מגור. עברנו לפני נקיק סלע עמק ורחב מאד; אז דפק את סוסו לעברו, ואני אחזתי ברסן סוסו ואֹמר: אין חקר לעמק הנקיק הזה. “גם אין את נפשי לרדת במעמקים, כי אם לעבר על פניו הלאה”, ענני ויעף כברק על פני התהום הנורא ההוא, ובטרם מצאתי את לבי לעשות כמעשהו שב ויעמד לפני. “אמור אמרתי למצא שם מעין מים – קרא אלי – כי צמאתי, אך לא מצאתי שם מאומה. עתה אשכבה ואישן מעט, ושכחתי את צמאי”. ובדברו הושיט לי רסן הסוס, והוא ירד מעליו וישכב לארץ ויישן. אז ירדתי גם אני מעל סוסי ואשק כנף בגדו למו פי, אף עמדתי אצלו להיות לו לצל מקרני השמש הלוהטות מסביב. בוז לי! אך עוד נקלה הנני, כי מדי דברי בו הלל אהללנו עוד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3590,7 +3590,7 @@
       . האוהב הוא את הנשים?
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3598,7 +3598,7 @@
       . כן, אבל אך כאשר יאהב לאכול ולשתות.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3606,7 +3606,7 @@
       . תאלתי לו!
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3614,7 +3614,7 @@
       . אני ידעתי אחת מבנות עמי, אשר הֻכתה בשגעון, יען כי נקעה נפשו ממנה. העלמה הזאת התגנבה חרש אל חדר משכבו ותחבא שמה, ובשכבו על משכבו התיצבה פתאם לנגדו חרב שלופה בידה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3622,7 +3622,7 @@
       . ומה עשה הוא?
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3630,7 +3630,7 @@
       . הוא מלא צחוק פיהו ויצחק עד אשר הביא את החרב בלבה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3638,7 +3638,7 @@
       . חן חן לך, הלופרנש! אך בה אהגה, ואז יאמץ לבבי והייתי לאיש.
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3646,7 +3646,7 @@
       . מה זה היה לך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3658,7 +3658,7 @@
       האין לי די חן ויפי להיות לו לקרבן?
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -3666,7 +3666,7 @@
       . עין לא ראתה עוד יפת תאר כמוך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3677,7 +3677,7 @@
       דבר לי אל הלופרנש. התואיל לצות, כי יפתחו לפני את שערי העיר?
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3685,7 +3685,7 @@
       .  מה תאמרי לעשות?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3693,7 +3693,7 @@
       . אל לאיש לדעת זאת, כי אם לאלהינו לבדו.
      </p>
     </sp>
-    <sp who="hzkn">
+    <sp who="#hzkn">
      <speaker>
       הזקן
      </speaker>
@@ -3701,7 +3701,7 @@
       .  ויהי אלהי ישראל עמך בכל אשר תלכי! השער פתוח לפניך.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -3709,7 +3709,7 @@
       . יהודית! יהודית! את הדבר הזה לא תוכלי עשה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3720,7 +3720,7 @@
       היאמץ לבך ללכת עמי?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -3728,7 +3728,7 @@
       . אל אשר תלכי אלכה גם אני.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3736,7 +3736,7 @@
       . העשית כאשר צויתיך?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -3744,7 +3744,7 @@
       . הנה הלחם והיין. אך מעט הוא!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3752,7 +3752,7 @@
       . רב לנו, רב!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -3763,7 +3763,7 @@
       לוּ עלה כדבר הזה על לבבי, הלא עשיתי כדבריה. ועתה – מה נורא מוסרי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -3777,7 +3777,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -3788,7 +3788,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="dlih">
+    <sp who="#dlih">
      <speaker>
       דליה
      </speaker>
@@ -3799,7 +3799,7 @@
       אוי, אוי לי!
      </p>
     </sp>
-    <sp who="akhd hzknim">
+    <sp who="#akhd hzknim">
      <speaker>
       אַחד הזקנים
      </speaker>
@@ -3807,7 +3807,7 @@
       .  מה לך?
      </p>
     </sp>
-    <sp who="dlih">
+    <sp who="#dlih">
      <speaker>
       דליה
      </speaker>
@@ -3815,7 +3815,7 @@
       .  שמעיהו הביא עמו את האלם הביתה, ויבואו שניהם אל החדר אשר בירכתי הבית ויסגרו הדלת בעדם. שמעתי את אישי מדבר בקול רם והאלם נאנח ומילל לרגעים. “מה זאת?” אמרתי אל לבי ואתגנב בלאט אל אחורי הדלת הסגורה ואקשיב ואביט בעד חור המנעול אל החדר פנימה; וארא והנה האלם יושב ומאכלת חדה בידו, ושמעיהו עומד עליו ומדבר באזניו תוכחות להריעמו ולהכעיסו תמרורים. האלם כונן את פי המאכלת אל חזהו – אז הרימותי קולי ואזעק מרה, כי נבהלתי מראות את שמעיהו עומד במנוחה ולא ישיב ידו אחור מעשות את המעשה הנורא הזה. פתאם השליך האלם את המאכלת ארצה ויתנפל בחמת רוחו על שמעיהו. בגבורה נפלאה ובכח-לא-איש השליכהו ארצה ויאחז בגרונו בחזקה, ושמעיהו לא עצר כח לעמוד על נפשו ולהחלץ מידו. אז קראתי לעזרה. השכנים מהרו לבוא וישברו את הדלת הסגורה על מסגר, אך אחרו המועד. האלם כבר חנק את שמעיהו, וכחיה טורפת עודנו מתנפל על גוית אישי המת; צחוק נורא התפרץ מפיו בשמעו קול רגלי האנשים הבאים החדרה. בשמעו את קולי נדם כרגע ויכרע על ברכיו לפני; רוצח! נתתי עליו בקולי, אך הוא נשא ידו אל השמים, אחרי כן משש בידו על הארץ עד אשר מצא את המאכלת ויתן אותה אלי ויור באצבעו על חזהו כאומר: דקרני בה!
      </p>
     </sp>
-    <sp who="akhd hkhhnim">
+    <sp who="#akhd hkhhnim">
      <speaker>
       אַחד הכהנים
      </speaker>
@@ -3823,7 +3823,7 @@
       .  אכן נביא אלהים הוא דניאל בתוכנו. אלהי ישראל שם דברים בפי האלם, אף הפליא לעשות לעינינו, למען תאמינו בכל הנפלאות אשר יעשה עוד עמנו בדבר קדשו! שמעיהו חזה לנו שוא ותפל ויהי לחרפה ולשנינה כיום הזה. הוא חטא לדניאל ומידי דניאל בא לו גמול האלהים.
      </p>
     </sp>
-    <sp who="kulus mkrb hem">
+    <sp who="#kulus mkrb hem">
      <speaker>
       קולות מקרב העם
      </speaker>
@@ -3831,7 +3831,7 @@
       .   מהרו אל דניאל לבל תאֻנה אליו כל רעה!
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3842,7 +3842,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="dlih">
+    <sp who="#dlih">
      <speaker>
       דליה
      </speaker>
@@ -3859,7 +3859,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="akhd hshlishim">
+    <sp who="#akhd hshlishim">
      <speaker>
       אַחד השלישים
      </speaker>
@@ -3867,7 +3867,7 @@
       . מה רעים פני הלופרנש! דמיונו כאש להבה אשר עוד מעט ונדעכה.
      </p>
     </sp>
-    <sp who="shlish shni">
+    <sp who="#shlish shni">
      <speaker>
       שליש שני
      </speaker>
@@ -3875,7 +3875,7 @@
       .   נשמר נא מאש להבתו זו, פן תבלע ותאַכּל כרגע את כל הקרוב אליה.
      </p>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון
      </speaker>
@@ -3883,7 +3883,7 @@
       . הידעת את אשר קרהו אמש? הן עוד מעט ושלח יד בנפשו!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -3891,7 +3891,7 @@
       . שקר הדבר!
      </p>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון
      </speaker>
@@ -3899,7 +3899,7 @@
       . אמנם כן! רוח רעה תבעתהו בימים האלה, ובתנומות על משכבו נדמה לו, כי איש אחד התנפל עליו לשים מחנק לצוארו. אז שלח ידו אל החנית אשר מראשותיו ויאמר להכות בה את אויבו אל החמש, ויתקענה בחזהו. באשרו כי נדח הברזל אל הצלע. אז הקיץ משנתו וירא את אשר נעשה; ובגשת אליו העבד השומר לראשו לעצר בדמו ולחבש את הפצע קרא בצחוק: הרף, ישטף נא הדם וקר לי מעט, כי רב לי ממנו רב!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -3907,7 +3907,7 @@
       . לא יאֻמן כי יספר!
      </p>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון
      </speaker>
@@ -3915,7 +3915,7 @@
       . שאל את העבד ויגדך!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -3938,7 +3938,7 @@
       לא אריב אליכם הפעם, כי אך אני הוא האשם בהבטלה אשר הביאה אתכם לידי שעמום ופטפוטי דברים: מוּת לא תמותו. מה שהיה אתמול מאכל היה היום לגלל; ואוי אוי לנו אם נטל עלינו לכרסמהו היום. ואולם הגידו נא לי את המעשה אשר עשיתם, לוּ מצאתוני היום בבקר מת על משכבי?
      </p>
     </sp>
-    <sp who="hshlishim">
+    <sp who="#hshlishim">
      <speaker>
       השלישים
      </speaker>
@@ -3946,7 +3946,7 @@
       .   ומה היה לנו לעשות, אדוננו?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -3954,7 +3954,7 @@
       .   לוּ גם ידעתי לא הגדתי לכם. האיש היודע לשות בדמיונו כי איננו עוד, ויודע גם את ממלא מקומו, אין לו חלק ונחלה עוד עלי אדמות. עלי להודות אפוא לצלעותי ברזל, כי שרו אל המות ותוכלנה. אכן, מות-התולים היה נכון לי אמש! לא אפונה כי המשגה הזה היה יכול להשביע בדשן את אחד האלהים הרזים והדלים באלהי העברים, למשל. ומה עלז ודם אז לב אכיור, בחזיונו אשר חזה עלי מראש, מה רב הכבוד אשר רחש אז לבבו לנפשו! – אחת חפצתי לדעת: מה הוא המות?
      </p>
     </sp>
-    <sp who="akhd hshlishim">
+    <sp who="#akhd hshlishim">
      <speaker>
       אַחד השלישים
      </speaker>
@@ -3962,7 +3962,7 @@
       . דבר, אשר בגללו נאהב את החיים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -3970,7 +3970,7 @@
       .   היטבת לענות. אמנם כן, אך יען אשר נדע כי יוכל לבוא הקץ להם בכל רגע, נחזיק בהם, נמץ את מתקם ונינק מלשד תענוגיהם עד אשר נבָּקע פתאם כנאד נפוח – ואיננו. לוּ ארכו ימים בכלי כל שנוי ותמורה ויום המחרת ידמה ליום האתמול, אז היה להפך, אז שכבנו ונישן ובחלומותינו לא פחדנו ולא דאגנו אך פם נקיץ מהר ושבנו לראות מר החיים. עתה נעמד על נפשנו, אָכלנו מגן לנו מהאָכלנו ובשִׁנינו נלחם בשני העת. על כן טוב ונעים אף למות בידי החיים, לשאף ולבלע אל קרבנו זרם מנעמיהם, הלוך ושאוף, הלוך ובלוע עד אשר נתפוצץ לרסיסים מבלתי יכלת להכילם! לערב תענוגי החיים עם פלצות המות! יש אשר אדמה כי מאֻשר הנני ואֹמר לנפשי: עתה אני חפץ בחיים! אז אחוש בנפשי כמו שלוב הנני בזרועות אהבה, אור בהיר זרוע לי מסביב ויצורי כלם ירעדו רעד-ענג אין-קץ – פתאם אתחלחל – ואשוב להיות את אשר הנני! כן תכסף נפשי לרגע, אשר אֹמר בו לנפשי: עתה אני חפץ במות! ואם לא יתפרד גופי לחלקיו, ברגע התמלט המלים האלה מפי, ויסער לכל רוח ויבּלע באלפי הפיות הצמאים של הבריאה הגדולה – בוז אבוז לנפשי ואמר: אך כבלי ברזל הם שרש נשמתי. אף לא יפלא הדבר אם ישלח איש יד בנפשו אך ממרירות הרעיון הזה!
      </p>
     </sp>
-    <sp who="akhd hshlishim">
+    <sp who="#akhd hshlishim">
      <speaker>
       אַחד השלישים
      </speaker>
@@ -3978,7 +3978,7 @@
       . הלופרנש!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -3997,7 +3997,7 @@
       הגנב בחיים; הזרע המוּצא מחקי האדמה לא יצמיח ולא יעש עוד פרי! את כל זאת ידעתי היטב, אך ביום אשר התפרץ בו דמי מעורקי – תפרצנה נא גם מחשבותי מחשך סתרן! אף די עת לנו עתה, כי אנשי בתול אלה לא ידעו, כנראה, כי לא יחדל איש הצבא מחדד וממרט את חרבו עוד עידן ועידנים, עד אשר יבוא היום, אשר יוכל להשתמש בה.
      </p>
     </sp>
-    <sp who="shlish">
+    <sp who="#shlish">
      <speaker>
       שליש
      </speaker>
@@ -4008,7 +4008,7 @@
       אדוני! אשה עבריה, אשר תפשנו על ההר, נצבת פה לפני הפתח.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4016,7 +4016,7 @@
       .   ומה האשה הזאת?
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4024,7 +4024,7 @@
       . אדוני, כל רגע ורגע אשר יעבר עליך מבלי לראות אותה, רגע עמל הוא. לולא היתה מצוינת ביפיה לא הביאותיה אליך. הנה אנחנו חונים על הבאר ועינינו נטויות אל העיר לראות בהתפרץ מי מן העיר לשאב מים מן הבאר. והנה האשה ההיא הולכת הלוך וקרוב אלינו ושפחתה אחריה כצל על יד ימינה. היא היתה מעלפת בצעיף והלכה מהר עד אשר לא עצרה שפחתה כח ללכת אחריה; פתאם עמדה מלכת, כמו חשבה רגע לשוב על עקביה. אז פנתה אל העיר ותפל אפים ארצה ותהי בעינינו כמתפללת. אחרי כן קמה ותלך אלינו אל הבאר. אחד השומרים התיצב בפניה, ואמר, כי יש עם לבבו לעשות לה רעה, יען כי היטב חרה לאנשי הצבא על שבתם זה ימים רבים מאפס מעשה, אך הוא השתחוה לפניה וישאב מעט מיים ויגש לה את הכלי. היא לקחה מידו את הכלי, מבלי להודות לו, ותגישהו אל פיה, אך בטרם תשתה ממנו השיבה ידה ותשפך את המים לארץ. איש החיל התקצף וישלף חרבו מתערה ויעופפנה על פניה; אז הסירה הצעיף מעל פניה, ואך הביטה אליו רפתה ידו ועוד מעט והתנפל לרגליה, אך היא קראה: הביאוני אל הלופרנש, כי יש עם לבבי להכנע לפניו ולגלות לו מצפוני בני עמי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4036,7 +4036,7 @@
       את כל הנשים שבעולם אראה בחפץ לב מלבד אשה אחת, ואותה לא ראיתי מעודי ולא אראנה לנצח.
      </p>
     </sp>
-    <sp who="khd hshlishim">
+    <sp who="#khd hshlishim">
      <speaker>
       אחד השלישים
      </speaker>
@@ -4046,7 +4046,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4057,7 +4057,7 @@
       אתה הוא האיש אשר אבקש, אתה הוא הלופרנש.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4065,7 +4065,7 @@
       .   אין זאת, כי הזהב הנוצץ אשר על לבושי יעיד ויגיד לך כי אנכי הוא המושל.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4073,7 +4073,7 @@
       . אך אחד הוא האיש, אשר לו מראה ותאר כזה!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4081,7 +4081,7 @@
       .   לוּ מצאתי את השני כי עתה שמתי את ראשו לרגליו; הנני חושב כי אך לי המשפט על מראה פני ולא לאיש זולתי.
      </p>
     </sp>
-    <sp who="khd hshlishim">
+    <sp who="#khd hshlishim">
      <speaker>
       אחד השלישים
      </speaker>
@@ -4092,7 +4092,7 @@
       אל יבוזו לעם אשר נשים כאלה לו.
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -4100,7 +4100,7 @@
       . אך בגלל נשים כאלה טוב לצאת עליהם למלחמה. עתה לא תארך עוד העת להלופרנש. ומי יודע אם לא תכבה אש חמתו כלה מנשיקות פיה!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4119,7 +4119,7 @@
       מה שמך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4127,7 +4127,7 @@
       . יהודית!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4135,7 +4135,7 @@
       .   אל תיראי, יהודית, כי מצאת חן בעיני מכל הנשים אשר ראו עיני מעודי ועד היום.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4143,7 +4143,7 @@
       . הלא זה הנהו כל חפצי ומשא נפשי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4151,7 +4151,7 @@
       .   עתה הגידי לי, על מה זה ולמה עזבת את אחיך בעיר שמה ותבואי אלי?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4159,7 +4159,7 @@
       . יען כי ידעתי, כי אין מידך מציל! יען כי גם אלהינו יתן את עמי בידך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4170,7 +4170,7 @@
       יען כי אשה אַתּ, יען כי בטחת ביפיך, יען ידעת כי עינים להלופרנש; האין זאת?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4178,7 +4178,7 @@
       . שמעני נא בחסדך. חמת אלהינו בוערת עלינו כאש; עוד לפני ימים ושנים שלח אלינו את דברו ביד אחד הנביאים כי יפקד עלינו את עונותינו.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4186,7 +4186,7 @@
       .   מה זה עון?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4197,7 +4197,7 @@
       ילד קטן שאלני זאת באחד הימים. את הילד ההוא נשקתי מנשיקות פי. מה אענה אותך הפעם – לא אדעה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4205,7 +4205,7 @@
       .   דברי, דברי.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4213,7 +4213,7 @@
       . עתה הם עומדים בין חרון אף אלהינו ובין חרון אפך אתה נבהלים ורועדים מאד. הרעב חזק בעיר ונפש יושביה תתעטף בצמא, ובצר להם יאמרו להוסיף חטא על פשע, לספות על חרון אף אלהים באכלם מקרבן הקדש, אשר צֻוו לבל תגע בו יד, ואשר היה יהיה עתה לאש במעיהם ואכלתם!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4221,7 +4221,7 @@
       .   ומדעו לא יכנעו מפני?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4241,7 +4241,7 @@
       על ברכי אבק ממך סליחה על החרפה אשר נשאו עליך. אחי העברים העורים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4249,7 +4249,7 @@
       .   מה זאת עשית? אין נפשי כי תכרעי לפני.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4267,7 +4267,7 @@
       הוי, מי יתנני תחתיך! אך יום אחד, אך שעה אחת! אזי חגותי חג נצחון גדול ומפאר, אשר לא חגגו עוד כמוהו הגבורים אשר מעולם בחרבם המלאה לה דם. אלפים ורבבות יחרדו ממך בעיר ההיא. אתם התקוממתם נגדי – קראתי אז אליהם – אבל יען וביען פשעתם ותחללו את כבודי, לכן הנני נותן לכם את נפשותיכם לשלל; נקום אנקם מכם, לא בחרב ודם, כי אם בנפשכם אתם; הנני נותן לכם את בריתי שלום למען תהיו לי לעבדי עולם!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4278,7 +4278,7 @@
       הוא ולי לא יהיה עוד לנצח. צר לי, אבל דברי אכיור נאמנו יחד!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4289,7 +4289,7 @@
       סלח נא! הרשני לצחוק על נפשי אני. ישנם בעירי ילדים תמימים אשר יתענגו על נגה ברק החניתות אשר יבואו אל לבם; ישנן שמה נערות אשר תחרדנה מקרני השמש החודרות אליהן מבעד לצעיפיהן. שויתי בנפשי את המות הנכון לילדים התמימים ההם, החרפה וכלמת הנצח הנשקפות לנערות האֻמללות ההן, – ומחזה נורא ואיום התיצב לנגד עיני אשר הרגיז את נפשי עד היסוד בה, אז נואלתי להאמין, כי אין איש אשר יאמץ לבבו לבלי התפלץ ממחזות איומים כאלה. סלח נא, כי ערכתי רפיון נפשי לגבור נערץ כמוך!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4297,7 +4297,7 @@
       .   אמור אמרתּ לעדות אותי בעדי צדק ובמעיל חנינה וחסד. קבלי את תודתי על חפצך הטוב, אף כי המעיל הזה לא ילבשני. אל נא, יהודית, נוכחה יחד! אנכי נוצרתי להכות ולפצע, ואַתּ – לרפא את הפצעים. לולא מלאתי את תעודתי אני, לא היה לך עתה במה לבלות את העת. גם את אנשי חילי אל נא תאשימי. הלא נסלח לאנשים, אשר לא ידעו היום אם יראו מחר אור כי יהל, בשלחם את ידם לחטף ולבלע מפרי החיים ומנעמיהם רב יתר מאשר תוכל קיבתם הכיל, כי הלא זה חלקם בחיים.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4305,7 +4305,7 @@
       . אכן נעלית עלי, אדוני, בחכמה ובדעת כאשר בגבורה ובאמץ לב. ואני תעה לבבי בקרבי ורעיוני נבוכו מבלי מצוא מוצא להם; על כן אודך, אדוני, כי פקחת את עיני ותראני את הדרך הישרה. אמנם, כדבר אחת הפתיות דברתי הפעם! ידוע ידעתי, כי בני מות הם כלם, כי כן הֻגד להם מראש; ידעתי, כי זעם אלהי ישאו ואתה שבט אפו, ובכל זאת נכמרו נחומי עליהם ללא הועיל אף נואלתי להתנפל לפניך להשיב חמתך מהם, למרות פי אלהי. אך טוב לי, כי עוד תחזיק ידך בחרב נוקמת ולא תרף ממנה, כי אטמת אזנך משמע בקול תחנוני אשה מתמוגגת בדמעתה. ומה גדל זדון לבם, מה רבה גאותם לו שמעת בקולי! מי הביא עוד פחד ומרך בלבבם לו עבר הלופרנש על פניהם כשואה מבלי הסתער על ראשם? מי יודע אם לא המירו כבוד רוחך הנדיבה בקלון מרך-לב וצהלו בהמון שירי לעג להמון רחמיך? עתה ישבו לארץ, שק ואפר יציעו, יצומו, יבכו ויתפללו; אולם בסור פחד המות מנגד עיניהם יגדל זדונם ורבתה משובתם שבעתים, ופרצו כל חק ועברו כל גבול בהוללות עליצותם הפרועה! ואז כל עונותם על ראשי יחולו ונפשי תתעטף מעצר רעה ונחם. לא, אדוני, עשה תעשה כאשר נשבעת להם, והשמד תשמידם מתחת השמים! את הדבר הזה צוך אלהי; הוא יהיה לך לאוהב, כאשר תהיה להם לאויב!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4317,7 +4317,7 @@
       מה מאד תגדילי עון בני עמך!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4325,7 +4325,7 @@
       . האמנם תדמה כי בחפץ לב עשיתי זאת? הה, מוסר אלהי הוא על רב פשעי, כי נטל עלי לקבֹל עליהם באזניך. דע לך אפוא, כי לא להנצל מן הרעה הנשקפת לבני עמי יצאתי את העיר בהחבא. מי הוא האיש אשר יאמר: חף אני מבלי פשע, כי יערב את לבו להסתר מחרון אף האלהים בקומו לערץ ארץ? אך אלהי הוא אשר שלחני אליך. הוא צוני להביאך ירושלימה ולתת את עמי בידך כצאן אשר אין להם רועה. את החזון הזה הראני אלהי באחד הלילות, בעת אשר כרעתי ברך לפניו, ונפשי הנוגה והנואשת השתפכה במרי שיחה עת התחננתי לפניו, כי ישלח את כל מגפותיו אל לבך ואל לב כל עבדיך אלה, עת כל רעיון וכל הגה בקרבי שאפו אליך בחמת רוח, להתפתל עליך ולשום מחנק לך. פתאם שמעתי הוד קולו וכל חושי התעוררו משמחה וגיל, – אך הוא בזה את תפלתי וינאץ את כל תחנוני. קול רעם שמעה אזני: משפט מות לעם הזה! ועלי שם פקודת רב-הטבחים. הה, אך זאת היתה תמורה נוראה! כמֻכת שממון הייתי, אך את פיהו לא מריתי, עזבתי מהר את עירי, נערתי את רגלי מעפרה, ואבוא ואתיצב לפניך לבקשך, כי תחיש מעשיך להשמיד ולאבד את בני עמי, את אחי, אשר לפני יום גם בשרי גם דמי נתתי כפר שלומם וטובתם. ידעתי, כי תעב יתעבוני ושמי וזכרי יהיו בקרבם לקללת נצח; הדבר הזה רע ומר גם ממות, ובכל זאת לא אשוב מדברי ולא אנחם!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4337,7 +4337,7 @@
       הביאנה אל חדר האכל ואכלה על שלחני.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4345,7 +4345,7 @@
       . לא אוכל לאכל מלחמך, כי אם אעשה כזאת וחטאתי לאלהי. הן לא באתי הנה לסור מאחרי אלהי, כי אם לעבדו בכל לבבי. הנה לקחתי עמי מעט אכל והיה לי לאכלה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4353,7 +4353,7 @@
       .   וכאשר יתם האכל אשר הבאת?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4361,7 +4361,7 @@
       . יהי נא לבבך סמוך ובטוח, כי בטרם אכלה לאכל את המעט אשר הבאתי יבצע אלהי את מעשהו בידי. די צדה בידי לחמשה ימים, ובחמשת הימים האלה עשה יעשה את אשר זמם. עוד טרם אדע את השעה ואלהי הסתר יסתיר אותה ממני ולא יגיד לי עד בואה. עתה אחלה פניך כי תואיל לצוות את אנשיך אלה כי יתנוני לצאת ולבוא בלי מעצור כחפצי, והלכתי יום יום אל ההרים אולי אמצא חזון מאלהי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4369,7 +4369,7 @@
       .   הרשות נתונה לך. צעדי אשה לא שמרתי מעודי. ובכן, בעוד חמשה ימים, יהודית!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4380,7 +4380,7 @@
       בעוד חמשה ימים, הלופרנש.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -4391,7 +4391,7 @@
       ארורה, הלבגד בעמך באת הלום?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4399,7 +4399,7 @@
       . דברי בקול! אך טוב לי אם ישמעו כלם, כי גם את תאמיני לדברי!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -4407,7 +4407,7 @@
       . הגידי נא את, יהודית, אם אוכל לבלתי קללך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4415,7 +4415,7 @@
       . אשרי, אם לא תשפקי את בדברי, אף כי הלופרנש!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -4423,7 +4423,7 @@
       . את בוכה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4439,7 +4439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4450,7 +4450,7 @@
       ההיטבת לראות? מה מצב הדברים בעיר?
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4458,7 +4458,7 @@
       . ראיתי והנה כמו ירדו כלם חיים שאולה. ראיתי את שומר החומה והשוערים ופניהם כפני פגרים מתים אשר עלו זה עתה מקבריהם. כוננתי חצי לירות באחד מהם, אך בטרם יפלח החץ את לבבו נפל שדוד ארצה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4466,7 +4466,7 @@
       .   ובכן, נצחנו בלי כל מלחמה. לו צעיר לימים הייתי, כי עתה רע המעשה הזה בעיני. אז האמנתי כי חטא אחטא לנפשי בעבר עלי יום תמים בלי מלחמה ונצחון חדש; לאשר נתן לי אמרתי: לא לי הוא.
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4474,7 +4474,7 @@
       . כהנים עצובים ושוממים תועים ברחובות עיר כפסילים אלמים. מעיליהם לבנים וארכים, כאשר יעטפו אצלנו את המתים. עינים נמקות נטויות השמים כמו קוראות הן משם לעזרה. כל הידים פרושות ואצבעותיהן רועדות.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4482,7 +4482,7 @@
       .   אל יהרג אחד מן הכהנים האלה! היאוש הנשקף מעיניהם איש בריתי הוא.
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4490,7 +4490,7 @@
       . כי יביטו עתה השמימה לא אל אלהיהם עיניהם תלויות, כי אם אל העננים המרחפים זעיר שם במרומים. אך השמש תלהט בחֻמה את העבים הקלים, אשר כמו ישאו להם בכנפיהם אגלי מים אחדים להשיב נפשם השוקקה, וקויה הלוהטים מכים בלי חמלה על השפתים המבקעות. אם יתרומם האגרף, תלטשנה העינים וינפצו הראשים אל החומה ודמים ומח נגרים מסביב.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4506,7 +4506,7 @@
       הלא יום החמישי מחר?
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4514,7 +4514,7 @@
       . כן, אדוני.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4522,7 +4522,7 @@
       .   אם כן אפוא, מחר יהיה האות הזה! אם הנתן תנתן בתול בידי, כאשר נבאה העבריה, אם יפתחו לפני שערי העיר הסוררת ויושביה עפר רגלי ילחכו…
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4530,7 +4530,7 @@
       . והלופרנש מסופק?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4538,7 +4538,7 @@
       .   בכל דבר אשר לא יוכל לצות: הוה! ואולם אם יבואו דברי העבריה ונפתחה העיר אלינו, מבלי אשר אדפק בחרבי על דלתיה, אז –
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4546,7 +4546,7 @@
       . אז?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4558,7 +4558,7 @@
       הלא אמרת לי, מה שמו?
      </p>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -4566,7 +4566,7 @@
       . אדני.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4574,7 +4574,7 @@
       .   יעלה נא נסכי לפניך, אדני. הלא איש הוא המגיש אותו לפניך, ואיש אשר אין חפץ לו בעזרתך.
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4582,7 +4582,7 @@
       . ואם לא תפתח העיר לפניך?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4590,7 +4590,7 @@
       .   אז – שבועה נגד שבוע. אז אצוה לקחת את אלהי העברים וליסרהו בשוטים והעיר – אך אין נפשי עתה לשים קץ וגבול לחמתי אשר אעשה בם! כי מי זה יפלס נתיב לחזיז ורעם? מה שלום העבריה?
      </p>
     </sp>
-    <sp who="hshlish">
+    <sp who="#hshlish">
      <speaker>
       השליש
      </speaker>
@@ -4598,7 +4598,7 @@
       . מה יפה היא, אך סרה וזועמת!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4608,7 +4608,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4627,7 +4627,7 @@
       אשה היא אשה, ואף גם זאת יש אשר נדמה בנפשנו כי יש הבדל ופדות ביניהן. אכן, אך בזרועות היפהפיה יחוש האיש מה רב ערכו. עת אשר תחרד לקראת זרועותיו הפתוחות ומלחמה לה פנימה בין התשוקה ורגש הבושה, עת אשר תסוג לאחור, כמו תאמר לנוס מפניו, וכרגע יגבר החשק וחרדה כצפור לנפול על צואריו, עת אשר תשכח רגע את גאונה ורום לבבה, ומבלי יכלת לכלא עוד את תשוקתה תעיר ותעורר בו את האהבה עד שתחפץ ואז, עת אשר תרתחנה הנשיקות את כל דמי עורקיה ותשוקתה תתחר בתשוקתו הוא – אז נדע ונרגיש מה הם החיים, אז נשכיל ונבין על מה זה ולמה עמלו האלהים לברא את האדם בתבל ארצה, אז נשתה לרויה מכוס התענוגים, נשתה ונשכר עד בלי די! ומה גם אם נפשה הקטנה הבוערת עתה באש החשק מלאה לפני רגע זעם ושנאה נצחת, עם העין המפיקה עתה גיל ועליצות נעצמה רגע מכעש ומרי בגשת המנצח אליה, אם היד המחבקת עתה באהבה מסכה לו בחפץ ראש פתנים ביינו! אך זה הוא נצחון שאין דמיונו, ומה נעים לי הנצחון כפעם בפעם! גם יהודית – אף כי עינה תפיק אהבה וחסד ושחוק קסם מרחף על שפתותיה כזהר קוי השמש ביום בהיר, אך לבה סגור לפני כל, רק אלהיה ישכן בו, ואותו אגרש משם הפעם! הן זה דרכי מנעורי בהפגשי עם אויבי, לגזל ממנו את חרבו ולהביאה בלבו, תחת לשלף חרבי אני מתערה. ככה אעשה גם לה הפעם; גאונה ועז רוחה יאבדו רגע לעיני באש תשוקתה, בסערת רגשותיה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4638,7 +4638,7 @@
       הלא קראת לי, אדון נעלה, הנה אמתך לפניך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4646,7 +4646,7 @@
       .   שבי נא, יהודית, אכלי ושתי כי מצאת חן וחסד לפני!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4654,7 +4654,7 @@
       . אך זה חפצי, אדוני, ומה מאד יגל לבבי כי לא נכבדתי עוד מעודי כאשר אכבד הערב!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4662,7 +4662,7 @@
       .   ולמה זה תחכי עוד?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4673,7 +4673,7 @@
       אדוני, אך אשה אני.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4681,7 +4681,7 @@
       .   ראי נא והתבונני היטב אל הדם הזה, ורם ורחב לבבך; הנה הוא נגר עתה לארץ על אשר רתח בלי צדק מאש החשק אליך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4689,7 +4689,7 @@
       . אויה!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4706,7 +4706,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4717,7 +4717,7 @@
       הה, תסמר שערת בשרי, – אך אודך, אלהי, כי הראיתני את העריץ הנורא במראהו זה. את הרוצח ארצח על נקלה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4725,7 +4725,7 @@
       .   עתה שבי נא על ידי. מה חורו פניך וחזך מה יתרומם לרגעים? הכה נוראתי בעיניך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4733,7 +4733,7 @@
       . אך טוב וחסד עשית עמדי, אדוני!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4741,7 +4741,7 @@
       .   דברי בלב תמים, אשה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4749,7 +4749,7 @@
       . אדוני, אך תעב תעבתני לוּ –
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4757,7 +4757,7 @@
       .   לוּ מה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4765,7 +4765,7 @@
       . לוּ יכלתי לאהבה אותך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4773,7 +4773,7 @@
       .   מה תערבי את לבך, אשה! אך לא, סלחי נא. מענה כזה לא שמעתי עוד מעודי. הא לך שרשרת הזהב על דברך זה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4784,7 +4784,7 @@
       לא אבין לרעך, אדוני!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4792,7 +4792,7 @@
       .   אוי ואבוי היה לך לוּ בנת לרעי! השחל יביט באהבה על הילד הרך אשר יעז מבלי דעת למרט שער רַעמָתו. ואולם לו העז לעשות כדבר הזה אחרי אשר גדל ויחכם, אזי טרפהו השחל כרגע. עתה שבי נא לימיני ונדברה ונשתעה יחד. הגידי נא לי, מה חשב לבבך בבוא אליך השמועה, כי הנני בא בראש חילי הגדול להרגיז מנוחת ארצך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4800,7 +4800,7 @@
       . לא חשבתי מאומה.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4808,7 +4808,7 @@
       .   לא, יהודית; הלא חשוב יחשב הלב מחשבות לשמע שם הלופרנש.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4816,7 +4816,7 @@
       . אז יהגה לבבי באלהי אבותי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4824,7 +4824,7 @@
       .   ואותי בזית ותאריני?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4832,7 +4832,7 @@
       . לא; קוה קויתי כי אלהי יעשה זאת.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4845,7 +4845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4853,7 +4853,7 @@
       .  ובהגיע לאזנך קול רעש גלגלי מרכבותי, שעטות פרסות סוסי האבירים וצלצול רבבות חרבותי, מה חשב לבך אז?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4861,7 +4861,7 @@
       .   אז אמר לבי כי לא אחד אתה בתבל, וכי מישראל יצא איש אשר ידמה לך בגבורה ואמץ לב.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4869,7 +4869,7 @@
       .  ובראותך כי אך מפני שמי נחתו כלם, ולא קם בהם עוד רוח, כי עברו ימי הפלאות, אשר עשה לכם אלהיכם, וכי כל אנשיכם שמלות נשים חמדו להם –
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4877,7 +4877,7 @@
       .   אז מלאה נפשי רגשי בוז ואליט פני מהביט עוד בפני איש. אם אמרתי אתפללה לאלהי, התקוממו בי כל רעיוני ורגשותי וילחמו איש באחיו בחמה שפוכה וישתובבו ויתפתלו מסביב לנפשי הנמוגה והעורגת אל אלהיה. ולמן היום אשר הרגשתי כזאת אחרד ואתפלץ מנפשי אני! דמיונה כמערה עמקה, אשר תחדרנה אליה קרני השמש להגיה חשכה ואף גם זאת ירמו ירכתיה תולעים ויזחלו נחשים צפעונים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4892,7 +4892,7 @@
       שפתותיה חודרות ונוקבות כעלוקות, אך קרות הנה. שתי יין, יהודית. ביין ימצא כל החסר לנו!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4903,7 +4903,7 @@
       אמנם כן, היין מוסיף אמץ, אמץ-לב!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4911,7 +4911,7 @@
       .  האם תחסרי אמץ לב לשבת עמדי, לשאת את מבטי-עיני התלויים בך ולהשיב לי עתרת נשיקות על נשיקותי? יצור קטן ודל!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4926,7 +4926,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4934,7 +4934,7 @@
       .  ידעתי גם ידעתי את לבבך, יהודית, אך שנוא שנאתני, האין זאת? הבה, תני לי ידך וספרי לי משנאתך זו!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4942,7 +4942,7 @@
       .   את ידי? הוי, כלימת נצח לנפשי ולכל הקדוש לי!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4950,7 +4950,7 @@
       .  כן, כן. אך אשה כזאת תקח את לבבי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4962,7 +4962,7 @@
       אמנם כן, תכלית שנאה שנאתיך, ארור תהיה מכל האדם! הגדתי לך הפעם את כל לבי, למען תדע, למען תבין מה מאד אשנא אותך, מה מאד אָאֹר שמך וזכרך, אם לא אשתגע כרגע! ועתה המיתני נא!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -4970,7 +4970,7 @@
       .  להמית אותך? מחר אולי; ואולם הלילה נרוה דודים ונתעלסה באהבים!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -4981,7 +4981,7 @@
       מה רוח לי עתה! עתה אעשה ואוכל!
      </p>
     </sp>
-    <sp who="shumr hsf">
+    <sp who="#shumr hsf">
      <speaker>
       שומר הסף
      </speaker>
@@ -4989,7 +4989,7 @@
       . אדוני, איש עברי עומד בחוץ לפני פתח האהל, אף יפצר בי כי אתנהו לבוא לפניך. דברים נכבדים מאוד – – –
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5004,7 +5004,7 @@
       היאמרו להכנע מפני? אם כן, הגידי לי מהר מה שם קרוביך וכל מכריך ונתתי להם את נפשם לשלל.
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -5015,7 +5015,7 @@
       ישבע נא אדוני אם ימית את עבדו בחרב.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5023,7 +5023,7 @@
       .  לא תמות!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -5034,7 +5034,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="shumr hsf">
+    <sp who="#shumr hsf">
      <speaker>
       שומר הסף
      </speaker>
@@ -5048,7 +5048,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5056,7 +5056,7 @@
       .  הרף!
      </p>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -5069,7 +5069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5077,7 +5077,7 @@
       .   לא, אבל יש ויש שמה משתגעים ומתהוללים.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5085,7 +5085,7 @@
       .  להמית את הלופרנש; לכבות את הברק הנכון לשרף תבל ומלואה; לשרש נפש אלמות משרשיה – הוי, מה רב הקסם ברעיון כזה! הלא זה כאשר יאמר איש לאחז במושכות גורל העולם! רעיון כזה לבב גם אותי לולא הייתי אני בעצמי הלופרנש! ואולם כי יהין איש לעשות גדולות בארח שפל ונקלה, לפרש לשחל רשת הארוגה מנדבת רוחו, ואחר להמיט עליו רצח ומות, כי יערב איש את לבו לגשת אל המעשה הגדול הזה, וכמוג לב יסיר את הסכנה הכרוכה בו במרמת ערומים, – מה תאמרי את, יהודית, לדבר הזה? הלא כאשר יעשה לו האדם אלהים מטיט חוצות כן הדבר הזה! האם לא תבוזי גם את לנפש אשר כזה, ולו גם אהובך מנער הוא העושה זאת לאויבך בנפש?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5097,7 +5097,7 @@
       אלהי אבותי! שמרני נא מנפשי אני לבל אכבד את אשר אתעב! אך זה הוא איש!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5112,7 +5112,7 @@
       ראי נא, יהודית, הידים האלה טבולות בדם עד המרפק, כל הגה אשר יצא מפי מוליד שד ורצח, מבט עיני – אבדון ומות; ומה דלתה, מה אמללה התבל בעיני! יש אשר אדמה, כי אך לזאת נוצרתי: להרסה ולאבד כל זכר לה, למען תעזב את מקומה לאחרת הטובה ממנה. כל שוכני ארץ יקללוני, אך קללותיהם לא תגענה עד נפשי, כי תתרומם בגאון עזה, תניע את אברותיה ותנערן ממנה כאבק דק; אין זאת כי לי הצדקה. “הה, הלופרנש, הן לא תדע ולא תחוש את מכאובי!” נאנח אלי באחד הימים שבוי חרב, אשר צויתי לצלותו על האש חיים. “אמנם כן, עניתיו, הדעת הזאת נפלאה ממני” ואשכב על ידו בלב הלהבה. אל נא תתפלאי לדבר הזה, כי אך רעיון אוילי עלה אז על לבבי ולא יותר.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5124,7 +5124,7 @@
       ארצחהו כרגע פן עוד מעט וכרעתי לפניו ברך.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5136,7 +5136,7 @@
       יגיח מסתר מחבואו, יתגעש, יתחולל, את אחיו הוא מבקש לדעת; אך האלונים הרמים, המתאמרים להתיצב בפניו, יהפך משרש, מגדלי עז יפוצץ לרסיסים ואת כדור הארץ מציריו יסיע. אז יראה ויוכח לדעת, כי אחד הוא ואין שני לו, ובגעל נפש ובוז ינוס שנית. – ונבוכדנאצר, האם אחי הוא? אכן, אדון הוא לי; אולי יבוא היום והשליך את ראשי למאכל לכלבים; אף ימתק נא אכלם זה לחכם! ואולי עוד אתן את בשר אדוני מאכל לנמרי אשור. ואז – אמנם כן, אז ידעתי, כי היה אהיה לאמת המדה לכל האנושות כלה, וכימי השמים אהיה לה לאלהים אדירים ונוראים, אשר אין ערך לעזוזו ורעם גבורותיו! הוי, הרגע האחרון, האחרון! יבוא נא! "גשו נא אלי, כל עשוקי יחד! – אקרא להם – קרבו הנה, גואלי דמי רבבות חללי! אתיו כלכם, האמללים, אשר גזלתי את נשיכם מבין זרועותיכם וכבוד בנותיכם לעיניכם חללתי! הקבצו נא יחד והמציאו בעדי כל מצוקות השחת, כל ענויי השאול! הגירו נא את דמי והשקוני ממנו לרויה, נתחו גויתי, קרעו את בשרי ותנו לי ממנו לאכלה! ובעת אשר ידמו כי כבר כלו בי חצי חמתם, ואני אחלה פניהם כי יוסיפו ידכאוני ויפוצצוני באכזריות רצח; בעת אשר יביטו יראו בי מסביב בשממון פחד ובתמהון לבב, ואנכי, למרות כל ענותי, אבוז להמונם, ושחוק גאון ובוז ירחף על שפתי; אז ארעים עליהם בקולי: כרעו ברך לפני כי אני הוא אלהיכם! וסגרתי את שפתי ועיני כרגע ואמות במנוחה.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5147,7 +5147,7 @@
       ורעם שמים כי ירעם עליך וברק זעמו יפוצצך?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5155,7 +5155,7 @@
       .  אז אנופף ידי אליו כמו אצוה עליו במפגיע לעשות את הדבר הזה וברק המות יעטני מעטה-הוד.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5163,7 +5163,7 @@
       .   שד משחת! רב בלהות! כל מעיני, כל רגשותי יסערו בקרבי כעלים נובלים מסועה וסער. הוי, זדון, כקיר ברזל תתיצב ביני ובין אלהי! הנה אני חפצה, אני צריכה להתפלל עתה לאלהי, ולא אוכל!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5171,7 +5171,7 @@
       .  השתחוי אפוא והתפללי אלי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5179,7 +5179,7 @@
       .   אליך? – הוי, עתה נפקחו עיני לראות נכוחה. הן תעז בגבורתך, עריץ; ואולם הטרם תדע, כי גבורתך זו בגדה בך ותהפך לך לאויב?
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5187,7 +5187,7 @@
       .  מאד ינעם לי לשמוע מפיך חדשות הפעם.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5195,7 +5195,7 @@
       .   האמין יאמין לבבך כי אך לערץ התבל הגבורה נתנה; ואולם מי יודע אם לא לערץ עריצותך מראש נועדה. כן, אתה שמת את גבורתך למאכל לתאותיך, עז נפש, אתה הוא הפרש אשר יהיה לטרף לשני סוסיו.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5203,7 +5203,7 @@
       .  אמנם כן, הגבורה נועדה לשלוח יד בנפשה, כה תאמר החכמה, שאיננה גבורה. להלחם בנפשי אני, לשבר את רגלי השמאלית ולתתה למרמס לרגלי הימנית אך למען לא תקע ותדק לעפר את עדת הנמלים הרוחשות מסביב לה. הכסיל ההוא במדבר, אשר נלחם כל היום בצלו ואשר קרא לפנות ערב כנואש: “עתה אבדתי, אבדתי, עתה יגדל אויבי ממני אלף מונים!” – הכסיל ההוא אך חכם לב היה, האין זאת? הוי, הראוני נא את הלהבה אשר תכבה את עצמה! ואם לא תמצא כזאת, הראוני את הלהבה אשר תֹאכל ותאָכל יחד! ואם גם כזאת לא תמצאו, הגידו לי אפוא, אם יש הצדקה לעץ אשר יהיה לבער לה להרשיע את הלהבה הזאת?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5211,7 +5211,7 @@
       .   לא אדע אם יש להשיב דבר על דבריך אלה. מוחי ריק עתה, מעין מחשבותי דלל וחרב ולא אדע נפשי.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5219,7 +5219,7 @@
       .  שחקי עלי ועל דברי; הן יש אשר ינעם לנו לדבר רמות ונשגבות באזני האשה אשר לא תבינן.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5227,7 +5227,7 @@
       .   למד לכבד את האשה! הנה היא נצבת עמך בזה לרצח אותך נפש! והיא אומרת לך זאת בהתגלות לב!
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5235,7 +5235,7 @@
       .  והיא אומרת לי את זאת למען לא תוכל עוד לעשותה. הוי, מרך המתאמר בגדל לבב! ואמנם את רוצה זאת כל עוד אשר לא הביאותיך אל חדר משכבי! הנה כן אָגן מפניך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5243,7 +5243,7 @@
       .   עוד טרם תדע אשה עבריה. ידע תדע אך יצורים נבזים, בריות שפלות, אשר חרפתן נחשבה להן לענג.
      </p>
     </sp>
-    <sp who="hlufrnsh">
+    <sp who="#hlufrnsh">
      <speaker>
       הלופרנש
      </speaker>
@@ -5265,7 +5265,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5276,7 +5276,7 @@
       אני אנוסה – אני חפצה – בוז לי וכלימת נצח אם לא אוכל לעשותו!
      </p>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -5287,7 +5287,7 @@
       ואת תשבי פה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5295,7 +5295,7 @@
       .   פה אשב ואחכה לגברתי.
      </p>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -5303,7 +5303,7 @@
       .  מדוע זה לא תיפי כיהודית? או אז הלא אֻשרתי גם אני הלילה כאדוני.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5311,7 +5311,7 @@
       .   ומדוע אינך איש כהלופרנש?
      </p>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -5319,7 +5319,7 @@
       .  אני הנני את אשר אני למלא את כל מחסורי הלופרנש לבל יצטרך הגבור הגדול להכין בידיו את המאכל אשר יאכל ולמסך את היין אשר ישתה, למען היות לו איש אשר ישכיבהו על מטתו עת הוא שותה שכור. עתה הגידי לי את: למה הן הנשים המכערות בארץ?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5327,7 +5327,7 @@
       .   למען אשר יוכל כל כסיל ובער ללעג להן.
      </p>
     </sp>
-    <sp who="hmshrs">
+    <sp who="#hmshrs">
      <speaker>
       המשרת
      </speaker>
@@ -5338,7 +5338,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5353,7 +5353,7 @@
       ירָצח מי נפש, לא אדע אם הלופרנש או יהודית! הס! הס! זכור אזכור כאשר עמדתי פעם אחת על הנהר וארא מרחוק איש נאבק עם גלים זדוניים; מעי המו לאמלל ההוא ומנהמת לבבי אמרתי לקפץ אחריו המימה, אך פחד המות עצרני מעשות כדבר הזה. אז הרימותי קולי ואזעק, ואזעק בכל עז, לא לעזר ולא להועיל, רק לבל אשמע את צעקתו. ככה אדבר גם הפעם! הה, יהודית! יהודית! כאשר באת אל הלופרנש היית כמתנכרה ותבטיחיהו להסגיר את עמך בידו, אז היית רגע בעיני כבוגדת. אז חטאתי לך בשפתי, אף הרגשתי זאת כרגע בלבבי! מי יתן ודבריך המקוטעים, מבטיך התועים והעויותיך הזרות יוליכוני שולל גם עתה כאז! ואולם מה מאד אפחד הפעם, רעיוני נבוכים ומטרפים; אך לא הפחד מדבר בי הפעם, אף לא הדאגה פן לא תוכל להפיק זממה. על האשה ללדת אנשים, אך לא להמיתם!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5365,7 +5365,7 @@
       מה רבה פה האורה! כבי נא הנרות, תרצה, גם בוש לא יבושו!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5380,7 +5380,7 @@
       יהודית? לחייך להבות, כמו יאמר דמך לפרוץ החוצה! מבטיך תועים אנה ואנה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5391,7 +5391,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5399,7 +5399,7 @@
       .   השעני נא עלי, הנך מתעלפת!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5407,7 +5407,7 @@
       .   מה? הכה כשל כחי? גשי הלאה, הלאה! עוד אוכל עמד, הוי, יכול אוכל גם יתר מזאת! כן, יכול אוכל רב יתר מאד!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5417,7 +5417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5425,7 +5425,7 @@
       .   מה יעלה על לבבך, אמללה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5437,7 +5437,7 @@
       והאוכל עשות אחרת? – הגידי נא לי, תרצה, אולי לא עשיתי בו חרון אפי, אם אך – מה זאת אדברה! אל תוסיפי דבר אלי עוד, שפחה! הה, הארץ מתנודדת תחת רגלי.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5445,7 +5445,7 @@
       .   קומי וננוסה מזה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5453,7 +5453,7 @@
       .   חלילה! אני, אני אלמדך לדעת חובתך! ראי נא, תרצה, אך אשה הנני! הוי, מי יתן ולא חשתי זאת הפעם! שמעיני נא ועשי כאשר אצוך. אם יעזבני כחי ונפלתי מאין אונים לארץ, אל תזרקי עלי מים קרים, המים לא יועילו מאומה, קראי באזני: זונה את! אז אתאושש כרגע ואחליף כח, אולי אתנפל עליך לשים מחנק לנפשך; אך אל נא תבהלי, – קראי לי: הלפרנש שם אותך לזונה והלופרנש חי עודנו! אז, הוי, תרצה, אז אהיה לגבורה, גבורה כהלופרנש!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5461,7 +5461,7 @@
       .   נפשך הומיה כהמות ים ומחשבותיך כגלים זדונים עברו ראשך.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5469,7 +5469,7 @@
       .   הן לא בנת לרעי עד כה; אבל הבן תביניני הפעם. את, תרצה, נערה בתולה את. תניני נא להפיץ אור על מסתרי מקדש הנפש התמה. הבתולה היא בריה סרת טעם, חרוד תחרד לרגעים גם מחלומותיה בתנומות על משכבה; ואמנם יש אשר ישאיר אחריו החלום פצע אנוש בתמת נפשה הרכה. ואף גם זאת הן כל משאות נפשה, כל תקותה בחיים היא כי לא לנצח תשב בבתוליה. אכן, אין רגע נכבד ורב התוצאות בחייה כָּרגע אשר בו תחדל להיות את אשר היתה עד כה; וכל סערת הדם אשר התאמצה תמיד להרגיע, כל אנחה אשר עצרה בה מהתפרץ מפיה, תרב ותגדיל ערך הקרבן אשר תקריב ברגע ההוא. את כל נפשה עם כל נעימותה היא מקרבת – היפלא אפוא אם תבקש לה במחיר כל אלה ענג ועדנים אין קץ? התשמעיני, תרצה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5477,7 +5477,7 @@
       .   ואיככה זה לא אשמעך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5485,7 +5485,7 @@
       .   עתה שוי בנפשך את החרפה בהמון נוראותיה, עת תצללי עמק ביון מצולת הקלון, כאשר תגלה לעיניך מפלצת איומה מתרוממת כקיר ברזל בינך ובין חזיונות לבבך בימים עברו, עת תקללי את החיים, תּאֹרי את התבל המלאה לה שמה ושערוריה!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5493,7 +5493,7 @@
       .   מה זה? מה אתאר בדמיוני?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5501,7 +5501,7 @@
       .   מה תתארי לך בדמיונך, תשאלי? את נפשך בשפלותה היותר שפלה – את הרגע, בו נפשך וגויתך תדָרכנה כענבים בגת, למען תשכירי בלשד נפשך, ביין דודיך את עז-נפש, אשר כבר שתה דם ענב לשכרה, לספח שכרון על שכרון, ולספות קיקלון על כלימה – עת תתעורר התשוקה הנרדמה ושאלה די אש משפחותיך את להצית בה את מקדש נפשך וכל חמודותיו פנימה ולהפך אותו בין רגע לגלי אפר, שמה ושאיה – עת גם כל חושיך בך, כעבדים שכורים, אשר לא יכירו עוד את אדוניהם, יתקוממו בך – עת אשר תדמי בנפשך, כי כל ימי נעוריך, אשר לא ישובו עוד, כל מחשבותיך ורגשותיך אז אך חלום גאות-שוא הם, וכי קלונך וחרפתך נצח הם המה גורלך בחיים!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5509,7 +5509,7 @@
       .   אשרי כי מנע אלהים ממני חן ויופי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5524,7 +5524,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5535,7 +5535,7 @@
       העירהו נא, אלהי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5546,7 +5546,7 @@
       אהה, מה זאת תתפללי, תרצה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5559,7 +5559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5570,7 +5570,7 @@
       החזיקי בי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5585,7 +5585,7 @@
       קומי לך, פתיה, התעוררי כרגע! התעלפותך תרשיעני, ואת זאת לא אוכל!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5596,7 +5596,7 @@
       השליכי נא עליו בגד!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5609,7 +5609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5620,7 +5620,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5628,7 +5628,7 @@
       .   מה תכאיבי את לבבי, ולבבך רב יתר!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5641,7 +5641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5652,7 +5652,7 @@
       ! כי הוא היה הלופרנש, ואני – ואני בריה קלה כמוך! כן, גבורה נפלאה הנני; יראוני נא את הגבור אשר הרבה במחיר עלילות גבורתו כמוני.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5660,7 +5660,7 @@
       .   הנה אמרת כי נקמת ממנו. אך אחת אשאלך ועניני: מי בקש מידך לבוא אל מחנה הערלים האלה? הן לולא עזבת את העיר לא היה לך על מה להנקם.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5668,7 +5668,7 @@
       .   מי בקש מידי? ענות עמי דחפתני ותשליכני הנה; הרעם הנורא, האם האמללה, אשר קרעה את עורקה להשקות מדמה את עוּלה הגוע בצמא. הוי, עתה לא יחרפני עוד לבבי, עתה עשיתי שלום לנפשי. את כל אלה שכחתי רגע במצוקות נפשי אני!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5676,7 +5676,7 @@
       .   את כל אלה שכחת. אם כן אפוא לא ענות עמך עוררתך להתגאל בדם נפש!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5688,7 +5688,7 @@
       לא – לא – צדקת ממני – זאת – לא זאת – אין דבר אשר שפך עלי רוח גבורה ועז בלתי אם חרפתי אני. הה, ראשי סובב עלי כגלגל! עמי נחלץ מצרה, אפס לוּ נפלה אבן ותרוצץ ראש העַול – אסיר תודה היה עמי לאבן ההיא רב יתר מאשר הוא לי עתה! תודה? ומה חפץ בה? – אבל עתה אשא לבדי את מעללי ונטל סבלי ידכאני לעפר!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5696,7 +5696,7 @@
       .   הן שכבת בחיקו; והיה אם תלדי לו בן, מה תגידי לו כאשר ישאלך מי הוא אביו ואיו?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5707,7 +5707,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5718,7 +5718,7 @@
       אז יקרעוני גם אני.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5729,7 +5729,7 @@
       ומה אעשה אפוא? הה, ראשי כנאד מלא קיטור ולבבי בי – פצע אנוש. ואף גם זאת לא אוכל לחשב אחרת בלתי אם על אדותי. הה, מי יתן ושכחתי רגע את נפשי! דמיוני כעין הנטויה אל הגו פנימה. וכל אשר אוסיף להתבונן אל קרבי, כן תקטן נפשי בעיני, תקטן ותקטן מרגע לרגע, אז אחדל כמעט, פן אהיה בין רגע לאין ואפס.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5740,7 +5740,7 @@
       אלי, הנה אנשים באים הנה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5755,7 +5755,7 @@
       וחרבי רותה מדם! התוכל עמד עוד? מה יאמר האלהים בהשקיפו בבקר ממעון קדשו וראה את השמש כי לא תוכל לאוץ ארחה ואת הכוכבים כי התקלקלו? הישפך עלי חמת אפו? לא! הן אני היא האחת החיה עוד; מאין יבואו החיים בתבל אם ימיתני גם אני?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5763,7 +5763,7 @@
       .   יהודית!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5771,7 +5771,7 @@
       .   הוי, שמי יכאיב לי מאד!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5779,7 +5779,7 @@
       .   יהודית!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5793,7 +5793,7 @@
       בכיתי! יגיד נא לי מי על מה זה ולמה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5801,7 +5801,7 @@
       .   אהה, אלי! מה זה היה לה! יהודית, אך ילדה את!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5813,7 +5813,7 @@
       אכן ילדה הנני; האף אין זאת? הן ביום מחר לא אזקן עוד, גם ביום השלישי טרם אזקן! הבה, נצחק נא ונשתעשע יחד, אבל בצחוק נעים ועלז. זה עתה הייתי אשה רעה ומרצחת! ועתה – הו, הו, הגידי נא לי, מה אהיה עתה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5821,7 +5821,7 @@
       .   אלי! הנה היא משתגעת!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5829,7 +5829,7 @@
       .   הגידי לי מה אהיה עתה! מהר! פן אשוב להיות את אשר הייתי.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5840,7 +5840,7 @@
       ראי!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5848,7 +5848,7 @@
       .   האמנם תדמי, כי כבר שכחתי זאת? הוי, כן! כן! מי יתן והֻכּיתי בשגעון, אפס כי אך עב קל יעיב את רוח בינתי כמעט, והחשך טרם ישופני. אלפי חורי חפרפרות בראשי, אך כלם יחד צרים וקטנים הם מהכיל בקרבם את בינתי הגדולה והרחבה, – אך לשוא תתאמץ להסתתר שמה.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5859,7 +5859,7 @@
       עוד מעט והאיר הבקר; הלא יענונו עד מות אם ימצאונו בזה, את בשרנו ינתחו לנתחים ואת עצמותינו יפצחו.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5871,7 +5871,7 @@
       גם הוא לא מת! ומי יודע אם לא הוא הוא השם בפי את הדברים האלה, אם לא הוא הוא הנוקם את נקמתו ממני בהעירו את רוחי הנמוגה לדעת, כי בן אלמות הנהו!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5879,7 +5879,7 @@
       .   יהודית, חוסי נא עלי ועליך ונלכה מזה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5887,7 +5887,7 @@
       .   כן, כן. אחלי תרצה, הגידי לי תמיד את אשר עלי לעשות. יראה ורעד יבוא בי לעשות דבר-מה כחפצי אני.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5895,7 +5895,7 @@
       .   אם כן אפוא, קומי ולכי אחרי.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5907,7 +5907,7 @@
       ראי נא, הראש הזה סגולה הוא לי, אותו אביא העירה, למען יאמינו לי אנשי בתול, כי אני – – אוי, אוי לי, הלא יודו ויברכו שמי בהגידי להם כזאת, וכפלים להותי בהשיבי אל לבבי כי מראש קויתי כזאת.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5918,7 +5918,7 @@
       ועתה?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5926,7 +5926,7 @@
       .   אכן, עיני נפקחו הפעם. שמעיני נא, תרצה, אני אגיד להם כי אַתּ עשית זאת!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5934,7 +5934,7 @@
       .   אני?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5942,7 +5942,7 @@
       .   כן, תרצה! הגד אגיד להם כי נמוג רוחי ותרפינה ידי ברגע הנורא ההוא; אז לבשה אותך רוח גבורה מאת ה' ותצילי את עמו מיד שוסהו. אז יבוזו לי ויתעבוני כנצר נתעב, אשר השליך ה' מעל פניו, ואַתּ תהיי לברכה ולתהלה בישראל.
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -5950,7 +5950,7 @@
       .   חלילה לי מזאת!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -5966,7 +5966,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="shh">
+    <sp who="#shh">
      <speaker>
       אשה
      </speaker>
@@ -5974,7 +5974,7 @@
       .  למה זה רמיתונו באמרכם לנו, כי אלהינו בשמים כל יכול ולו העז והנצח? הנה היה כאחד האדם, אשר תקצר ידו מעשות את כל אשר יבטיח!
      </p>
     </sp>
-    <sp who="khhn">
+    <sp who="#khhn">
      <speaker>
       כהן
      </speaker>
@@ -5982,7 +5982,7 @@
       .  אכן, כל יכול הוא. אך אנחנו חטאנו לו וכגמול ידינו כן יעשה לנו.
      </p>
     </sp>
-    <sp who="nshim">
+    <sp who="#nshim">
      <speaker>
       נשים
      </speaker>
@@ -5990,7 +5990,7 @@
       . אויה, אויה! מה יעשה אלהינו לנו!
      </p>
     </sp>
-    <sp who="khhn">
+    <sp who="#khhn">
      <speaker>
       כהן
      </speaker>
@@ -5998,7 +5998,7 @@
       .  הבטנה מאחריכן וידעתן את הנכון לפניכן!
      </p>
     </sp>
-    <sp who="ֵm">
+    <sp who="#ֵm">
      <speaker>
       אֵם
      </speaker>
@@ -6009,7 +6009,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -6017,7 +6017,7 @@
       . נקמת אלהים היא, אשר לא תדע כל גבול, באשר אין קץ וגבול לעון ופשע.
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -6025,7 +6025,7 @@
       .  הגדתי לך, כהן, כי לא תוכל האם להרבות כה חטא על פשע! מדוע לא מותתהו מרחם, אם חרה אפו בי? ואם ישר בעיניו כי יראה בני אור החיים, למה זה ימתהו ברעב ובצמא לעיני? על מה שוא הרינו, חלנו, ילדנו, הלא למען יהיו לנו למשיב נפש; הצחוק התם המרחף על שפתי הילד יהיה לנו כמלאך שלום ואהבה, אשר ינחם את רוחנו הנכאה וימלא את לבבנו אהבה וחמלה אין קץ.
      </p>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -6033,7 +6033,7 @@
       . למה זה הבל תהבלי? האלהים נתן לך זרע לענג בו את נפשך אם תעשי הטוב בעיניו, וליסרך בו מוסר אכזרי אם הרע תרעי!
      </p>
     </sp>
-    <sp who="khhn shni">
+    <sp who="#khhn shni">
      <speaker>
       כהן שני
      </speaker>
@@ -6044,7 +6044,7 @@
       המעטים הם הנואשים בעיר כי באת להוסיף עליהם?
      </p>
     </sp>
-    <sp who="hkhhn hrshun">
+    <sp who="#hkhhn hrshun">
      <speaker>
       הכהן הראשון
      </speaker>
@@ -6052,7 +6052,7 @@
       .  התבחר לשבת בחבוק ידים בבוא העת להפיץ זרעך? שדד אדמתך בעודנה לחה!
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -6060,7 +6060,7 @@
       .  אבל מדוע זה ישא בני בעוני? קחהו לך! ואני אסגר בחדר ביתי ושמתי לבי על כל דרכי ועלילותי, שם אצום ועניתי את נפשי כפלים בכל חטאותי; אענה את נפשי ואיסר את בשרי באכזריות רצח עד אשר אמות, או אשר אשמע קול אלהים הקורא אלי: הרפי!
      </p>
     </sp>
-    <sp who="hkhhn hshni">
+    <sp who="#hkhhn hshni">
      <speaker>
       הכהן השני
      </speaker>
@@ -6068,7 +6068,7 @@
       .   שאי בנך והיניקיהו. זה חפץ אלהים אלהיך!
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -6079,7 +6079,7 @@
       טוב אפוא; אני אביט אליו ולא אגרע עיני ממנו עד אשר יחורו פניו, עד אשר תחדלנה אנחותיו ונפסקה נשימתו; לא אָסב עיני ממנו גם ברגעים האחרונים, בעת אשר יחכם ולא-עת ביסורי המות ועיניו יפיקו תהום עני וזועה. את זאת אעשה, למען אשר אשא ואסבול את אשר לא נשאה וסבלה עוד אשה ואם עלי אדמות. אבל מה אעשה אם יוסיף חכמה ודעת והביט למעלה והרים אגרופו?
      </p>
     </sp>
-    <sp who="hkhhn hrshun">
+    <sp who="#hkhhn hrshun">
      <speaker>
       הכהן הראשון
      </speaker>
@@ -6087,7 +6087,7 @@
       .  אז תשיבי ידו אחור! אז תראי והתחלחלת כי יעז גם העולל לפשע באלהיו.
      </p>
     </sp>
-    <sp who="hm">
+    <sp who="#hm">
      <speaker>
       האם
      </speaker>
@@ -6099,7 +6099,7 @@
       ומה אתן, שדים ארורות? קרבכן תלהט אש אהבה נצחת, ומחוץ תמצוכן שפתים דולקות וטהורות – וטרם תתנה אף נטף אחד! הה, חוסנה, חמלנה! מצינה כל דמי עורקי. כל מח עצמותי, אך היניקנה לי זאת התולעת!
      </p>
     </sp>
-    <sp who="shh khrs">
+    <sp who="#shh khrs">
      <speaker>
       אשה אחרת
      </speaker>
@@ -6110,7 +6110,7 @@
       האין עוד בפיך נחומים לאֻמללה הזאת?
      </p>
     </sp>
-    <sp who="hkhhn hrshun">
+    <sp who="#hkhhn hrshun">
      <speaker>
       הכהן הראשון
      </speaker>
@@ -6121,7 +6121,7 @@
       אין.
      </p>
     </sp>
-    <sp who="hshh">
+    <sp who="#hshh">
      <speaker>
       האשה
      </speaker>
@@ -6129,7 +6129,7 @@
       . אם כן אין אלהים בלבבך, כי אם על שפתיך!
      </p>
     </sp>
-    <sp who="hkhhn hrshun">
+    <sp who="#hkhhn hrshun">
      <speaker>
       הכהן הראשון
      </speaker>
@@ -6141,7 +6141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hֶkhd">
+    <sp who="#hֶkhd">
      <speaker>
       האֶחד
      </speaker>
@@ -6149,7 +6149,7 @@
       . בכל צרתי אני יצר לי מאד על האשה האֻמללה הזאת. הה, נורא הדבר!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -6161,7 +6161,7 @@
       אפחד מאד אם לא עלה כבר הרעיון הזה על לב אשתי.
      </p>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון
      </speaker>
@@ -6169,7 +6169,7 @@
       . אך משתגע אתה!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -6177,7 +6177,7 @@
       . אך לבל אכנה נפש עזבתי את ביתי הפעם. חי אני, כי לא אכזב! אנוסה נא, אמרתי לנפשי, ואתנודד בזכרי מאכל לא-אדם זה, אשר כמו תתאו אליו מאד; אף יראתי לנפשי פן אֹכל ממני גם אני. בננו הקטן שכב על עריסתו ביסורי המות, עוד מעט ונפחה נפשו; אשתי ישבה לארץ ובכתה בקול יליל נורא. פתאם קמה על רגליה ותאמר בלאט, בלאט: “האמנם כה יגדל האסון אם ימות הילד?” אז הרכינה את ראשה אל הילד הגוע ושפתיה דובבו, כמו מבלי משים, “עוד רוח חיים בקרבו!” אז הבינותי ואתפלץ, כי הביטה אל הילד כאל נתח בשר.
      </p>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון
      </speaker>
@@ -6185,7 +6185,7 @@
       . לוּ היה כדבר הזה אזי הלכתי והבאתי את חרבי בלבה, אף כי אחותי היא!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -6193,7 +6193,7 @@
       . כי אז קדמת או אחרת לבוא. אם לא שלחה יד בנפשה בטרם תאכל ממנו, לא אפונה כי עשה תעשה זאת אחרי אכלה.
      </p>
     </sp>
-    <sp who="bn-eir shlishi">
+    <sp who="#bn-eir shlishi">
      <speaker>
       בן-עיר שלישי
      </speaker>
@@ -6204,7 +6204,7 @@
       ואולי עוד תהיה לנו תשועה ביום הזה. הלא זה היום החמשי אשר אמרה יהודית לשוב אלינו!
      </p>
     </sp>
-    <sp who="hshni">
+    <sp who="#hshni">
      <speaker>
       השני
      </speaker>
@@ -6214,7 +6214,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -6225,7 +6225,7 @@
       פתחו, שערים, פתחוּ!
      </p>
     </sp>
-    <sp who="hshumrim">
+    <sp who="#hshumrim">
      <speaker>
       השומרים
      </speaker>
@@ -6233,7 +6233,7 @@
       .   מי הוא זה?
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -6241,7 +6241,7 @@
       . יהודית היא זאת. יהודית עם ראש הלופרנש!
      </p>
     </sp>
-    <sp who="hshumrim">
+    <sp who="#hshumrim">
      <speaker>
       השומרים
      </speaker>
@@ -6254,7 +6254,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -6265,7 +6265,7 @@
       הידעתם את זה?
      </p>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם
      </speaker>
@@ -6273,7 +6273,7 @@
       .  לא נדעהו!
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -6292,7 +6292,7 @@
       וזאת היא היד אשר כרתתו? אשה, ראשי סובב עלי כגלגל מדי הביטי בך!
      </p>
     </sp>
-    <sp who="hzknim">
+    <sp who="#hzknim">
      <speaker>
       הזקנים
      </speaker>
@@ -6300,7 +6300,7 @@
       . יהודית הביאה פדות לעמה! יהי שמה מברך!
      </p>
     </sp>
-    <sp who="hem">
+    <sp who="#hem">
      <speaker>
       העם
      </speaker>
@@ -6311,7 +6311,7 @@
       ברוכה אַתּ, יהודית, וברוכה תהיי לאלהי ישראל!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6331,7 +6331,7 @@
       את מלאכתך ותוליד בנים אשר ישוו לך!
      </p>
     </sp>
-    <sp who="kulus mkrb hem">
+    <sp who="#kulus mkrb hem">
      <speaker>
       קולות מקרב העם
      </speaker>
@@ -6339,7 +6339,7 @@
       .   קומו! נצא מן המחנה! עתה אין אדונים לאלה!
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -6347,7 +6347,7 @@
       . חכו נא מעט, הן טרם ידעו את אשר נהיתה בלילה! חכו עד אשר יתנו הם לנו אות, כי באה העת להתנפל עליהם! כאשר ישָּׁמע קול העם ברעו נקומה ויצאנו אליהם!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6357,7 +6357,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="akhd hkhhnim">
+    <sp who="#akhd hkhhnim">
      <speaker>
       אַחד הכהנים
      </speaker>
@@ -6365,7 +6365,7 @@
       .  שימו את הראש על חנית ושאוה לפניכם.
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6378,7 +6378,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -6391,7 +6391,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frim">
+    <sp who="#frim">
      <speaker>
       אפרים
      </speaker>
@@ -6399,7 +6399,7 @@
       . הנה הם אמרו לדקרני או לצלות אותי באש חיים, אך אנכי נמלטתי מידם. עתה במות הלופרנש כלם יחד כמתים נחשבו. לכו ונלכה! אך הכסיל יירא עתה מפניהם!
      </p>
     </sp>
-    <sp who="khyur">
+    <sp who="#khyur">
      <speaker>
       אכיור
      </speaker>
@@ -6409,7 +6409,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6422,7 +6422,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="akhd hzknim">
+    <sp who="#akhd hzknim">
      <speaker>
       אַחד הזקנים
      </speaker>
@@ -6430,7 +6430,7 @@
       .  שמות כל הגבורים אשר מעולם מחית כעשן, ותעשי לך שם עולם!
      </p>
     </sp>
-    <sp who="hkhhn hrshun">
+    <sp who="#hkhhn hrshun">
      <speaker>
       הכהן הראשון
      </speaker>
@@ -6441,7 +6441,7 @@
       אורה באצבעי, עת אספרה לאחי מה גדול אלהינו ומה אדיר שמו בכל הארץ!
      </p>
     </sp>
-    <sp who="hkhhnim uhzknim">
+    <sp who="#hkhhnim uhzknim">
      <speaker>
       הכהנים והזקנים
      </speaker>
@@ -6449,7 +6449,7 @@
       . עתה הגידי לנו מה משכרתך וננתַוּ!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6469,7 +6469,7 @@
       ובכל זאת אדרש את שכרי! אך השבעו לי אם תשיבו את פני!
      </p>
     </sp>
-    <sp who="hzknim uhkhhnim">
+    <sp who="#hzknim uhkhhnim">
      <speaker>
       הזקנים והכהנים
      </speaker>
@@ -6477,7 +6477,7 @@
       . בה' נשבענו אם לא כדברך כן נעשה!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6485,7 +6485,7 @@
       . אם כן אפוא, המת תמיתוני ביום אשר אדרש כזאת מידכם!
      </p>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -6496,7 +6496,7 @@
       להמית אותך?
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>
@@ -6504,7 +6504,7 @@
       . כן, ואתם נשבעתם לי.
      </p>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -6515,7 +6515,7 @@
       ואנחנו נשבענו לך!
      </p>
     </sp>
-    <sp who="srtsh">
+    <sp who="#srtsh">
      <speaker>
       תרצה
      </speaker>
@@ -6526,7 +6526,7 @@
       יהודית! יהודית!
      </p>
     </sp>
-    <sp who="ihudis">
+    <sp who="#ihudis">
      <speaker>
       יהודית
      </speaker>

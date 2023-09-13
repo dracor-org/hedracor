@@ -49,9 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="khri khmsh esrh shnh">
+     <person xml:id="mrim">
       <persName>
-       אחרי חמש עשׂרה שנה
+       מרים
       </persName>
      </person>
      <person xml:id="bmkhzh">
@@ -59,14 +59,9 @@
        במחזה
       </persName>
      </person>
-     <person xml:id="mrim">
+     <person xml:id="(hmskh nufl bmhirus)">
       <persName>
-       מרים
-      </persName>
-     </person>
-     <person xml:id="hnfshus">
-      <persName>
-       הנפשות
+       (המסך נופל במהירות)
       </persName>
      </person>
      <person xml:id="hmkum">
@@ -74,9 +69,9 @@
        המקום
       </persName>
      </person>
-     <person xml:id="srh">
+     <person xml:id="khri khmsh esrh shnh">
       <persName>
-       שׂרה
+       אחרי חמש עשׂרה שנה
       </persName>
      </person>
      <person xml:id="mir">
@@ -84,9 +79,14 @@
        מאיר
       </persName>
      </person>
-     <person xml:id="(hmskh nufl bmhirus)">
+     <person xml:id="hnfshus">
       <persName>
-       (המסך נופל במהירות)
+       הנפשות
+      </persName>
+     </person>
+     <person xml:id="srh">
+      <persName>
+       שׂרה
       </persName>
      </person>
     </listPerson>
@@ -108,7 +108,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hnfshus">
+   <sp who="#hnfshus">
     <speaker>
      הנפשות:
     </speaker>
@@ -134,7 +134,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -142,7 +142,7 @@
      חייט, כבן כ"ה.
     </p>
    </sp>
-   <sp who="srh">
+   <sp who="#srh">
     <speaker>
      שׂרה
     </speaker>
@@ -150,7 +150,7 @@
      אמו, חולנית, אילמת.
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -158,7 +158,7 @@
      קרובתם, כבת י"ח. תופרת כלי לבן.
     </p>
    </sp>
-   <sp who="hmkum">
+   <sp who="#hmkum">
     <speaker>
      המקום:
     </speaker>
@@ -176,7 +176,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -187,7 +187,7 @@
      תהילה לאל, נרדמה.
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -198,7 +198,7 @@
      תהילה לאל… כן… כן… היא נרדמה… ברחמיו וברוב חסדיו!
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -209,7 +209,7 @@
      דום, אל תנבּל פה!
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -220,7 +220,7 @@
      שומע עבדך…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -230,7 +230,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -240,7 +240,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -251,7 +251,7 @@
      מה?
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -262,7 +262,7 @@
      מה?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -273,7 +273,7 @@
      דימיתי, כי רוצה אתה להגיד לי איזה דבר; הלא על כן הבטת בפני?
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר:
     </speaker>
@@ -281,7 +281,7 @@
      אני? חלמת! לא רציתי להגיד כלום… אין לי מה להגיד. בכלל איני רוצה כלום… אסור לרצות…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -291,7 +291,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -302,7 +302,7 @@
      למה אַת דוקרת אותי במבטי עיניך?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -324,7 +324,7 @@
      הוי אלי, אלי! את הגיהנום אני רואה בחיי!
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר:
     </speaker>
@@ -332,7 +332,7 @@
      ולמה באת הנה?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -340,7 +340,7 @@
      לא אליך… אותך לא ידעתי… אחות אמי קראה לי… כתבה שהיא חולה…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר:
     </speaker>
@@ -352,7 +352,7 @@
      הוי נערה שוטה! מה לך ולנו? צעירה את, יפה את, כך אומרין הבריות – חפשיה אֵת! שערי העולם פּתוחים, שערי החיים – למרחב! יחידה, בלי אם חולנית – – – למה באת?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -360,7 +360,7 @@
      אל תחטא, מאיר! לוּ ידעת את נפשה של הנערה הגלמודה… לו ידעת את לילותיה של הבודדת, היחידה, את הצללים, את רעד הנשּמה, את לחץ הלב… אבל אתה אינך יודע, אתה אינך רוצה לדעת…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -371,7 +371,7 @@
      די, מרים! אל תפריעי… אני איני רוצה לדעת… לי אסור לדעת, לי אסור לרצות. הרצון של פועל עני הוא דבר אסור, החפץ – – – –
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -382,7 +382,7 @@
      שמעתי, שמעתי… אבל בלילות אני שומעת אחרת… שׂפתיך דובבות לפעמים בשנתך… אתה לא ידעת זאת?
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -393,7 +393,7 @@
      אין אני ערב לחלומותי – – –
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -401,7 +401,7 @@
      למה אתה לוחץ את נשמתי, מאיר? למה אתה מעיק עלי כמשׂא לעיפה? וכי אינך רואה, שאני נחנקת פה, שאני – –
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -412,7 +412,7 @@
      העבודה מרובה, מרים!
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -420,7 +420,7 @@
      אתה שׂונא אותי, מאיר! אני יודעת; תכלית שׂנאה אתה שׂונא אותי. ואני יודעת מדוע… אתה שׂונא אותי לפי – שאתה אוהב אותי!
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -431,7 +431,7 @@
      מטורפת אֵת?
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -442,7 +442,7 @@
      איני מטורפת! אולי עוד אצא מדעתי, אך עדיין לא יצאתי…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -453,7 +453,7 @@
      אולי… גם זה יתּכן…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -461,7 +461,7 @@
      באחד הלילות, לילות נדודי על הכסא, עלה לפני פתאום פתרון החידה. כעלות כוכב על שמי אופל, כן עלה הפתרון לפתע פתאום! כטובעת ברגעיה האחרונים, זכרתי פתאום את הכול. כל הגה, כל נשימה חמה, כל ברק עין, הכול זכרתי – את עיניך הדולקות אחרי מאחורי והחשכות לפתע פתאום, כשאני פונה אליך! אתה אוהב אותי, אבל אתה שׂונא את הטוב, את הרגש הטוב, כמו ששׂונא הילד החולה את תרופתו…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -472,7 +472,7 @@
      ה-ב-לים! מליצות מן הרומנים שאַת קוראת…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -485,7 +485,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -496,7 +496,7 @@
      אתה אוהב אחרת – – – מי היא?
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -511,7 +511,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -519,7 +519,7 @@
      ואחר-כך?…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -530,7 +530,7 @@
      ואחר-כך? אחר-כך היה אבי עובד בעד שני פיות… גם אמי היתה תופרת לבנים… ואחר-כך עבדו בעד שלושה וארבעה פיות… ואחר-כך נפל אבי למשכב… ואחר-כך – בא מלאך המות, ומתו הבנים, ומת האב… ואני והיא נשארנו… אני, כמו שאַת רואה, והיא…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -541,7 +541,7 @@
      חולנית… אילמת.
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -556,7 +556,7 @@
      כן… השאול… מצאת את פתרון החידה… מתייראה אַת מפני השגעון? אני איני מתיירא… הלוַאי ואצא מדעתי! הלא יש מטורפים מאושרים… חלומות טובים של שגעון טובים מחיים כאלה… בשגעוני מותר יהיה לי לאהבך, לאמצך אל לבי, למוץ את אור עיניך, למוץ את נשמתך…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -567,7 +567,7 @@
      אבל, מאיר! מאיר שלי! אולי ירחם ה'. אולי ימנע ממני… אתה יודע מה… הלא מעשׂים בכל יום – – –
     </p>
    </sp>
-   <sp who="srh">
+   <sp who="#srh">
     <speaker>
      שׂרה
     </speaker>
@@ -578,17 +578,17 @@
      מ מ מ…
     </p>
    </sp>
-   <sp who="(hmskh nufl bmhirus)">
+   <sp who="#(hmskh nufl bmhirus)">
     <speaker>
      (המסך נופל במהירות)
     </speaker>
    </sp>
-   <sp who="bmkhzh">
+   <sp who="#bmkhzh">
     <speaker>
      במחזה
     </speaker>
    </sp>
-   <sp who="khri khmsh esrh shnh">
+   <sp who="#khri khmsh esrh shnh">
     <speaker>
      אחרי חמש עשׂרה שנה
     </speaker>
@@ -603,7 +603,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -617,7 +617,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -628,7 +628,7 @@
      עוד הפעם התרגזת… הלא אסור לך, חביבי, להתרגז…
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר
     </speaker>
@@ -639,7 +639,7 @@
      ואַת דומי… היום הוא היום האחרון… הרב כבר הכין את הגט… היום נלך אל הרב…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -650,7 +650,7 @@
      אני לא אלך!
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר:
     </speaker>
@@ -658,7 +658,7 @@
      הלוך תלכי… ואם לא תלכי, אעזבך עגונה בלי פת לחם…
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים:
     </speaker>
@@ -666,7 +666,7 @@
      מאיר!!!
     </p>
    </sp>
-   <sp who="mir">
+   <sp who="#mir">
     <speaker>
      מאיר:
     </speaker>
@@ -674,7 +674,7 @@
      אל תשׁחיתי את דבריך לחינם… איני רוצה ללכת ערירי! בשום אופן איני רוצה! למי אני עמל? בשביל מי אני גוזז את הצאן – שם? בשביל מי אני מתעשר… השומעת אַתּ? איני רוצה ללכת ערירי – – –
     </p>
    </sp>
-   <sp who="mrim">
+   <sp who="#mrim">
     <speaker>
      מרים
     </speaker>
@@ -685,7 +685,7 @@
      אבל, מאיר, עוד יש תקוָה… הלא יתּכן… אולי יראה ה' בעניי, אולי ירחם… הלא דברים כאלו קרו… אולי אִבּנה…
     </p>
    </sp>
-   <sp who="(hmskh nufl bmhirus)">
+   <sp who="#(hmskh nufl bmhirus)">
     <speaker>
      (המסך נופל במהירות)
     </speaker>

@@ -49,14 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="mlkhh">
-      <persName>
-       מלכה
-      </persName>
-     </person>
      <person xml:id="yusf">
       <persName>
        יוסף
+      </persName>
+     </person>
+     <person xml:id="mlkhh">
+      <persName>
+       מלכה
       </persName>
      </person>
     </listPerson>
@@ -101,13 +101,13 @@
      הנך תפושׂ מחשבות…
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אני? אולי… חושב אני ; שתי פעמים אפס – שבירת הלב. ואַתּ?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -120,31 +120,31 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     מה זה נאנחת, מלכה!
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     נורא… נורא הדבר!
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     נורא?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     להיות פתאום אשה לאיש זר….
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -159,19 +159,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     זר ומוזר?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ראיתיו פעמַים או שלוש פעמים.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -186,13 +186,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אמרת הן.
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -207,13 +207,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ובכל זאת, כאשר אזכור…
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -232,55 +232,55 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אתמול הייתי בתיאטרון… ראיתי קומדיה…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     תודה לך, חפץ אתה להשׂיאני לדבר אחר.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     לא עלה כלל על לבי. ( מספר: ) מחזה יפה ראיתי… על הבימה עלמה… עלמה יפה כמוך, וצעירה ממך לימים…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ותקח את לבבך.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     לא היה לי פנאי, כי המחזה לקח את לבבי… העלמה אשר הזכרתי ישבה על כסא מרבדים, כסא אדום…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     גם זה שייך אל העניין?
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     בלי ספק… כי הצל האדום הוסיף לפני העלמה לוית חן…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     טוב מאד.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -295,19 +295,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אל תמהרי ברוחך, מלכה… הלא בפרהסיא… היה הדבר.
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     והיוצא לנו מזה…
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -322,43 +322,43 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     ומה בין בימה ועולם המעשׂה?… קומדיה אחת… אלא…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     אלא מאי?…
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     ששם עושׂים קודם היציאה בפומביה – מסות… אחת ושתים… הנערה לא בושה, לא גמגמה בלשונה, עשׂתה בלב שוקט את חפץ המחבר, לפי שהרגילה, לפי שהסכינה על ידי המסות..
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     היוצא לנו מזה?
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     ברור דבּרתי.
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     יוסף!
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -372,13 +372,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     והנני מתחיל במסה, מלכה…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -393,13 +393,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     וזה אסונך, יוסף.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -414,7 +414,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -429,7 +429,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -444,31 +444,31 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אם כן, עזרי לי, עזרי לי בזכות העזר אשר הייתי לך אז… אז, טרם היית לתופרת לבנים ועסקת במעשׂה בראשית… שתי פעמים, שלוש ויותר… ובמעשׂה מרכבה… יסוד הפחם, יסוד… יסוד… חי נפשי שכחתי…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     אז נער טוב היית, יוסף.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     שוטה הייתי, מלכה… אז לא מת עוד לבבי בקרבי ואשתטה…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ועתה מת?
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -483,37 +483,37 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     הניחי את ידך על ראשי.
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     יהי כן.
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     מה נעימה היא ידך! אך אל נא תנוח כידי גולם, בלי נוע… אין דבר, אם תערערי את שׂערותי… מה נעימה היא ידך, מלכה… בין אצבעותיך גוּלות אור, גוּלות אור קפאון, אור נעימות… אור נוטף… לאט לאט רועדת ידך, ובכל רעד ורעד נוטף אל קרבי נטף אור, אור צחצחות, ומטהר את נשמתי… ( משנה טעמו ) השוטה שעל הבימה לא אמר זאת, זהו נופך משלי… ( הפסקה קצרה ). נופך משלי… ואולי משל הלבנה… מביטה היא אלינו בדאגה וברחמים; כמדומה לי, שהיא מתמלאת רחמים עלינו, על הילדים הגדולים, שאינם יודעים לחיות, כי אם לצחק…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ומדוע, יוסף?
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     יען כי… ( בחפזון ) יען כי אין שני מתים יכולים לצאת במחול… יען כי יש להאיש והאשה מלבד הלבבות עוד שתי קיבות, יען כי יש פעמַים אפס – שבירת הלב… ( מתחנן ) נשקיני, מלכה, נשקיני… ( מלכה נושקת את מצחו ) כן… כן… לאט לאט ימחה הקו המבדיל בין המעשׂה והחלום… החיים והקומדיה… ( שׂם ראשו על חזה ) לבך הולם, מלכה, הולם מאד…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -536,13 +536,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     למה אַת בוכיה?…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -557,31 +557,31 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     למה אנחנו מצחקים, יוסף?
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     ואַת חפצה… אַת חפצה… ( קופץ על רגליו ) הגידי, מלכה, החפצה אַת, ( מלכה מחשה ) החפצה אַת, היכולה אַת – להפוך את הקומדיה לדרמה?…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     אני חפצה!
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
     אם כן, ילך הסוחר לאבדון ואנחנו נתחיל בצחוק הדרמה… אהבה ורעב, רעב ואהבה…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>

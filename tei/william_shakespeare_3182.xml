@@ -49,6 +49,11 @@
   <profileDesc>
    <particDesc>
     <listPerson>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
      <person xml:id="mkhls mshurrim">
       <persName>
        מקהלת משוררים
@@ -87,11 +92,6 @@
      <person xml:id="pָrִiz">
       <persName>
        פָּרִיז
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
       </persName>
      </person>
      <person xml:id="uֹmֶnֶs">
@@ -13781,7 +13781,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>

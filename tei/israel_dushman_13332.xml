@@ -49,19 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="bindb">
+     <person xml:id="bnr">
       <persName>
-       אבינדב
-      </persName>
-     </person>
-     <person xml:id="hnfshus">
-      <persName>
-       הנפשות
-      </persName>
-     </person>
-     <person xml:id="glis">
-      <persName>
-       גלית
+       אבנר
       </persName>
      </person>
      <person xml:id="khil d'">
@@ -69,59 +59,19 @@
        חיל ד'
       </persName>
      </person>
-     <person xml:id="khilim">
-      <persName>
-       חילים
-      </persName>
-     </person>
-     <person xml:id="khil b'">
-      <persName>
-       חיל ב'
-      </persName>
-     </person>
-     <person xml:id="emk hֵָlָh">
-      <persName>
-       עמק הָאֵלָה
-      </persName>
-     </person>
-     <person xml:id="lib">
-      <persName>
-       אליאב
-      </persName>
-     </person>
-     <person xml:id="khil g'">
-      <persName>
-       חיל ג'
-      </persName>
-     </person>
-     <person xml:id="khil h'">
-      <persName>
-       חיל ה'
-      </persName>
-     </person>
-     <person xml:id="bnr">
-      <persName>
-       אבנר
-      </persName>
-     </person>
-     <person xml:id="hkhilim">
-      <persName>
-       החילים
-      </persName>
-     </person>
      <person xml:id="dud">
       <persName>
        דוד
       </persName>
      </person>
-     <person xml:id="hkheylim">
+     <person xml:id="hnfshus">
       <persName>
-       החיילים
+       הנפשות
       </persName>
      </person>
-     <person xml:id="hkhruz">
+     <person xml:id="khilim">
       <persName>
-       הכרוז
+       חילים
       </persName>
      </person>
      <person xml:id="ֶlִyob">
@@ -129,9 +79,9 @@
        אֶלִיאָב
       </persName>
      </person>
-     <person xml:id="shֵmh">
+     <person xml:id="khil g'">
       <persName>
-       שֵמה
+       חיל ג'
       </persName>
      </person>
      <person xml:id="hflshsim">
@@ -144,19 +94,24 @@
        חיל א'
       </persName>
      </person>
-     <person xml:id="yunsn">
+     <person xml:id="lib">
       <persName>
-       יונתן
+       אליאב
       </persName>
      </person>
-     <person xml:id='mkhzh snkh"i'>
+     <person xml:id="emk hֵָlָh">
       <persName>
-       מחזה תנכ"י
+       עמק הָאֵלָה
       </persName>
      </person>
-     <person xml:id="nush hkhlim">
+     <person xml:id="hkheylim">
       <persName>
-       נושא הכלים
+       החיילים
+      </persName>
+     </person>
+     <person xml:id="hkhruz">
+      <persName>
+       הכרוז
       </persName>
      </person>
      <person xml:id="nshi ishrl">
@@ -164,14 +119,59 @@
        אנשי ישראל
       </persName>
      </person>
+     <person xml:id="bindb">
+      <persName>
+       אבינדב
+      </persName>
+     </person>
+     <person xml:id="khil b'">
+      <persName>
+       חיל ב'
+      </persName>
+     </person>
      <person xml:id="shul">
       <persName>
        שאול
       </persName>
      </person>
+     <person xml:id="nush hkhlim">
+      <persName>
+       נושא הכלים
+      </persName>
+     </person>
+     <person xml:id="glis">
+      <persName>
+       גלית
+      </persName>
+     </person>
      <person xml:id="kָruz">
       <persName>
        כָּרוז
+      </persName>
+     </person>
+     <person xml:id="shֵmh">
+      <persName>
+       שֵמה
+      </persName>
+     </person>
+     <person xml:id="hkhilim">
+      <persName>
+       החילים
+      </persName>
+     </person>
+     <person xml:id='mkhzh snkh"i'>
+      <persName>
+       מחזה תנכ"י
+      </persName>
+     </person>
+     <person xml:id="yunsn">
+      <persName>
+       יונתן
+      </persName>
+     </person>
+     <person xml:id="khil h'">
+      <persName>
+       חיל ה'
       </persName>
      </person>
     </listPerson>
@@ -194,12 +194,12 @@
  </standOff>
  <text>
   <body>
-   <sp who='mkhzh snkh"i'>
+   <sp who='#mkhzh snkh"i'>
     <speaker>
      מחזה תנכ"י
     </speaker>
    </sp>
-   <sp who="hnfshus">
+   <sp who="#hnfshus">
     <speaker>
      הנפשות:
     </speaker>
@@ -259,7 +259,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="kָruz">
+   <sp who="#kָruz">
     <speaker>
      כָּרוז
     </speaker>
@@ -325,7 +325,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="emk hֵָlָh">
+   <sp who="#emk hֵָlָh">
     <speaker>
      עמק הָאֵלָה
     </speaker>
@@ -336,7 +336,7 @@
 “גלית! פלשתים!”
     </p>
    </sp>
-   <sp who="ֶlִyob">
+   <sp who="#ֶlִyob">
     <speaker>
      אֶלִיאָב
     </speaker>
@@ -344,7 +344,7 @@
      : נורא הוא גלית זה, ענק הוא!
     </p>
    </sp>
-   <sp who="bindb">
+   <sp who="#bindb">
     <speaker>
      אבינדב
     </speaker>
@@ -352,7 +352,7 @@
      : כובע נחושת על ראשו ושריון קשקשים הוא לבוש!
     </p>
    </sp>
-   <sp who="shֵmh">
+   <sp who="#shֵmh">
     <speaker>
      שֵמה
     </speaker>
@@ -360,7 +360,7 @@
      : ועץ חניתו – כמנור אורגים!
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -368,7 +368,7 @@
      : ולהבת חניתו – שש מאות שקלים ברזל!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -376,7 +376,7 @@
      : נורא! נורא!
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -384,7 +384,7 @@
      : והוא מחרף את מערכות ישראל.
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -392,7 +392,7 @@
      : ורוצה להלחם רק כנגד איש אחד.
     </p>
    </sp>
-   <sp who="hkheylim">
+   <sp who="#hkheylim">
     <speaker>
      החיילים
     </speaker>
@@ -400,7 +400,7 @@
      : אבדנו, אבדנו.
     </p>
    </sp>
-   <sp who="khil d'">
+   <sp who="#khil d'">
     <speaker>
      חיל ד'
     </speaker>
@@ -408,7 +408,7 @@
      ואין למצוא במחננו גבור חיל, אשר יקום להלחם בו?
     </p>
    </sp>
-   <sp who="khil h'">
+   <sp who="#khil h'">
     <speaker>
      חיל ה'
     </speaker>
@@ -416,7 +416,7 @@
      : אף לא אבנר שר הצבא ואף לא יונתן הגבור.
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -424,7 +424,7 @@
      : גם שאול המלך ירא את הפלשתי הזה.
     </p>
    </sp>
-   <sp who="khilim">
+   <sp who="#khilim">
     <speaker>
      חילים
     </speaker>
@@ -432,7 +432,7 @@
      : האמנם?
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -440,7 +440,7 @@
      : כן, מאז רב עמו שמואל הרואה, סרה מעליו רוח ה' ורוח רעה תְבַעֲתֶנוּ
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -448,7 +448,7 @@
      : תמיד חניתו בידו.
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -456,7 +456,7 @@
      : רק בנגן דוד בן ישי לפניו – וסרה מעליו הרוח הרעה.
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -465,7 +465,7 @@
 עליו.
     </p>
    </sp>
-   <sp who="khil d'">
+   <sp who="#khil d'">
     <speaker>
      חיל ד'
     </speaker>
@@ -473,7 +473,7 @@
      : ודוד, האם לא ינגן עוד לפני שאול?
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -481,7 +481,7 @@
      : נשאֹל נשאל דוד מעמו לרוץ לבית לחם לרעות את צאן אביו.
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -489,7 +489,7 @@
      : שמעתי, כי שמואל הרואה משח את דוד למלך…אליאב: הס, אל תַּשְמַע דבר מזה!
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -506,7 +506,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hkhruz">
+   <sp who="#hkhruz">
     <speaker>
      הכרוז
     </speaker>
@@ -521,7 +521,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -529,7 +529,7 @@
      : השמעתם?
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -537,7 +537,7 @@
      : שמענו! לך אתה והיית חתן המלך!
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -545,7 +545,7 @@
      : אני? מי אני? ילך אליאב הגבור!
     </p>
    </sp>
-   <sp who="lib">
+   <sp who="#lib">
     <speaker>
      אליאב
     </speaker>
@@ -553,7 +553,7 @@
      : אני? לא, לא אוכל.
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -567,7 +567,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -584,7 +584,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -594,7 +594,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hflshsim">
+   <sp who="#hflshsim">
     <speaker>
      הפלשתים
     </speaker>
@@ -609,7 +609,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -622,7 +622,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="nshi ishrl">
+   <sp who="#nshi ishrl">
     <speaker>
      אנשי ישראל
     </speaker>
@@ -630,7 +630,7 @@
      : אבדנו כלנו, אבדנו!
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -638,7 +638,7 @@
      : אוי לנו, מי יצילנו מיד הפלשתי הערל הזה!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -655,7 +655,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -663,7 +663,7 @@
      : מי הנער הזה?
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -671,7 +671,7 @@
      : הלא דוד הוא, המנגן לפני שאול!
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -679,7 +679,7 @@
      : איש תאר הוא עם יפה עינים!
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -689,7 +689,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hkhruz">
+   <sp who="#hkhruz">
     <speaker>
      הכרוז
     </speaker>
@@ -702,7 +702,7 @@
      ואת בתו יתן לו ואת בית אביו יעשה חפשי בישראל!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -715,7 +715,7 @@
 חרפה מעל ישראל?! כי מי הפלשתי הערל הזה, כי חרף מערכות אלהים חיים?!
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -723,7 +723,7 @@
      : הלא שמעת, דוד! את בתו יתן לו…
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -731,7 +731,7 @@
      : ואת בית אביו יעשה חפשי בישראל!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -739,7 +739,7 @@
      : אני אלך ואלחם עם הפלשתי הזה!
     </p>
    </sp>
-   <sp who="khil h'">
+   <sp who="#khil h'">
     <speaker>
      חיל ה'
     </speaker>
@@ -751,7 +751,7 @@
      מי? הנער הזה? צחוק עשה לנו.
     </p>
    </sp>
-   <sp who="khil d'">
+   <sp who="#khil d'">
     <speaker>
      חיל ד'
     </speaker>
@@ -759,7 +759,7 @@
      : כל השומע יצחק לו.
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -767,7 +767,7 @@
      : מה יושיענו זה?
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -775,7 +775,7 @@
      : איש מלחמה הוא! גבור חיל הוא וע' עמו!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -783,7 +783,7 @@
      : דוד! דוד! לך והושעת את ישראל!
     </p>
    </sp>
-   <sp who="lib">
+   <sp who="#lib">
     <speaker>
      אליאב
     </speaker>
@@ -796,7 +796,7 @@
 במדבר? אני ידעתי את זדונך ואת רֹעַ לְבָבֶךָ, כי למען ראות המלחמה ירדת.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -813,7 +813,7 @@
 אלך ואכה את הפלשתי הזה.
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -821,7 +821,7 @@
      : דוד יושיענו! גבור חיל הוא!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -829,7 +829,7 @@
      : כן, כן! דוד! דוד!
     </p>
    </sp>
-   <sp who="lib">
+   <sp who="#lib">
     <speaker>
      אליאב
     </speaker>
@@ -843,7 +843,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -859,7 +859,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hkhruz">
+   <sp who="#hkhruz">
     <speaker>
      הכרוז
     </speaker>
@@ -867,7 +867,7 @@
      : המלך בא! המלך בא! פנו דרך! המלך!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -880,7 +880,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -888,7 +888,7 @@
      : ה' עמכם, גבורי החיל!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -896,7 +896,7 @@
      : יברכך ה'!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -904,7 +904,7 @@
      : השמעתם את דבר המלך?
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -912,7 +912,7 @@
      : שמענו!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -920,7 +920,7 @@
      : הנמצא ביניכם איש אשר יכה את הפלשתי?
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -931,7 +931,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -943,7 +943,7 @@
      אתם מחרישים. מוגי לב!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -954,7 +954,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -976,7 +976,7 @@
      הרואה, הרואה! למה לקחתנו מן הנוה, מאחר הצאן?
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -988,7 +988,7 @@
      הוא מתנבא! הוא מתנבא!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1000,7 +1000,7 @@
      הס! פן אעשה רעה!
     </p>
    </sp>
-   <sp who="bnr">
+   <sp who="#bnr">
     <speaker>
      אבנר
     </speaker>
@@ -1011,7 +1011,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1019,7 +1019,7 @@
      : מה אעשה? מה אעשה?
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1028,7 +1028,7 @@
 לה' הישועה!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1039,7 +1039,7 @@
      ה' סר מעלי.
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1048,7 +1048,7 @@
 והושעת גם הפעם את העם!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1060,7 +1060,7 @@
      ה' סר מעלי.
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1068,7 +1068,7 @@
      : רוח ה' תשוב לפעמך כבראשונה, אבי.
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1081,7 +1081,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1093,7 +1093,7 @@
      מַהֵרָה הֵנָה את דוד וינגן לפני המלך.
     </p>
    </sp>
-   <sp who="nush hkhlim">
+   <sp who="#nush hkhlim">
     <speaker>
      נושא הכלים
     </speaker>
@@ -1103,7 +1103,7 @@
 המלך, יושב לרגליו ומוסיף לנגן.)
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1112,7 +1112,7 @@
 בפנותו אל אבנר) בן מי הנער הזה, אבנר?
     </p>
    </sp>
-   <sp who="bnr">
+   <sp who="#bnr">
     <speaker>
      אבנר
     </speaker>
@@ -1120,7 +1120,7 @@
      : חי נפשי אדוני המלך, אם ידעתי!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1132,7 +1132,7 @@
      בן מי אתה, הנער?
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1140,7 +1140,7 @@
      : בן עבדך – ישי, בית הלחמי!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1156,7 +1156,7 @@
      הנה עתה רָוַח לי.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1164,7 +1164,7 @@
      : אמצא חן בעיניך, אדוני המלך!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1172,7 +1172,7 @@
      : בן-חיל אתה, בני, כנורך מפליא לעשות.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1184,7 +1184,7 @@
      אדוני המלך, ידבר נא עבדך דבר באזניך.
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1192,7 +1192,7 @@
      : דַבר, כי שומע אנכי.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1200,7 +1200,7 @@
      : אל יפל לב אדם עליו. עבדך ילך ונלחם עם הפלשתי הזה.
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1212,7 +1212,7 @@
      אתה? במה? אולי בכנורך זה?
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1220,7 +1220,7 @@
      : בקַלְעִי אשר בידי!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1229,7 +1229,7 @@
 מלחמה מנעוריו.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1239,7 +1239,7 @@
 והכיתיו והמתיו.
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1247,7 +1247,7 @@
      : אכן, בן חיל אתה!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1256,7 +1256,7 @@
 כי חרף מערכות אלהים חיים.
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1269,7 +1269,7 @@
 תאמר, יונתן? מה תאמר אתה, אבנר?
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1277,7 +1277,7 @@
      : שמעתי עליו ונבון דבר וה' עמו. אבנר: פניו מעידים בו, כי לבו כְּלֵב האריה.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1285,7 +1285,7 @@
      : ה' אשר הצילני מיד הארי ומיד הדב, הוא יצילני מיד הפלשתי הזה!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1305,7 +1305,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1316,7 +1316,7 @@
      הַלְבֵּש אותו את המדים!
     </p>
    </sp>
-   <sp who="yunsn">
+   <sp who="#yunsn">
     <speaker>
      יונתן
     </speaker>
@@ -1325,7 +1325,7 @@
 למדים)
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1343,7 +1343,7 @@
 הפלשתי!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1356,7 +1356,7 @@
 תעשה וגם יכל תוכל. לך בכחך זה והושעת את ישראל מיד הפלשתי.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1364,7 +1364,7 @@
      : אמצא חן בעיניך, אדוני המלך!
     </p>
    </sp>
-   <sp who="shul">
+   <sp who="#shul">
     <speaker>
      שאול
     </speaker>
@@ -1373,7 +1373,7 @@
 שומרי ראשו; אל דוד) נגן עוד מעט – נגונך ישביח את סערת לבבי!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1384,7 +1384,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -1392,7 +1392,7 @@
      : הלך לו המלך.
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -1400,7 +1400,7 @@
      : הוא התנבא.
     </p>
    </sp>
-   <sp who="khil g'">
+   <sp who="#khil g'">
     <speaker>
      חיל ג'
     </speaker>
@@ -1408,7 +1408,7 @@
      : רוח רעה בעתה אותו.
     </p>
    </sp>
-   <sp who="khil d'">
+   <sp who="#khil d'">
     <speaker>
      חיל ד'
     </speaker>
@@ -1416,7 +1416,7 @@
      : עוד מעט והטיל בנו את חניתו.
     </p>
    </sp>
-   <sp who="khil b'">
+   <sp who="#khil b'">
     <speaker>
      חיל ב'
     </speaker>
@@ -1424,7 +1424,7 @@
      : שמעתי את דוד מנגן; אין זאת, כי רוח לו לשאול.
     </p>
    </sp>
-   <sp who="khil h'">
+   <sp who="#khil h'">
     <speaker>
      חיל ה'
     </speaker>
@@ -1432,7 +1432,7 @@
      : יודע נגן הוא דוד ומפליא לעשות בכנורו.
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -1440,7 +1440,7 @@
      : כנורו מנגן מאליו.
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -1448,7 +1448,7 @@
      : איך מנגן מאליו?
     </p>
    </sp>
-   <sp who="khil '">
+   <sp who="#khil '">
     <speaker>
      חיל א'
     </speaker>
@@ -1458,7 +1458,7 @@
 ואתבונן וארא והנה נשבה רוח במיתרי הכנור התלוי באהל והכנור נגן מאליו…
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -1466,7 +1466,7 @@
      : פלא! פלא!
     </p>
    </sp>
-   <sp who="hkhruz">
+   <sp who="#hkhruz">
     <speaker>
      הכרוז
     </speaker>
@@ -1478,7 +1478,7 @@
      בשם המלך! דוד ילך ויכה את הפלשתי!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -1493,7 +1493,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1506,7 +1506,7 @@
 האחרונה: “ברו לכם איש וירד אלי!”
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1518,7 +1518,7 @@
      הנני!
     </p>
    </sp>
-   <sp who="hkhilim">
+   <sp who="#hkhilim">
     <speaker>
      החילים
     </speaker>
@@ -1526,7 +1526,7 @@
      : יחי דוד!
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1541,7 +1541,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1553,7 +1553,7 @@
      אמנם כן, אני!
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1565,7 +1565,7 @@
      הוי, נער! הכלב אנכי, כי אתה בא אלי במקלות?
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1576,7 +1576,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1589,7 +1589,7 @@
 השדה!
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1597,7 +1597,7 @@
      : אַל יתהלל חוגר כּמְפַתֵחַ!
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1606,7 +1606,7 @@
 גבור מלחמה. אין אלהים מבלעדי דגון!
     </p>
    </sp>
-   <sp who="hflshsim">
+   <sp who="#hflshsim">
     <speaker>
      הפלשתים
     </speaker>
@@ -1641,7 +1641,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1653,7 +1653,7 @@
 בחרב ובחנית יהושיע ה‘, כי לה’ המלחמה ונתצן אתכם בידנו!
     </p>
    </sp>
-   <sp who="glis">
+   <sp who="#glis">
     <speaker>
      גלית
     </speaker>
@@ -1665,7 +1665,7 @@
 דוד!”)
     </p>
    </sp>
-   <sp who="bnr">
+   <sp who="#bnr">
     <speaker>
      אבנר
     </speaker>

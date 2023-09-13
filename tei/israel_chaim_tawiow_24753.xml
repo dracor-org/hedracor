@@ -49,54 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="bnimin">
-      <persName>
-       בנימין
-      </persName>
-     </person>
-     <person xml:id="shulmis">
-      <persName>
-       שולמית
-      </persName>
-     </person>
-     <person xml:id="yusf: ildim!?">
-      <persName>
-       יוסף: ילדים!?
-      </persName>
-     </person>
-     <person xml:id="hnfshus">
-      <persName>
-       הנפשות
-      </persName>
-     </person>
-     <person xml:id="khusu">
-      <persName>
-       אחותו
-      </persName>
-     </person>
-     <person xml:id="yusf">
-      <persName>
-       יוסף
-      </persName>
-     </person>
-     <person xml:id="khitub">
-      <persName>
-       אחיטוב
-      </persName>
-     </person>
      <person xml:id="dָּuִd">
       <persName>
        דָּוִד
-      </persName>
-     </person>
-     <person xml:id="iktn">
-      <persName>
-       יקטן
-      </persName>
-     </person>
-     <person xml:id="iָktn">
-      <persName>
-       יָקטן
       </persName>
      </person>
      <person xml:id="־־־־־־־">
@@ -104,9 +59,44 @@
        ־־־־־־־
       </persName>
      </person>
+     <person xml:id="yusf ubnimin">
+      <persName>
+       יוסף ובנימין
+      </persName>
+     </person>
+     <person xml:id="khusu">
+      <persName>
+       אחותו
+      </persName>
+     </person>
      <person xml:id="dud">
       <persName>
        דוד
+      </persName>
+     </person>
+     <person xml:id="khitub">
+      <persName>
+       אחיטוב
+      </persName>
+     </person>
+     <person xml:id="hnfshus">
+      <persName>
+       הנפשות
+      </persName>
+     </person>
+     <person xml:id="iktn">
+      <persName>
+       יקטן
+      </persName>
+     </person>
+     <person xml:id="yusf (l khitub)">
+      <persName>
+       יוסף (אל אחיטוב)
+      </persName>
+     </person>
+     <person xml:id="shulmis">
+      <persName>
+       שולמית
       </persName>
      </person>
      <person xml:id="hmurh">
@@ -114,14 +104,24 @@
        המורה
       </persName>
      </person>
-     <person xml:id="yusf ubnimin">
+     <person xml:id="bnimin">
       <persName>
-       יוסף ובנימין
+       בנימין
       </persName>
      </person>
-     <person xml:id="yusf (l khitub)">
+     <person xml:id="yusf">
       <persName>
-       יוסף (אל אחיטוב)
+       יוסף
+      </persName>
+     </person>
+     <person xml:id="iָktn">
+      <persName>
+       יָקטן
+      </persName>
+     </person>
+     <person xml:id="yusf: ildim!?">
+      <persName>
+       יוסף: ילדים!?
       </persName>
      </person>
     </listPerson>
@@ -143,7 +143,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hnfshus">
+   <sp who="#hnfshus">
     <speaker>
      הנפשות:
     </speaker>
@@ -153,7 +153,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -161,7 +161,7 @@
      , בן י"ג שנה.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -169,7 +169,7 @@
      , אחותו, בת י"ד שנה.
     </p>
    </sp>
-   <sp who="dָּuִd">
+   <sp who="#dָּuִd">
     <speaker>
      דָּוִד
     </speaker>
@@ -177,7 +177,7 @@
      , בן י"ג שנה
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -185,7 +185,7 @@
      , בן י"א שנה - רֵעֵי אחיטוב
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -193,7 +193,7 @@
      , בן תשע שנים -רֵעֵי אחיטוב
     </p>
    </sp>
-   <sp who="iָktn">
+   <sp who="#iָktn">
     <speaker>
      יָקטן
     </speaker>
@@ -201,7 +201,7 @@
      , בן שמונה שנים.
     </p>
    </sp>
-   <sp who="khusu">
+   <sp who="#khusu">
     <speaker>
      אחותו
     </speaker>
@@ -209,7 +209,7 @@
      , בת שבע שנים.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -219,7 +219,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="־־־־־־־">
+   <sp who="#־־־־־־־">
     <speaker>
      ־־־־־־־
     </speaker>
@@ -252,7 +252,7 @@
      האם דבר קטן הוא.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -266,7 +266,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -274,7 +274,7 @@
      : מה אתה קורא בגיליון הזה, אחי?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -286,7 +286,7 @@
 לשַׁנן אותה פרקים, פרקים.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -303,7 +303,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -313,7 +313,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -321,7 +321,7 @@
      : מה מאד שמֵחה אני כי אין לנערות חג בר מצוה. אני לא יכֹלתי ללמוד על פה דרשה אֲרֻכָּה כזו.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -333,7 +333,7 @@
 אֶכָּלֵם לאמר כי כבד הדבר ממני?
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -343,7 +343,7 @@
 דברים מעטים ופשוטים, אבל דברים שיָצאו מלבך אתה, שחִברת בעצמך –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -351,7 +351,7 @@
      : איך, יחַבר נער קטן כמוני דרשה לחג גדול, לחג בר מצוה!
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -363,7 +363,7 @@
      זה עתה אמרת כי בקרוב תהיה לאיש, ופתאם שכחת את דבריך והנך קורא לך 'נער קטן"!
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -373,7 +373,7 @@
 חגו הגדול –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -388,7 +388,7 @@
 שבעתים.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -400,7 +400,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf ubnimin">
+   <sp who="#yusf ubnimin">
     <speaker>
      יוסף ובנימין
     </speaker>
@@ -411,7 +411,7 @@
      שלום לכם!
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -422,7 +422,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -433,7 +433,7 @@
      ספר יפה מאד; גם אני קראתיו ואתענג עליו מאד –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -444,7 +444,7 @@
      בספר הזה יש ספורים יפים מחיי העברים הקדמונים –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -455,7 +455,7 @@
      מחיי שמשון הגבור –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -466,7 +466,7 @@
      ומפעולות יהודה המכבי, ומחיי כל הגבורים אשר היו בישראל –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -477,7 +477,7 @@
      ואשר נלחמו עם האויבים בגבורה נפלאה! –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -488,7 +488,7 @@
      ומחיי האכרים העברים, שָׁם בארץ הקדושה –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -499,7 +499,7 @@
      הידעתם? שם, בארץ הקדושה, יש עתה אכרים עברים העובדים את אדמתם –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -510,7 +510,7 @@
      ובניהם מדברים עברית, רק עברית!
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -524,7 +524,7 @@
      כמוני?
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -535,7 +535,7 @@
      הספר יפה באמת – גם מחזה קטן יש בו –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -543,7 +543,7 @@
      : כן, כן, מחזה נחמד מאֹד –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -551,7 +551,7 @@
      : נחמד מאד – יש בו גם ילד שאינו רוצה ללמוד –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -564,7 +564,7 @@
 תהיה האב, ואני האם –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -572,7 +572,7 @@
      : ואני אהיה הילד שאינו רוצה לִלמֹד –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -580,7 +580,7 @@
      : ואני אהיה – אני אהיה – איני יודע מה אהיה –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -595,7 +595,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yusf: ildim!?">
+   <sp who="#yusf: ildim!?">
     <speaker>
      יוסף: ילדים!?
     </speaker>
@@ -606,7 +606,7 @@
      – כמוך; הן מלאו לי אחת עשרה שנה –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -618,7 +618,7 @@
      בעוד שלש שנים, כי כבר מלאו לי תשע שנים –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -637,7 +637,7 @@
 בתנאי כי לא תגַלו את סודנו לאיש – השמעתם, ילדים?
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -645,7 +645,7 @@
      : אני אינני ילד ואני יודע לשמור סוד בלבי –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -653,7 +653,7 @@
      : גם אני לא אַגלה את הסוד – מלבד לאִמי, כי ממנה לא אַסתיר דבר –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -664,7 +664,7 @@
      הלא הֻגד לך: אל תגלה את הדברים לאיש – גם לא לאִמך – ואם לא, לא אתן לך תפקיד. השמעת?
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -675,7 +675,7 @@
      ): וגם לאחותי הקטנה לא אגיד?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -686,7 +686,7 @@
      לא, לא, לא! ־ אכן קשה מאד לעשות דבר בעזרת ילדים פּוֹתים!
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -702,7 +702,7 @@
 יָד לְפֶה!
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -710,7 +710,7 @@
      : אני אֶדֹם כדג!
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -721,7 +721,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -733,7 +733,7 @@
 דבר החזיון, כי אמנם לא דבר קל הוא לנו
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -778,7 +778,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -786,7 +786,7 @@
      : שלום לך, אדוני המורה. באתי להגיד לך, כי כבר שִׂנַּנתּי על פה את ראשית הדרשה, ואני מבקש ממך את ההמשך –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -815,7 +815,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -823,7 +823,7 @@
      : שלום לך, אדוני המורה!
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -834,7 +834,7 @@
      מדוע אֵחרת לבוא, אחיטוב?
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -842,7 +842,7 @@
      : לא אחרתי לבוא, כי זה עתה שׁלָחַני אבי אליך – ושמי יָקטן.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -853,7 +853,7 @@
      הו, אתה הוא תלמידי הקטן אשר החלותי להורותך אתמול. ומה דורש אביך ממני?
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -861,7 +861,7 @@
      : אבי שכח לאמר לך כי צריך לחַבר דרשה לבר מצוה –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -873,7 +873,7 @@
      האם יש בעיר הארורה הזאת רק תלמידים בני שלש עשרה שנה?
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -883,7 +883,7 @@
 יודע זאת מראש –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -891,7 +891,7 @@
      : ובכן אינך עדיין בר מצוה? ברוך ה'! אבל איזה דרשה דְּרוּשָׁה לך?
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -899,7 +899,7 @@
      : לא לי – כי אם לאחי הגדול –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -907,7 +907,7 @@
      : אבל אחיך הגדול איננו תלמידי –
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -915,7 +915,7 @@
      : אינני יודע – אבל אבי אמר כזאת – הוא בקש ממני לבוא אלינו היום.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -936,7 +936,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -944,7 +944,7 @@
      : סלח לי, אדוני המורה, כי אחרתי לבוא – חזרתי על דרשתי זמן רב ועוד טרם אדע אותה על פה –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -954,7 +954,7 @@
 לשַׁנְנָהּ על פה.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -962,7 +962,7 @@
      : את ראשית הדרשה אדע – אבל הדרשה תהיה אֲרֻכָּה מאד, כאשר אמרת –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -973,7 +973,7 @@
 ועל נערי העברים בפרט: מה שפָּעלו ומה שהם יכולים לפעול –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -981,7 +981,7 @@
      : כל זה יהיה בדרשתי? אם כן לא אדענה אפילו בשלשה חדשים, כי לא דרשה היא, כי אם ספר גדול –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -992,7 +992,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1000,7 +1000,7 @@
      : סלח לי, אדוני המורה, כי הִפְרַעְתִּיךָ – אבל דבר נחוץ לי אליך –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1008,7 +1008,7 @@
      : מה? הגם את תבקשי דרשה לבר מצוה? כלומר: לא! מה חֶפְצֵךְ?
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1016,7 +1016,7 @@
      : הנה מצאנו בספר חזיון יפה מחיי היהודים בארץ הקדושה, ואנחנו חפצים לַעֲרֹךְ את החזיון ביום החג של אחי.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1024,7 +1024,7 @@
      : חזיון? – כן, כן, חזיון – לערך – לערך… כלומר: תיאַטר. כן, כן. זה מנהג חדש, אבל נָאה מאד.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1032,7 +1032,7 @@
      : הלא? לכן אנחנו מבקשים ממך להיות לנו לעזר בעריכת המחזה, כי אנחנו לבדֵנו איננו יודעים היטב איך לעשות הדבר.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1051,7 +1051,7 @@
 לשנן את הדרשה לאחיטוב –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1059,7 +1059,7 @@
      : את הדרשה אלמד בעצמי – אם רק לא תהיה ארכה מאד –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1067,7 +1067,7 @@
      : ואולי אין כל צֹרך לאחי בדרשה, כי המחזה ייטב בעיני אבותינו ובעיני כל הקרואים יותר מאלפי דרשות –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1077,7 +1077,7 @@
 מצוה.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1088,7 +1088,7 @@
      .
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1096,7 +1096,7 @@
      : ואני בטוחה, כי אבותינו לא יחפצו בדרשה, אחרי שֶׁנַעֲרֹךְ לפניהם מחזה יפה כזה – הוֹ, המחזה יפה מאד!
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1106,7 +1106,7 @@
 ישמחו מאד על תפקידי זה.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1117,7 +1117,7 @@
      מי יודע? אולי יפטרני המחזה מעבודת הדרשה?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1125,7 +1125,7 @@
      : לא. אנחנו חפצים כי יהיה הדבר בסוד, למען נשַׂמח ביום חַגי את אבותינו בדבר שלא ידעו מראש.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1141,7 +1141,7 @@
 מחזה שֶׁחִבר אַחר מֵחַבֵּר דרשה ארכה בעצמי.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1149,7 +1149,7 @@
      : אני מתבַּיש לאמר לאבי כדבר הזה – הוא יחשוב כי רוצה אני להשתמט מלמוד הדרשה.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1163,7 +1163,7 @@
 אני חושבת כאמי.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1173,7 +1173,7 @@
 תַּרשה לכם –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1181,7 +1181,7 @@
      : היא תשמח מאד על מחשבתנו זו, והיא תרשה – ולאבינו לא יוַּדע הדבר עד יום החג –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1189,7 +1189,7 @@
      : אך אולי יקצף אז אבינו על אשר לא אדרש את הדרשה?
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1197,7 +1197,7 @@
      : אבינו לא יקצף, אדרבה, עוד ישמח מאד, כי הוא עושה תמיד כעצת אמנו, מה שתּרצה היא ירצה גם הוא.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1205,7 +1205,7 @@
      : כן, כן, הוא עושה תמיד כעצת אמכם – כלומר: הוא ישמח מאד. ובכן מהרו ושאלו את אמכם.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1216,7 +1216,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1242,7 +1242,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1251,7 +1251,7 @@
 באים לבקש ממני דרשה לבר מצוה?
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -1259,7 +1259,7 @@
      : אנחנו באים אל אחיטוב לדַבר אִתו –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1270,7 +1270,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1281,7 +1281,7 @@
      אמי נתנה את הרשיום־
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1289,7 +1289,7 @@
      : ובדרשה אין צרך עוד?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1297,7 +1297,7 @@
      : אין עוד צרך בדרשה – הגדולים ידרשו דרשות; כן אמרה אמי הטובה –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1305,7 +1305,7 @@
      : יהי שֵׁם אמך מברך! – כלומר עצתה טובה מאד. ועתה הגידו לי, כמה נפשות יש במחזה?
     </p>
    </sp>
-   <sp who="yusf (l khitub)">
+   <sp who="#yusf (l khitub)">
     <speaker>
      יוסף (אל אחיטוב):
     </speaker>
@@ -1316,7 +1316,7 @@
      יודע?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1327,7 +1327,7 @@
      קטנים ואינכם יודעים איך לעשות הדבר –
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1335,7 +1335,7 @@
      : אבל אתה בר מצוה, ואתה יודע הכל –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1346,7 +1346,7 @@
      חמש נפשות במחזה – אחי יהיה האב, ואני – האם.
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1354,7 +1354,7 @@
      : ואני אהיה הילד שאינו רוצה ללמוד –
     </p>
    </sp>
-   <sp who="yusf">
+   <sp who="#yusf">
     <speaker>
      יוסף
     </speaker>
@@ -1362,7 +1362,7 @@
      : ואני אהיה בן האכר העברי – כן בחרתי.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1370,7 +1370,7 @@
      : ומי היא הנפש החמישית ותפקידה?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1378,7 +1378,7 @@
      : זה נער החפץ להיות ל“רב” בישראל.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1390,7 +1390,7 @@
      באופן כזה יש לי תקוה להִפָּטר גם מדרשתו של זה.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1401,7 +1401,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1409,7 +1409,7 @@
      : מדוע לא הגדתם לי מדבר המחזה?
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1417,7 +1417,7 @@
      : ומי גלה לך את הסוד הגדול הזה?
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1425,7 +1425,7 @@
      : אבי שלָחני לבקש מכם לתת גם לי תפקיד במחזה – הוא שמע את הדבר מֵאֲבִי בנימין.
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1433,7 +1433,7 @@
      : אני הגדתי הדבר רק לאחי הקטן – כי אתם צוִּיתם עלי רק לבלתי הגיד לאחותי הקטנה ולא לאחי הקטן –
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1445,7 +1445,7 @@
      לכן לא אתן לך תפקיד במחזה.
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1456,7 +1456,7 @@
      אני לא אגַלה עוד את הסוד. גם לאמי לא הגדתי, כאשר צויתם.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1466,7 +1466,7 @@
 – אבל תַּפְקִידוֹ אַל תקחו ממנו –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1474,7 +1474,7 @@
      : עתה יֵדעו הכל כי נערך מחזה, והקרואים לא יתפלאו עוד –
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1485,7 +1485,7 @@
 מחזה.
     </p>
    </sp>
-   <sp who="dud">
+   <sp who="#dud">
     <speaker>
      דוד
     </speaker>
@@ -1496,7 +1496,7 @@
      נערך את המחזה.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1507,7 +1507,7 @@
 באים).
     </p>
    </sp>
-   <sp who="iktn">
+   <sp who="#iktn">
     <speaker>
      יקטן
     </speaker>
@@ -1515,7 +1515,7 @@
      : אני בא לראות את התיאטר שלכם – והנה הבאתי אתי גם את אחותי הקטנה –
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1526,7 +1526,7 @@
      הכל יודעים את הדבר!
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1537,7 +1537,7 @@
      קִדַּמת לבוא. תלמידי הקטן. כאשר יָערך המחזה תבוא עם אבותיך ועם כל בני ביתכם.
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1551,7 +1551,7 @@
      הילד שאינו רוצה ללמוד?
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>
@@ -1559,7 +1559,7 @@
      : אתה תהיה הילד המגַלה סוד.
     </p>
    </sp>
-   <sp who="bnimin">
+   <sp who="#bnimin">
     <speaker>
      בנימין
     </speaker>
@@ -1573,7 +1573,7 @@
      במחזה.
     </p>
    </sp>
-   <sp who="shulmis">
+   <sp who="#shulmis">
     <speaker>
      שולמית
     </speaker>
@@ -1581,7 +1581,7 @@
      : במחזה אין ילד כזה, אבל פֹה יש ילד כזה, ואתה הוא.
     </p>
    </sp>
-   <sp who="hmurh">
+   <sp who="#hmurh">
     <speaker>
      המורה
     </speaker>
@@ -1594,7 +1594,7 @@
      וביחוד לי.
     </p>
    </sp>
-   <sp who="khitub">
+   <sp who="#khitub">
     <speaker>
      אחיטוב
     </speaker>

@@ -49,24 +49,24 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="rb">
+     <person xml:id="khinh">
       <persName>
-       רב
+       חינה
       </persName>
      </person>
-     <person xml:id="khnh">
+     <person xml:id="hmkum">
       <persName>
-       חנה
+       המקום
+      </persName>
+     </person>
+     <person xml:id="bmkur">
+      <persName>
+       במקור
       </persName>
      </person>
      <person xml:id="hnfshus">
       <persName>
        הנפשות
-      </persName>
-     </person>
-     <person xml:id="i">
-      <persName>
-       י
       </persName>
      </person>
      <person xml:id="eth’lh">
@@ -79,44 +79,19 @@
        עט’לה
       </persName>
      </person>
+     <person xml:id="i">
+      <persName>
+       י
+      </persName>
+     </person>
+     <person xml:id="hmskh">
+      <persName>
+       המסך
+      </persName>
+     </person>
      <person xml:id="eth’l">
       <persName>
        עטה’ל
-      </persName>
-     </person>
-     <person xml:id="hrb">
-      <persName>
-       הרב
-      </persName>
-     </person>
-     <person xml:id="kh">
-      <persName>
-       ח
-      </persName>
-     </person>
-     <person xml:id="krinh ukhinh">
-      <persName>
-       קרינה וחינה
-      </persName>
-     </person>
-     <person xml:id="bmkur">
-      <persName>
-       במקור
-      </persName>
-     </person>
-     <person xml:id="gbrim, nshim">
-      <persName>
-       גברים, נשים
-      </persName>
-     </person>
-     <person xml:id="inth">
-      <persName>
-       ינטה
-      </persName>
-     </person>
-     <person xml:id="khiֵnh">
-      <persName>
-       חיֵנה
       </persName>
      </person>
      <person xml:id="khuln">
@@ -124,9 +99,74 @@
        כולן
       </persName>
      </person>
-     <person xml:id="khinh">
+     <person xml:id="bits’i">
       <persName>
-       חינה
+       אביצ’י
+      </persName>
+     </person>
+     <person xml:id="krinh ukhinh">
+      <persName>
+       קרינה וחינה
+      </persName>
+     </person>
+     <person xml:id="bits’i">
+      <persName>
+       אבּיצ’י
+      </persName>
+     </person>
+     <person xml:id="khnh">
+      <persName>
+       חנה
+      </persName>
+     </person>
+     <person xml:id="khiֵnh">
+      <persName>
+       חיֵנה
+      </persName>
+     </person>
+     <person xml:id="khnh ubits’i">
+      <persName>
+       חנה ואביצ’י
+      </persName>
+     </person>
+     <person xml:id="khuln ikhd">
+      <persName>
+       כולן יחד
+      </persName>
+     </person>
+     <person xml:id="gbrim, nshim">
+      <persName>
+       גברים, נשים
+      </persName>
+     </person>
+     <person xml:id="hrb">
+      <persName>
+       הרב
+      </persName>
+     </person>
+     <person xml:id="rb">
+      <persName>
+       רב
+      </persName>
+     </person>
+     <person xml:id="mkhzh brbe merkhus">
+      <persName>
+       מחזה בארבע מערכות
+      </persName>
+     </person>
+     <person xml:id="kh">
+      <persName>
+       ח
+      </persName>
+     </person>
+     <person xml:id="kheym">
+      <persName>
+       חיים
+      </persName>
+     </person>
+     <person xml:id="bits’i ukhnh">
+      <persName>
+       אביצ’י וחנה
       </persName>
      </person>
      <person xml:id="krֵinh">
@@ -139,54 +179,14 @@
        קרינה
       </persName>
      </person>
-     <person xml:id="bits’i">
-      <persName>
-       אביצ’י
-      </persName>
-     </person>
      <person xml:id="fini">
       <persName>
        פיני
       </persName>
      </person>
-     <person xml:id="bits’i">
+     <person xml:id="inth">
       <persName>
-       אבּיצ’י
-      </persName>
-     </person>
-     <person xml:id="hmskh">
-      <persName>
-       המסך
-      </persName>
-     </person>
-     <person xml:id="hmkum">
-      <persName>
-       המקום
-      </persName>
-     </person>
-     <person xml:id="mkhzh brbe merkhus">
-      <persName>
-       מחזה בארבע מערכות
-      </persName>
-     </person>
-     <person xml:id="khnh ubits’i">
-      <persName>
-       חנה ואביצ’י
-      </persName>
-     </person>
-     <person xml:id="bits’i ukhnh">
-      <persName>
-       אביצ’י וחנה
-      </persName>
-     </person>
-     <person xml:id="kheym">
-      <persName>
-       חיים
-      </persName>
-     </person>
-     <person xml:id="khuln ikhd">
-      <persName>
-       כולן יחד
+       ינטה
       </persName>
      </person>
     </listPerson>
@@ -209,17 +209,17 @@
  </standOff>
  <text>
   <body>
-   <sp who="mkhzh brbe merkhus">
+   <sp who="#mkhzh brbe merkhus">
     <speaker>
      מחזה בארבע מערכות
     </speaker>
    </sp>
-   <sp who="hnfshus">
+   <sp who="#hnfshus">
     <speaker>
      הנפשות:
     </speaker>
    </sp>
-   <sp who="bits’i">
+   <sp who="#bits’i">
     <speaker>
      אבּיצ’י
     </speaker>
@@ -227,7 +227,7 @@
      – מוכר עטרן
     </p>
    </sp>
-   <sp who="khnh">
+   <sp who="#khnh">
     <speaker>
      חנה
     </speaker>
@@ -235,7 +235,7 @@
      – אשתו
     </p>
    </sp>
-   <sp who="krֵinh">
+   <sp who="#krֵinh">
     <speaker>
      קרֵינה
     </speaker>
@@ -243,7 +243,7 @@
      – אחותה של חנה
     </p>
    </sp>
-   <sp who="khiֵnh">
+   <sp who="#khiֵnh">
     <speaker>
      חיֵנה
     </speaker>
@@ -251,7 +251,7 @@
      – אחותה של חנה
     </p>
    </sp>
-   <sp who="fini">
+   <sp who="#fini">
     <speaker>
      פיני
     </speaker>
@@ -259,7 +259,7 @@
      – בעלה של קרינה, מוכר עטרן
     </p>
    </sp>
-   <sp who="kheym">
+   <sp who="#kheym">
     <speaker>
      חיים
     </speaker>
@@ -267,7 +267,7 @@
      – בעלה של חינה, מוכר עטרן
     </p>
    </sp>
-   <sp who="eth’lh">
+   <sp who="#eth’lh">
     <speaker>
      עטה’לה
     </speaker>
@@ -275,7 +275,7 @@
      – בעלה של קרינה, מוכר עטרן
     </p>
    </sp>
-   <sp who="inth">
+   <sp who="#inth">
     <speaker>
      ינטה
     </speaker>
@@ -283,12 +283,12 @@
      – גבאית
     </p>
    </sp>
-   <sp who="rb">
+   <sp who="#rb">
     <speaker>
      רב
     </speaker>
    </sp>
-   <sp who="gbrim, nshim">
+   <sp who="#gbrim, nshim">
     <speaker>
      גברים, נשים.
     </speaker>
@@ -357,7 +357,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="hmkum">
+   <sp who="#hmkum">
     <speaker>
      המקום
     </speaker>
@@ -372,7 +372,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -384,7 +384,7 @@
 בפניהן ובגביהן הכפופים במקצת.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה:
      </speaker>
@@ -399,7 +399,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -407,7 +407,7 @@
       : לא. רק נדמה לנו. אולי הילדים המצחקים בחצר.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -418,7 +418,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -427,7 +427,7 @@
 ועד עכשיו עוד אינם.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -441,7 +441,7 @@
 אני מודה לאלהים.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -449,7 +449,7 @@
       : רק שלך?… ופיני שלי כלום איננו נוסע לכפר?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -460,7 +460,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -468,7 +468,7 @@
       : לבי מגיד לי דבר-מה. לבי מנבר לי לא-טובות…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -485,7 +485,7 @@
 בתענית…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -496,7 +496,7 @@
       הלא שחפת תאכלך.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -509,7 +509,7 @@
 תדע למנות…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -518,7 +518,7 @@
 הלואי וימחלו לי את פשעי הגדולים.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -526,7 +526,7 @@
       : פורשים לזמן מהבעל ואין באים לכלל טעות.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -534,7 +534,7 @@
       : אסור. גם הוא אומר שאסור…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -546,7 +546,7 @@
       הירא שמים שלך…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -557,7 +557,7 @@
       אין את ראויה להעלות את שמו של חיים שלי על שפתותיך.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -569,7 +569,7 @@
 אַ, קדוש הוא וקדוש הדבלול שלו ועיניו המורמות שמימה.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -581,7 +581,7 @@
 שלך האדום…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -596,7 +596,7 @@
       פיני שלי…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -608,7 +608,7 @@
 אצבעו הקטנה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -621,7 +621,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -629,7 +629,7 @@
       : כמדומני שמי שהוא היה פה.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -637,7 +637,7 @@
       : כמדומה…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -645,7 +645,7 @@
       : כן, כמדומה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -657,7 +657,7 @@
       כאילו איזה זוהר עבר…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -665,7 +665,7 @@
       : כאילו אור חלף ועבר…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -676,7 +676,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -686,7 +686,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -695,7 +695,7 @@
 קרינה וחינה קמות ממקומותיהן מרוצות. עוזבות את השולחן).
      </p>
     </sp>
-    <sp who="khuln ikhd">
+    <sp who="#khuln ikhd">
      <speaker>
       כולן יחד
      </speaker>
@@ -703,7 +703,7 @@
       : בואו כבר… בואו…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -711,7 +711,7 @@
       : גם חיים שלי?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -719,7 +719,7 @@
       : פיני שלי גם כן?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -732,7 +732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -743,7 +743,7 @@
       פיני שלי בא?
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -751,7 +751,7 @@
       : וחיים שלי?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -764,7 +764,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -782,7 +782,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -794,7 +794,7 @@
 שבאמת חרפה להביט עליך. לבשתי חולצה אחרת. יותר יפה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -804,7 +804,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -815,7 +815,7 @@
       מדוע אחרו לבוא?
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -824,7 +824,7 @@
 בדרך.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -835,7 +835,7 @@
       תעו בדרך?… הלא הדרך ידועה להם כל-כך…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -852,7 +852,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -863,7 +863,7 @@
       הלא לאביצ’י הדרך כל-כך נהיר… תעה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -872,7 +872,7 @@
 המטבח ומדבר לעצמו): הרתמות, ליתר בטחון, תהיינה בבית.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -883,7 +883,7 @@
       מדוע זה אחרתם כה לבוא?… תעיתם בדרך?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -895,7 +895,7 @@
 בתוך השינה אני יודע אותה, ותעיתי… מעשה שדים…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -906,7 +906,7 @@
       לעת הלילה… אל תעלה את זכרם…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -921,7 +921,7 @@
       אמת?…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -932,7 +932,7 @@
       כלל וכלל לא. אני – לא.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -943,7 +943,7 @@
       מה הצחוק שאתם צוחקים? אינני מבינה.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -955,7 +955,7 @@
 מה זאת?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -967,7 +967,7 @@
 תיכף ומיד נדלקה. ואיננה מעלה עשן. ומאירה כל-כך.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -981,7 +981,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -992,7 +992,7 @@
       מה לי?… הכל נשמט מידי הערב…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1008,7 +1008,7 @@
 שהמיחם מוכן כבר.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1018,7 +1018,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1040,7 +1040,7 @@
 ועינים פקחות, עיני ממזר – “צעצוע”… לא לחינם מקנא בי פיני.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1051,7 +1051,7 @@
       מדוע מקנא פיני?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1065,7 +1065,7 @@
 להתרועע, להיות אנשים-אחים, אינני אוהב.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1073,7 +1073,7 @@
       : פיני איש רע?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1084,7 +1084,7 @@
       מילא, נניח.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1094,7 +1094,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1107,7 +1107,7 @@
 הילדים.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1118,7 +1118,7 @@
       לא כבד. לא כבד.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1132,7 +1132,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1146,7 +1146,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -1159,7 +1159,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1169,7 +1169,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1180,7 +1180,7 @@
       תני-נא, אעזור לך.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1191,7 +1191,7 @@
       לא… לא… בעצמי. אני יכולה בעצמי…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1202,7 +1202,7 @@
       אַת באת מהדרך. אורחת. עליך לנוח.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1210,7 +1210,7 @@
       : בודאי, מהדרך.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -1222,7 +1222,7 @@
 שתה טה בבית.
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -1233,7 +1233,7 @@
       הנה הסוכר.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1249,7 +1249,7 @@
       שתה ונלך הביתה.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -1260,7 +1260,7 @@
       מחר צריך לקנות מנורה גדולה יותר.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1268,7 +1268,7 @@
       : גם אני אקנה. המנורה שלי מעלה עשן וחושך סביבה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1280,7 +1280,7 @@
 גדולה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1288,7 +1288,7 @@
       : ובכן הלא טוב… אור.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1298,7 +1298,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1314,7 +1314,7 @@
       בואי, אני אראה לך.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1325,7 +1325,7 @@
       אני אראה לה. אני… בואי… תבואי, תבוא…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1343,7 +1343,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1354,7 +1354,7 @@
       מה, אורחת?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1365,7 +1365,7 @@
       אינני יודעת.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1376,7 +1376,7 @@
       לקחתיה אלינו… יתומה. אביה נתעוור כמעט.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1392,7 +1392,7 @@
 וכמעט קרובה לכולנו.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1403,7 +1403,7 @@
       מוטב היה לעזור לאביה בכסף ככל האפשר.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -1414,7 +1414,7 @@
       בודאי…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1436,7 +1436,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -1447,7 +1447,7 @@
       ובסוס שקנית יש לי חלק?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1458,7 +1458,7 @@
       לא.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1466,7 +1466,7 @@
       : על-פי דין יש לו הזכות לכך. וגם לי. ראיתי בקנותך את הסוס.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1475,7 +1475,7 @@
 ואתה, פיני, לולא הסתובבת אצל הסוס היה אחרת. אבל מכיון שכך – לא.
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -1486,7 +1486,7 @@
       יש לי חלק בו…
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1495,7 +1495,7 @@
 הבית): שש… שש…
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -1506,7 +1506,7 @@
       מזלך…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1517,7 +1517,7 @@
       מה הסתובבת אצל הסוס?… באורוה… ביריד???
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -1530,7 +1530,7 @@
       בגללה, לא עשיתי זאת…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -1541,7 +1541,7 @@
       בגלל מי?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -1552,7 +1552,7 @@
       בואו הביתה. נצא מפּה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1570,7 +1570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1578,7 +1578,7 @@
       : דוד, מי זה צעק? נרדמתי והנה נדמה לי שצועקים.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1589,7 +1589,7 @@
       את יראה? אינך רגילה לאנשים גסים… את מפחדת?
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1600,7 +1600,7 @@
       לגמרי שכחתי. הבאתי לכם מתנה. “מזרח” שרקמתי.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1608,7 +1608,7 @@
       : יפה… יפה מאד…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1620,7 +1620,7 @@
 יפה… לא בשבילנו…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1631,7 +1631,7 @@
       מדוע… מדוע?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1639,7 +1639,7 @@
       : יותר מדי יפה בשבילנו…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1658,7 +1658,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1668,7 +1668,7 @@
 יפה בשבילנו…
      </p>
     </sp>
-    <sp who="hmskh">
+    <sp who="#hmskh">
      <speaker>
       המסך
      </speaker>
@@ -1748,7 +1748,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1759,7 +1759,7 @@
       הנה זו היתה תפלה היום! – במתיקות…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1771,7 +1771,7 @@
 הביתה… וגם בשבילה אין זו תכלית…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1783,7 +1783,7 @@
 לנפשך?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1795,7 +1795,7 @@
 עטה’לה… בשבילה גם בשבילה אין זאת תכלית אצלנו…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1808,7 +1808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1819,7 +1819,7 @@
       אוי, אַ, דקירה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1830,7 +1830,7 @@
       מה? מה קרה?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1841,7 +1841,7 @@
       אין דבר, נדקרתי במרצע.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1852,7 +1852,7 @@
       במרצע, עמוק? מים קרים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1863,7 +1863,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1874,7 +1874,7 @@
       לא נוח לעשות כך מלאכה. גם אתה וגם הרתמה על הספסל.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1888,7 +1888,7 @@
 לבגדי-הסוס. צדקת, צדקת. עטה’לה… איזה מין עטה’לה זאת…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1900,7 +1900,7 @@
 אני לך זאת?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1916,7 +1916,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1940,7 +1940,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1951,7 +1951,7 @@
       עטה’לה, עטה’לה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1962,7 +1962,7 @@
       מה, דוד, מה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1971,7 +1971,7 @@
 אביצ’י).
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -1984,7 +1984,7 @@
 ועד אביצ’י מוכר-עטרן…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -1995,7 +1995,7 @@
       מה, האם חרפה היא להיות מוכר-עטרן?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2008,7 +2008,7 @@
 יותר מכובד, יותר יפה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2018,7 +2018,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2031,7 +2031,7 @@
 לנקות ולשוא.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2043,7 +2043,7 @@
 בסבון? בסבון ובמים חמים?… אני אנקה לך.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2057,7 +2057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2068,7 +2068,7 @@
       מעטרן?!
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2080,7 +2080,7 @@
 מעטרן אנו מתלבשים, ממנו אנחנו אוכלים ומעטרן אנו עושים פשטידה!
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2090,7 +2090,7 @@
 ויערים… כאשר נסענו הנה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2106,7 +2106,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="eth’l">
+    <sp who="#eth’l">
      <speaker>
       עטה’ל
      </speaker>
@@ -2114,7 +2114,7 @@
       ה: והשדות ירוקים, היער ירוק. השמש זורחת… ובלילה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2123,7 +2123,7 @@
 לו בשדה. ואתה בעגלה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2132,7 +2132,7 @@
 רוקדים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2143,7 +2143,7 @@
       מי?
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -2154,7 +2154,7 @@
       איני יודעת… בלילה… ביער… בקיץ…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2165,7 +2165,7 @@
       שדים רוקדים שם.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2176,7 +2176,7 @@
       אביצ’י, אסור לקרוא בשמם…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2188,7 +2188,7 @@
 טפשה שכמותך.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2200,7 +2200,7 @@
 ויהי שאני טפשה, אבל בבית יהודי הס מלהזכירם.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2216,7 +2216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2230,7 +2230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -2238,7 +2238,7 @@
       : צפרא טבא. ה' עמכם!
      </p>
     </sp>
-    <sp who="bits’i ukhnh">
+    <sp who="#bits’i ukhnh">
      <speaker>
       אביצ’י וחנה
      </speaker>
@@ -2246,7 +2246,7 @@
       : צפרא טבא, צפרא טבא.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2257,7 +2257,7 @@
       שבי-נא, באת מסתמא באיזה ענין.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2268,7 +2268,7 @@
       תשב-נא, ינטה, תשב.
      </p>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -2294,7 +2294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -2306,7 +2306,7 @@
 מצלצלים, אומרים אנשים חכמים, סימן הוא לחגא… בשל הקרוֹבה שלכם הרעש.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2316,7 +2316,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2327,7 +2327,7 @@
       מה?
      </p>
     </sp>
-    <sp who="i">
+    <sp who="#i">
      <speaker>
       י
      </speaker>
@@ -2397,7 +2397,7 @@
 כבר הונח לי. חמיצה מרה”…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2408,7 +2408,7 @@
       נו, ובכן?…
      </p>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -2418,7 +2418,7 @@
 צומחים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2432,7 +2432,7 @@
 ובעצמה… אין דבר…
      </p>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -2443,7 +2443,7 @@
       צריך ללכת. שלום. אֵ, העירה רועשת… שלום.
      </p>
     </sp>
-    <sp who="khnh ubits’i">
+    <sp who="#khnh ubits’i">
      <speaker>
       חנה ואביצ’י
      </speaker>
@@ -2451,7 +2451,7 @@
       : שלום.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2460,7 +2460,7 @@
 לאביצ’י): השמעת מה אמרה?… העירה רועשת…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2471,7 +2471,7 @@
       ‎‎‎‎: תרעש לה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2480,7 +2480,7 @@
 הוא לחגא… אתה מבין?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2489,7 +2489,7 @@
 משוה פרוטה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2500,7 +2500,7 @@
       אבל את האשה, בקול אשתך, צריך אתה לשמוע?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2512,7 +2512,7 @@
 אומרת לך טפשות, אסור לשמוע בקולה… אפילו בקול אשתך…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2523,7 +2523,7 @@
       היא… עטה’לה… לא צריכה להיות פה… אביצ’י…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2545,7 +2545,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2557,7 +2557,7 @@
 בשותפות.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2568,7 +2568,7 @@
       כן. אני מוכן.
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -2580,7 +2580,7 @@
 לחלקי בסוס, מה יהיה?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2592,7 +2592,7 @@
 גמרתי לתקן את הרתמה. ארתום את הסוס, אוכל ואסע לכפר.
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -2603,7 +2603,7 @@
       אנחנו כולנו נסע עוד מעט. אבל חלקי שיש לי בסוס.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2614,7 +2614,7 @@
       מהראוי באמת שתבואו לידי הסכם. הלא יש לנו הזכות.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -2629,7 +2629,7 @@
       ואתה, פיני, הנך מנוול וחסל…
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -2641,7 +2641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -2654,7 +2654,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2666,7 +2666,7 @@
 והנה הם פה.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2677,7 +2677,7 @@
       צדקה. הסוס כבר רתום. ואת השולחן ערכתי כבר.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2689,7 +2689,7 @@
 סוף-סוף.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2701,7 +2701,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2712,7 +2712,7 @@
       הביטו, איזו פנים לה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2723,7 +2723,7 @@
       אינני יכולה לישון… כל הלילה אינני ישנה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2732,7 +2732,7 @@
 זוֹרק אותה מביתי…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2743,7 +2743,7 @@
       איזו פנים. נורא.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2751,7 +2751,7 @@
       : והכל בגללה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2763,7 +2763,7 @@
 יותר… וכשהיא שרה, כשהיא מדברת הלא עונג לשמוע… חיוּת…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2777,7 +2777,7 @@
 מי ביקש זאת מידה – מי מבקש ממנה שתיפה את ביתנו. – שד היא, ולא אדם…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2793,7 +2793,7 @@
       גם אני חשבתי, שהדבר איננו פשוט…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2809,7 +2809,7 @@
 דונג מפני אש”. אסור…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2822,7 +2822,7 @@
 בחשבון… לא תצטרכי…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2834,7 +2834,7 @@
 לכאוב… הוא, באמת, מתרה בי שאזהר ולא אטעה בחשבון…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2850,7 +2850,7 @@
 הבית.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2861,7 +2861,7 @@
       איזו טענות לי אליה? אינני יכולה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2872,7 +2872,7 @@
       אבל. הלא את אם לילדים. אַת בטוחה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2882,7 +2882,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2893,7 +2893,7 @@
       אַת בטוחה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2904,7 +2904,7 @@
       ואַת בטוחה?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2917,7 +2917,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2928,7 +2928,7 @@
       אני שואלת אותך, האם אַת בטוחה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2938,7 +2938,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2949,7 +2949,7 @@
       אני חוזרת ושואלת אותך, האם אַת בטוחה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -2959,7 +2959,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2972,7 +2972,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -2983,7 +2983,7 @@
       מה זאת?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -2993,7 +2993,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3001,7 +3001,7 @@
       : מה זאת?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -3011,7 +3011,7 @@
 מין עשב… כשאוכלים אותו…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3022,7 +3022,7 @@
       מה אַת מגמגמת. דברי… ספרי…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -3034,7 +3034,7 @@
 בחמיצה… אני בישלתי היום חמיצה… והנה היא הביאה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3042,7 +3042,7 @@
       : סגולה… גם אני בישלתי היום חמיצה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3052,7 +3052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3063,7 +3063,7 @@
       אבל… אין זה מזיק, חלילה?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -3071,7 +3071,7 @@
       : נשי הכפר יודעות זאת… הן אומרות, כי מועיל…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3082,7 +3082,7 @@
       אשת וַסיל, היא ידענית…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3090,7 +3090,7 @@
       : אבל אני יראה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3107,7 +3107,7 @@
 איך עושים?
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -3115,7 +3115,7 @@
       : קוצצים בסכין ושׂמים בחמיצה.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3126,7 +3126,7 @@
       חלקי… לא… תני לי, אני אחלק.
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -3134,7 +3134,7 @@
       : אני אחלק…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3144,7 +3144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3158,7 +3158,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3166,7 +3166,7 @@
       : נו, האם אפשר כבר לאכול, הסוסים רתומים.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3177,7 +3177,7 @@
       כן. חמיצה תאכל?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3190,7 +3190,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3199,7 +3199,7 @@
 יושבת גם היא על ידו).
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3210,7 +3210,7 @@
       מה זה?… מר…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3220,7 +3220,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3231,7 +3231,7 @@
       איזו מרירות… מה זה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3241,7 +3241,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3259,7 +3259,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3276,7 +3276,7 @@
 בואו… הצילו, הצילו…
      </p>
     </sp>
-    <sp who="et’lh">
+    <sp who="#et’lh">
      <speaker>
       עט’לה
      </speaker>
@@ -3292,7 +3292,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3303,7 +3303,7 @@
 הונח?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3318,7 +3318,7 @@
       מה הרעש פה?… הקאתי… החמיצה מרה… ולא כלום…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3330,7 +3330,7 @@
 עשיתי… יסרני, רבונו של עולם, אותי…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3342,7 +3342,7 @@
 היא מרה… חלילה, לא נסתכנו… מה הרעש?.. לא אשמים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3354,7 +3354,7 @@
 ממנה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3366,7 +3366,7 @@
 שבשמים…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3378,7 +3378,7 @@
 בוכה?… הלא הדוֹד מרגיש כבר את עצמו טוב… דודה…
      </p>
     </sp>
-    <sp who="hmskh">
+    <sp who="#hmskh">
      <speaker>
       המסך
      </speaker>
@@ -3426,7 +3426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3450,7 +3450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3459,7 +3459,7 @@
 מתוך רצון את כולו. פונה אל חנה הנכנסת): יפה, דוֹדה, באמת?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3468,7 +3468,7 @@
 ושותקת).
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3481,7 +3481,7 @@
 בחדר ההוא, ואז יוּאר יפה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3491,7 +3491,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3503,7 +3503,7 @@
       ועכשיו, איזה אור פה… נקי, טהור, יפה… אמת, דוֹדה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3514,7 +3514,7 @@
       נקי יותר מדי… יפה יותר מדי… בשבילנו…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3525,7 +3525,7 @@
       מה? הלא טוב ככה… נקי… יפה… יפה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3535,7 +3535,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3553,7 +3553,7 @@
 ידו. עוד מעט ונפלתי בגללו. על רגלי דרך. חינה נבהלה ופניה הלבינו.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3564,7 +3564,7 @@
       עטה’לה, רוצה אני לשאול אותך משהו… שבי, רגע.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3575,7 +3575,7 @@
       מה, דוֹדה, מה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3583,7 +3583,7 @@
       : אצלנו, ריח של עטרן בביתנו. אנחנו התרגלנו כבר בזה.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3595,7 +3595,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3603,7 +3603,7 @@
       : ואין אַת מתגעגעת לביתך?
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3617,7 +3617,7 @@
 אותו הנה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3625,7 +3625,7 @@
       : ואין אַת חושבת לגמרי לעזוב את ביתנו?…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3636,7 +3636,7 @@
       לא… מדוע, דוֹדה? כל-כך טוב לי פה.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3645,7 +3645,7 @@
 בעיניה).
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3657,7 +3657,7 @@
 בוֹכה?… את עצובה כל-כך… מה את בוכה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3669,7 +3669,7 @@
 יכולה כבר למצוא חן…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3685,7 +3685,7 @@
       לבך כואב, דוֹדה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3697,7 +3697,7 @@
 הלאה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3708,7 +3708,7 @@
       דוֹדה… מה אתך… רע לך…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3720,7 +3720,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3733,7 +3733,7 @@
 קשה כל-כך, דוֹדה טובה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3745,7 +3745,7 @@
 הוטב לי. שבי, הונח לי. שבי, עטה’לה… על ידי.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3755,7 +3755,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="kh">
+    <sp who="#kh">
      <speaker>
       ח
      </speaker>
@@ -3798,7 +3798,7 @@
       שתיקה.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3809,7 +3809,7 @@
       הונח לך, דוֹדה, כן?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3824,7 +3824,7 @@
       הלא התכוננת ללכת אל הנחל, להתרחץ… לכי עטה’לה, לכי.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה:
      </speaker>
@@ -3832,7 +3832,7 @@
       אינני רוצה לעזור אותך לבדך. אשאר אתך.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3844,7 +3844,7 @@
 עטה’לה, לכי.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3855,7 +3855,7 @@
       אלך לקחת את המגבת.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3867,7 +3867,7 @@
 לך ללכת, עטה’לה. איזה שובב הוא.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -3886,7 +3886,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3908,7 +3908,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3929,7 +3929,7 @@
 לך… איפה עטה’לה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3942,7 +3942,7 @@
 למענך…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3953,7 +3953,7 @@
       חנה, מה אתך?… אמרי מה?… מה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -3963,7 +3963,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -3984,7 +3984,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -3996,7 +3996,7 @@
 אלה!…
      </p>
     </sp>
-    <sp who="fini">
+    <sp who="#fini">
      <speaker>
       פיני
      </speaker>
@@ -4004,7 +4004,7 @@
       : מה אַת צועקת? פה… לא יפה…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -4012,7 +4012,7 @@
       : באמת. רק עכשיו באתם וכבר… לך, חיים, לאכול.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -4026,7 +4026,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4037,7 +4037,7 @@
       יבוא פעם קץ… די…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4048,7 +4048,7 @@
       מה אַת רוצה ממני?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4056,7 +4056,7 @@
       : גרשי אותה מהבית… זכרה אַל יפקד פה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4074,7 +4074,7 @@
 שלך, שערותיו מסורקות, נעשה נקי… מה טענות לנו אליה?…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -4086,7 +4086,7 @@
 יותר, יהי עם דבלול בראש, ובלבד להיות בטוח, שבעלך הוא בעלך… שלך…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4100,7 +4100,7 @@
 איננו צריכות…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4108,7 +4108,7 @@
       : אבל מה אני רוצה ממנה, מיתומה?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4120,7 +4120,7 @@
 איננו ישן אתה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4141,7 +4141,7 @@
 שלך?
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4153,7 +4153,7 @@
 טפשה, בול-עץ… אַת בטוחה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4162,7 +4162,7 @@
 האחיות משתתקות… הפסקה).
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4174,7 +4174,7 @@
 אתך.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4182,7 +4182,7 @@
       : למשל, מה?
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4193,7 +4193,7 @@
       עד מתי תהיה זו פה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4204,7 +4204,7 @@
       מי?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4217,7 +4217,7 @@
       …
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4228,7 +4228,7 @@
       מה?!…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4239,7 +4239,7 @@
       אני שואלת אותך: עד מתי תהיה אצלכם עטה’לה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4250,7 +4250,7 @@
       מה זה נוגע לך?
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4261,7 +4261,7 @@
       זה נוגע לי…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4269,7 +4269,7 @@
       : מה זה נוגע לך? את לחמך היא אוכלת?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4282,7 +4282,7 @@
       אנחנו שלשתנו גוועות…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4293,7 +4293,7 @@
       מה אַת צועקת, מה אַת מפטפטת?…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4304,7 +4304,7 @@
       כשמאספים בתולה יפה לבית אין משגיחים באשה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4317,7 +4317,7 @@
       ? מנוולת, חצופה.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4328,7 +4328,7 @@
       כן… כן… חושדים בך… בעטה’לה… בעטה’לה שלך…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4345,7 +4345,7 @@
 חושד?… מי?… אמרי…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4359,7 +4359,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4370,7 +4370,7 @@
       כן…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4381,7 +4381,7 @@
 צאינה מביתי… צאינה… הלאה… צאינה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -4392,7 +4392,7 @@
       אני בבית אחותי. לא בביתך… בבית אחותי…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4407,7 +4407,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="krinh ukhinh">
+    <sp who="#krinh ukhinh">
      <speaker>
       קרינה וחינה
      </speaker>
@@ -4417,7 +4417,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4428,7 +4428,7 @@
       צאינה… הלאה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4438,7 +4438,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4449,7 +4449,7 @@
 רוצה ממנה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4460,7 +4460,7 @@
       אין לי עליך כלום… אין לי עליה כלום…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4472,7 +4472,7 @@
 כך, חנה… ראי, איזה בית נעשה אצלנו… אור, מבריק ויפה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4482,7 +4482,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4497,7 +4497,7 @@
 ועטה’לה יש בבית… עטה’לה כמלאך…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4509,7 +4509,7 @@
 עטה’לה… בתולה יפה… אהא… מנין לי הבטחון?… אהא…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4520,7 +4520,7 @@
       מה אַת צועקת… מה אהא?… מה בטחון?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4537,7 +4537,7 @@
 לחצופה… ל…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4558,7 +4558,7 @@
 חנה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4570,7 +4570,7 @@
 אני אגיד לה זאת בפניה… לה בפניה…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4592,7 +4592,7 @@
 אני יודע כבר מה לעשות… עד כאן… די…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -4603,7 +4603,7 @@
       מה החלטת? מה תעשה?… מה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4619,7 +4619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4627,7 +4627,7 @@
       : צפרא טבא.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4639,7 +4639,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4652,7 +4652,7 @@
 אחר לגמרי היה אז.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4664,7 +4664,7 @@
 יותר, יפה יותר…
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4677,7 +4677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4689,7 +4689,7 @@
 ובא עלי, לביתי.
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4700,7 +4700,7 @@
 אבל עוד דבר-מה לי… בין מנחה ומעריב – נכנסתי.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4711,7 +4711,7 @@
       כמה, רבי?
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4719,7 +4719,7 @@
       : חמשה. ואם יש לאל ידך, ולא קשה לך, תן ששה. השם יתברך יעזור.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4730,7 +4730,7 @@
       יש בידי. יש בכוחי, רבי…
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4746,7 +4746,7 @@
       אין איש?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4754,7 +4754,7 @@
       : בבקשה. ידבר-נא, רבי, ידבר.
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4765,7 +4765,7 @@
 ישר אתה, אביצ’י…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4776,7 +4776,7 @@
       אביצ’י מוכר-עטרן. לא יותר…
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4786,7 +4786,7 @@
 והנה. מחשיך. נכנסת הביתה עטה’לה. שמחה ומגבת בידה.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4805,7 +4805,7 @@
 ועטה’לה היא עטה’לה…
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4818,7 +4818,7 @@
 אנשים לידי לשון-הרע…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4841,7 +4841,7 @@
 רוצה שתשמע אף מלה אחת רעה… בגללה… בגלל עטה’לה…
      </p>
     </sp>
-    <sp who="hrb">
+    <sp who="#hrb">
      <speaker>
       הרב
      </speaker>
@@ -4858,7 +4858,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4869,7 +4869,7 @@
       אֵ, הדוד בא, מזמן בא, דוֹד?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4884,7 +4884,7 @@
       ולואי ולא הייתי בא.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4895,7 +4895,7 @@
       מה קרה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4906,7 +4906,7 @@
       עטה’לה, איפה היית, התרחצת?…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4914,7 +4914,7 @@
       : כן. וכי מה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4925,7 +4925,7 @@
       עטה’לה, שבי רגע. אני רוצה לאמר לך דבר-מה.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4936,7 +4936,7 @@
       מה, דוד?
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4947,7 +4947,7 @@
       את יודעת… אנחנו נוסעים מחר… לאביך…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4958,7 +4958,7 @@
       מי?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4966,7 +4966,7 @@
       : אני ואת…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4977,7 +4977,7 @@
       לזמן-מה, להתארח.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -4985,7 +4985,7 @@
       : לא. לגמרי…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -4996,7 +4996,7 @@
       אתה לועג לי, דוֹד…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5008,7 +5008,7 @@
 מוכרי-עטרן גסים…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5020,7 +5020,7 @@
 אבא…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5034,7 +5034,7 @@
 תשאלי, עטה’לה. – מחר בבוקר אנחנו נוסעים… מחר.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5050,7 +5050,7 @@
       מפני מה?… דוֹד…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5063,7 +5063,7 @@
 אתן להרע לך. אל תבכי…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5080,7 +5080,7 @@
 מה?… מה קרה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5089,7 +5089,7 @@
 טוב… קחי, עטה’לה, וטעמי מה.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5108,7 +5108,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5119,7 +5119,7 @@
       שוב דרך היער העבות…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5127,7 +5127,7 @@
       : כן.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5138,7 +5138,7 @@
       שוב נטעה בדרך, כמו אז…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5146,7 +5146,7 @@
       : אפשר… אמנם, רק פעם אחת תועים. פעם אחת…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5157,7 +5157,7 @@
       מדוע?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5167,7 +5167,7 @@
 הנסיעה… עכשיו אכלי מה ולכי לישון. מחר עליך להשכים…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5175,7 +5175,7 @@
       : לא. אינני רוצה לאכול.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5186,7 +5186,7 @@
       ואל תשכחי, לקחת אתך את ה“מזרח”.
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5194,7 +5194,7 @@
       : הלא הוא מתנה לכם…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5206,7 +5206,7 @@
       נו, עטה’לה, לכי לישון. נוחי…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5214,7 +5214,7 @@
       : לא… אני אשכב פה. על הספה. החלון פתוח. פה טוב…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5228,7 +5228,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5237,7 +5237,7 @@
 קמה ממקומה, נגשת לספה. שוכבת. בוכה ונרדמת.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5246,7 +5246,7 @@
 הספה. מביט על עטה’לה בעצב, במרירות ומדבר לעצמו.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5263,7 +5263,7 @@
       לא… מעוטרן… לא בשביל עטה’לה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5274,7 +5274,7 @@
       מה?… מי?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5308,7 +5308,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5377,7 +5377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5385,7 +5385,7 @@
       : עטה’לה…
      </p>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5395,7 +5395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eth’lh">
+    <sp who="#eth’lh">
      <speaker>
       עטה’לה
      </speaker>
@@ -5412,7 +5412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5436,7 +5436,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5450,7 +5450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5458,7 +5458,7 @@
       : כמה ימים עברו מאז נסעה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5466,7 +5466,7 @@
       : מי?
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5474,7 +5474,7 @@
       : עטה’לה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5485,7 +5485,7 @@
       שלושה שבועות.
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5493,7 +5493,7 @@
       : ונראה כאילו ימים רבים מאוד עברו מאז…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5510,7 +5510,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -5518,7 +5518,7 @@
       : ליל טוב.
      </p>
     </sp>
-    <sp who="khuln">
+    <sp who="#khuln">
      <speaker>
       כולן
      </speaker>
@@ -5526,7 +5526,7 @@
       : ליל טוב
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5539,7 +5539,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5549,7 +5549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -5558,7 +5558,7 @@
 בעיירה אומרים: למה אין רואים את עטה’לה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5569,7 +5569,7 @@
       בת-מזל היא… בת-מזל…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5581,7 +5581,7 @@
       כן… בת מזל…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -5592,7 +5592,7 @@
       כן… בת-מזל…
      </p>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -5601,7 +5601,7 @@
 כבר: לך ודע איפה הקוצים עולים ואיפה הפרחים צומחים…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5613,7 +5613,7 @@
 מוכרי-עטרן יכולה להוָלד עטה’לה…
      </p>
     </sp>
-    <sp who="i">
+    <sp who="#i">
      <speaker>
       י
      </speaker>
@@ -5659,7 +5659,7 @@
       עטה’לה… עטה’לה… איפה עטה’לה…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5670,7 +5670,7 @@
       כן… עטה’לה…
      </p>
     </sp>
-    <sp who="krinh">
+    <sp who="#krinh">
      <speaker>
       קרינה
      </speaker>
@@ -5681,7 +5681,7 @@
       עטה’לה…
      </p>
     </sp>
-    <sp who="khinh">
+    <sp who="#khinh">
      <speaker>
       חינה
      </speaker>
@@ -5694,7 +5694,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth">
+    <sp who="#inth">
      <speaker>
       ינטה
      </speaker>
@@ -5707,7 +5707,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5718,7 +5718,7 @@
       התחילו כבר… פיני וחיים שלכן.
      </p>
     </sp>
-    <sp who="krinh ukhinh">
+    <sp who="#krinh ukhinh">
      <speaker>
       קרינה וחינה
      </speaker>
@@ -5729,7 +5729,7 @@
       אביצ’י שלך…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5740,7 +5740,7 @@
       רבונו של עולם… אבי שבשמים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5752,7 +5752,7 @@
 נתנו אותו… היה נופל מת במקומו…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5764,7 +5764,7 @@
 והמריבות.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5780,7 +5780,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5791,7 +5791,7 @@
       איך היא דולקת… לכל הרוחות…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5801,7 +5801,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5814,7 +5814,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5825,7 +5825,7 @@
       מה הוא צועק?… מה הוא רוצה?
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5836,7 +5836,7 @@
       צועק.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5844,7 +5844,7 @@
       : האין להשקיטו… מה הוא רוצה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5854,7 +5854,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5862,7 +5862,7 @@
       : מה הוא רוצה?…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5873,7 +5873,7 @@
       מה הוא רוצה?… את הצלחת מן השמים…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5881,7 +5881,7 @@
       : הרגיעי אותו… תני לו… תני לו…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5893,7 +5893,7 @@
 רבונו של עולם, מה הוא רוצה ממני…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5905,7 +5905,7 @@
 מהחצר נשמע קול חרחור של בהמה ודפיקה עמומה, כאילו מכים בקיר האוּרוה.
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5919,7 +5919,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5932,7 +5932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5942,7 +5942,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5953,7 +5953,7 @@
       מה, מה קרה?…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5963,7 +5963,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5974,7 +5974,7 @@
       מה?… איזה אסון?… הגד…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -5985,7 +5985,7 @@
       הרעיל אותו… הגזלן הרעיל את הסוס…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -5996,7 +5996,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -6005,7 +6005,7 @@
 תלכי…
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -6016,7 +6016,7 @@
       הרעיל את הסוס… אויה לי…
      </p>
     </sp>
-    <sp who="bits’i">
+    <sp who="#bits’i">
      <speaker>
       אביצ’י
      </speaker>
@@ -6030,7 +6030,7 @@
       </stage>
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -6044,12 +6044,12 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmskh">
+    <sp who="#hmskh">
      <speaker>
       המסך
      </speaker>
     </sp>
-    <sp who="bmkur">
+    <sp who="#bmkur">
      <speaker>
       במקור
      </speaker>

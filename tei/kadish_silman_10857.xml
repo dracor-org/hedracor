@@ -49,49 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="mָrְdְּkhַi">
-      <persName>
-       מָרְדְּכַי
-      </persName>
-     </person>
      <person xml:id="shְׁkhַb">
       <persName>
        שְׁכַב
-      </persName>
-     </person>
-     <person xml:id="ֶsְtֵr">
-      <persName>
-       אֶסְתֵּר
-      </persName>
-     </person>
-     <person xml:id="kֻlָֹm">
-      <persName>
-       כֻּלָֹם
-      </persName>
-     </person>
-     <person xml:id="kֻlָּm">
-      <persName>
-       כֻּלָּם
-      </persName>
-     </person>
-     <person xml:id="kֻlָּm">
-      <persName>
-       כֻּלָּם
-      </persName>
-     </person>
-     <person xml:id="hָmָn">
-      <persName>
-       הָמָן
-      </persName>
-     </person>
-     <person xml:id="oyzs">
-      <persName>
-       ויזתא
-      </persName>
-     </person>
-     <person xml:id="kֻlָm">
-      <persName>
-       כֻּלָם
       </persName>
      </person>
      <person xml:id="(msfll)">
@@ -99,14 +59,54 @@
        (מתפלל)
       </persName>
      </person>
+     <person xml:id="kֻlָּm">
+      <persName>
+       כֻּלָּם
+      </persName>
+     </person>
+     <person xml:id="ֶsְtֵr">
+      <persName>
+       אֶסְתֵּר
+      </persName>
+     </person>
+     <person xml:id="hָmָn">
+      <persName>
+       הָמָן
+      </persName>
+     </person>
+     <person xml:id="kֻlָּm">
+      <persName>
+       כֻּלָּם
+      </persName>
+     </person>
+     <person xml:id="oyzs">
+      <persName>
+       ויזתא
+      </persName>
+     </person>
+     <person xml:id="mָrְdְּkhַi">
+      <persName>
+       מָרְדְּכַי
+      </persName>
+     </person>
      <person xml:id="uַiְzָsָ">
       <persName>
        וַיְזָתָא
       </persName>
      </person>
+     <person xml:id="kֻlָֹm">
+      <persName>
+       כֻּלָֹם
+      </persName>
+     </person>
      <person xml:id="hַnְfָshׁuֹs">
       <persName>
        הַנְפָשׁוֹת
+      </persName>
+     </person>
+     <person xml:id="kֻlָm">
+      <persName>
+       כֻּלָם
       </persName>
      </person>
     </listPerson>
@@ -154,43 +154,43 @@
       הוי, מי יושב כאן?
      </p>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      כָּאן הָמָן הָאָמָן.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      כָּאן בֵּיתֶךָ? מָה עֲבוֹדָתֶךָ?
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֲנִי סַפָּר, גּוֹזֵז שֵׂעָר.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      תִּגְזוֹז גַּם אוֹתִי, נִכְבַּדִּי?
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֳתָּה יְהוּדִי?
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְהּוִדי.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -216,7 +216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -227,43 +227,43 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      יְרושָׁלַיִם? אֵין כְּבָר יְרוּשָׁלַיִם.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְרוּשָׁלַיִם!  יְרוּשָׁלַיִם!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      כְּבָר שְׁפַכְתֶּם עָלֶיהָ דְמָעוֹת כַּמַּיִם.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְרוּשָׁלַיִם,  יְרוּשָׁלַיִם!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      כְּבָר צְעַקתֶּם לֵאלֹהֵי הַשָּׁמַיִם.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְרוּשָׁלַיִם, יְרוּשָׁלַיִם!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -274,7 +274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -285,25 +285,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      יְרָא מִפָּנַי, מָרְדְּכַי!
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אֲנִ יָרֵא רַק אֱלֹהָי.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      הָמָן הַסַּפָּר עוֹד יִהְיֶה שָׂר!
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -314,31 +314,31 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      שֵׁב, אֲנִי מְסַפֵּר אוֹתְךָ, אַל תָּזוּעַ.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אֲנִי מִפָּנֶיךָ לְעוֹלָם לֹא אָזוּעַ.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      מָה? (פוצעו במספרים)
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אֲהָהּ,אֲהָהּ!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -380,31 +380,31 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אַתָּה פַּרְעוֹש, לַעֲנָה וָרוֹש.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֲבוֹתַי עָבְדוּ לַבֵּל!
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      וַאֲנִי וַאֲבוֹתַי – לָאֵל.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      חָזָק יוֹתֵר בֵּל.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -419,7 +419,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -439,79 +439,79 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אִם תַּכֶּה – תֻּכֶּה.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֻכה?
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      תֶֻּכֶּה.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֻכֶּה?
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      תֻּכֶּה.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      כֹּחִי בַּמִּסְפָּרַיִם, בַּצִּפָּרְנָיִם.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      כֹּחִי בִּירוּשָׁלָיִם!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      יְרוּשָׁלַיִם –לֹא,לֹא, לֹא
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְרוּשָׁלַיִם – כֵּן, כֵּן, כֵּן.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      יְרוּשָׁלַיִם –לֹא,לֹא, לֹא
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      יְרוּשָׁלַיִם – כֵּן, כֵּן, כֵּן.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      יְרוּשָׁלַיִם –לֹא,לֹא, לֹא
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -618,7 +618,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -681,7 +681,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָֹm">
+    <sp who="#kֻlָֹm">
      <speaker>
       כֻּלָֹם
      </speaker>
@@ -714,7 +714,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -755,7 +755,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -776,7 +776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָm">
+    <sp who="#kֻlָm">
      <speaker>
       כֻּלָם
      </speaker>
@@ -792,7 +792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָm">
+    <sp who="#kֻlָm">
      <speaker>
       כֻּלָם
      </speaker>
@@ -833,7 +833,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָm">
+    <sp who="#kֻlָm">
      <speaker>
       כֻּלָם
      </speaker>
@@ -868,7 +868,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -953,7 +953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָm">
+    <sp who="#kֻlָm">
      <speaker>
       כֻּלָם
      </speaker>
@@ -976,7 +976,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -987,7 +987,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1016,7 +1016,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1036,7 +1036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oyzs">
+    <sp who="#oyzs">
      <speaker>
       ויזתא
      </speaker>
@@ -1047,7 +1047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -1063,7 +1063,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1074,7 +1074,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1085,7 +1085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1100,7 +1100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1111,7 +1111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1122,19 +1122,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
      כֵּ – כֵּ– כֵּ – כֵּן. (סובבים אותו, מושכים בבגדיו, באזניו, ומרעישים בהן ברעשן).
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      אֶת  תַּכֶּה כֶּה כֶּה?
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1147,13 +1147,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      אֶת הַיְהוּדִים תַּכֶּה?
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1164,13 +1164,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      אְמוֹר כֹּה: לְהַכּוֹת -
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
@@ -1181,13 +1181,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַiְzָsָ">
+    <sp who="#uַiְzָsָ">
      <speaker>
       וַיְזָתָא
      </speaker>
      לֶ לֶ לֶ – לֹא לֹא לֹא. לֶ לֶ לֶ – לֹא, לֹא לֹא.
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -1260,7 +1260,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1289,7 +1289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1300,7 +1300,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1311,7 +1311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1332,7 +1332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1343,19 +1343,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אַתָּה זוֹכֵר, הָמָן, אֶת הַמִּסְפָּרַיִם?
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      כְּאִילוּ אֲנִי רוֹאֶה אוֹתָם עַתָּה בָּעֵינָיִם.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1366,7 +1366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1377,13 +1377,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      וּמִי הָיָה לָבוּשׁ אַרְגָּמָן?
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1394,13 +1394,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      וְעַתָּה לְמִי? הָאַרְגָּמָן .
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1426,7 +1426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1437,13 +1437,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      מַדּועַ?
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1454,7 +1454,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1470,7 +1470,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1486,19 +1486,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="(msfll)">
+    <sp who="#(msfll)">
      <speaker>
       (מתפלל)
      </speaker>
      וְלַמַּלְשִׁינִים אַל תְּהִי תִקְוָה, וְכָל הָרִשְׁעָה כְּרֶגַע תֹּאבַד וְכָל אוְֹיֵבי עַמְּךָ מְהֵרָה יִכָּרֵתוּ, וְהַזֵּדִים מְהֵרָה תְּעַקֵּר וּתְשַׁבֵּר וּתְמַגֵּר וְתַכְנִיעַ… (חוזר וחוזר על התפלה ביתר עוז והתרגשות)
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      מָרְדַּכי, דַּי לְהִתְפַּלֵּל.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1512,19 +1512,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אוֹי, עוֹדְךָ מִתְפַּלֵּל?
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      כֵּן, אֶת אֱלֹהַי מְהַלֵּל.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1540,7 +1540,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1551,7 +1551,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1567,7 +1567,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1604,7 +1604,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1623,7 +1623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1642,7 +1642,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1685,7 +1685,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1696,7 +1696,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1715,25 +1715,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      עַתָּה, הָמָן, אֲנִי יָפֶה? אֲנִי הָדוּר?
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      אֲהָה, יָפֶה כָּל כָּךְ שֶׁמִפָּנֶיךָ אָגוּר!
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      עַתָּה, הָמָן, הָרֵם רַגְלַי!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1744,13 +1744,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      מַה שֶׁאֲנִי אוֹמֵר – אֱמוֹר: אָמֵן.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1766,7 +1766,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1794,7 +1794,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1805,7 +1805,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1819,7 +1819,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1843,25 +1843,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      הוֹי, מָרְדְּכַי, חוּס נָא, חוּס!
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      אֲנִי כְּבָר רוֹכֵב!
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
      וַאֲנִי עַל הָאָרֶץ עוֹד שׁוֹכֵב.
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1881,7 +1881,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -1906,13 +1906,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
      הָמָן,זֶה קוֹל צִפּוֹר מְצַפְצֶפֶת.
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1928,7 +1928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -1946,7 +1946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָmָn">
+    <sp who="#hָmָn">
      <speaker>
       הָמָן
      </speaker>
@@ -2028,7 +2028,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mָrְdְּkhַi">
+    <sp who="#mָrְdְּkhַi">
      <speaker>
       מָרְדְּכַי
      </speaker>
@@ -2056,7 +2056,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
@@ -2071,43 +2071,43 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      שַׁקַּמְתְּ!
     </sp>
-    <sp who="ֶsְtֵr">
+    <sp who="#ֶsְtֵr">
      <speaker>
       אֶסְתֵּר
      </speaker>
      אֲנִי בָּרַע נִלְחַמְתִּי, נִלְחַמְתִּי.
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      נִלְחַמְתְּ!
     </sp>
-    <sp who="ֶsְtֵr">
+    <sp who="#ֶsְtֵr">
      <speaker>
       אֶסְתֵּר
      </speaker>
      אֶת עַמִּי בַּגוֹלָה רוֹמַמְתִּי.
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>
      רוֹמָמְתְּ!
     </sp>
-    <sp who="ֶsְtֵr">
+    <sp who="#ֶsְtֵr">
      <speaker>
       אֶסְתֵּר
      </speaker>
      שַׁקַמְתִּי, אֶסְתֵּר, שַׁקַּמְתִּי.
     </sp>
-    <sp who="kֻlָּm">
+    <sp who="#kֻlָּm">
      <speaker>
       כֻּלָּם
      </speaker>

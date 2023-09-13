@@ -49,24 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="kָrָsִi">
-      <persName>
-       קָרָאתִי
-      </persName>
-     </person>
      <person xml:id="mngins hrukhus">
       <persName>
        מנגינת הרוחות
-      </persName>
-     </person>
-     <person xml:id="mfistufls">
-      <persName>
-       מפיסטופלס
-      </persName>
-     </person>
-     <person xml:id="nַgִּidָh">
-      <persName>
-       נַגִּידָה
       </persName>
      </person>
      <person xml:id="lֵmֹr">
@@ -74,9 +59,19 @@
        לֵאמֹר
       </persName>
      </person>
-     <person xml:id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+     <person xml:id="mfistufls">
       <persName>
-       הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
+       מפיסטופלס
+      </persName>
+     </person>
+     <person xml:id="kֹh">
+      <persName>
+       כֹּה
+      </persName>
+     </person>
+     <person xml:id="kָrָsִi">
+      <persName>
+       קָרָאתִי
       </persName>
      </person>
      <person xml:id="fust">
@@ -84,9 +79,14 @@
        פאוסט
       </persName>
      </person>
-     <person xml:id="kֹh">
+     <person xml:id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
       <persName>
-       כֹּה
+       הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
+      </persName>
+     </person>
+     <person xml:id="nַgִּidָh">
+      <persName>
+       נַגִּידָה
       </persName>
      </person>
     </listPerson>
@@ -329,7 +329,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="kָrָsִi">
+   <sp who="#kָrָsִi">
     <speaker>
      קָרָאתִי
     </speaker>
@@ -375,7 +375,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="nַgִּidָh">
+   <sp who="#nַgִּidָh">
     <speaker>
      נַגִּידָה
     </speaker>
@@ -396,7 +396,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="kֹh">
+   <sp who="#kֹh">
     <speaker>
      כֹּה
     </speaker>
@@ -978,7 +978,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="lֵmֹr">
+   <sp who="#lֵmֹr">
     <speaker>
      לֵאמֹר
     </speaker>

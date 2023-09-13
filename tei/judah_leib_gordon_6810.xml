@@ -49,64 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="hshrf hrshun">
-      <persName>
-       השרף הראשון
-      </persName>
-     </person>
-     <person xml:id="mַkְhֵlָh">
-      <persName>
-       מַקְהֵלָה
-      </persName>
-     </person>
-     <person xml:id="mִikhָh yuֹsֵf">
-      <persName>
-       מִיכָה יוֹסֵף
-      </persName>
-     </person>
      <person xml:id="sְrָfִim uְshִׁnְanִּim">
       <persName>
        שְׂרָפִים וְשִׁנְאַנִּים
-      </persName>
-     </person>
-     <person xml:id="helm">
-      <persName>
-       העלם
-      </persName>
-     </person>
-     <person xml:id="bַlָּhuֹs">
-      <persName>
-       בַּלָּהוֹת
-      </persName>
-     </person>
-     <person xml:id="hַnְּfָshׁuֹs hָeuֹsuֹs">
-      <persName>
-       הַנְּפָשׁוֹת הָעוֹשׂוֹת
-      </persName>
-     </person>
-     <person xml:id="hַshָּׂfָh hָeִbְrִiָּh">
-      <persName>
-       הַשָּׂפָה הָעִבְרִיָּה
-      </persName>
-     </person>
-     <person xml:id="lֶbֶnְzuֹn">
-      <persName>
-       לֶבֶּנְזוֹן
-      </persName>
-     </person>
-     <person xml:id="hshrf hshni">
-      <persName>
-       השרף השני
-      </persName>
-     </person>
-     <person xml:id="hrshun">
-      <persName>
-       הראשון
-      </persName>
-     </person>
-     <person xml:id="khlm (bmkhlh)">
-      <persName>
-       כלם (במקהלה)
       </persName>
      </person>
      <person xml:id="mַlְakhְ dumָh">
@@ -114,9 +59,14 @@
        מַלְאַךְ דוּמָה
       </persName>
      </person>
-     <person xml:id="hshfh hebrih">
+     <person xml:id="mikhh yusf">
       <persName>
-       השפה העבריה
+       מיכה יוסף
+      </persName>
+     </person>
+     <person xml:id="hַnְּfָshׁuֹs hָeuֹsuֹs">
+      <persName>
+       הַנְּפָשׁוֹת הָעוֹשׂוֹת
       </persName>
      </person>
      <person xml:id="khlm">
@@ -124,9 +74,39 @@
        כלם
       </persName>
      </person>
-     <person xml:id="hmkhlh">
+     <person xml:id="hshrf hrshun">
       <persName>
-       המקהלה
+       השרף הראשון
+      </persName>
+     </person>
+     <person xml:id="hַshָּׂfָh hָeִbְrִiָּh">
+      <persName>
+       הַשָּׂפָה הָעִבְרִיָּה
+      </persName>
+     </person>
+     <person xml:id="hmlkh">
+      <persName>
+       המלאך
+      </persName>
+     </person>
+     <person xml:id="hshrf hshni">
+      <persName>
+       השרף השני
+      </persName>
+     </person>
+     <person xml:id="mִikhָh yuֹsֵf">
+      <persName>
+       מִיכָה יוֹסֵף
+      </persName>
+     </person>
+     <person xml:id="bַlָּhuֹs">
+      <persName>
+       בַּלָּהוֹת
+      </persName>
+     </person>
+     <person xml:id="khlm (bmkhlh)">
+      <persName>
+       כלם (במקהלה)
       </persName>
      </person>
      <person xml:id="mַshָּׂ khִzָּyuֹn bְarְbָeָh mַkhֲzuֹs">
@@ -139,19 +119,24 @@
        וּצְבָאוֹ יִבּוֹל
       </persName>
      </person>
-     <person xml:id="hmlkh">
+     <person xml:id="mַkְhֵlָh">
       <persName>
-       המלאך
+       מַקְהֵלָה
       </persName>
      </person>
-     <person xml:id="mikhl">
+     <person xml:id="helm">
       <persName>
-       מיכאל
+       העלם
       </persName>
      </person>
-     <person xml:id="mikhh yusf">
+     <person xml:id="mִikhֵָl">
       <persName>
-       מיכה יוסף
+       מִיכָאֵל
+      </persName>
+     </person>
+     <person xml:id="hrshun">
+      <persName>
+       הראשון
       </persName>
      </person>
      <person xml:id="hshrf hshlishi">
@@ -159,9 +144,24 @@
        השרף השלישי
       </persName>
      </person>
-     <person xml:id="mִikhֵָl">
+     <person xml:id="lֶbֶnְzuֹn">
       <persName>
-       מִיכָאֵל
+       לֶבֶּנְזוֹן
+      </persName>
+     </person>
+     <person xml:id="hshfh hebrih">
+      <persName>
+       השפה העבריה
+      </persName>
+     </person>
+     <person xml:id="hmkhlh">
+      <persName>
+       המקהלה
+      </persName>
+     </person>
+     <person xml:id="mikhl">
+      <persName>
+       מיכאל
       </persName>
      </person>
     </listPerson>
@@ -183,7 +183,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="mַshָּׂ khִzָּyuֹn bְarְbָeָh mַkhֲzuֹs">
+   <sp who="#mַshָּׂ khִzָּyuֹn bְarְbָeָh mַkhֲzuֹs">
     <speaker>
      מַשָּׂא חִזָּיוֹן בְּאַרְבָּעָה מַחֲזוֹת
     </speaker>
@@ -198,7 +198,7 @@
      מִיכָה יוֹסֵף בֶּן אָדָ"ם הַכֹּהֵן
     </p>
    </sp>
-   <sp who="lֶbֶnְzuֹn">
+   <sp who="#lֶbֶnְzuֹn">
     <speaker>
      לֶבֶּנְזוֹן
     </speaker>
@@ -215,12 +215,12 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hַnְּfָshׁuֹs hָeuֹsuֹs">
+   <sp who="#hַnְּfָshׁuֹs hָeuֹsuֹs">
     <speaker>
      הַנְּפָשׁוֹת הָעוֹשׂוֹת:
     </speaker>
    </sp>
-   <sp who="mִikhָh yuֹsֵf">
+   <sp who="#mִikhָh yuֹsֵf">
     <speaker>
      מִיכָה יוֹסֵף
     </speaker>
@@ -228,7 +228,7 @@
      – עֶלֶם גֹּוֵע
     </p>
    </sp>
-   <sp who="mִikhֵָl">
+   <sp who="#mִikhֵָl">
     <speaker>
      מִיכָאֵל
     </speaker>
@@ -236,17 +236,17 @@
      – הַמַּלְאָךְ
     </p>
    </sp>
-   <sp who="mַlְakhְ dumָh">
+   <sp who="#mַlְakhְ dumָh">
     <speaker>
      מַלְאַךְ דוּמָה
     </speaker>
    </sp>
-   <sp who="hַshָּׂfָh hָeִbְrִiָּh">
+   <sp who="#hַshָּׂfָh hָeִbְrִiָּh">
     <speaker>
      הַשָּׂפָה הָעִבְרִיָּה
     </speaker>
    </sp>
-   <sp who="mַkְhֵlָh">
+   <sp who="#mַkְhֵlָh">
     <speaker>
      מַקְהֵלָה
     </speaker>
@@ -254,7 +254,7 @@
      : רוּחוֹת מֹשֶׁה, שְׁלֹמֹה, שִׁמְשׁוֹן הַגִּבּוֹר, ר' יְהוּדָה הַלֵּוִי
     </p>
    </sp>
-   <sp who="sְrָfִim uְshִׁnְanִּim">
+   <sp who="#sְrָfִim uְshִׁnְanִּim">
     <speaker>
      שְׂרָפִים וְשִׁנְאַנִּים
     </speaker>
@@ -442,7 +442,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="mikhh yusf">
+    <sp who="#mikhh yusf">
      <speaker>
       מיכה יוסף:
      </speaker>
@@ -896,7 +896,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshrf hrshun">
+    <sp who="#hshrf hrshun">
      <speaker>
       השרף הראשון:
      </speaker>
@@ -926,7 +926,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshrf hshni">
+    <sp who="#hshrf hshni">
      <speaker>
       השרף השני:
      </speaker>
@@ -956,7 +956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshrf hshlishi">
+    <sp who="#hshrf hshlishi">
      <speaker>
       השרף השלישי:
      </speaker>
@@ -1021,7 +1021,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hrshun">
+    <sp who="#hrshun">
      <speaker>
       הראשון:
      </speaker>
@@ -1348,7 +1348,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshfh hebrih">
+    <sp who="#hshfh hebrih">
      <speaker>
       השפה העבריה
      </speaker>
@@ -1566,7 +1566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhl">
+    <sp who="#mikhl">
      <speaker>
       מיכאל:
      </speaker>
@@ -1868,7 +1868,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך:
      </speaker>
@@ -1888,7 +1888,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם:
      </speaker>
@@ -1903,7 +1903,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך:
      </speaker>
@@ -1963,7 +1963,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם:
      </speaker>
@@ -1983,7 +1983,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך:
      </speaker>
@@ -2003,7 +2003,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם:
      </speaker>
@@ -2066,7 +2066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -2104,7 +2104,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -2118,7 +2118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך:
      </speaker>
@@ -2133,7 +2133,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם:
      </speaker>
@@ -2143,7 +2143,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך:
      </speaker>
@@ -2241,7 +2241,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -2255,7 +2255,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="utsְbָuֹ ibuֹl">
+    <sp who="#utsְbָuֹ ibuֹl">
      <speaker>
       וּצְבָאוֹ יִבּוֹל
      </speaker>
@@ -2265,7 +2265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bַlָּhuֹs">
+    <sp who="#bַlָּhuֹs">
      <speaker>
       בַּלָּהוֹת
      </speaker>
@@ -2308,7 +2308,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלאך
      </speaker>
@@ -2338,7 +2338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmkhlh">
+    <sp who="#hmkhlh">
      <speaker>
       המקהלה:
      </speaker>
@@ -2586,7 +2586,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2598,7 +2598,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -2736,7 +2736,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm (bmkhlh)">
+    <sp who="#khlm (bmkhlh)">
      <speaker>
       כלם (במקהלה):
      </speaker>
@@ -2781,7 +2781,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshfh hebrih">
+    <sp who="#hshfh hebrih">
      <speaker>
       השפה העבריה:
      </speaker>
@@ -2880,7 +2880,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>

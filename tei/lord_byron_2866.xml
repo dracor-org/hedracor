@@ -69,11 +69,6 @@
        הֶבֶל
       </persName>
      </person>
-     <person xml:id="omַrְtִi">
-      <persName>
-       אָמַרְתִּי
-      </persName>
-     </person>
      <person xml:id="hַshֵּׁnִi">
       <persName>
        הַשֵּׁנִי
@@ -87,6 +82,11 @@
      <person xml:id="odָm">
       <persName>
        אָדָם
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
       </persName>
      </person>
      <person xml:id="bְkhָl">
@@ -149,11 +149,6 @@
        וְאַתָּה
       </persName>
      </person>
-     <person xml:id="oin">
-      <persName>
-       אָיִן
-      </persName>
-     </person>
      <person xml:id="lֹ">
       <persName>
        לֹא
@@ -172,6 +167,11 @@
      <person xml:id="dַּeַs">
       <persName>
        דַּעַת
+      </persName>
+     </person>
+     <person xml:id="oin">
+      <persName>
+       אָיִן
       </persName>
      </person>
      <person xml:id="tsִlָּh">
@@ -7975,7 +7975,7 @@
       לוּצִיפֶר
      </speaker>
     </sp>
-    <sp who="oin">
+    <sp who="#oin">
      <speaker>
       אָיִן
      </speaker>
@@ -11622,7 +11622,7 @@
       קַיִן
      </speaker>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>

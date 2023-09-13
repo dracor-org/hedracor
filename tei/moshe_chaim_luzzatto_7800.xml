@@ -49,6 +49,11 @@
   <profileDesc>
    <particDesc>
     <listPerson>
+     <person xml:id="lֵmֹr">
+      <persName>
+       לֵאמֹר
+      </persName>
+     </person>
      <person xml:id="lֵmׁr">
       <persName>
        לֵאמׁר
@@ -67,11 +72,6 @@
      <person xml:id="hַmִּrְmָh">
       <persName>
        הַמִּרְמָה
-      </persName>
-     </person>
-     <person xml:id="lֵmֹr">
-      <persName>
-       לֵאמֹר
       </persName>
      </person>
      <person xml:id="uְhֵikhָluֹ">
@@ -1605,7 +1605,7 @@
       הֵן נוֹסְדוּ כֻלָּם וְאֵלַי בָאוּ
      </p>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -2701,7 +2701,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmׁr">
+    <sp who="#lֵmׁr">
      <speaker>
       לֵאמׁר
      </speaker>
@@ -3682,7 +3682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -4876,7 +4876,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>

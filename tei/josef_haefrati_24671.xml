@@ -59,14 +59,19 @@
        כולם
       </persName>
      </person>
+     <person xml:id="lִishׁurֻn">
+      <persName>
+       לִישׁוּרֻן
+      </persName>
+     </person>
+     <person xml:id="bmkr">
+      <persName>
+       במקרא
+      </persName>
+     </person>
      <person xml:id="khuln blkhsn">
       <persName>
        כולן בלכתן
-      </persName>
-     </person>
-     <person xml:id="omַrְtִi">
-      <persName>
-       אָמַרְתִּי
       </persName>
      </person>
      <person xml:id="yers khrs">
@@ -109,9 +114,9 @@
        שמואל
       </persName>
      </person>
-     <person xml:id="lִishׁurֻn">
+     <person xml:id="omַrְtִi">
       <persName>
-       לִישׁוּרֻן
+       אָמַרְתִּי
       </persName>
      </person>
      <person xml:id="kishׁ">
@@ -312,11 +317,6 @@
      <person xml:id="khdr hmlkhְ">
       <persName>
        חדר המלךְ
-      </persName>
-     </person>
-     <person xml:id="bmkr">
-      <persName>
-       במקרא
       </persName>
      </person>
      <person xml:id="em htsb">
@@ -1210,7 +1210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>
@@ -4460,7 +4460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lִishׁurֻn">
+    <sp who="#lִishׁurֻn">
      <speaker>
       לִישׁוּרֻן
      </speaker>
@@ -16949,7 +16949,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bmkr">
+    <sp who="#bmkr">
      <speaker>
       במקרא
      </speaker>

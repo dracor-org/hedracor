@@ -49,9 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="brukh">
+     <person xml:id="hmkum">
       <persName>
-       ברוך
+       המקום
+      </persName>
+     </person>
+     <person xml:id="guldmn">
+      <persName>
+       גולדמאן
       </persName>
      </person>
      <person xml:id="uloyl">
@@ -59,9 +64,9 @@
        ולויל
       </persName>
      </person>
-     <person xml:id="hmkum">
+     <person xml:id="inth-lh">
       <persName>
-       המקום
+       ינטה-לאה
       </persName>
      </person>
      <person xml:id="oykhnh-tmh">
@@ -79,19 +84,14 @@
        גולדמן
       </persName>
      </person>
-     <person xml:id="guldmn">
-      <persName>
-       גולדמאן
-      </persName>
-     </person>
      <person xml:id="figil">
       <persName>
        פיגיל
       </persName>
      </person>
-     <person xml:id="inth-lh">
+     <person xml:id="brukh">
       <persName>
-       ינטה-לאה
+       ברוך
       </persName>
      </person>
     </listPerson>
@@ -138,7 +138,7 @@
      האשה ויכנה-טֶמה     /     פֵיגֶיל, עגונה
     </p>
    </sp>
-   <sp who="hmkum">
+   <sp who="#hmkum">
     <speaker>
      המקום
     </speaker>
@@ -177,7 +177,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -208,31 +208,31 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      הא? מה את רוצה?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      היום צריך ללכת אל אמך.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      אני לא אלך…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      ברוך! הבה ונתלבש.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -267,7 +267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -282,7 +282,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -307,13 +307,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מחותן! לא!.. צריך אני לאמור לכבוד-מעלתו… מחויב אני לאמור לכבוד-מעלתו… איך נאמר שם?.. כבוד-מעלתו הוא… הוא…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -332,7 +332,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -343,7 +343,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -399,7 +399,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -500,13 +500,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uloyl">
+    <sp who="#uloyl">
      <speaker>
       ולויל
      </speaker>
      כן…
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -520,7 +520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -557,7 +557,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -576,7 +576,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -608,13 +608,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      כמה פעמים הגדתי לך, ינטה-לאה, שאינני חפץ, כי תקראיני בשם נכרי…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -680,37 +680,37 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      “ראו העינים מה שקנו”…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      גדול אתה בהשכלה…
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      ואת גמרת את כל שבעת הקלאַסין? או שמא  מלומד גדול הוא?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      גולדמאן? מה ענין גולדמאן לכאן? (בהתעוררות) נו, די, די, התלבש ונלכה! (בחן) בדרך אגיד לך איזה דבר…
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      הגידי עתה…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -787,19 +787,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
      חתן-כלה? חתן-כלה רָבו, רָבו – וילכו להם.
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      רבו?
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
@@ -843,13 +843,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      конечно – חיבוקים, נשיקות, ובכן?
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
@@ -864,13 +864,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
      המ… היש עוד צורך לדבר בזה? פשיטא! (קול הילד, שפסק לרגעים אחדים, חזר ונעור) אוי, מה אני עושה? תיכף!.. תיכף, אפרוחי… (בהתאמצות, כמתחננת) אוי, יקירי, אני רצה…
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -885,7 +885,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -918,19 +918,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      דאגותי הגדולות… (בניחותא) מה, לא תהיה?
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
      חתונה של כלבים אפשר שתהיה פה – הלואי שלא יֵאָמנו דברי. המ… חתונה… חתונה זו צריכה היתה להיות עוד בשבת שאחר שבועות… אבל ויכנה-טמה קשה כברזל… הכלה מחכה לאחר… וברוך אינו נחפז… ממש “קוֹמדיה” היתה לראות, איך התחננה לפניו ללכת אל אמו…
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -975,7 +975,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
@@ -1002,13 +1002,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמן
      </speaker>
      (מזדרז, מעשה-אֶלגאנט, לעזור לה בהסרת הבגד הקל): המאדמוזל שלי! רגשי כבוד לשרתי, конечно, איזו חדשות נעימות צמחו ועלו? – Как поживаете?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1035,7 +1035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -1050,13 +1050,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      מה? יקר?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1099,13 +1099,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      מה?
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -1198,19 +1198,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      עליך אין אני כועס.
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      עלי אין לך בשביל מה לכעוס; אבל על מי, איפוא, יחר אפך?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1256,13 +1256,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      נו, חדל! מה אתה עושה העויות לעיני? איני מכיר בך? איני יודע מי אתה? הנה העלבת את הכלה, ועתה היא בוכיה.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -1277,13 +1277,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מה זה נטפלת בי כ“יוֹלד”? לך לך; לך לפייסה, ידי מובהק – אין מה לדבר.
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -1302,7 +1302,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -1321,7 +1321,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -1343,31 +1343,31 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      המחותנים ישנים על המעקה, אמא.
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      אני שואלת אותך… מה אני שואלת אותך? אני שואלת אותך, ברוך, על הכלה.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      היא, אמא? פה היא. בחדר השני… (בקול מתאונן) אמא…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      מה?
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -1382,61 +1382,61 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      אמא…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      הס!.. אַל מלה… ספר לי הכל בדברים ברורים; ענה לי על ראשון ראשון ועל אחרון אחרון!
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      אמא! היא מוצצת את דמי, היא אינה בת ישראל, היא מתירה לעצמה…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      אַל מלה עוד!  הלא הנני פה. מה אומרים המחותנים?
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      לא כלום.
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      אני, ברוך, איני אוהבת מענות כמו אלה. ראה, ברוך, היזהר מפני!
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מה את רוצה ממני, אמא?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      איך אמרת, איך?! יפה, יפה… נחת! שומע אתה, משוגע, היום תשב אצלי כאילם. ראה הזהרתיך. אני אשמיעם היום את דברי, אנכי… (ינטה-לאה יוצאת מחדרה הקטן) אה… כלתי… שבת טובה, בתי!
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      אוי, המחותנת! (מתנפלת על צוארה) מחותנת! במה אכּף ואקדם? מה שלום כולכם שם? מה שלום ציפּה-דבוֹסיה? וראובן-מנדל מה הוא? אוי, מחותנת… ובטנה של יאַכנה-גיטל מה היא? נרפאה? תודה לאל!.. אוי, אמנם כן, איני יודעת מה לעשות – מרוב שמחה. תשב-נא המחותנת. מה שלומו של פינחס? של ילדיו?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1464,7 +1464,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1494,7 +1494,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1505,25 +1505,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      ואפשר שכך רק נדמה לי. לעת-זקנה מתקלקלות העינים. איך שיהיה, והמחותנת היקרה איה? מדוע היא נחבאת מפני?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      כלום כל-כך נוראה היא, המחותנת, שיחבאו מפניה?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      מי יודע… (מתנשאה ממקומה ברוב תכונה) אבל הנה-הנה… (סושה נכנסת עם ספר “מנורת המאור” תחת אצילי ידה). שבת טובה, שנה טובה!
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -1554,7 +1554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1569,7 +1569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -1593,19 +1593,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      לא יפה, נער! חייב נער לנהוג דרך-ארץ. חייב נער להתאפק עד שישתו הגדולים…
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      אמא, צריך לשלחו אל הפרדס שבחכירת ירוחם: יביא משם אגסים לכיבוד.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -1629,7 +1629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -1640,13 +1640,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      בבקשה, בבקשה… למה, למה כל הטורח? תודה, תודה! כאן המחותנת, תחיה, אינה שבעה רצון כלל מבואי, והמחותן, יחיה, עוד רוצה להטריחה.
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -1665,13 +1665,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      כלום יודע אני?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1686,13 +1686,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מחותן! כונת כבודו היא להפיל אימה עלינו?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1707,7 +1707,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1718,7 +1718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1732,19 +1732,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      לא, מחותן! טעות היא! ברוך שלי, אמנם, יודע, שיש לו אם טובה, הנכונה לבוא בעדו באש ובמים, ואשר התחננה קודם הפסח לפניו, כמו שמתחננים לפני גזלן: “בני, אל תלך לגור לבית המחותן”…
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      אמא, אַת בעצמך…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1777,13 +1777,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      הצבעונין… הצבעונין צריך לאמור, אמא, ולא הגבעונים.
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -1802,7 +1802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -1813,7 +1813,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1824,7 +1824,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1835,19 +1835,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מחותן, אני אצרף מנין פה: בעל-יאָרצייט אני…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      אי-אי, ואני כמעט ששכחתי. זה שמונה-עשרה שנה כיום אחד. איש צדיק היה הנפטר, זכותו יגן עלינו. צריך היה ללמוד גם משניות, בני.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -1862,7 +1862,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1873,7 +1873,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -1884,13 +1884,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מחותן, רק בלי כעס. הכעס למה הוא?
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -2012,19 +2012,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
      ובאמת… איך אפשר… שוב בלי סוף…
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      ואתם עוד תצדקו?! איה המחותן, אה? בזכות איזה יחוס הוא מתהלך אתנו כל-כך בגאון? ברוך השם, יש לאל יד ויכנה-טמה לפרנס את בנה. לא אני שלחתיו אליכם. (אל החתן) שומע אתה, ברוך; מחר, למען השם, מחר אחר עת-השוק – אלי. די להיות פה. אה? עוד נראה בעינינו. שומע אתה, ברוך? גוזרת אני עליך לקיים את מצותי…
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -2080,7 +2080,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -2103,25 +2103,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      לא, לא, אסור לי לעשות כזאת: שם מחכים לי… (נוגעת בחשנה של ינטה-לאה). ראי-נא, זהו החושן שתפרת לך לפני שבועים?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      כן. מן המין הזה עשיתי לי גם שנים-עשר מכסות לכרים.
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      כך? ואני באמת הלא עוד לא ראיתי כדבעי את הפּוֹבֶלה , שנותנים לך.
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
@@ -2155,13 +2155,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
      ולויל הלך לאסוף מנין. (אל פיגיל, הנכנסת וקרבה אליה בצפיפות) מה לך?
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
@@ -2185,19 +2185,19 @@
     </sp>
     <sp>
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
      ברוך! מה אתה מטיל עלי אימה? אינני, חס ושלום, מן הקטנות הנפחדות. הלא לא תכני!
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מפני מה? אינני יכול?
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
@@ -2216,13 +2216,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="figil">
+    <sp who="#figil">
      <speaker>
       פיגיל
      </speaker>
      אבל אותי לא תכה.
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -2237,7 +2237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -2276,25 +2276,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      מחותן! רק בלי כעס! לא מציאה גדולה אני חוטף בכאן.
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      מה? אוי ואבוי לדבריך. אילו היו שונאיך מדברים בעדך… (בוכיה).
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      ברוך! שגעונות?!
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -2328,7 +2328,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
@@ -2374,7 +2374,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
@@ -2410,13 +2410,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>
      דם יתום… שופכי דם יתום… (עומדת בפתח ואינה יודעת מה לעשות).
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
@@ -2442,7 +2442,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
@@ -2466,37 +2466,37 @@
     </sp>
     <sp>
     </sp>
-    <sp who="brukh">
+    <sp who="#brukh">
      <speaker>
       ברוך
      </speaker>
      אושרו לא היה גדול גם אילו הייתי מתפלל לפני העמוד במנין אנשים שכמותך: השכנים אינם באים. מנין, כנראה, לא יהיה פה. אנו הולכים לבית-המדרש.
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      טוב ונעלה. אתה לך לבית-המדרש, ואני – конечно – אציע לפני המאדמוזל אניוּטה לשוח קצת עמדי בגן העיר. הערב נפלא!
     </sp>
-    <sp who="sushh">
+    <sp who="#sushh">
      <speaker>
       סושה
      </speaker>
      לכה, ולויל, ובדוק תחת הכר, אם אין שם הירמולקה של הסבא…
     </sp>
-    <sp who="guldmn">
+    <sp who="#guldmn">
      <speaker>
       גולדמאן
      </speaker>
      נו, מאדמוזל, מה היא התשובה על הצעתי?
     </sp>
-    <sp who="inth-lh">
+    <sp who="#inth-lh">
      <speaker>
       ינטה-לאה
      </speaker>
      לשוח? – спасибо! – תודה, לא אוכל. עיניך הרואות, שאורחת אצלי ועוד הרבה עלינו להתייעץ על הפּוֹבֶלה ועוד דברים. (אל ויכנה-טמה) הלא נשארת את אצלנו עד אחר הבדלה.
     </sp>
-    <sp who="oykhnh-tmh">
+    <sp who="#oykhnh-tmh">
      <speaker>
       ויכנה-טמה
      </speaker>

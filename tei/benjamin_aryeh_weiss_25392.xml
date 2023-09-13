@@ -54,6 +54,11 @@
        מְדִינָה
       </persName>
      </person>
+     <person xml:id="ֲkַu">
+      <persName>
+       אֲקַו
+      </persName>
+     </person>
      <person xml:id="eֵtsָh">
       <persName>
        עֵצָה
@@ -129,6 +134,11 @@
        פראנץ יאזעף הראשון
       </persName>
      </person>
+     <person xml:id="hַmִluֹs">
+      <persName>
+       הַמִלוֹת
+      </persName>
+     </person>
      <person xml:id="lְuֹm">
       <persName>
        לְאוֹם
@@ -154,11 +164,6 @@
        אֵיכָה
       </persName>
      </person>
-     <person xml:id="hַmִluֹs">
-      <persName>
-       הַמִלוֹת
-      </persName>
-     </person>
      <person xml:id="uֹmֶts">
       <persName>
        אוֹמֶץ
@@ -172,11 +177,6 @@
      <person xml:id="hmdbrim ilidi reyuni hmshurr hmh">
       <persName>
        המדברים ילידי רעיוני המשורר המה
-      </persName>
-     </person>
-     <person xml:id="ֲkַu">
-      <persName>
-       אֲקַו
       </persName>
      </person>
      <person xml:id="lְrַpְuֹs">
@@ -3220,7 +3220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַmִluֹs">
+    <sp who="#hַmִluֹs">
      <speaker>
       הַמִלוֹת
      </speaker>
@@ -6348,7 +6348,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֲkַu">
+    <sp who="#ֲkַu">
      <speaker>
       אֲקַו
      </speaker>

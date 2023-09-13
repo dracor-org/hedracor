@@ -104,7 +104,7 @@
      אַתּ, אַתּ קוראת, מלכה?
     </p>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -119,19 +119,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     כן, תפוח מטוגן! ( נותנת לו והוא אוכל ).
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     בעליך חיים חיי עונג! תפוחים מטוגנים!
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -155,19 +155,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     אך מה לנו ולהם?!… במשך הימים האחרונים אספתי שלוש פעמים שלושה – כמה?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     תשעה!
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -191,7 +191,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -206,13 +206,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     וכמה חסרים אנחנו עוד?
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -227,25 +227,25 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     רוצה יותר…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ואתה נותן?
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     ומה אעשׂה? מלבד זה יש שם ספקות בהכתבים….
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -260,25 +260,25 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ובכן – עוד שלושה-עשׂר!
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     חמשה-עשׂר אמרתי…
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     גם זה נקבץ בנקל – – –
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -293,7 +293,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -326,19 +326,19 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     ואַת?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     אני הראיתי לו את שינַי…
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -353,37 +353,37 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     וזאת מי הגיד לך?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     הבן הגיד לי – – –
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     ואַת?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
     ואני ציויתי להביא שני רובּל כסף…
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     ומאין יקח?
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -398,7 +398,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -413,7 +413,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -437,13 +437,13 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
     יהי כן – אחר החופה נתראה פנים – – –
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -467,7 +467,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="brhm">
+   <sp who="#brhm">
     <speaker>
      אברהם
     </speaker>
@@ -491,7 +491,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>
@@ -523,7 +523,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mlkhh">
+   <sp who="#mlkhh">
     <speaker>
      מלכה
     </speaker>

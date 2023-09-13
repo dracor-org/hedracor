@@ -54,9 +54,14 @@
        פרש
       </persName>
      </person>
-     <person xml:id="hַgֵּd">
+     <person xml:id="lֵmֹr">
       <persName>
-       הַגֵּד
+       לֵאמֹר
+      </persName>
+     </person>
+     <person xml:id="eֲtsָsִi">
+      <persName>
+       עֲצָתִי
       </persName>
      </person>
      <person xml:id="sshubh">
@@ -74,16 +79,6 @@
        נעה"מ
       </persName>
      </person>
-     <person xml:id="ֶkָּrֵ">
-      <persName>
-       אֶקָּרֵא
-      </persName>
-     </person>
-     <person xml:id="mִshְׁpָtִi">
-      <persName>
-       מִשְׁפָּטִי
-      </persName>
-     </person>
      <person xml:id="hner">
       <persName>
        הנער
@@ -99,6 +94,11 @@
        העבד
       </persName>
      </person>
+     <person xml:id="hַgֵּd">
+      <persName>
+       הַגֵּד
+      </persName>
+     </person>
      <person xml:id="sm hsfr">
       <persName>
        תם הספר
@@ -109,14 +109,14 @@
        כבוד ידידי הרב כו' הרא’ב גאטטלאבער ני'
       </persName>
      </person>
-     <person xml:id="uַiִּkְrָ">
+     <person xml:id="lִi">
       <persName>
-       וַיִּקְרָא
+       לִי
       </persName>
      </person>
-     <person xml:id="lֵmֹr">
+     <person xml:id="ֶkָּrֵ">
       <persName>
-       לֵאמֹר
+       אֶקָּרֵא
       </persName>
      </person>
      <person xml:id="ss">
@@ -124,14 +124,19 @@
        סתא
       </persName>
      </person>
-     <person xml:id="uֵָbְkhְּ">
+     <person xml:id="uַtֹmְrִi">
       <persName>
-       וָאֵבְךְּ
+       וַתֹּאמְרִי
       </persName>
      </person>
      <person xml:id="rsh hkhhnim">
       <persName>
        ראש הכהנים
+      </persName>
+     </person>
+     <person xml:id="uַiִּkְrָ">
+      <persName>
+       וַיִּקְרָא
       </persName>
      </person>
      <person xml:id="ebd shlishi">
@@ -149,14 +154,14 @@
        רחל
       </persName>
      </person>
-     <person xml:id="lִi">
-      <persName>
-       לִי
-      </persName>
-     </person>
      <person xml:id="ebd shni">
       <persName>
        עבד שני
+      </persName>
+     </person>
+     <person xml:id="uֵָbְkhְּ">
+      <persName>
+       וָאֵבְךְּ
       </persName>
      </person>
      <person xml:id="dih">
@@ -174,6 +179,11 @@
        סלדין
       </persName>
      </person>
+     <person xml:id="rְtsuֹnִi">
+      <persName>
+       רְצוֹנִי
+      </persName>
+     </person>
      <person xml:id="shr em ebdim">
       <persName>
        שר עם עבדים
@@ -184,9 +194,9 @@
        נת
       </persName>
      </person>
-     <person xml:id="dִּmִּisִi">
+     <person xml:id="mִshְׁpָtִi">
       <persName>
-       דִּמִּיתִי
+       מִשְׁפָּטִי
       </persName>
      </person>
      <person xml:id="frsh hhikhl">
@@ -214,9 +224,9 @@
        ראה"כ
       </persName>
      </person>
-     <person xml:id="rְtsuֹnִi">
+     <person xml:id="dִּmִּisִi">
       <persName>
-       רְצוֹנִי
+       דִּמִּיתִי
       </persName>
      </person>
      <person xml:id="mntsur">
@@ -229,11 +239,6 @@
        כהן הראש
       </persName>
      </person>
-     <person xml:id="uַtֹmְrִi">
-      <persName>
-       וַתֹּאמְרִי
-      </persName>
-     </person>
      <person xml:id="pָrָsh-hֵikhָl">
       <persName>
        פָּרָש-הֵיכָל
@@ -242,11 +247,6 @@
      <person xml:id="akhְ lֹ ֶs hַkֹhֵn">
       <persName>
        אַךְ לֹא אֶת הַכֹּהֵן
-      </persName>
-     </person>
-     <person xml:id="eֲtsָsִi">
-      <persName>
-       עֲצָתִי
       </persName>
      </person>
      <person xml:id="nsn">
@@ -8634,7 +8634,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uַtֹmְrִi">
+    <sp who="#uַtֹmְrִi">
      <speaker>
       וַתֹּאמְרִי
      </speaker>
@@ -13291,7 +13291,7 @@
       אלהפי
      </speaker>
     </sp>
-    <sp who="uַiִּkְrָ">
+    <sp who="#uַiִּkְrָ">
      <speaker>
       וַיִּקְרָא
      </speaker>
@@ -16657,7 +16657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֶkָּrֵ">
+    <sp who="#ֶkָּrֵ">
      <speaker>
       אֶקָּרֵא
      </speaker>
@@ -17517,13 +17517,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mִshְׁpָtִi">
+    <sp who="#mִshְׁpָtִi">
      <speaker>
       מִשְׁפָּטִי
      </speaker>
      לְכוּ לָכֶם לְדַרְכֵיכֶם! – אֶפֶס
     </sp>
-    <sp who="eֲtsָsִi">
+    <sp who="#eֲtsָsִi">
      <speaker>
       עֲצָתִי
      </speaker>
@@ -19479,7 +19479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַgֵּd">
+    <sp who="#hַgֵּd">
      <speaker>
       הַגֵּד
      </speaker>
@@ -21330,7 +21330,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rְtsuֹnִi">
+    <sp who="#rְtsuֹnִi">
      <speaker>
       רְצוֹנִי
      </speaker>
@@ -23521,7 +23521,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lִi">
+    <sp who="#lִi">
      <speaker>
       לִי
      </speaker>
@@ -25520,7 +25520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uֵָbְkhְּ">
+    <sp who="#uֵָbְkhְּ">
      <speaker>
       וָאֵבְךְּ
      </speaker>
@@ -25696,7 +25696,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lֵmֹr">
+    <sp who="#lֵmֹr">
      <speaker>
       לֵאמֹר
      </speaker>
@@ -28088,7 +28088,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dִּmִּisִi">
+    <sp who="#dִּmִּisִi">
      <speaker>
       דִּמִּיתִי
      </speaker>

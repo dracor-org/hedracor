@@ -49,9 +49,44 @@
   <profileDesc>
    <particDesc>
     <listPerson>
+     <person xml:id="khnh">
+      <persName>
+       חנה
+      </persName>
+     </person>
+     <person xml:id="lyezr">
+      <persName>
+       אליעזר
+      </persName>
+     </person>
      <person xml:id="dburh">
       <persName>
        דבורה
+      </persName>
+     </person>
+     <person xml:id="'">
+      <persName>
+       א'
+      </persName>
+     </person>
+     <person xml:id="g'">
+      <persName>
+       ג'
+      </persName>
+     </person>
+     <person xml:id="yukhnn">
+      <persName>
+       יוחנן
+      </persName>
+     </person>
+     <person xml:id="shmeun">
+      <persName>
+       שמעון
+      </persName>
+     </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
       </persName>
      </person>
      <person xml:id="mssihu">
@@ -64,24 +99,9 @@
        וְאֵין מֶלֶךּ וְאֵין שָׂר
       </persName>
      </person>
-     <person xml:id="khnh">
+     <person xml:id="b'">
       <persName>
-       חנה
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="lyezr">
-      <persName>
-       אליעזר
-      </persName>
-     </person>
-     <person xml:id="yukhnn">
-      <persName>
-       יוחנן
+       ב'
       </persName>
      </person>
      <person xml:id="d'">
@@ -89,34 +109,14 @@
        ד'
       </persName>
      </person>
-     <person xml:id="g'">
-      <persName>
-       ג'
-      </persName>
-     </person>
-     <person xml:id="'">
-      <persName>
-       א'
-      </persName>
-     </person>
-     <person xml:id="b'">
-      <persName>
-       ב'
-      </persName>
-     </person>
-     <person xml:id="ihudh">
-      <persName>
-       יהודה
-      </persName>
-     </person>
      <person xml:id="yunsn">
       <persName>
        יונתן
       </persName>
      </person>
-     <person xml:id="shmeun">
+     <person xml:id="ihudh">
       <persName>
-       שמעון
+       יהודה
       </persName>
      </person>
     </listPerson>
@@ -214,7 +214,7 @@
 לרגליה ונשענים עליהן שוכבים יונתן ודבורה הקטנים.
      </p>
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -270,7 +270,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="uְֵin mֶlֶkhּ uְֵin sָr">
+    <sp who="#uְֵin mֶlֶkhּ uְֵin sָr">
      <speaker>
       וְאֵין מֶלֶךּ וְאֵין שָׂר
      </speaker>
@@ -358,7 +358,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -382,7 +382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -434,55 +434,55 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      ואני אומר שגם ליהודה נאה שם גבור.
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      מפני מה ליהודה?
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      מפני מעשה חילון של היום.
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      שוב מעשה בחילון, – מה היה היום?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      הלא תדעי, אמא, את השקץ היוני הזה. הוא נכנס היום אל גננו – וישר
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      הידד!
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      (מראה בידיו): ומשוך, ומשוך, ככה! ככה!
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      ומה היה בסוף?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -497,7 +497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -512,91 +512,91 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      כמו שעשה דוד לארי ולדב, כשאחז בזקנם?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      כמו דוד!
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      הגם לחילן יש זקן?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      לא, יונתן. לחילון סנטר חלק ואני זעזעתי את הסנטר שלו.
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      ומה היה סוף הדבר?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      בסוף – בכה ונשק את ידי והתחנן לפני שאשלח אותו לחפשי – ושלחתי
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      הידד, יהודה הגבור!
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      אבל האם לא טוב לך, יהודה, להמנע מריב?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      מריב עם חילון? מה לו ולגננו? למה הוא בא אלינו יום יום?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      האינך יודע, כי הוא בן שכננו. אביו יושב לא רחוק מאתנו בבית אשר
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      אני יודע. אביו גר בביתו של ידעיה המת, ואינו נותן לבני ידעיה
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      אומרים שהוא הרג את ידעיה. הוא רצח וירש.
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      הלא הוא שר של היונים ועושה כל מה שהוא רוצה. אומרים, שהוא יהרג
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      שטויות, ילדים. מי שם דברים כאלה בפיכם? היונים לא יהרגו את
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -609,121 +609,121 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      (מתוך מחשבה): אמא, איה הר תבור אשר שם נלחמה דבורה?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא חוק מהרי אפרים, בתי.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      אצל אלון בצעננים?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא, חמדתי. אלון בצעננים מן הצד הוא. לשם הלכה משפחת חבר להסתר מפני
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      ואיה ארץ יון – אצל הר תבור?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא, בן זקונים שלי. ארץ יון רחוק מאד מאד. לא בארץ ישראל היא.
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      ומה עושים פה היונים?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      אנשים רעים הם. הם רוצים לקחת את אשר לנו.
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      והם באים אל גננו וגוזלים ושודדים.
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      והם מעמידים אלילים בערינו, צלמי עץ ואבן, ואומרים לנו: השתחוו
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      ונעריהם מתגרים בנו.
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      היונים הם עם נורא.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      נורא, נורא, אמי. נורא היה הספור, שספר לנו אבא אתמול על חנה
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      כמה אמץ היה בלבם. כמה אהבה לעמם ולאלהים.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      יונתן בכה אתמול כל כך, וגם אני לא יכלתי להתאפק. אמא, לא
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      גם קולו של אבא נשמע מתוך דמעות, והוא רעד מאד…
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      רק יהודה ישב והקשיב לספור בדומיה.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      כן, רק יהודה ישב והקשיב והקשיב, ועיניו הביטו לנגד, לנגד, כאלו
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      היש עתה גבורים כאלה, כבני חנה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -736,13 +736,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      אבא אמר לנו, שאלו גדלו בני חנה היו מביאים ישועה לעמנו.
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -755,127 +755,127 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      היש אצלנו הרבה יונים?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      (באנחה): יש הרבה מהם בכל רחוב.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      מאימתי באו הנה? ההיו בארצנו גם בימי דבורה?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא, בתי. בימים הטובים ההם לא ישבו היונים בארצנו. אז היתה הארץ
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      אבל בכל המלחמות נשפך גם הרבה דם של היהודים…
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      ודאי, אלא שגבורינו לא חסו על דמם, עד שגרשו את האויב כלה.
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      דוד היה המלך היותר חזק. לא כן, אמא? הלא הוא הכה גם ארי ודב!…
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      אמרי נא, אמא, והיהודים הולכים לארץ היונים? היש יהודים ביון?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      מה תשאלי, בתי? הילכו יהודים טובים ועזבו את ארצנו לשבת בארץ נכריה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      (מתוך מחשבה): אם כן, אלו הרגנו פה את היונים בארצנו לא היו
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא, בתי.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      היכן יהודה? לאן הלך יהודה?
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      וכי מה לך וליהודה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      רוצה אני לומר, שיהודה שלנו חזק ואמיץ מאד. בבקר טילנו הנה והנה
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      לא, בתי. עוד לא העמידו אותו. אולם מה את אמרת לו, ליהודה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      אני אמרתי לו, שגם אני אלך אתו יחד למלחמה.
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      (בהתעוררות): וגם אני אלך אתו יחד!
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      גם אני!
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      כלנו גבורים!
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      לא, יוחנן. יהודה גבור יותר ממך. אני אוהבת אותו יותר.
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
@@ -905,85 +905,85 @@
     </sp>
     <sp>
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      כל הפסילים שלהם עשוים בתבנית אדם: גוף, ידים, רגלים ופנים, – והם
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      פה להם ולא ידברוּ, עינים להם ולא יראו, אזנים להם ולא ישמעו, אף
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      וזקן יש לסנטר שלהם?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      יש.
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      אוי, אוי, אוי. אני הייתי אוחז בידים ככה את הזקן שלהם כמו…
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      והיו כלם מתגלגלים למטה תחת רגליך הקטנות, בני חביבי! (נושקת לו).
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      חזק הוא, יונתן, הפסל שלהם!
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      אמר לו, יונתן, כי א ת ה חזק.
     </sp>
-    <sp who="lyezr">
+    <sp who="#lyezr">
      <speaker>
       אליעזר
      </speaker>
      אומרים, כי ארבעה שומרים יונים יעמדו אצלו לשמירה…
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      וכמה אנחנו? אני ואתה ויוחנן ושמעון – הרי גם כן ארבּעה.
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      ואני – הרי חמשה!
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      ומי עוד!
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      יהודה!
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
@@ -1048,13 +1048,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      כן, בקשתם אותי ומצאתם אותי, וגם אני חפשתי ומצאתי. הנה כפות קלע,
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -1067,121 +1067,121 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      טוב, אחי. הננו קלעים טובים מאד. אנחנו נפיל את הפסל. הוא יהיה
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      יעשה את הרגלים – אנחנו נשברן.
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      את כל הפסל נשבר!
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      ואת הזקן נתלש, נתלש, ולא נשאיר אף שערה אחת!
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      חכה, יהודה, יש לי עוד דבר (רצה מביא קשת).
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      בהתפעלות: קשת? קשת? מהיכן לקחת אותה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      בבית גנזי אבא ראיתי אותה היום אחרי שהחלטתי ללכת אתך, יהודה,
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      התתני לי אותה?
     </sp>
-    <sp who="dburh">
+    <sp who="#dburh">
      <speaker>
       דבורה
      </speaker>
      (בכבוד): הנה לך, יהודה הגבור מכל אחי!
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      (נושקה): מה מאשר אנכי, דבורה (מתבונן אל הקשת), יודעים אתם, אחי,
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      אפשר מימי יהושפט, שנלחם מלחמות רבות.
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
      מימי דוד, מימי דוד!
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      וכך נלך בלילה ונזרק אבנים בפסל. אני אירה בו בקשת ונחריד את
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      היהיו גם שומרים לו?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      כן, יהיו.
     </sp>
-    <sp who="yukhnn">
+    <sp who="#yukhnn">
      <speaker>
       יוחנן
      </speaker>
      ואם השומרים ירדפונו?
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      ירדפונו? נשוב אל מעשנו בלילה השני, בשלישי וברביעי, עד אשר
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      כלנו נהיה נכונים.
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      השביענו, יהודה!
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -1198,25 +1198,25 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      (מרימים ידיהם): אנחנו נשבעים!
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      (כנ"ל): ואם גם ירדפונו השומרים ידינו לא תרפינה!
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      (כנ"ל): אנחנו נשבעים!
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -1260,61 +1260,61 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      העם התעורר!
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      הרי היה העם מעט בצהרים אצל המזבח, בשעת הרעש. ואיך אעצר בבנינו.
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      שמרי עליהם. התבונני לדרכיהם, וכי מה? האת פוחדת, חנה?
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      האני אפחד? היודע אתה, - דבורה שאלתני, אם דומה אני ל“חנה”…
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      לא! אל תדמי לחנה שמתו ילדיה תחת חרב האויב, אלא לחנה אם שמואל
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      אויה, אויה. אחרית הדבר שהחלות מי ישורנה!
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      בטחוני גדול באלהים, באלהי אבותינו. אל תשאלי לאחרית הדבר. אני
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
      אך ודאי שנודע כבר הדבר לשר והתאספו מחנות האויב… הרואה אתה,
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      את הכל אני רואה חנה! ולפיכך אין מה להמתין עוד. גאון עמי קורא
     </sp>
-    <sp who="khnh">
+    <sp who="#khnh">
      <speaker>
       חנה
      </speaker>
@@ -1337,43 +1337,43 @@
     </sp>
     <sp>
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      ומה?
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      הכדאי היה בשביל כך לבוא הנה מארצנו?
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      (בלעג): האין זאת עבודה קדושה לשמר את האלהים?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      אין כונת השר אלא לדכא פה את כל היהודים ולכבשם.
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      לכבש – למי?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      לא לי.
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
@@ -1386,241 +1386,241 @@
     </sp>
     <sp>
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      (מתוך מחשבה): לעולם לא נכבש את היהודים.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      (מחפש בבגדיו): וכי מה רע לכם פה? הקר לכם בארץ זו?
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      ודאי, שהלילות קרים ובכל גופי עוברת רעדה.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      יש סגולה לקור.
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      איזו סגולה – ת של צמר או כביר העזים?
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      הראיתם את כרמי היהודים המשתרעים מסביב לעיר? הכרמים הגדולים
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      הטעמת כבר מיין היהודים?
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      ה, ה, ה. עוד ביום הראשון לבואי הנה סרתי אל בית המרזח היהודי אשר
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      כמדומני, שהמוזג אשר ברחוב ירושלים הוא אדם חשוב אצלם, אחד מגדולי
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      מה שמו של היהודי הזה?
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      דומה אני, ששמו אביגעל.
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      אם אביגעל שמו הלא הוא נהרג היום.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      על ידי מי? על ידי השר שלנו?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      לא ולא. אתם רואים את הבית היפה הזה?
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      באשר הכרם הגדול מסביב?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      כן, בבית הזה יושב אחד הכהנים הגדולים של היהודים, והוא שונא
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      יהודי שונא ליהודי!
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      זה אפשר, אם יד אביגעל היתה עמנו, כלומר עם שרנו. היהודים שונאים מאד
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      הדבר היה כך. אני עברתי שם בשעת מעשה וראיתי שאביגעל מוליך איל אחד
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      לירושלים עיר הקדש?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      לא לירושלים, אלא לכאן, להקריב לאלהינו.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      ההיה זה איל מדושן?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      איל גדול ועבה שאין רואים כמהו בארצנו. בשרו היה רך ושמן. מפלי בשר
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      ומה היה?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      עמד אביגעל זה על יד המזבח וכרע על ברכיו ועקד את אילו והניף סכינו
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      על ידי מי?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      הכהן הגדול שלהם, אשר בבית הזה, נתגלה פתאם, ואתו המון אנשים, כהנים,
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      וכל היהודים?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      יתר היהודים הריעו תרועות שמחה וגבורה והלכו ברעש אל לשכת העדה.
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      ואתה לא פחדת לעמד שם בין היהודים באותה שעה?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      ראיתי שהתחילו לוטשים עין לי והתחמקתי ונכנסתי אל חצר שרנו.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      (מוציא בקבוק יין): נשתה, אחים! (שותה ומגיש יין גם לראשון).
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      (שותה): באמת, היין מחמם. (לרביעי) היודע אתה, ספּורך הפיל עלי חרדה,
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      מראה הכהן כמראה אחד הקדושים שלנו ואמץ לבו היה כאמץ הגבורים שלנו,
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      מפני כהניהם של היהודים מפחדים המלכים הגדולים שבעולם. אלכסנדר מלך
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      הספרת את הדבר לשר?
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      ספרתי לו, והוא היה נבהל מאד. הוא אמר, שהיהודים מכינים עצמם למלחמה
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
      (שותה עוד) אין דבר. יין מפיג פחד. התשתו, אחים?
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      לא.
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
@@ -1638,13 +1638,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      (לרביעי): אם כפי דבריך, שהיהודים מכינים עצמם למלחמה, הרי אפשר
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
@@ -1670,13 +1670,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      (מתוך מחשבה ופחד): שופך הפנס את אורו הכהה על פני אלהינו, והם כל כך
     </sp>
-    <sp who="b'">
+    <sp who="#b'">
      <speaker>
       ב'
      </speaker>
@@ -1709,55 +1709,55 @@
     </sp>
     <sp>
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      הוא הלך שכור, ומצות השר היתה חזקה לשמר את האלהים הלילה.
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      וטוב עשה, שהלך. הלילה יבואו היהודים…
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      היהודים – אתה אומר. משרת הייתי אצל היהודים ולמדתי מעט את שפתם.
     </sp>
-    <sp who="d'">
+    <sp who="#d'">
      <speaker>
       ד'
      </speaker>
      לו יכלנו לשלח את שרנו הלילה הזה לשמירה… אני לא אוכל עמד כאן…
     </sp>
-    <sp who="'">
+    <sp who="#'">
      <speaker>
       א'
      </speaker>
      דומה אני, שמימי לא עברה עלי שעת לילה קשה כזאת… ובאמת, מה נעשה,
     </sp>
-    <sp who="g'">
+    <sp who="#g'">
      <speaker>
       ג'
      </speaker>
      ואותי מפחידים עוד יותר העננים הכבדים התלוים בשמים. ערפל של בלהות.
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      הנה אני ושמעון באים עתה מלשכת העדה. ההמון רב שם. מתרוצצים,
     </sp>
-    <sp who="shmeun">
+    <sp who="#shmeun">
      <speaker>
       שמעון
      </speaker>
      הנה הגענו כבר למקום אשר סמנו ביום. הנה הפנס המאיר למוּל הפסל.
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
@@ -1776,7 +1776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -1788,7 +1788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -1803,13 +1803,13 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      ראה, איננו!
     </sp>
-    <sp who="yunsn">
+    <sp who="#yunsn">
      <speaker>
       יונתן
      </speaker>
@@ -1857,43 +1857,43 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihudh">
+    <sp who="#ihudh">
      <speaker>
       יהודה
      </speaker>
      אנחנו, אבא, נלחם, נלחם!
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      אנחנו, אבא, נלחם, נלחם!
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      בעד עמכם, בעד ארצכם ובעד אלהיכם!
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      בעד עמנו, בעד ארצנו ובעד אלהינו!
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>
      ובכל כח עלומיכם ובחרף נפש ובעז ובאש!
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
      בכל חיינו, אבינו!
     </sp>
-    <sp who="mssihu">
+    <sp who="#mssihu">
      <speaker>
       מתתיהו
      </speaker>

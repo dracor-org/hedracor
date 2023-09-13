@@ -84,11 +84,6 @@
        מיכיהו
       </persName>
      </person>
-     <person xml:id="omַrְtִi">
-      <persName>
-       אָמַרְתִּי
-      </persName>
-     </person>
      <person xml:id="tsir mub">
       <persName>
        ציר מואב
@@ -122,6 +117,11 @@
      <person xml:id="eubdih">
       <persName>
        עובדיה
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
       </persName>
      </person>
      <person xml:id="hmkhulls">
@@ -169,11 +169,6 @@
        הכמר
       </persName>
      </person>
-     <person xml:id="hshrim">
-      <persName>
-       השרים
-      </persName>
-     </person>
      <person xml:id="hַֻmְnָm">
       <persName>
        הַאֻמְנָם
@@ -182,6 +177,11 @@
      <person xml:id="tsָdַkְtָ">
       <persName>
        צָדַקְתָּ
+      </persName>
+     </person>
+     <person xml:id="hshrim">
+      <persName>
+       השרים
       </persName>
      </person>
      <person xml:id="hָeֶlֶm">
@@ -199,14 +199,14 @@
        אלישע
       </persName>
      </person>
-     <person xml:id="hshfkhus">
-      <persName>
-       השפחות
-      </persName>
-     </person>
      <person xml:id="nִshְׁbָeְtִi">
       <persName>
        נִשְׁבָּעְתִּי
+      </persName>
+     </person>
+     <person xml:id="hshfkhus">
+      <persName>
+       השפחות
       </persName>
      </person>
      <person xml:id="hzr">
@@ -284,14 +284,14 @@
        עלילה ראשונה
       </persName>
      </person>
-     <person xml:id="iָdַeְtִi">
-      <persName>
-       יָדַעְתִּי
-      </persName>
-     </person>
      <person xml:id="lihu">
       <persName>
        אליהו
+      </persName>
+     </person>
+     <person xml:id="iָdַeְtִi">
+      <persName>
+       יָדַעְתִּי
       </persName>
      </person>
      <person xml:id="htsir">
@@ -1595,7 +1595,7 @@
       הזר
      </speaker>
     </sp>
-    <sp who="iָdַeְtִi">
+    <sp who="#iָdַeְtִi">
      <speaker>
       יָדַעְתִּי
      </speaker>
@@ -2417,7 +2417,7 @@
       בעצבונה ובוזה
      </p>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>
@@ -6593,7 +6593,7 @@
       אחיקר
      </speaker>
     </sp>
-    <sp who="tsָdַkְtָ">
+    <sp who="#tsָdַkְtָ">
      <speaker>
       צָדַקְתָּ
      </speaker>
@@ -6871,7 +6871,7 @@
       אחיקר
      </speaker>
     </sp>
-    <sp who="nִshְׁbָeְtִi">
+    <sp who="#nִshְׁbָeְtִi">
      <speaker>
       נִשְׁבָּעְתִּי
      </speaker>
@@ -7857,7 +7857,7 @@
       המלך
      </speaker>
     </sp>
-    <sp who="omַrְtִi">
+    <sp who="#omַrְtִi">
      <speaker>
       אָמַרְתִּי
      </speaker>
@@ -7880,7 +7880,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="iָdַeְtִi">
+    <sp who="#iָdַeְtִi">
      <speaker>
       יָדַעְתִּי
      </speaker>
@@ -9858,7 +9858,7 @@
       בשחוק
      </p>
     </sp>
-    <sp who="hַֻmְnָm">
+    <sp who="#hַֻmְnָm">
      <speaker>
       הַאֻמְנָם
      </speaker>
