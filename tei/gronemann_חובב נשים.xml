@@ -82,13 +82,13 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="print" when="2023">
+      <event type="print" when="1940">
         <desc/>
       </event>
-      <event type="premiere" when="2023">
+      <event type="premiere" when="1940">
         <desc/>
       </event>
-      <event type="written" when="2023">
+      <event type="written" when="1940">
         <desc/>
       </event>
     </listEvent>
