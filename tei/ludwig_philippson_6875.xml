@@ -49,19 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="es hmeshh">
+     <person xml:id="khshdi uhkudmim">
       <persName>
-       עת המעשה
+       כשדי והקודמים
       </persName>
      </person>
-     <person xml:id="mkum hmkhzh">
+     <person xml:id="khmutl ishmel">
       <persName>
-       מקום המחזה
-      </persName>
-     </person>
-     <person xml:id="ishmel besh">
-      <persName>
-       ישמעאל בעשא
+       חמוטל ישמעאל
       </persName>
      </person>
      <person xml:id="zbidh ugdlihu">
@@ -74,14 +69,19 @@
        ישמעאל עגלון בעשא
       </persName>
      </person>
-     <person xml:id="khmutl ishmel">
+     <person xml:id="mkum hmkhzh">
       <persName>
-       חמוטל ישמעאל
+       מקום המחזה
       </persName>
      </person>
-     <person xml:id="gdlihu yukhnn">
+     <person xml:id="ishmel besh">
       <persName>
-       גדליהו יוחנן
+       ישמעאל בעשא
+      </persName>
+     </person>
+     <person xml:id="mkhzh ">
+      <persName>
+       מחזה א
       </persName>
      </person>
      <person xml:id="khmutl uzbidh">
@@ -89,9 +89,14 @@
        חמוטל וזבידה
       </persName>
      </person>
-     <person xml:id="yukhnn b mfskh hbis, khryu shlikh">
+     <person xml:id="gdlihu yukhnn">
       <persName>
-       יוחנן בא מפתח הבית, אחריו שליח
+       גדליהו יוחנן
+      </persName>
+     </person>
+     <person xml:id="es hmeshh">
+      <persName>
+       עת המעשה
       </persName>
      </person>
      <person xml:id="ishְׁal">
@@ -99,14 +104,9 @@
        יִשְׁאַל
       </persName>
      </person>
-     <person xml:id="khshdi uhkudmim">
+     <person xml:id="yukhnn b mfskh hbis, khryu shlikh">
       <persName>
-       כשדי והקודמים
-      </persName>
-     </person>
-     <person xml:id="mkhzh ">
-      <persName>
-       מחזה א
+       יוחנן בא מפתח הבית, אחריו שליח
       </persName>
      </person>
     </listPerson>
@@ -1045,7 +1045,7 @@
       אנשים, נשים ונערות, כשדים ועמונים.
      </p>
     </sp>
-    <sp who="es hmeshh">
+    <sp who="#es hmeshh">
      <speaker>
       עת המעשה
      </speaker>
@@ -1053,7 +1053,7 @@
       : קרוב אחר חרבת ירושלים בפעם הראשונה.
      </p>
     </sp>
-    <sp who="mkum hmkhzh">
+    <sp who="#mkum hmkhzh">
      <speaker>
       מקום המחזה
      </speaker>
@@ -2482,7 +2482,7 @@
       מקום בבירת מצפה, לשמאלה שער מקורה; קרוב לו בית גדול נחמד למראּה, בירכתים ימה מקום גבוה, משם עין רואה למרחוק ונשקף על פני הישמון וההרים וקצה העיר ירושלים השוממה.
      </p>
     </sp>
-    <sp who="mkhzh ">
+    <sp who="#mkhzh ">
      <speaker>
       מחזה א.
      </speaker>
@@ -2492,7 +2492,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yukhnn b mfskh hbis, khryu shlikh">
+    <sp who="#yukhnn b mfskh hbis, khryu shlikh">
      <speaker>
       יוחנן בא מפתח הבית, אחריו שליח.
      </speaker>
@@ -3401,7 +3401,7 @@
     </sp>
    </div>
    <div>
-    <sp who="gdlihu yukhnn">
+    <sp who="#gdlihu yukhnn">
      <speaker>
       גדליהו יוחנן.
      </speaker>
@@ -4104,7 +4104,7 @@
     </sp>
    </div>
    <div>
-    <sp who="khshdi uhkudmim">
+    <sp who="#khshdi uhkudmim">
      <speaker>
       כשדי והקודמים.
      </speaker>
@@ -5099,7 +5099,7 @@
     </sp>
    </div>
    <div>
-    <sp who="zbidh ugdlihu">
+    <sp who="#zbidh ugdlihu">
      <speaker>
       זבידה וגדליהו.
      </speaker>
@@ -7063,7 +7063,7 @@
     </sp>
    </div>
    <div>
-    <sp who="ishmel eglun besh">
+    <sp who="#ishmel eglun besh">
      <speaker>
       ישמעאל עגלון בעשא
      </speaker>
@@ -9138,7 +9138,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khmutl uzbidh">
+    <sp who="#khmutl uzbidh">
      <speaker>
       חמוטל וזבידה.
      </speaker>
@@ -13611,7 +13611,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khmutl ishmel">
+    <sp who="#khmutl ishmel">
      <speaker>
       חמוטל ישמעאל.
      </speaker>
@@ -18022,7 +18022,7 @@
     </sp>
    </div>
    <div>
-    <sp who="gdlihu yukhnn">
+    <sp who="#gdlihu yukhnn">
      <speaker>
       גדליהו יוחנן.
      </speaker>
@@ -18281,7 +18281,7 @@
     </sp>
    </div>
    <div>
-    <sp who="ishmel besh">
+    <sp who="#ishmel besh">
      <speaker>
       ישמעאל בעשא.
      </speaker>

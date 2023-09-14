@@ -49,19 +49,29 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="h“gbrs”">
+     <person xml:id="r' ltr">
       <persName>
-       ה“גברת”
+       ר' אלתּר
+      </persName>
+     </person>
+     <person xml:id="klm">
+      <persName>
+       כּלם
       </persName>
      </person>
      <person xml:id="bilh">
       <persName>
-       בּילה
+       בילה
       </persName>
      </person>
-     <person xml:id="hgbrs">
+     <person xml:id="r' lsr. (mlkk s shfsyu)">
       <persName>
-       הגברת
+       ר' אלתר. (מלקק את שפתיו)
+      </persName>
+     </person>
+     <person xml:id="kheym uhnshim">
+      <persName>
+       חיים והנשים
       </persName>
      </person>
      <person xml:id="mkum mkhzh bmtbkh">
@@ -71,42 +81,12 @@
      </person>
      <person xml:id="bilh">
       <persName>
-       בילה
+       בּילה
       </persName>
      </person>
-     <person xml:id="r' ltr">
+     <person xml:id="h“gbrs”">
       <persName>
-       ר' אלתּר
-      </persName>
-     </person>
-     <person xml:id="khlm">
-      <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="klm">
-      <persName>
-       כּלם
-      </persName>
-     </person>
-     <person xml:id="r'">
-      <persName>
-       ר'
-      </persName>
-     </person>
-     <person xml:id="frdil">
-      <persName>
-       פרדיל
-      </persName>
-     </person>
-     <person xml:id="bilh ufrdil">
-      <persName>
-       בילה ופרדיל
-      </persName>
-     </person>
-     <person xml:id="r' lsr">
-      <persName>
-       ר' אלתר
+       ה“גברת”
       </persName>
      </person>
      <person xml:id="kheym ultr">
@@ -114,14 +94,19 @@
        חיים ואלתּר
       </persName>
      </person>
-     <person xml:id="kheym uhnshim">
+     <person xml:id="hgbrs">
       <persName>
-       חיים והנשים
+       הגברת
       </persName>
      </person>
-     <person xml:id="r' alsr">
+     <person xml:id="r' lsr">
       <persName>
-       ר' אַלתר
+       ר' אלתר
+      </persName>
+     </person>
+     <person xml:id="r'">
+      <persName>
+       ר'
       </persName>
      </person>
      <person xml:id="kheym">
@@ -129,14 +114,29 @@
        חיים
       </persName>
      </person>
+     <person xml:id="khlm">
+      <persName>
+       כלם
+      </persName>
+     </person>
+     <person xml:id="frdil">
+      <persName>
+       פרדיל
+      </persName>
+     </person>
      <person xml:id="r' altr">
       <persName>
        ר' אַלתּר
       </persName>
      </person>
-     <person xml:id="r' lsr. (mlkk s shfsyu)">
+     <person xml:id="r' alsr">
       <persName>
-       ר' אלתר. (מלקק את שפתיו)
+       ר' אַלתר
+      </persName>
+     </person>
+     <person xml:id="bilh ufrdil">
+      <persName>
+       בילה ופרדיל
       </persName>
      </person>
     </listPerson>
@@ -160,7 +160,7 @@
  <text>
   <body>
    <div>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -168,7 +168,7 @@
       . מבשלת, אלמנה למעלה משלשים, אשה מלאה ובריאה.
      </p>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -176,7 +176,7 @@
       . משרתת, שחרחרת מלאת חן.
      </p>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -186,7 +186,7 @@
 מלוכלכת וקפילוש מעוך על ראשו. הוא משדך את עצמו אל המבשלת.
      </p>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -195,7 +195,7 @@
 אתעמו אל המשרתת.
      </p>
     </sp>
-    <sp who="h“gbrs”">
+    <sp who="#h“gbrs”">
      <speaker>
       ה“גברת”.
      </speaker>
@@ -204,7 +204,7 @@
 המחזה האחרון.
      </p>
     </sp>
-    <sp who="mkum mkhzh bmtbkh">
+    <sp who="#mkum mkhzh bmtbkh">
      <speaker>
       מקום מחזה במטבח
      </speaker>
@@ -214,7 +214,7 @@
     </sp>
    </div>
    <div>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -336,7 +336,7 @@
     </sp>
    </div>
    <div>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -372,7 +372,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -392,7 +392,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -409,7 +409,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -428,7 +428,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -438,7 +438,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -457,7 +457,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -469,7 +469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -482,7 +482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -494,7 +494,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -523,7 +523,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -570,7 +570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בּילה
      </speaker>
@@ -583,7 +583,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -596,7 +596,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בּילה
      </speaker>
@@ -609,7 +609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -619,7 +619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -630,7 +630,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -651,7 +651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -661,7 +661,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -673,7 +673,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -683,7 +683,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -699,7 +699,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -721,7 +721,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -740,7 +740,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בּילה.
      </speaker>
@@ -750,7 +750,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' alsr">
+    <sp who="#r' alsr">
      <speaker>
       ר' אַלתר.
      </speaker>
@@ -761,7 +761,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -771,7 +771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -783,7 +783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -794,7 +794,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -825,7 +825,7 @@
     </sp>
    </div>
    <div>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -837,7 +837,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -850,7 +850,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -941,7 +941,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -951,7 +951,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -968,7 +968,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -986,7 +986,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -999,7 +999,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1014,7 +1014,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1035,7 +1035,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1057,7 +1057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1069,7 +1069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1081,7 +1081,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1093,7 +1093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1103,7 +1103,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1115,7 +1115,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1140,7 +1140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1150,7 +1150,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1160,7 +1160,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1170,7 +1170,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1183,7 +1183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1193,7 +1193,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1207,7 +1207,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1220,7 +1220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1230,7 +1230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1240,7 +1240,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1254,7 +1254,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh ufrdil">
+    <sp who="#bilh ufrdil">
      <speaker>
       בילה ופרדיל.
      </speaker>
@@ -1271,7 +1271,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1281,7 +1281,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh ufrdil">
+    <sp who="#bilh ufrdil">
      <speaker>
       בילה ופרדיל.
      </speaker>
@@ -1294,7 +1294,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1304,7 +1304,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1314,7 +1314,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1324,7 +1324,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1337,7 +1337,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1347,7 +1347,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1361,7 +1361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1371,7 +1371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -1381,7 +1381,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1398,7 +1398,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1408,7 +1408,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1418,7 +1418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1431,7 +1431,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1441,7 +1441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -1451,7 +1451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1464,7 +1464,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1474,7 +1474,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1484,7 +1484,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1495,7 +1495,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1516,7 +1516,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' altr">
+    <sp who="#r' altr">
      <speaker>
       ר' אַלתּר.
      </speaker>
@@ -1549,7 +1549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1559,7 +1559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1569,7 +1569,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1579,7 +1579,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1589,7 +1589,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1599,7 +1599,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1609,7 +1609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1619,7 +1619,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr. (mlkk s shfsyu)">
+    <sp who="#r' lsr. (mlkk s shfsyu)">
      <speaker>
       ר' אלתר. (מלקק את שפתיו).
      </speaker>
@@ -1645,7 +1645,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1657,7 +1657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל
      </speaker>
@@ -1667,7 +1667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1677,7 +1677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1688,7 +1688,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -1698,7 +1698,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1708,7 +1708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1718,7 +1718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -1729,7 +1729,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -1741,7 +1741,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -1783,7 +1783,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1793,7 +1793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה
      </speaker>
@@ -1803,7 +1803,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -1813,7 +1813,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1824,7 +1824,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym uhnshim">
+    <sp who="#kheym uhnshim">
      <speaker>
       חיים והנשים.
      </speaker>
@@ -1876,7 +1876,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -1902,7 +1902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -1922,7 +1922,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם.
      </speaker>
@@ -1932,7 +1932,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -1952,7 +1952,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="klm">
+    <sp who="#klm">
      <speaker>
       כּלם
      </speaker>
@@ -1962,7 +1962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2005,7 +2005,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="klm">
+    <sp who="#klm">
      <speaker>
       כּלם
      </speaker>
@@ -2015,7 +2015,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -2031,7 +2031,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="klm">
+    <sp who="#klm">
      <speaker>
       כּלם
      </speaker>
@@ -2041,7 +2041,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2069,7 +2069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="klm">
+    <sp who="#klm">
      <speaker>
       כּלם
      </speaker>
@@ -2079,7 +2079,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2107,7 +2107,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2117,7 +2117,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2145,7 +2145,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2155,7 +2155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2183,7 +2183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2193,7 +2193,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר
      </speaker>
@@ -2235,7 +2235,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2247,7 +2247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -2257,7 +2257,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2269,7 +2269,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -2289,7 +2289,7 @@
     </sp>
    </div>
    <div>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2388,7 +2388,7 @@
     </sp>
    </div>
    <div>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -2412,7 +2412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2424,7 +2424,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -2434,7 +2434,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -2444,7 +2444,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2461,7 +2461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -2471,7 +2471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים:
      </speaker>
@@ -2497,7 +2497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r'">
+    <sp who="#r'">
      <speaker>
       ר'
      </speaker>
@@ -2511,7 +2511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2523,7 +2523,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="frdil">
+    <sp who="#frdil">
      <speaker>
       פרדיל.
      </speaker>
@@ -2535,7 +2535,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2553,7 +2553,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bilh">
+    <sp who="#bilh">
      <speaker>
       בילה.
      </speaker>
@@ -2566,7 +2566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' lsr">
+    <sp who="#r' lsr">
      <speaker>
       ר' אלתר.
      </speaker>
@@ -2620,7 +2620,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2632,7 +2632,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -2642,7 +2642,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2708,7 +2708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -2752,7 +2752,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2771,7 +2771,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -2798,7 +2798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2808,7 +2808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' altr">
+    <sp who="#r' altr">
      <speaker>
       ר' אַלתּר
      </speaker>
@@ -2820,7 +2820,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -2830,7 +2830,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר.
      </speaker>
@@ -2845,7 +2845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2861,7 +2861,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="r' ltr">
+    <sp who="#r' ltr">
      <speaker>
       ר' אלתּר
      </speaker>
@@ -2873,7 +2873,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים.
      </speaker>
@@ -2883,7 +2883,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym ultr">
+    <sp who="#kheym ultr">
      <speaker>
       חיים ואלתּר.
      </speaker>
@@ -3036,7 +3036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="kheym">
+    <sp who="#kheym">
      <speaker>
       חיים
      </speaker>
@@ -3052,7 +3052,7 @@
     </sp>
    </div>
    <div>
-    <sp who="hgbrs">
+    <sp who="#hgbrs">
      <speaker>
       הגברת
      </speaker>

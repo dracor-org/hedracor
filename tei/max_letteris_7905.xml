@@ -49,14 +49,14 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="yush">
-      <persName>
-       יואש
-      </persName>
-     </person>
      <person xml:id="khisufl">
       <persName>
        אחיתופל
+      </persName>
+     </person>
+     <person xml:id="yush">
+      <persName>
+       יואש
       </persName>
      </person>
     </listPerson>
@@ -93,7 +93,7 @@
      אישון לילה. הולכים שניהם יחדיו דומם בין סבכי היער.
     </p>
    </sp>
-   <sp who="yush">
+   <sp who="#yush">
     <speaker>
      יואש
     </speaker>
@@ -153,7 +153,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khisufl">
+   <sp who="#khisufl">
     <speaker>
      אחיתופל
     </speaker>
@@ -163,7 +163,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yush">
+   <sp who="#yush">
     <speaker>
      יואש
     </speaker>
@@ -178,7 +178,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khisufl">
+   <sp who="#khisufl">
     <speaker>
      אחיתופל
     </speaker>
@@ -253,7 +253,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yush">
+   <sp who="#yush">
     <speaker>
      יואש
     </speaker>
@@ -263,7 +263,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khisufl">
+   <sp who="#khisufl">
     <speaker>
      אחיתופל
     </speaker>
@@ -338,7 +338,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yush">
+   <sp who="#yush">
     <speaker>
      יואש
     </speaker>
@@ -348,7 +348,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khisufl">
+   <sp who="#khisufl">
     <speaker>
      אחיתופל
     </speaker>
@@ -363,7 +363,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="yush">
+   <sp who="#yush">
     <speaker>
      יואש
     </speaker>
@@ -373,7 +373,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="khisufl">
+   <sp who="#khisufl">
     <speaker>
      אחיתופל
     </speaker>

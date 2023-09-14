@@ -49,19 +49,29 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="mngins hrukhus">
-      <persName>
-       מנגינת הרוחות
-      </persName>
-     </person>
      <person xml:id="lֵmֹr">
       <persName>
        לֵאמֹר
       </persName>
      </person>
+     <person xml:id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+      <persName>
+       הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
+      </persName>
+     </person>
      <person xml:id="mfistufls">
       <persName>
        מפיסטופלס
+      </persName>
+     </person>
+     <person xml:id="mngins hrukhus">
+      <persName>
+       מנגינת הרוחות
+      </persName>
+     </person>
+     <person xml:id="fust">
+      <persName>
+       פאוסט
       </persName>
      </person>
      <person xml:id="kֹh">
@@ -72,16 +82,6 @@
      <person xml:id="kָrָsִi">
       <persName>
        קָרָאתִי
-      </persName>
-     </person>
-     <person xml:id="fust">
-      <persName>
-       פאוסט
-      </persName>
-     </person>
-     <person xml:id="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
-      <persName>
-       הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
       </persName>
      </person>
      <person xml:id="nַgִּidָh">
@@ -115,7 +115,7 @@
      </stage>
     </p>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <speaker>
      פאוסט
     </speaker>
@@ -522,7 +522,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mngins hrukhus">
+   <sp who="#mngins hrukhus">
     <p>
      נִחוּשׁ הַמֶּלֶךְ שְׁלֹמֹה
     </p>
@@ -553,7 +553,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <speaker>
      פאוסט
     </speaker>
@@ -815,7 +815,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      תִּראֶה יוֹתֵר מִכֹּחַ שִׁלטוֹנִי!
     </p>
@@ -830,7 +830,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      אַל נָא לִרעוֹשׁ! מַה חֵפֶץ אֲדוֹנִי?
     </p>
@@ -843,7 +843,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      תַּלמִיד חָכָם נוֹדֵד? מִקְרֶה נֶחמָד!
     </p>
@@ -858,7 +858,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <speaker>
      פאוסט
     </speaker>
@@ -899,7 +899,7 @@
      כָּל הַנִּברָא רָאוּי לְהֶרֶס,
     </p>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      וּמַה שִׁמךָ?
     </p>
@@ -916,7 +916,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      לְכָל דְּמוּת – שֶׁהֵן מִרמָה וָתֹהוּ.
     </p>
@@ -935,7 +935,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      טוֹב: מִי אַתָּה?
     </p>
@@ -950,7 +950,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      וְאֶת הַטּוֹב יוֹצֵר.
     </p>
@@ -961,7 +961,7 @@
      פאוסט
     </speaker>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      אֵינִי מֵבִין: פָּרֵשׁ.
     </p>
@@ -1174,7 +1174,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      זֶה עוֹלָמִי – שֶׁבּוֹ לֹא אֶתבַּיֵּשָׁה.
     </p>
@@ -1185,7 +1185,7 @@
      פאוסט
     </speaker>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      אָמַרתָּ לִי “קֹרטוֹב”: הַאֵין אַתָּה מֻשׁלָם?
     </p>
@@ -1206,7 +1206,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
+   <sp who="#hָiָh khuֹlֵl hַkֹl: hַkhֹshֶׁkh">
     <speaker>
      הָיָה כוֹלֵל הַכֹּל: הַחֹשֶׁך
     </speaker>
@@ -1226,7 +1226,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      יִכבֶּה עִם הַגּוּפוֹת, וְאָז יִמשׁוֹל מָעוּף.
     </p>
@@ -1241,7 +1241,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      לָכֵן פָּנִיתָ לַפְּרָט?
     </p>
@@ -1284,7 +1284,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      אָז לֹא נוֹתַר לִי אַף מִקְלָט.
     </p>
@@ -1305,7 +1305,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      בֶּן תֹּהוּ מְשֻׁנֶּה – אוּלַי תִּצלַח יוֹתֵר.
     </p>
@@ -1320,7 +1320,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      כָּעֵת – הַרשֵׁנִי וְאֵלֵכָה.
     </p>
@@ -1339,7 +1339,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      הִנֵּה חַלּוֹן – אוֹ אֲרֻבָּה.
     </p>
@@ -1354,7 +1354,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      זֶה הַצִּיּוּר בַּסַּף – זֶה שָׁמָּה…
     </p>
@@ -1371,7 +1371,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      שַׂר כָּל עָרמָה – כֵּיצַד בַּמֶּה נִתפַּשׂתָּ?
     </p>
@@ -1384,7 +1384,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      הִיא פְּתוּחָה קְצָת – הֲלֹא תִּרְאֶה?
     </p>
@@ -1399,7 +1399,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      זֶה נִצָּחוֹן מִמַּעַל לַתִּקוָה.
     </p>
@@ -1414,7 +1414,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      הִנֵּה, לַשֵּׁד אָסוּר לָצֵאת הַחוּצָה.
     </p>
@@ -1425,7 +1425,7 @@
      פאוסט
     </speaker>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      וְהַחַלּוֹן? הֲלֹא אֵינוֹ רָחוֹק.
     </p>
@@ -1440,7 +1440,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      לָבוֹא – מִבְחַר חָפְשִׁי: בָּחַרְנוּ – נֶאֱנַסְנוּ.
     </p>
@@ -1455,7 +1455,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      וְתִשׁמְרוּ אוֹתוֹ בְצֶדֶק?
     </p>
@@ -1478,7 +1478,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <speaker>
      פאוסט
     </speaker>
@@ -1752,7 +1752,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      סַפֵּר לִי מַשֶּׁהוּ – דִּברֵי עִניָן וָטַעַם.
     </p>
@@ -1765,7 +1765,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      הֲלֹא אָשׁוּב – אֲזַי תִּשׁאַל מַה שֶּׁתִּרצֶה.
     </p>
@@ -1782,7 +1782,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      כִּי לֹא עַל נְקַלָּה תִּתפֹּשׂ אוֹתוֹ שֵׁנִית.
     </p>
@@ -1799,7 +1799,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <p>
      אֶת נַפְשְׁךָ בְּעִנּוּנָי.
     </p>
@@ -1812,7 +1812,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <p>
      גַּם כֵּן בִּתנַאי, שֶׁ – תְּשַׂמֵּחַ.
     </p>
@@ -1843,7 +1843,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mngins hrukhus">
+   <sp who="#mngins hrukhus">
     <p>
      מִחוּץ לַסַּף. עַל כֵּן – תִּזְמֹרֶת!
     </p>
@@ -1994,7 +1994,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="mfistufls">
+   <sp who="#mfistufls">
     <speaker>
      מפיסטופלס
     </speaker>
@@ -2118,7 +2118,7 @@
    </sp>
    <sp>
    </sp>
-   <sp who="fust">
+   <sp who="#fust">
     <speaker>
      פאוסט
     </speaker>

@@ -49,11 +49,6 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="shְׁkhַb">
-      <persName>
-       שְׁכַב
-      </persName>
-     </person>
      <person xml:id="(msfll)">
       <persName>
        (מתפלל)
@@ -62,6 +57,11 @@
      <person xml:id="kֻlָּm">
       <persName>
        כֻּלָּם
+      </persName>
+     </person>
+     <person xml:id="hַnְfָshׁuֹs">
+      <persName>
+       הַנְפָשׁוֹת
       </persName>
      </person>
      <person xml:id="ֶsְtֵr">
@@ -89,6 +89,11 @@
        מָרְדְּכַי
       </persName>
      </person>
+     <person xml:id="shְׁkhַb">
+      <persName>
+       שְׁכַב
+      </persName>
+     </person>
      <person xml:id="uַiְzָsָ">
       <persName>
        וַיְזָתָא
@@ -97,11 +102,6 @@
      <person xml:id="kֻlָֹm">
       <persName>
        כֻּלָֹם
-      </persName>
-     </person>
-     <person xml:id="hַnְfָshׁuֹs">
-      <persName>
-       הַנְפָשׁוֹת
       </persName>
      </person>
      <person xml:id="kֻlָm">
@@ -129,7 +129,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hַnְfָshׁuֹs">
+   <sp who="#hַnְfָshׁuֹs">
     <speaker>
      הַנְפָשׁוֹת:
     </speaker>
@@ -1782,7 +1782,7 @@
       עוֹד מְעַט וְהִתְעַלַּפְתִּי.
      </p>
     </sp>
-    <sp who="shְׁkhַb">
+    <sp who="#shְׁkhַb">
      <speaker>
       שְׁכַב
      </speaker>

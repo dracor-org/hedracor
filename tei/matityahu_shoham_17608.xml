@@ -49,79 +49,9 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person xml:id="slu">
+     <person xml:id="smne">
       <persName>
-       סלוא
-      </persName>
-     </person>
-     <person xml:id="khd">
-      <persName>
-       אחד
-      </persName>
-     </person>
-     <person xml:id="hmshurr">
-      <persName>
-       המשורר
-      </persName>
-     </person>
-     <person xml:id="ihu">
-      <persName>
-       יהוא
-      </persName>
-     </person>
-     <person xml:id="bn">
-      <persName>
-       בן
-      </persName>
-     </person>
-     <person xml:id="izbl">
-      <persName>
-       איזבל
-      </persName>
-     </person>
-     <person xml:id="mikhihu">
-      <persName>
-       מיכיהו
-      </persName>
-     </person>
-     <person xml:id="tsir mub">
-      <persName>
-       ציר מואב
-      </persName>
-     </person>
-     <person xml:id="ֱlִishָׁe">
-      <persName>
-       אֱלִישָׁע
-      </persName>
-     </person>
-     <person xml:id="yurm">
-      <persName>
-       יורם
-      </persName>
-     </person>
-     <person xml:id="hmg">
-      <persName>
-       המג
-      </persName>
-     </person>
-     <person xml:id="rhm">
-      <persName>
-       רהם
-      </persName>
-     </person>
-     <person xml:id="lihu">
-      <persName>
-       ליהו
-      </persName>
-     </person>
-     <person xml:id="eubdih">
-      <persName>
-       עובדיה
-      </persName>
-     </person>
-     <person xml:id="omַrְtִi">
-      <persName>
-       אָמַרְתִּי
+       תמנע
       </persName>
      </person>
      <person xml:id="hmkhulls">
@@ -129,14 +59,14 @@
        המחוללת
       </persName>
      </person>
-     <person xml:id="khhn">
+     <person xml:id="hmsbim">
       <persName>
-       כהן
+       המסבים
       </persName>
      </person>
-     <person xml:id="hebdim">
+     <person xml:id="ֱlִishָׁe">
       <persName>
-       העבדים
+       אֱלִישָׁע
       </persName>
      </person>
      <person xml:id="suf">
@@ -149,114 +79,19 @@
        ציר צור
       </persName>
      </person>
-     <person xml:id="hmsbim">
-      <persName>
-       המסבים
-      </persName>
-     </person>
-     <person xml:id="helm">
-      <persName>
-       העלם
-      </persName>
-     </person>
-     <person xml:id="hַnְּfָshׁuֹs">
-      <persName>
-       הַנְּפָשׁוֹת
-      </persName>
-     </person>
-     <person xml:id="hkhmr">
-      <persName>
-       הכמר
-      </persName>
-     </person>
-     <person xml:id="hַֻmְnָm">
-      <persName>
-       הַאֻמְנָם
-      </persName>
-     </person>
-     <person xml:id="tsָdַkְtָ">
-      <persName>
-       צָדַקְתָּ
-      </persName>
-     </person>
-     <person xml:id="hshrim">
-      <persName>
-       השרים
-      </persName>
-     </person>
-     <person xml:id="hָeֶlֶm">
-      <persName>
-       הָעֶלֶם
-      </persName>
-     </person>
-     <person xml:id="tsir ihudh">
-      <persName>
-       ציר יהודה
-      </persName>
-     </person>
-     <person xml:id="lishe">
-      <persName>
-       אלישע
-      </persName>
-     </person>
-     <person xml:id="nִshְׁbָeְtִi">
-      <persName>
-       נִשְׁבָּעְתִּי
-      </persName>
-     </person>
-     <person xml:id="hshfkhus">
-      <persName>
-       השפחות
-      </persName>
-     </person>
-     <person xml:id="hzr">
-      <persName>
-       הזר
-      </persName>
-     </person>
      <person xml:id="bn-gbr">
       <persName>
        בן־גבר
       </persName>
      </person>
-     <person xml:id="hַmֶּlֶkhְ">
+     <person xml:id="khhn">
       <persName>
-       הַמֶּלֶךְ
+       כהן
       </persName>
      </person>
-     <person xml:id="khlm">
+     <person xml:id="lihu">
       <persName>
-       כלם
-      </persName>
-     </person>
-     <person xml:id="shumr hsf">
-      <persName>
-       שומר הסף
-      </persName>
-     </person>
-     <person xml:id="shr">
-      <persName>
-       שר
-      </persName>
-     </person>
-     <person xml:id="nbi">
-      <persName>
-       נביא
-      </persName>
-     </person>
-     <person xml:id="hshlikh">
-      <persName>
-       השליח
-      </persName>
-     </person>
-     <person xml:id="khikr">
-      <persName>
-       אחיקר
-      </persName>
-     </person>
-     <person xml:id="tsdkih">
-      <persName>
-       צדקיה
+       אליהו
       </persName>
      </person>
      <person xml:id="hkhhn">
@@ -264,14 +99,39 @@
        הכהן
       </persName>
      </person>
-     <person xml:id="ezi">
+     <person xml:id="hshfkhus">
       <persName>
-       עזי
+       השפחות
       </persName>
      </person>
-     <person xml:id="smne">
+     <person xml:id="khlm">
       <persName>
-       תמנע
+       כלם
+      </persName>
+     </person>
+     <person xml:id="omַrְtִi">
+      <persName>
+       אָמַרְתִּי
+      </persName>
+     </person>
+     <person xml:id="khikr">
+      <persName>
+       אחיקר
+      </persName>
+     </person>
+     <person xml:id="hmshurr">
+      <persName>
+       המשורר
+      </persName>
+     </person>
+     <person xml:id="nbi">
+      <persName>
+       נביא
+      </persName>
+     </person>
+     <person xml:id="mikhihu">
+      <persName>
+       מיכיהו
       </persName>
      </person>
      <person xml:id="hmlkh">
@@ -279,14 +139,144 @@
        המלך
       </persName>
      </person>
+     <person xml:id="yurm">
+      <persName>
+       יורם
+      </persName>
+     </person>
+     <person xml:id="hַֻmְnָm">
+      <persName>
+       הַאֻמְנָם
+      </persName>
+     </person>
+     <person xml:id="tsir ihudh">
+      <persName>
+       ציר יהודה
+      </persName>
+     </person>
+     <person xml:id="tsָdַkְtָ">
+      <persName>
+       צָדַקְתָּ
+      </persName>
+     </person>
+     <person xml:id="lihu">
+      <persName>
+       ליהו
+      </persName>
+     </person>
+     <person xml:id="izbl">
+      <persName>
+       איזבל
+      </persName>
+     </person>
+     <person xml:id="nִshְׁbָeְtִi">
+      <persName>
+       נִשְׁבָּעְתִּי
+      </persName>
+     </person>
+     <person xml:id="ezi">
+      <persName>
+       עזי
+      </persName>
+     </person>
+     <person xml:id="hָeֶlֶm">
+      <persName>
+       הָעֶלֶם
+      </persName>
+     </person>
+     <person xml:id="hkhmr">
+      <persName>
+       הכמר
+      </persName>
+     </person>
+     <person xml:id="hַnְּfָshׁuֹs">
+      <persName>
+       הַנְּפָשׁוֹת
+      </persName>
+     </person>
+     <person xml:id="hַmֶּlֶkhְ">
+      <persName>
+       הַמֶּלֶךְ
+      </persName>
+     </person>
+     <person xml:id="lishe">
+      <persName>
+       אלישע
+      </persName>
+     </person>
+     <person xml:id="helm">
+      <persName>
+       העלם
+      </persName>
+     </person>
+     <person xml:id="khd">
+      <persName>
+       אחד
+      </persName>
+     </person>
+     <person xml:id="shumr hsf">
+      <persName>
+       שומר הסף
+      </persName>
+     </person>
+     <person xml:id="bn">
+      <persName>
+       בן
+      </persName>
+     </person>
+     <person xml:id="ihu">
+      <persName>
+       יהוא
+      </persName>
+     </person>
+     <person xml:id="hshlikh">
+      <persName>
+       השליח
+      </persName>
+     </person>
+     <person xml:id="shr">
+      <persName>
+       שר
+      </persName>
+     </person>
      <person xml:id="elilh rshunh">
       <persName>
        עלילה ראשונה
       </persName>
      </person>
-     <person xml:id="lihu">
+     <person xml:id="rhm">
       <persName>
-       אליהו
+       רהם
+      </persName>
+     </person>
+     <person xml:id="hmg">
+      <persName>
+       המג
+      </persName>
+     </person>
+     <person xml:id="slu">
+      <persName>
+       סלוא
+      </persName>
+     </person>
+     <person xml:id="tsdkih">
+      <persName>
+       צדקיה
+      </persName>
+     </person>
+     <person xml:id="hzr">
+      <persName>
+       הזר
+      </persName>
+     </person>
+     <person xml:id="tsir mub">
+      <persName>
+       ציר מואב
+      </persName>
+     </person>
+     <person xml:id="hshrim">
+      <persName>
+       השרים
       </persName>
      </person>
      <person xml:id="iָdַeְtִi">
@@ -297,6 +287,16 @@
      <person xml:id="htsir">
       <persName>
        הציר
+      </persName>
+     </person>
+     <person xml:id="hebdim">
+      <persName>
+       העבדים
+      </persName>
+     </person>
+     <person xml:id="eubdih">
+      <persName>
+       עובדיה
       </persName>
      </person>
     </listPerson>
@@ -319,7 +319,7 @@
  </standOff>
  <text>
   <body>
-   <sp who="hַnְּfָshׁuֹs">
+   <sp who="#hַnְּfָshׁuֹs">
     <speaker>
      הַנְּפָשׁוֹת
     </speaker>
@@ -486,7 +486,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="elilh rshunh">
+    <sp who="#elilh rshunh">
      <speaker>
       עלילה ראשונה
      </speaker>
@@ -497,7 +497,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -528,7 +528,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -538,7 +538,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -548,7 +548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -558,7 +558,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -573,7 +573,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -586,7 +586,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -602,7 +602,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -618,7 +618,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -638,7 +638,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -648,7 +648,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -658,7 +658,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -670,7 +670,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -680,7 +680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -691,7 +691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -702,7 +702,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -714,7 +714,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -726,7 +726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -736,7 +736,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -757,7 +757,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -767,7 +767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -792,7 +792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -802,7 +802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -841,7 +841,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -855,7 +855,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -865,7 +865,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -879,7 +879,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -889,7 +889,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -900,7 +900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -911,7 +911,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -925,7 +925,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -935,7 +935,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -945,7 +945,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -955,7 +955,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -968,7 +968,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -979,7 +979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -989,7 +989,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -997,7 +997,7 @@
       הֲתֵדַע כָּל רַבַּת אוֹיְבַי פֹּה?
      </p>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1011,7 +1011,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1021,7 +1021,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1045,7 +1045,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1055,7 +1055,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1068,7 +1068,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1078,7 +1078,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1089,7 +1089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1104,7 +1104,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1114,7 +1114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1124,7 +1124,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1134,7 +1134,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1155,7 +1155,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1165,7 +1165,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1175,7 +1175,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1185,7 +1185,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1195,7 +1195,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1205,7 +1205,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1220,7 +1220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hָeֶlֶm">
+    <sp who="#hָeֶlֶm">
      <speaker>
       הָעֶלֶם
      </speaker>
@@ -1230,7 +1230,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1240,7 +1240,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1250,7 +1250,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1262,7 +1262,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1272,7 +1272,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1282,7 +1282,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1295,7 +1295,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1305,7 +1305,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1359,7 +1359,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1369,7 +1369,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1401,7 +1401,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1411,7 +1411,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1421,7 +1421,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1441,7 +1441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1451,7 +1451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="helm">
+    <sp who="#helm">
      <speaker>
       העלם
      </speaker>
@@ -1479,7 +1479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1491,7 +1491,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1501,7 +1501,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1511,7 +1511,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1522,7 +1522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1532,7 +1532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1545,7 +1545,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1555,7 +1555,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1566,7 +1566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1576,7 +1576,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1590,7 +1590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1601,7 +1601,7 @@
      </speaker>
      עַזִּים הָאֲנָשִׁים בְּאֶרֶץ זוֹ לָשֵׂאת תּוֹכֵחֹת אֵלֶם,
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1612,7 +1612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1622,7 +1622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1633,7 +1633,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1643,7 +1643,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1655,7 +1655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1668,7 +1668,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1691,7 +1691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1701,7 +1701,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1711,7 +1711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1732,7 +1732,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1744,7 +1744,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hzr">
+    <sp who="#hzr">
      <speaker>
       הזר
      </speaker>
@@ -1768,7 +1768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1778,7 +1778,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1798,7 +1798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -1808,7 +1808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1819,7 +1819,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -1829,7 +1829,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1839,7 +1839,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -1849,7 +1849,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1860,7 +1860,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -1892,7 +1892,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1928,7 +1928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1938,7 +1938,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1948,7 +1948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1958,7 +1958,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -1972,7 +1972,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -1982,7 +1982,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -1994,7 +1994,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2012,7 +2012,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2051,7 +2051,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2061,7 +2061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2071,7 +2071,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2081,7 +2081,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2093,7 +2093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2109,7 +2109,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2119,7 +2119,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2129,7 +2129,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2161,7 +2161,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2171,7 +2171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2193,7 +2193,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2203,7 +2203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2213,7 +2213,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2224,7 +2224,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2249,7 +2249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2259,7 +2259,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2269,7 +2269,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2279,7 +2279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2289,7 +2289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2305,7 +2305,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2315,7 +2315,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2325,7 +2325,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2338,7 +2338,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2348,7 +2348,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2377,7 +2377,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2387,7 +2387,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2399,7 +2399,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2409,7 +2409,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2423,7 +2423,7 @@
      </speaker>
      כְּפִירִים צַדְתִּי וְהָפְכוּ כְלָבִים, שֶׁלְּנַהֲמַת
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2439,7 +2439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2450,7 +2450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2460,7 +2460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2479,7 +2479,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2489,7 +2489,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2499,7 +2499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2510,7 +2510,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2520,7 +2520,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2530,7 +2530,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2544,7 +2544,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2554,7 +2554,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2564,7 +2564,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2574,7 +2574,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2626,7 +2626,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2636,7 +2636,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2646,7 +2646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2657,7 +2657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2667,7 +2667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2682,7 +2682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2692,7 +2692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2711,7 +2711,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2721,7 +2721,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2731,7 +2731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2742,7 +2742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2807,7 +2807,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2817,7 +2817,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2828,7 +2828,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2838,7 +2838,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2848,7 +2848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2858,7 +2858,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2869,7 +2869,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2880,7 +2880,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2890,7 +2890,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2915,7 +2915,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -2923,7 +2923,7 @@
       נתפש לעזוז עצבונה־נקמתה. שותק.
      </p>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2936,7 +2936,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2946,7 +2946,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2956,7 +2956,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2966,7 +2966,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -2980,7 +2980,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -2990,7 +2990,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3000,7 +3000,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3016,7 +3016,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3026,7 +3026,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3036,7 +3036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3047,7 +3047,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3057,7 +3057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3069,7 +3069,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3079,7 +3079,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3089,7 +3089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3100,7 +3100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3110,7 +3110,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -3174,7 +3174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhhn">
+    <sp who="#hkhhn">
      <speaker>
       הכהן
      </speaker>
@@ -3186,7 +3186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3196,7 +3196,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3206,7 +3206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3216,7 +3216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3228,7 +3228,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3238,7 +3238,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3248,7 +3248,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3258,7 +3258,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3268,7 +3268,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3279,7 +3279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3289,7 +3289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3299,7 +3299,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="mikhihu">
+    <sp who="#mikhihu">
      <speaker>
       מיכיהו
      </speaker>
@@ -3309,7 +3309,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3331,7 +3331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -3341,7 +3341,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3361,7 +3361,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn">
+    <sp who="#bn">
      <speaker>
       בן
      </speaker>
@@ -3373,7 +3373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3383,7 +3383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -3395,7 +3395,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3407,7 +3407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -3451,7 +3451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3461,7 +3461,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -3471,7 +3471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3487,7 +3487,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3499,7 +3499,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsir mub">
+    <sp who="#tsir mub">
      <speaker>
       ציר מואב
      </speaker>
@@ -3509,7 +3509,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hַmֶּlֶkhְ">
+    <sp who="#hַmֶּlֶkhְ">
      <speaker>
       הַמֶּלֶךְ
      </speaker>
@@ -3519,7 +3519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsir mub">
+    <sp who="#tsir mub">
      <speaker>
       ציר מואב
      </speaker>
@@ -3532,7 +3532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3553,7 +3553,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihu">
+    <sp who="#ihu">
      <speaker>
       יהוא
      </speaker>
@@ -3566,7 +3566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3579,7 +3579,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsir ihudh">
+    <sp who="#tsir ihudh">
      <speaker>
       ציר יהודה
      </speaker>
@@ -3591,7 +3591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsir tsur">
+    <sp who="#tsir tsur">
      <speaker>
       ציר צור
      </speaker>
@@ -3602,7 +3602,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3636,7 +3636,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3646,7 +3646,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3656,7 +3656,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3670,7 +3670,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3680,7 +3680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3692,7 +3692,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3706,7 +3706,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3716,7 +3716,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3730,7 +3730,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3742,7 +3742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3769,7 +3769,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3785,7 +3785,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -3802,7 +3802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhmr">
+    <sp who="#hkhmr">
      <speaker>
       הכמר
      </speaker>
@@ -3812,7 +3812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -3844,7 +3844,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3856,7 +3856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -3871,7 +3871,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3881,7 +3881,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -3895,7 +3895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3905,7 +3905,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -3918,7 +3918,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3928,7 +3928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -3949,7 +3949,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3959,7 +3959,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -3969,7 +3969,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -3985,7 +3985,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -3995,7 +3995,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4007,7 +4007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -4017,7 +4017,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4027,7 +4027,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -4043,7 +4043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4053,7 +4053,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -4066,7 +4066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4074,7 +4074,7 @@
       שותק ופניו זעפו מאד
      </p>
     </sp>
-    <sp who="khd">
+    <sp who="#khd">
      <speaker>
       אחד
      </speaker>
@@ -4083,7 +4083,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshlikh">
+    <sp who="#hshlikh">
      <speaker>
       השליח
      </speaker>
@@ -4093,7 +4093,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4108,7 +4108,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhmr">
+    <sp who="#hkhmr">
      <speaker>
       הכמר
      </speaker>
@@ -4118,7 +4118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ֱlִishָׁe">
+    <sp who="#ֱlִishָׁe">
      <speaker>
       אֱלִישָׁע
      </speaker>
@@ -4130,7 +4130,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4140,7 +4140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -4171,7 +4171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4181,7 +4181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd">
+    <sp who="#khd">
      <speaker>
       אחד
      </speaker>
@@ -4190,7 +4190,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4200,7 +4200,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shr">
+    <sp who="#shr">
      <speaker>
       שר
      </speaker>
@@ -4211,7 +4211,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4223,7 +4223,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hshrim">
+    <sp who="#hshrim">
      <speaker>
       השרים
      </speaker>
@@ -4233,7 +4233,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhmr">
+    <sp who="#hkhmr">
      <speaker>
       הכמר
      </speaker>
@@ -4243,7 +4243,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -4253,7 +4253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hkhmr">
+    <sp who="#hkhmr">
      <speaker>
       הכמר
      </speaker>
@@ -4263,7 +4263,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -4279,7 +4279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khd">
+    <sp who="#khd">
      <speaker>
       אחד
      </speaker>
@@ -4290,7 +4290,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -4306,7 +4306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4316,7 +4316,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -4346,7 +4346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4358,7 +4358,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -4372,7 +4372,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4382,7 +4382,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -4392,7 +4392,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4417,7 +4417,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -4431,7 +4431,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4441,7 +4441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -4460,7 +4460,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4470,7 +4470,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -4492,7 +4492,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4533,7 +4533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4546,7 +4546,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4556,7 +4556,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4566,7 +4566,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4591,7 +4591,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4601,7 +4601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4611,7 +4611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4623,7 +4623,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4636,7 +4636,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4647,7 +4647,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4657,7 +4657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4669,7 +4669,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4708,7 +4708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4718,7 +4718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -4728,7 +4728,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4746,7 +4746,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4760,7 +4760,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4770,7 +4770,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4780,7 +4780,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4802,7 +4802,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4812,7 +4812,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4826,7 +4826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4836,7 +4836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4850,7 +4850,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4862,7 +4862,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4874,7 +4874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4884,7 +4884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4938,7 +4938,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4952,7 +4952,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4962,7 +4962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4972,7 +4972,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -4982,7 +4982,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -4992,7 +4992,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5006,7 +5006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5016,7 +5016,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5042,7 +5042,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5052,7 +5052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5062,7 +5062,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5078,7 +5078,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5094,7 +5094,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5104,7 +5104,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5114,7 +5114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5124,7 +5124,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5134,7 +5134,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5144,7 +5144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5183,7 +5183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5193,7 +5193,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5203,7 +5203,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -5219,7 +5219,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5229,7 +5229,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5239,7 +5239,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5249,7 +5249,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5259,7 +5259,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5269,7 +5269,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5279,7 +5279,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5290,7 +5290,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5301,7 +5301,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5317,7 +5317,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5327,7 +5327,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5340,7 +5340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5355,7 +5355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5366,7 +5366,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5394,7 +5394,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5407,7 +5407,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5419,7 +5419,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5429,7 +5429,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5447,7 +5447,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5457,7 +5457,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5471,7 +5471,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5481,7 +5481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5491,7 +5491,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5521,7 +5521,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5531,7 +5531,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5546,7 +5546,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5559,7 +5559,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5588,7 +5588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5600,7 +5600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5616,7 +5616,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5629,7 +5629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5640,7 +5640,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5664,7 +5664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5678,7 +5678,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5688,7 +5688,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5726,7 +5726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5736,7 +5736,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5746,7 +5746,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5756,7 +5756,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5766,7 +5766,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5776,7 +5776,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5816,7 +5816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5826,7 +5826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5836,7 +5836,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5846,7 +5846,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5864,7 +5864,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5874,7 +5874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5885,7 +5885,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5899,7 +5899,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5925,7 +5925,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -5935,7 +5935,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5945,7 +5945,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khlm">
+    <sp who="#khlm">
      <speaker>
       כלם
      </speaker>
@@ -5955,7 +5955,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -5967,7 +5967,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -5979,7 +5979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -5992,7 +5992,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6004,7 +6004,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6019,7 +6019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6031,7 +6031,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6052,7 +6052,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6065,7 +6065,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6075,7 +6075,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6085,7 +6085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6111,7 +6111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6121,7 +6121,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6134,7 +6134,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6144,7 +6144,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6174,7 +6174,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6184,7 +6184,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6194,7 +6194,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6204,7 +6204,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -6253,7 +6253,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6263,7 +6263,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6273,7 +6273,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6283,7 +6283,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6297,7 +6297,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6307,7 +6307,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6320,7 +6320,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6331,7 +6331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6349,7 +6349,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -6359,7 +6359,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6369,7 +6369,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6384,7 +6384,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6405,7 +6405,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6449,7 +6449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -6459,7 +6459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6473,7 +6473,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="rhm">
+    <sp who="#rhm">
      <speaker>
       רהם
      </speaker>
@@ -6483,7 +6483,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6493,7 +6493,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6503,7 +6503,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6517,7 +6517,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6527,7 +6527,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6541,7 +6541,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6558,7 +6558,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6577,7 +6577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6588,7 +6588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6599,7 +6599,7 @@
      </speaker>
      נָקֵל
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6609,7 +6609,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6621,7 +6621,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6631,7 +6631,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6651,7 +6651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6662,7 +6662,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6713,7 +6713,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6723,7 +6723,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6733,7 +6733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6743,7 +6743,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6753,7 +6753,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6779,7 +6779,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6789,7 +6789,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6806,7 +6806,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6820,7 +6820,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ezi">
+    <sp who="#ezi">
      <speaker>
       עזי
      </speaker>
@@ -6835,7 +6835,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6845,7 +6845,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6856,7 +6856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6866,7 +6866,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6901,7 +6901,7 @@
 וְלֹא הֵם בִּקְטָן חוֹתָמָם טָבְעוּ טִיטוֹ.
      </p>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6915,7 +6915,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6925,7 +6925,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6935,7 +6935,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6945,7 +6945,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6958,7 +6958,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6968,7 +6968,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -6981,7 +6981,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -6991,7 +6991,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7020,7 +7020,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7030,7 +7030,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7040,7 +7040,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7050,7 +7050,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7060,7 +7060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7070,7 +7070,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7080,7 +7080,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7090,7 +7090,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7100,7 +7100,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7111,7 +7111,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7128,7 +7128,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7140,7 +7140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7151,7 +7151,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7171,7 +7171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7181,7 +7181,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7191,7 +7191,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7210,7 +7210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7220,7 +7220,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7232,7 +7232,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7242,7 +7242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7258,7 +7258,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7268,7 +7268,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -7352,7 +7352,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7372,7 +7372,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -7406,7 +7406,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7416,7 +7416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -7426,7 +7426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7436,7 +7436,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -7451,7 +7451,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -7463,7 +7463,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="bn-gbr">
+    <sp who="#bn-gbr">
      <speaker>
       בן־גבר
      </speaker>
@@ -7480,7 +7480,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="eubdih">
+    <sp who="#eubdih">
      <speaker>
       עובדיה
      </speaker>
@@ -7490,7 +7490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7533,7 +7533,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7543,7 +7543,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7565,7 +7565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7575,7 +7575,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7590,7 +7590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7600,7 +7600,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7612,7 +7612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7622,7 +7622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7635,7 +7635,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7655,7 +7655,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7682,7 +7682,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7696,7 +7696,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7706,7 +7706,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7727,7 +7727,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7742,7 +7742,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7756,7 +7756,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7774,7 +7774,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7792,7 +7792,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7810,7 +7810,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7840,7 +7840,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7852,7 +7852,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7863,7 +7863,7 @@
      </speaker>
      יָבוֹא יוֹם
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7890,7 +7890,7 @@
 תְּחַטֵּא מְכוֹרַת חִתִּים וֶאֱמוֹרִים.
      </p>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7900,7 +7900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7918,7 +7918,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7928,7 +7928,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7943,7 +7943,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7953,7 +7953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7975,7 +7975,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -7985,7 +7985,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -7997,7 +7997,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8011,7 +8011,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8036,7 +8036,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       ליהו
      </speaker>
@@ -8060,7 +8060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8070,7 +8070,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8082,7 +8082,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8104,7 +8104,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8114,7 +8114,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8124,7 +8124,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8141,7 +8141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8151,7 +8151,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8161,7 +8161,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8171,7 +8171,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8183,7 +8183,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8216,7 +8216,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8226,7 +8226,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8236,7 +8236,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8246,7 +8246,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8270,7 +8270,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8284,7 +8284,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8295,7 +8295,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8305,7 +8305,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8319,7 +8319,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8336,7 +8336,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8346,7 +8346,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8398,7 +8398,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8420,7 +8420,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8467,7 +8467,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmlkh">
+    <sp who="#hmlkh">
      <speaker>
       המלך
      </speaker>
@@ -8485,7 +8485,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8548,7 +8548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8581,7 +8581,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8595,7 +8595,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8605,7 +8605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8628,7 +8628,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8641,7 +8641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8651,7 +8651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8680,7 +8680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8696,7 +8696,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8714,7 +8714,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8780,7 +8780,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8790,7 +8790,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8800,7 +8800,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8810,7 +8810,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8824,7 +8824,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8834,7 +8834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8844,7 +8844,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8856,7 +8856,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8868,7 +8868,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8878,7 +8878,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8902,7 +8902,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8912,7 +8912,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8927,7 +8927,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8937,7 +8937,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8948,7 +8948,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8958,7 +8958,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -8979,7 +8979,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -8989,7 +8989,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9013,7 +9013,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9023,7 +9023,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9050,7 +9050,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9061,7 +9061,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9073,7 +9073,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9084,7 +9084,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9106,7 +9106,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9343,7 +9343,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9355,7 +9355,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9373,7 +9373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lihu">
+    <sp who="#lihu">
      <speaker>
       אליהו
      </speaker>
@@ -9396,7 +9396,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -9410,7 +9410,7 @@
    <div>
     <sp>
     </sp>
-    <sp who="hshfkhus">
+    <sp who="#hshfkhus">
      <speaker>
       השפחות
      </speaker>
@@ -9450,7 +9450,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hebdim">
+    <sp who="#hebdim">
      <speaker>
       העבדים
      </speaker>
@@ -9490,7 +9490,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9500,7 +9500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9528,7 +9528,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9538,7 +9538,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9548,7 +9548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9562,7 +9562,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9573,7 +9573,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9590,7 +9590,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9605,7 +9605,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9616,7 +9616,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9632,7 +9632,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9642,7 +9642,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9669,7 +9669,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9680,7 +9680,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9694,7 +9694,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9706,7 +9706,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9731,7 +9731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9747,7 +9747,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9768,7 +9768,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9788,7 +9788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9798,7 +9798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9808,7 +9808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9823,7 +9823,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9840,7 +9840,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9850,7 +9850,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9876,7 +9876,7 @@
       סְלַח לִי…
      </p>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9890,7 +9890,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9900,7 +9900,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9926,7 +9926,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9951,7 +9951,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9974,7 +9974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -9984,7 +9984,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -9994,7 +9994,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10019,7 +10019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10030,7 +10030,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10043,7 +10043,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10053,7 +10053,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10066,7 +10066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10076,7 +10076,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10087,7 +10087,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10095,7 +10095,7 @@
       שותקת
      </p>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10105,7 +10105,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10116,7 +10116,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10164,7 +10164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10182,7 +10182,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10194,7 +10194,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="smne">
+    <sp who="#smne">
      <speaker>
       תמנע
      </speaker>
@@ -10237,7 +10237,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10247,7 +10247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10260,7 +10260,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10274,7 +10274,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10305,7 +10305,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10315,7 +10315,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10331,7 +10331,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10353,7 +10353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10363,7 +10363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10416,7 +10416,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10430,7 +10430,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10440,7 +10440,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10453,7 +10453,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10474,7 +10474,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10484,7 +10484,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10492,7 +10492,7 @@
       שותק
      </p>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10502,7 +10502,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10519,7 +10519,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10529,7 +10529,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10548,7 +10548,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10558,7 +10558,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10568,7 +10568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10584,7 +10584,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10594,7 +10594,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10629,7 +10629,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10642,7 +10642,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10652,7 +10652,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10663,7 +10663,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10675,7 +10675,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10687,7 +10687,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10697,7 +10697,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10708,7 +10708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10719,7 +10719,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10731,7 +10731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10745,7 +10745,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -10774,7 +10774,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10808,7 +10808,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10818,7 +10818,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10829,7 +10829,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10839,7 +10839,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10874,7 +10874,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10884,7 +10884,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10894,7 +10894,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10904,7 +10904,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -10917,7 +10917,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10951,7 +10951,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -10961,7 +10961,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -10974,7 +10974,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -10998,7 +10998,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11011,7 +11011,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11023,7 +11023,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11044,7 +11044,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11057,7 +11057,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11126,7 +11126,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11140,7 +11140,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11154,7 +11154,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11187,7 +11187,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11197,7 +11197,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11214,7 +11214,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11242,7 +11242,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11260,7 +11260,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11289,7 +11289,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11299,7 +11299,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11311,7 +11311,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11330,7 +11330,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11340,7 +11340,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11409,7 +11409,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11423,7 +11423,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11441,7 +11441,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11455,7 +11455,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11488,7 +11488,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11500,7 +11500,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11531,7 +11531,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11545,7 +11545,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11560,7 +11560,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11570,7 +11570,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11601,7 +11601,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11611,7 +11611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -11621,7 +11621,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11631,7 +11631,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -11641,7 +11641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11651,7 +11651,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -11664,7 +11664,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11678,7 +11678,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11691,7 +11691,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11708,7 +11708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11718,7 +11718,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11741,7 +11741,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11762,7 +11762,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11772,7 +11772,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -11793,7 +11793,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11803,7 +11803,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11811,7 +11811,7 @@
       שותק תפוש הרהוריו
      </p>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11838,7 +11838,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -11848,7 +11848,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -11875,7 +11875,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11885,7 +11885,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11895,7 +11895,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -11920,7 +11920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -11975,7 +11975,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12009,7 +12009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12019,7 +12019,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshurr">
+    <sp who="#hmshurr">
      <speaker>
       המשורר
      </speaker>
@@ -12029,7 +12029,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12044,7 +12044,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmshurr">
+    <sp who="#hmshurr">
      <speaker>
       המשורר
      </speaker>
@@ -12065,7 +12065,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12075,7 +12075,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmkhulls">
+    <sp who="#hmkhulls">
      <speaker>
       המחוללת
      </speaker>
@@ -12089,7 +12089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12118,7 +12118,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmkhulls">
+    <sp who="#hmkhulls">
      <speaker>
       המחוללת
      </speaker>
@@ -12128,7 +12128,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12139,7 +12139,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmkhulls">
+    <sp who="#hmkhulls">
      <speaker>
       המחוללת
      </speaker>
@@ -12149,7 +12149,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12164,7 +12164,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12186,7 +12186,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12196,7 +12196,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12206,7 +12206,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12218,7 +12218,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12231,7 +12231,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12241,7 +12241,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12284,7 +12284,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12296,7 +12296,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12306,7 +12306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12316,7 +12316,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12326,7 +12326,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12353,7 +12353,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12363,7 +12363,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12373,7 +12373,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12383,7 +12383,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12418,7 +12418,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12428,7 +12428,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12438,7 +12438,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12448,7 +12448,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12502,7 +12502,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12514,7 +12514,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12531,7 +12531,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12541,7 +12541,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12552,7 +12552,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12568,7 +12568,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12578,7 +12578,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12588,7 +12588,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12645,7 +12645,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12659,7 +12659,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12669,7 +12669,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12679,7 +12679,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12689,7 +12689,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12703,7 +12703,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12713,7 +12713,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12726,7 +12726,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12737,7 +12737,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12767,7 +12767,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12777,7 +12777,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12788,7 +12788,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12798,7 +12798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12806,7 +12806,7 @@
       חיוך־מבוכה על פניו. שותק… לוקח גביע ולוגם שוב
      </p>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12816,7 +12816,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12839,7 +12839,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12849,7 +12849,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -12866,7 +12866,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -12876,7 +12876,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -12906,7 +12906,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12920,7 +12920,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -12930,7 +12930,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12942,7 +12942,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -12952,7 +12952,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12962,7 +12962,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -12982,7 +12982,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -12992,7 +12992,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -13006,7 +13006,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13029,7 +13029,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="tsdkih">
+    <sp who="#tsdkih">
      <speaker>
       צדקיה
      </speaker>
@@ -13049,7 +13049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13060,7 +13060,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="shumr hsf">
+    <sp who="#shumr hsf">
      <speaker>
       שומר הסף
      </speaker>
@@ -13075,7 +13075,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13085,7 +13085,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="htsir">
+    <sp who="#htsir">
      <speaker>
       הציר
      </speaker>
@@ -13107,7 +13107,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13117,7 +13117,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihu">
+    <sp who="#ihu">
      <speaker>
       יהוא
      </speaker>
@@ -13129,7 +13129,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13150,7 +13150,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihu">
+    <sp who="#ihu">
      <speaker>
       יהוא
      </speaker>
@@ -13160,7 +13160,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13301,7 +13301,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="ihu">
+    <sp who="#ihu">
      <speaker>
       יהוא
      </speaker>
@@ -13315,7 +13315,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -13327,7 +13327,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13339,7 +13339,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -13349,7 +13349,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13369,7 +13369,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13379,7 +13379,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -13389,7 +13389,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13399,7 +13399,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13412,7 +13412,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -13432,7 +13432,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khhn">
+    <sp who="#khhn">
      <speaker>
       כהן
      </speaker>
@@ -13442,7 +13442,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="nbi">
+    <sp who="#nbi">
      <speaker>
       נביא
      </speaker>
@@ -13452,7 +13452,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13463,7 +13463,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13477,7 +13477,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13487,7 +13487,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13512,7 +13512,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmsbim">
+    <sp who="#hmsbim">
      <speaker>
       המסבים
      </speaker>
@@ -13522,7 +13522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -13534,7 +13534,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13547,7 +13547,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13565,7 +13565,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13575,7 +13575,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13612,7 +13612,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmsbim">
+    <sp who="#hmsbim">
      <speaker>
       המסבים
      </speaker>
@@ -13622,7 +13622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13657,7 +13657,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13667,7 +13667,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13677,7 +13677,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13698,7 +13698,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13708,7 +13708,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13731,7 +13731,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13953,7 +13953,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13963,7 +13963,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13973,7 +13973,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -13983,7 +13983,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -13993,7 +13993,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -14007,7 +14007,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14017,7 +14017,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -14049,7 +14049,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14059,7 +14059,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -14077,7 +14077,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14089,7 +14089,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -14101,7 +14101,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -14133,7 +14133,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14143,7 +14143,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14190,7 +14190,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14200,7 +14200,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -14210,7 +14210,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14247,7 +14247,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="slu">
+    <sp who="#slu">
      <speaker>
       סלוא
      </speaker>
@@ -14257,7 +14257,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14267,7 +14267,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14312,7 +14312,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14322,7 +14322,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14342,7 +14342,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14358,7 +14358,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14378,7 +14378,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="hmg">
+    <sp who="#hmg">
      <speaker>
       המג
      </speaker>
@@ -14427,7 +14427,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="izbl">
+    <sp who="#izbl">
      <speaker>
       איזבל
      </speaker>
@@ -14439,7 +14439,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="khikr">
+    <sp who="#khikr">
      <speaker>
       אחיקר
      </speaker>
@@ -14449,7 +14449,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="yurm">
+    <sp who="#yurm">
      <speaker>
       יורם
      </speaker>
@@ -14459,7 +14459,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="lishe">
+    <sp who="#lishe">
      <speaker>
       אלישע
      </speaker>
@@ -14469,7 +14469,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who="suf">
+    <sp who="#suf">
      <speaker>
       סוף
      </speaker>
