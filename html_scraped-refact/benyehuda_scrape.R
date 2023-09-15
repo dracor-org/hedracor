@@ -155,23 +155,32 @@ sp.first
 m.2<-match(sp.first,m)
 m<-m[m.2:length(m)]
 m.speaker<-m
-speaker<-df.s$strong[m]
+speaker<-df.s$strong
 speaker<-gsub(":","",speaker)
 speaker<-gsub('"',"''",speaker)
-speaker.u<-unique(speaker)
+speaker.u<-speaker[m]
+speaker.u<-unique(speaker.u)
 #TODO: manually edit latin speaker.u.d for speaker id entry
 speaker.u.d<-data.frame(sp.h=speaker.u,sp.d=NA)
-speaker.u.d<-fix(speaker.u.d) ## >>> save somewhere before reset!
-speaker.df<-data.frame(speaker.h=speaker,speaker.d=NA)
+#speaker.u.d.2<-fix(speaker.u.d) ## >>> save somewhere before reset!
+library(clipr)
+write_clip(speaker.u.d.2$var3)
+speaker.d.c<-c("dr_gri","ruben","hanna","mirkin","blink","miri",
+"berla","diamenet","rubik","diamenu","klara","dimenet","daimenet","all")
+speaker.df<-data.frame(speaker.h=speaker.u.d$sp.h,speaker.d=speaker.d.c)
 #13377.to complete...
-# for(k in 1:length(speaker.df$speaker)){
-#   m.h<-match(speaker.u.d$sp.h,speaker.df$speaker.h)
-#   m.to.h<-speaker.u.d[m.dt]
-#   speaker.df$speaker.h[]
-# }
+df.s$speaker.d<-NA
+k<-1
+for(k in 1:length(speaker.df$speaker.h)){
+  m.h<-grep(speaker.df$speaker.h[k],speaker)
+  m.to.h<-speaker.df$speaker.d[k]
+  df.s$speaker.d[m.h]<-speaker.df$speaker.d[k]
+}
+m<-is.na(df.s$speaker.d)
 #df.s$t.1[m]<-paste0('<sp who="#',df.s$strong[m],'"><speaker>',df.s$strong[m],'</speaker>','<p>',df.s$p[m],'</p></sp>')
-df.s$t.1[m]<-paste0('<sp who="#',speaker[m],'"><speaker>',speaker[m],'</speaker>','<p>',df.s$p[m],'</p></sp>')
-
+#df.s$t.1[m]<-paste0('<sp who="#',df.s$speaker.d[m],'"><speaker>',speaker[m],'</speaker>','<p>',df.s$p[m],'</p></sp>')
+df.s$t.1<-paste0('<sp who="#',df.s$speaker.d,'"><speaker>',speaker,'</speaker>','<p>',df.s$p,'</p></sp>')
+df.s$t.1[m]<-NA
 #wks. 33373
 ############second
 # df.s$t.1[m]<-paste0('<sp who="#',df.s$p.1[m],'"><speaker>',df.s$p.1[m],'</speaker>','<p>',df.s$p.2[m],'</p></sp>')
