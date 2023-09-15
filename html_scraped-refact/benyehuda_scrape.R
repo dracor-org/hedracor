@@ -158,6 +158,17 @@ m.speaker<-m
 speaker<-df.s$strong[m]
 speaker<-gsub(":","",speaker)
 speaker<-gsub('"',"''",speaker)
+speaker.u<-unique(speaker)
+#TODO: manually edit latin speaker.u.d for speaker id entry
+speaker.u.d<-data.frame(sp.h=speaker.u,sp.d=NA)
+speaker.u.d<-fix(speaker.u.d) ## >>> save somewhere before reset!
+speaker.df<-data.frame(speaker.h=speaker,speaker.d=NA)
+#13377.to complete...
+# for(k in 1:length(speaker.df$speaker)){
+#   m.h<-match(speaker.u.d$sp.h,speaker.df$speaker.h)
+#   m.to.h<-speaker.u.d[m.dt]
+#   speaker.df$speaker.h[]
+# }
 #df.s$t.1[m]<-paste0('<sp who="#',df.s$strong[m],'"><speaker>',df.s$strong[m],'</speaker>','<p>',df.s$p[m],'</p></sp>')
 df.s$t.1[m]<-paste0('<sp who="#',speaker[m],'"><speaker>',speaker[m],'</speaker>','<p>',df.s$p[m],'</p></sp>')
 
