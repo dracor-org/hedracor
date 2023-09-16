@@ -14,7 +14,7 @@ library(xml2)
 library(stringi)
 library(stringr)
 library(R.utils)
-
+library(readr)
 ###################################
 #this calls static txt from repository
 #src<-"https://raw.githubusercontent.com/esteeschwarz/DH_essais/main/data/corpus/klemm_besuch/klemm(1765)_wiki_preprocessed.txt"
@@ -53,8 +53,6 @@ src<-"https://benyehuda.org/read/33373" #33373
 
 k<-2
 #for (k in 2:length(ids)){
-#save csv
-#write_csv(df.s,paste0("benyehuda-",id.p,"-text.csv"))
 
 #id.p<-ids[k]
 id.p<-33373
@@ -165,8 +163,12 @@ speaker.u.d<-data.frame(sp.h=speaker.u,sp.d=NA)
 #speaker.u.d.2<-fix(speaker.u.d) ## >>> save somewhere before reset!
 library(clipr)
 write_clip(speaker.u.d.2$var3)
-speaker.d.c<-c("dr_gri","ruben","hanna","mirkin","blink","miri",
-"berla","diamenet","rubik","diamenu","klara","dimenet","daimenet","all")
+# speaker.d.c<-c("dr_gri","ruben","hanna","mirkin","blink","miri",
+# "berla","diamenet","rubik","diamenu","klara","dimenet","daimenet","all")
+speaker.d.c<-c("dr_gri","ruben","hannah","mirkin","blink","miri",
+               "berla","diamant","rubik","diamant","klara","diamant","diamant","voice")
+# the lettering of <diamant> varies in the boldface speaker declaration,
+# normalised this here; still due 
 speaker.df<-data.frame(speaker.h=speaker.u.d$sp.h,speaker.d=speaker.d.c)
 #13377.to complete...
 df.s$speaker.d<-NA
@@ -291,11 +293,13 @@ xp.author<-'//*[@id="header-general"]/div[3]/div[1]/div[2]/div/div[1]/div[2]/*'
 author.h<-xml_find_all(d2,xp.author)
 author.a<-xml_find_all(author.h,"a")
 author.ns<-xml_text(author.a)
+author.ns.d<-c("igal","mosinsohn")
 
 xp.work<-'//*[@id="header-general"]/div[3]/div[1]/div[2]/div/div[1]/div[1]'
 work.h<-xml_find_all(d2,xp.work)
 #work.a<-xml_find_all(work.h,"a")
 work.ns<-xml_text(work.h)
+wrk.ns.d<-"bride-and-groom"
 
 #wks.
 # danielmeta:
@@ -320,8 +324,13 @@ df.s$t.c[length(df.s$pid)]<-paste0(df.s$t.c[length(df.s$pid)],'</text></body></h
 
 m<-!is.na(df.s$t.c)
 ben.ns<-paste0("benyehuda-",id.p,"-text.xml")
+hedracor.git<-"~/documents/github/hedracor/html_scraped-refact"
+ben.ns<-paste0(hedracor.git,"/benyehuda-",id.p,"-text.xml")
+ben.ns
 writeLines(df.s$t.c[m],ben.ns)
-xmlformat<-paste0("xmlformat -b _sfi -i ",ben.ns)
+#save csv
+write_csv(df.s,paste0(hedracor.git,"/benyehuda-",id.p,"-db.csv"))
+xmlformat<-paste0("xmlformat -i ",ben.ns)
 system(xmlformat)
 
 
