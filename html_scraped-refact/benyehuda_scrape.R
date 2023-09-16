@@ -323,9 +323,10 @@ df.s$t.c[2]<-paste0("<text>",df.s$t.c[2])
 df.s$t.c[length(df.s$pid)]<-paste0(df.s$t.c[length(df.s$pid)],'</text></body></html>')
 
 m<-!is.na(df.s$t.c)
-ben.ns<-paste0("benyehuda-",id.p,"-text.xml")
+#ben.ns<-paste0("benyehuda-",id.p,"-text.xml")
 hedracor.git<-"~/documents/github/hedracor/html_scraped-refact"
-ben.ns<-paste0(hedracor.git,"/benyehuda-",id.p,"-text.xml")
+#ben.ns<-paste0(hedracor.git,"/benyehuda-",id.p,"-text.xml")
+ben.ns<-paste0(hedracor.git,"/",author.ns.d[1],"_",author.ns.d[2],"_",id.p,".xml")
 ben.ns
 writeLines(df.s$t.c[m],ben.ns)
 #save csv
